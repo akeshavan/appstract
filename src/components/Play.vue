@@ -69,6 +69,11 @@
   import { db } from '../firebaseConfig';
   import config from '../config';
 
+  nlp.plugin({
+    regex: {
+      '[0-9]+': 'Value',
+    },
+  });
 
   window.db = db;
 
@@ -195,9 +200,32 @@
     },
     methods: {
       next() {
+        db.ref('imageCount')
+          .child(this.currentCount['.key'])
+          .child('N')
+          .set(this.N);
+
+
+        const count = this.currentCount.num_votes || 0;
+
+        db.ref('imageCount')
+          .child(this.currentCount['.key'])
+          .child('num_votes')
+          .set(count + 1);
+
+        const entry = { vote: this.N, user: this.userData['.key'] };
+        db.ref('votes')
+          .push(entry);
+
+        db.ref('users')
+          .child(this.userData['.key'])
+          .child('score')
+          .set(this.userData.score + 1);
+
         this.setCurrentAbstract();
       },
       setCurrentAbstract() {
+        this.N = 0;
         if (!config.N) {
           const fdata = _.filter(this.imageCount,
             val => val.num_votes === this.imageCount[0].num_votes);
