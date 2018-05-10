@@ -10,11 +10,11 @@
     -->
     <div class="content">
       <div class="corner-ribbon bottom-right sticky blue">Beta</div>
-    <b-navbar toggleable="md" type="dark" variant="dark">
+    <b-navbar toggleable="md" type="dark" variant="danger">
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
-      <b-navbar-brand to="/">braindr.</b-navbar-brand>
+      <b-navbar-brand to="/">appstract.</b-navbar-brand>
 
       <!-- If the viewport is small, the navbar collapses.
           Everything in b-collapse is what gets collapsed.
@@ -26,7 +26,6 @@
           <b-nav-item to="/" exact>Home</b-nav-item>
           <b-nav-item to="/leaderboard">Leaderboard</b-nav-item>
           <b-nav-item to="/play">Play</b-nav-item>
-          <b-nav-item to="/upload" v-if="userData.admin">Upload</b-nav-item>
         </b-navbar-nav>
 
         <!-- Right aligned nav items -->
@@ -83,7 +82,6 @@
             <td class="align-middle text-center text-white">
               <router-link to="/about" class="text-white">About</router-link>
               <br>
-              <router-link to="/viz" class="text-white">Data Visualization </router-link>
             </td>
           </tr>
           <tr>

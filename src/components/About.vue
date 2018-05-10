@@ -1,27 +1,9 @@
 <template>
   <div id="about">
-    <h1> About braindr. </h1>
+    <h1> About appstract. </h1>
 
     <b-container>
-      <p>Braindr is an app for quality control of images from the
-        <a href="https://www.biorxiv.org/content/early/2017/06/13/149369"> Healthy Brain Network </a>
-      </p>
-
-      <p>
-        5 images for each T1-weighted MRI image have been uploaded to this site
-      </p>
-
-      <p>
-        Your objective is to classify these slices as "Pass" or "Fail" by swiping right or left
-      </p>
-
-      <p>
-        Any similarities to the Tinder dating app are completely coincidental
-      </p>
-
-      <p>
-        You get points for each image you rate.
-      </p>
+      <p>Important stuff</p>
 
       <p>
         You can unlock the following animals based on the number of points you have:

@@ -38,6 +38,10 @@
         </b-row>
       </b-container>
 
+      <hr>
+
+
+
       <!--<b-container>
         <select v-model="selectedTheme" v-on:change="setTheme">
           <option v-for="(href, name) of themes" v-bind:value="name">
@@ -68,19 +72,26 @@
 </style>
 
 <script>
+import _ from 'lodash';
+import { db } from '../firebaseConfig';
+
 export default {
   name: 'profile',
   data() {
     return {
       selectedTheme: null,
+      chats: [],
+      chatInfo: {},
     };
   },
   // the parent component feeds these vars to this component
   props: ['userInfo', 'userData', 'levels', 'currentLevel', 'themes'],
+  mounted() {
+  },
+  watch: {
+
+  },
   methods: {
-    setTheme() {
-      this.$emit('theme', this.selectedTheme);
-    },
   },
 };
 </script>
