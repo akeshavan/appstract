@@ -117,6 +117,7 @@ import narwhal_grey from './assets/narwhal_gray.svg';
 import monkey_grey from './assets/monkey_gray.svg';
 import '../node_modules/font-awesome/css/font-awesome.min.css';
 
+
 // explicit installation required in module environments
 Vue.use(VueFire);
 Vue.use(BootstrapVue);
@@ -321,7 +322,11 @@ export default {
   }
 
   #app {
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+    @font-face {
+      font-family: NotoSans-Regular;
+      src: url('./assets/NotoSans-Regular.ttf');
+}
+    font-family: 'NotoSans-Regular', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align: center;

@@ -18,7 +18,7 @@
         <div class="text-justify mt-3" v-html="nlpAbstract">
 
         </div>
-        <div class="mt-3">
+        <div class="mt-3 sticky">
           <b-btn variant="primary" @click="next">
             <span v-if="N"> Submit {{N}} </span>
             <span v-else> Next </span>
@@ -42,7 +42,7 @@
 
 <style>
   .nl-Value {
-    color: #dc3545;
+    color: blue; /*#dc3545;*/
     cursor: pointer;
     background-color: #ffc1075e;
     padding: 3px;
@@ -106,7 +106,7 @@
           pic: 'data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==', // this is a blank gray base64
         },
         currentCount: {},
-        abstract: 'this is the abstract...',
+        abstract: 'Please be patient, loading...',
         N: 0,
         prevImage: null,
         imageBaseUrl: config.imageBaseUrl,
