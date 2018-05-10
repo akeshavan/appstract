@@ -9,7 +9,7 @@
          to see the profile or logout.
     -->
     <div class="content">
-      <div class="corner-ribbon bottom-right sticky blue">Beta</div>
+      
     <b-navbar toggleable="md" type="dark" variant="danger" sticky>
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>

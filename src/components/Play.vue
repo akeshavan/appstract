@@ -181,7 +181,7 @@
           .child('num_votes')
           .set(count + 1);
 
-        const entry = { vote: this.N, user: this.userData['.key'] };
+        const entry = { vote: this.N, user: this.userData['.key'], pmid: this.currentCount['.key'] };
         db.ref('votes')
           .push(entry);
 
