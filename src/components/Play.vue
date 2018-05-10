@@ -14,18 +14,13 @@
       <div id="game">
         <h4>Click on the sample size</h4>
         <small>hit Next if the information isn't available</small>
-
-        <div class="text-justify mt-3" v-html="nlpAbstract">
+        <div v-if="status === 'loading'">
+          <i class="fa fa-spinner fa-spin"></i>
+        </div>
+        <div v-else class="text-justify mt-3" v-html="nlpAbstract">
 
         </div>
-        <div class="mt-3 sticky">
-          <b-btn variant="primary" @click="next">
-            <span v-if="N"> Submit {{N}} </span>
-            <span v-else> Next </span>
-          </b-btn>
-          <b-input v-model="N" class="mt-3 mx-auto text-center" style="width:50px" label="manual"></b-input>
-          <small> Manual Input </small>
-        </div>
+
   </div>
       <b-alert :show="dismissCountDown"
          :variant="score.variant"
@@ -69,6 +64,11 @@
   import { db } from '../firebaseConfig';
   import config from '../config';
 
+  nlp.plugin({
+    regex: {
+      '[0-9]+': 'Value',
+    },
+  });
 
   window.db = db;
 
@@ -83,37 +83,14 @@
 
   export default {
     name: 'play',
-    firebase: {
-      // images: db.ref('images'),
-      /* imageCount: {
-        source: db.ref('imageCount').orderByChild('num_votes').limitToFirst(100),
-        readyCallback() {
-          console.log('is ready', this.imageCount);
-          this.status = 'loading';
-          // _.map(this.imageCount, (v) => {
-          //  this.preloadImage(v['.key']);
-          //  console.log('preloaded', v['.key']);
-          // });
-          this.setCurrentImage();
-        },
-      }, */ // DEBUG: uncomment for non-random
-    },
     props: ['userInfo', 'userData', 'levels', 'currentLevel'],
     data() {
       return {
-        // images: [],
         currentImage: {
-          pic: 'data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==', // this is a blank gray base64
         },
-        currentCount: {},
-        abstract: 'Please be patient, loading...',
+        abstract: 'this is the abstract...',
         N: 0,
-        prevImage: null,
         imageBaseUrl: config.imageBaseUrl,
-        currentIndex: null,
-        imageCount: [],
-        preloaded: null,
-        swipe: null,
         startTime: null,
         dismissSecs: 1,
         pointsAward: null,
@@ -127,10 +104,6 @@
       };
     },
     computed: {
-      /* currentCount() {
-        return this.imageCount[this.currentIndex];
-      }, */ // DEBUG: uncomment for unrandom
-
       nlpAbstract() {
         if (this.abstract) {
           const r = nlp(this.abstract);
@@ -145,18 +118,18 @@
       },
     },
     watch: {
+      N() {
+        this.$emit('updatedN', this.N);
+      },
+      status() {
+        this.$emit('updatedStatus', this.status);
+      },
       currentLevel() {
         console.log('detected change', this.userData.score, this.currentLevel.min);
         if (this.userData.score === this.currentLevel.min && this.currentLevel.min) {
           this.$refs.levelUp.show();
           db.ref(`/users/${this.userInfo.displayName}`).child('level').set(this.currentLevel.level);
         }
-      },
-      imageCount() {
-        /*_.map(this.imageCount, (v) => {
-          this.preloadImage(v['.key']);
-          // console.log('preloaded', v['.key']);
-        });*/
       },
       currentImage() {
         axios.get(this.currentImage).then((resp) => {
@@ -195,9 +168,33 @@
     },
     methods: {
       next() {
+        console.log('setting N', this.N);
+        db.ref('imageCount')
+          .child(this.currentCount['.key'])
+          .child('N')
+          .set(this.N);
+
+        const count = this.currentCount.num_votes || 0;
+
+        db.ref('imageCount')
+          .child(this.currentCount['.key'])
+          .child('num_votes')
+          .set(count + 1);
+
+        const entry = { vote: this.N, user: this.userData['.key'] };
+        db.ref('votes')
+          .push(entry);
+
+        db.ref('users')
+          .child(this.userData['.key'])
+          .child('score')
+          .set(this.userData.score + 1);
+
         this.setCurrentAbstract();
       },
       setCurrentAbstract() {
+        this.N = 0;
+        this.$emit('updatedN', this.N);
         if (!config.N) {
           const fdata = _.filter(this.imageCount,
             val => val.num_votes === this.imageCount[0].num_votes);
@@ -211,7 +208,6 @@
             this.prevImage = key;
           }
           console.log('key is', key);
-
           this.startTime = new Date();
           this.currentImage = `${this.imageBaseUrl}/${key}.${config.imageExt}`;
           console.log(this.currentImage);
@@ -233,180 +229,6 @@
               this.startTime = new Date();
               this.status = 'ready';
             });
-        }
-      },
-      getUntrustedScore(data, vote) {
-        const size = data.num_votes;
-        const aveVote = data.ave_score;
-        const newAve = ((aveVote * size) + vote) / (size + 1);
-        console.log('size, preave, newave', size, aveVote, newAve, vote);
-
-        if (size <= 5) {
-          // not enough votes to say.
-          this.score.message = '+ 1';
-          this.score.variant = 'success';
-          return { score: 1, ave: newAve, size: size + 1 };
-        }
-
-        if (aveVote <= 0.3 || aveVote >= 0.7) {
-          // the group feels strongly. Do you agree w/ them?
-          if (aveVote <= 0.3 && !vote) {
-            this.score.message = '+ 1';
-            this.score.variant = 'success';
-            return { score: 1, ave: newAve, size: size + 1 };
-          } else if (aveVote >= 0.7 && vote) {
-            this.score.message = '+ 1';
-            this.score.variant = 'success';
-            return { score: 1, ave: newAve, size: size + 1 };
-          }
-
-          // you disagree w/ the majority. You are penalized
-          this.score.message = '+ 0';
-          this.score.variant = 'danger';
-          return { score: 0, ave: newAve, size: size + 1 };
-        }
-
-        this.score.message = '+ 1';
-        this.score.variant = 'success';
-        return { score: 1, ave: newAve, size: size + 1 };
-      },
-      swipeLeft() {
-        console.log(this.currentCount['.key']);
-        this.status = 'loading';
-        this.setSwipe('swipe-left');
-        const score = this.getUntrustedScore(this.currentCount, 0);
-        this.showAlert();
-        // set the user score
-        db.ref('users').child(this.userInfo.displayName)
-          .child('score').set(this.userData.score + score.score);
-        // set the image count
-        // this.$firebaseRefs.imageCount
-        db.ref('imageCount')
-            .child(this.currentCount['.key'])
-            .set({
-              ave_score: score.ave,
-              num_votes: score.size,
-            });
-        // send the actual vote
-        this.sendVote(0).then(() => {
-          console.log('sent vote');
-        });
-
-        this.setCurrentAbstract();
-      },
-      sendVote(vote) {
-        // console.log('this startTime', this.startTime);
-        return db.ref('votes').push({
-          username: this.userInfo.displayName,
-          time: new Date() - this.startTime,
-          vote,
-          point: this.pointsAward,
-          image_id: this.currentCount['.key'],
-        });
-
-         /* this.$firebaseRefs.imageCount
-          .child(this.currentCount['.key'])
-          .child('num_votes')
-          .set(this.currentCount.num_votes + 1); */
-      },
-      computeScore(data, vote) {
-        let voteScore = 0;
-        let size = 0;
-
-        _.mapValues(data, (v) => {
-          voteScore += v.vote;
-          size += 1;
-          return v.vote;
-        });
-
-        const aveVote = voteScore / size;
-        const newAve = (voteScore + vote) / (size + 1);
-
-        if (size <= 5) {
-          // not enough votes to say.
-          this.score.message = '+ 1';
-          this.score.variant = 'success';
-          return { score: 1, ave: newAve, size: size + 1 };
-        }
-
-        if (aveVote <= 0.3 || aveVote >= 0.7) {
-          // the group feels strongly. Do you agree w/ them?
-          if (aveVote <= 0.3 && !vote) {
-            this.score.message = '+ 1';
-            this.score.variant = 'success';
-            return { score: 1, ave: newAve, size: size + 1 };
-          } else if (aveVote >= 0.7 && vote) {
-            this.score.message = '+ 1';
-            this.score.variant = 'success';
-            return { score: 1, ave: newAve, size: size + 1 };
-          }
-
-          // you disagree w/ the majority. You are penalized
-          this.score.message = '+ 0';
-          this.score.variant = 'danger';
-          return { score: 0, ave: newAve, size: size + 1 };
-        }
-
-        this.score.message = '+ 1';
-        this.score.variant = 'success';
-        return { score: 1, ave: newAve, size: size + 1 };
-      },
-      getScore(vote) {
-        // get all scores for the images
-        // then run computeScore to get the points
-
-        return db.ref('votes')
-          .orderByChild('image_id')
-          .equalTo(this.currentCount['.key'])
-          .once('value')
-          .then((snap) => {
-            const data = snap.val();
-            console.log('snap data is', data);
-            const score = this.computeScore(data, vote);
-            this.pointsAward = score.score;
-            db.ref('users').child(this.userInfo.displayName)
-              .child('score').set(this.userData.score + score.score);
-
-            // this.$firebaseRefs.imageCount
-            db.ref('imageCount')
-                .child(this.currentCount['.key'])
-                .set({
-                  ave_score: score.ave,
-                  num_votes: score.size,
-                });
-          });
-      },
-      swipeRight() {
-        this.status = 'loading';
-        this.setSwipe('swipe-right');
-        const score = this.getUntrustedScore(this.currentCount, 1);
-        this.showAlert();
-        // set the user score
-        db.ref('users').child(this.userInfo.displayName)
-          .child('score').set(this.userData.score + score.score);
-        // set the image count
-        db.ref('imageCount')
-            .child(this.currentCount['.key'])
-            .set({
-              ave_score: score.ave,
-              num_votes: score.size,
-            });
-
-        this.sendVote(1).then(() => {
-          console.log('sent vote');
-        });
-
-        this.setCurrentImage();
-      },
-      setSwipe(sw) {
-        console.log('setting swipe', sw);
-        this.swipe = sw;
-      },
-      onSwipe(evt) {
-        if (evt.direction === 2) {
-          this.swipeLeft();
-        } else {
-          this.swipeRight();
         }
       },
       countDownChanged(dismissCountDown) {
