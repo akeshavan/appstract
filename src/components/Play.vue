@@ -195,6 +195,8 @@
       setCurrentAbstract() {
         this.N = 0;
         this.$emit('updatedN', this.N);
+        this.status = 'loading';
+        this.abstract = '';
         if (!config.N) {
           const fdata = _.filter(this.imageCount,
             val => val.num_votes === this.imageCount[0].num_votes);

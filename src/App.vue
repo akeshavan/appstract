@@ -59,7 +59,7 @@
 
       </b-collapse>
 
-      <b-navbar-nav is-nav-bar class="ml-auto pl-2 pr-2" v-show="$route.path.indexOf('/play') == 0">
+      <b-navbar-nav is-nav-bar class="ml-auto pl-3 pr-2" v-show="$route.path.indexOf('/play') == 0">
 
         <b-nav-form>
           <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
