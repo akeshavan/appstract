@@ -10,11 +10,11 @@
     -->
     <div class="content">
       <div class="corner-ribbon bottom-right sticky blue">Beta</div>
-    <b-navbar toggleable="md" type="dark" variant="danger">
+    <b-navbar toggleable="md" type="dark" variant="danger" sticky>
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
-      <b-navbar-brand to="/">appstract.</b-navbar-brand>
+      <b-navbar-brand to="/"></b-navbar-brand>
 
       <!-- If the viewport is small, the navbar collapses.
           Everything in b-collapse is what gets collapsed.
@@ -29,6 +29,7 @@
         </b-navbar-nav>
 
         <!-- Right aligned nav items -->
+
         <b-navbar-nav class="ml-auto">
           <!-- This part only displays if the user is authenticated -->
           <b-nav-item-dropdown right v-if="userInfo">
@@ -57,9 +58,57 @@
         </b-navbar-nav>
 
       </b-collapse>
+
+      <b-navbar-nav is-nav-bar class="ml-auto" v-show="$route.path.indexOf('/play') == 0">
+
+        <b-nav-form>
+          <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
+          <b-button size="sm" class="my-2 my-sm-0" variant="default" v-b-modal.manualModal>
+            Manual
+
+            <!-- TODO: spinner here -->
+          </b-button>
+
+        </b-nav-form>
+
+      </b-navbar-nav>
+
+      <b-navbar-nav is-nav-bar class="ml-auto" v-show="$route.path.indexOf('/play') == 0">
+
+        <b-nav-form>
+          <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
+          <b-button size="sm" class="my-2 my-sm-0" v-on:click="next">
+            <span v-if="status === 'loading'">
+              <i class="fa fa-spinner fa-spin"></i>
+            </span>
+            <span v-else>
+              <span v-if="N">
+                Submit {{N}}
+              </span>
+              <span v-else>
+                Next
+              </span>
+            </span>
+
+            <!-- TODO: spinner here -->
+          </b-button>
+
+        </b-nav-form>
+
+      </b-navbar-nav>
+
+
+
     </b-navbar>
 
     <!-- The content is in the router view -->
+    <!-- the modal -->
+    <b-modal id="manualModal" title="Manual Input" hide-footer ref="manual">
+      <b-form @submit="preventSubmit">
+        <b-input v-model="N"></b-input>
+      </b-form>
+    </b-modal>
+
     <div class="router">
       <router-view :userInfo="userInfo"
                    :userData="userData"
@@ -67,6 +116,9 @@
                    :levels="levels"
                    :currentLevel="currentLevel"
                    v-on:taken_tutorial="setTutorial"
+                   v-on:updatedN="updateN"
+                   v-on:updatedStatus="updateStatus"
+                   ref="routeView"
                    />
     </div>
   </div>
@@ -121,40 +173,6 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 Vue.use(VueFire);
 Vue.use(BootstrapVue);
 
-const ThemeHelper = function(){
-
-  const preloadTheme = (href) => {
-    const link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = href;
-    document.head.appendChild(link);
-
-    return new Promise((resolve, reject) => {
-      link.onload = (e) => {
-        const sheet = e.target.sheet;
-        sheet.disabled = true;
-        resolve(sheet);
-      };
-      link.onerror = reject;
-    });
-  };
-
-  const selectTheme = (themes, name) => {
-    /*if (name && !themes[name]) {
-      throw new Error(`"${name}" has not been defined as a theme.`);
-    }*/
-    Object.keys(themes).forEach(n => themes[n].disabled = (n !== name));
-  }
-
-  const themes = {};
-
-  return {
-    add(name, href) { return preloadTheme(href).then(s => themes[name] = s); },
-    set theme(name) { selectTheme(themes, name); },
-    get theme() { return Object.keys(themes).find(n => !themes[n].disabled); }
-  };
-};
-
 export default {
   name: 'app',
   data() {
@@ -162,14 +180,8 @@ export default {
       userInfo: {},
       allUsers: [],
       Nusers: 50,
-      themes: {
-        default: '',
-        flatly: 'https://bootswatch.com/4/flatly/bootstrap.min.css',
-        materia: 'https://bootswatch.com/4/materia/bootstrap.min.css',
-        solar: 'https://bootswatch.com/4/solar/bootstrap.min.css',
-        darkly: 'https://bootswatch.com/4/darkly/bootstrap.min.css',
-      },
-      themeHelper: new ThemeHelper(),
+      N: 0,
+      status: 'loading',
       levels: {
         0: {
           level: 0,
@@ -224,16 +236,6 @@ export default {
   },
 
   mounted() {
-    /*const added = Object.keys(this.themes).map(name => {
-      return this.themeHelper.add(name, this.themes[name]);
-    });
-    console.log('added?', added);
-
-    Promise.all(added).then(sheets => {
-      console.log(`${sheets.length} themes loaded`);
-      this.loading = false;
-      this.themeHelper.theme = 'default';
-    });*/
   },
 
   firebase: {
@@ -264,10 +266,22 @@ export default {
 
       return clev;
     },
+
   },
   methods: {
-    switchTheme(theme) {
-      this.themeHelper.theme = theme;
+    updateN(N) {
+      this.N = N;
+    },
+    updateStatus(status) {
+      this.status = status;
+    },
+    next() {
+      this.$refs.routeView.N = this.N;
+      this.$refs.routeView.next();
+    },
+    preventSubmit(e) {
+      e.preventDefault();
+      this.$refs.manual.hide();
     },
     logout() {
       firebase.auth().signOut().then(() => {

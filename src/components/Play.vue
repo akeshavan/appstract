@@ -20,14 +20,7 @@
         <div v-else class="text-justify mt-3" v-html="nlpAbstract">
 
         </div>
-        <div class="mt-3">
-          <b-btn variant="primary" @click="next">
-            <span v-if="N"> Submit {{N}} </span>
-            <span v-else> Next </span>
-          </b-btn>
-          <b-input v-model="N" class="mt-3 mx-auto text-center" style="width:50px" label="manual"></b-input>
-          <small> Manual Input </small>
-        </div>
+
   </div>
       <b-alert :show="dismissCountDown"
          :variant="score.variant"
@@ -125,6 +118,12 @@
       },
     },
     watch: {
+      N() {
+        this.$emit('updatedN', this.N);
+      },
+      status() {
+        this.$emit('updatedStatus', this.status);
+      },
       currentLevel() {
         console.log('detected change', this.userData.score, this.currentLevel.min);
         if (this.userData.score === this.currentLevel.min && this.currentLevel.min) {
@@ -169,6 +168,7 @@
     },
     methods: {
       next() {
+        console.log('setting N', this.N);
         db.ref('imageCount')
           .child(this.currentCount['.key'])
           .child('N')
@@ -194,6 +194,7 @@
       },
       setCurrentAbstract() {
         this.N = 0;
+        this.$emit('updatedN', this.N);
         if (!config.N) {
           const fdata = _.filter(this.imageCount,
             val => val.num_votes === this.imageCount[0].num_votes);
