@@ -9,6 +9,7 @@
          to see the profile or logout.
     -->
     <div class="content">
+
     <b-navbar toggleable="md" type="dark" variant="danger" sticky>
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -58,7 +59,7 @@
 
       </b-collapse>
 
-      <b-navbar-nav is-nav-bar class="ml-auto" v-show="$route.path.indexOf('/play') == 0">
+      <b-navbar-nav is-nav-bar class="ml-auto pl-3 pr-2" v-show="$route.path.indexOf('/play') == 0">
 
         <b-nav-form>
           <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
@@ -273,6 +274,7 @@ export default {
       this.N = N;
     },
     updateStatus(status) {
+      console.log('updating status');
       this.status = status;
     },
     next() {

@@ -189,7 +189,7 @@
           .child('num_votes')
           .set(count + 1);
 
-        const entry = { vote: this.N, user: this.userData['.key'] };
+        const entry = { vote: this.N, user: this.userData['.key'], pmid: this.currentCount['.key'] };
         db.ref('votes')
           .push(entry);
 
@@ -203,6 +203,8 @@
       setCurrentAbstract() {
         this.N = 0;
         this.$emit('updatedN', this.N);
+        this.status = 'loading';
+        this.abstract = '';
         if (!config.N) {
           const fdata = _.filter(this.imageCount,
             val => val.num_votes === this.imageCount[0].num_votes);
