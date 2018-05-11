@@ -23,7 +23,7 @@
 
         <!--  Here are links to different routes  -->
         <b-navbar-nav>
-          <b-nav-item to="/" exact>Home</b-nav-item>
+          <b-nav-item to="/about" exact>About</b-nav-item>
           <b-nav-item to="/leaderboard">Leaderboard</b-nav-item>
           <b-nav-item to="/play">Play</b-nav-item>
         </b-navbar-nav>

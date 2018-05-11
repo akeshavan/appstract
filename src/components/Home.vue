@@ -61,6 +61,12 @@
       </div>
     </div>-->
 
+    <div class="bottom text-center">
+      <small> * icons on this site were
+        <a href='https://www.freepik.com/free-vector/cute-woodland-animals_1585897.htm'>Designed by Freepik</a>
+      </small>
+    </div>
+
   </div>
 
 

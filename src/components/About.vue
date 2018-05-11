@@ -1,5 +1,5 @@
 <template>
-  <div id="about">
+  <div id="about" class="mt-3">
     <h1> About appstract. </h1>
 
     <b-container>
@@ -24,7 +24,11 @@
       </b-container>
 
     </b-container>
-
+    <div class="bottom text-center">
+      <small> * icons on this site were
+        <a href='https://www.freepik.com/free-vector/cute-woodland-animals_1585897.htm'>Designed by Freepik</a>
+      </small>
+    </div>
   </div>
 
 </template>
