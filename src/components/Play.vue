@@ -12,8 +12,7 @@
     <div class="main">
 
       <div id="game">
-        <h4>Click on the sample size</h4>
-        <small>hit Next if the information isn't available</small>
+        <h4 class="left-align">How many people took part in the study?</h4>
         <div v-if="status === 'loading'">
           <i class="fa fa-spinner fa-spin"></i>
         </div>
@@ -36,6 +35,11 @@
 </template>
 
 <style>
+  h4.left-align {
+    text-align: left;
+    padding-top: 30px;
+  }
+
   .nl-Value {
     color: #dc3545;
     cursor: pointer;
@@ -51,6 +55,10 @@
     border-width: thick;
     border-color: #dc3545;
     }
+
+  .text-justify{
+    padding-bottom: 40px;
+  }
 
 </style>
 
