@@ -13,7 +13,9 @@
 
       <div id="game">
         <h4>How many people took part in the study?</h4>
-        <small>hit Next if the information isn't available</small>
+        <b-alert show dismissible v-if="userInfo.isAnonymous" variant="danger">
+          <router-link to="/signup"> Log In</router-link> or <router-link to="/signup"> Sign Up</router-link> now to compete on the leaderboard!
+        </b-alert>
         <div v-if="!abstract || status === 'loading'" class="bshelf">
           <bookshelf></bookshelf>
         </div>

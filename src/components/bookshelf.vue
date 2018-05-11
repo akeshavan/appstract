@@ -1,4 +1,5 @@
 <template>
+  <!-- bookshelf code from https://codepen.io/ikoshowa/pen/qOMvpy -->
   <div class="bookshelf_wrapper">
     <ul class="books_list">
       <li class="book_item first"></li>

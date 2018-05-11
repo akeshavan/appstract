@@ -63,10 +63,9 @@
 
         <b-nav-form>
           <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
-          <b-button size="md" class="my-2 my-sm-0" variant="default" v-b-modal.manualModal>
-            Enter a number
-
-            <!-- TODO: spinner here -->
+          <b-button size="md"
+           class="my-2 my-sm-0" variant="default" v-b-modal.manualModal v-b-popover.hover.focus.bottom="'Manual entry'">
+            <i class="fa fa-pencil"></i>
           </b-button>
 
         </b-nav-form>
