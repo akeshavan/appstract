@@ -7,6 +7,7 @@
       </p>
       <p class="buttons mt-3">
         <router-link class="btn btn-primary white" to="/play"> Play Now </router-link>
+        <b-button v-scroll-to="'#learnhow'">Learn How</b-button>
       </p>
     </div>
     <div id="learnhow">
@@ -28,6 +29,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <script>
 
+import Vue from 'vue';
+
+const VueScrollTo = require('vue-scrollto');
+
+Vue.use(VueScrollTo);
 
 export default {
   name: 'Home',

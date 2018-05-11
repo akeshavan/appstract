@@ -42,10 +42,11 @@
     style="">
     <b-navbar-nav is-nav-bar class="ml-auto">
       <b-nav-form>
-        <b-button size="md"
-         class="my-2 my-sm-0" variant="default" v-b-modal.manualModal> <!-- v-b-tooltip.hover.focus.bottom="'Manual entry'">-->
+        <!--<b-button size="md"
+         class="my-2 my-sm-0" variant="default" v-b-modal.manualModal> <!-- v-b-tooltip.hover.focus.bottom="'Manual entry'">
           <i class="fa fa-pencil"></i>
-        </b-button>
+        </b-button>-->
+        <b-input v-model="N" class="inputManual"></b-input>
 
       </b-nav-form>
     </b-navbar-nav>
@@ -95,6 +96,10 @@
   padding-bottom: 60px;
 }
 
+.inputManual {
+  width: 75px;
+}
+
   h4.left-align {
     text-align: left;
     padding-top: 30px;
@@ -118,6 +123,7 @@
 
   .bshelf {
     height: 250px;
+    position: absolute;
   }
 
   .text-justify{
@@ -162,7 +168,7 @@
         currentImage: {
         },
         abstract: 'this is the abstract...',
-        N: 0,
+        N: null,
         imageBaseUrl: config.imageBaseUrl,
         startTime: null,
         dismissSecs: 1,
