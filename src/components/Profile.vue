@@ -1,5 +1,5 @@
 <template>
-  <div id="profile">
+  <div id="profile" class="pt-3">
     <!-- Only show stuff is the user is authenticated -->
     <b-container fluid>
       <!-- userInfo is a prop that was passed in from App -->

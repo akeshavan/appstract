@@ -1,5 +1,5 @@
 <template name="leaderboard">
-  <div class="container" id="leaderboard">
+  <div class="container mt-3" id="leaderboard">
     <h1>Leaderboard</h1>
     <b-table striped hover :items="allUsers" :fields="fields"
     :sort-desc.sync="sortDesc" :sortBy.sync="sortBy">

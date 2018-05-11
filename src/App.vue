@@ -64,7 +64,7 @@
         <b-nav-form>
           <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
           <b-button size="md"
-           class="my-2 my-sm-0" variant="default" v-b-modal.manualModal v-b-popover.hover.focus.bottom="'Manual entry'">
+           class="my-2 my-sm-0" variant="default" v-b-modal.manualModal> <!-- v-b-tooltip.hover.focus.bottom="'Manual entry'">-->
             <i class="fa fa-pencil"></i>
           </b-button>
 
@@ -105,6 +105,7 @@
     <b-modal id="manualModal" title="Enter a number" hide-footer ref="manual">
       <b-form @submit="preventSubmit">
         <b-input v-model="N"></b-input>
+        <b-button class="mt-3" @click="caseStudy">Case Study (n=1)</b-button>
       </b-form>
     </b-modal>
 
@@ -113,6 +114,7 @@
                    :userData="userData"
                    :allUsers="allUsers"
                    :levels="levels"
+                   :anonID="anonID"
                    :currentLevel="currentLevel"
                    v-on:taken_tutorial="setTutorial"
                    v-on:updatedN="updateN"
@@ -173,12 +175,25 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 Vue.use(VueFire);
 Vue.use(BootstrapVue);
 
+const ALPHABET = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+const ID_LENGTH = 8;
+
+const generate = function generate() {
+  let rtn = '';
+  for (let i = 0; i < ID_LENGTH; i += 1) {
+    rtn += ALPHABET.charAt(Math.floor(Math.random() * ALPHABET.length));
+  }
+  return rtn;
+};
+
 export default {
   name: 'app',
   data() {
     return {
       userInfo: {},
       allUsers: [],
+      anonID: null,
       Nusers: 50,
       N: 0,
       status: 'loading',
@@ -242,6 +257,7 @@ export default {
       var errorMessage = error.message;
       // ...
     });
+    this.anonID = generate();
   },
 
   firebase: {
@@ -277,6 +293,10 @@ export default {
   methods: {
     updateN(N) {
       this.N = N;
+    },
+    caseStudy() {
+      this.N = 1;
+      this.$refs.manual.hide();
     },
     updateStatus(status) {
       console.log('updating status');
@@ -341,11 +361,12 @@ export default {
     height: 200px;
   }
 
+  @font-face {
+    font-family: NotoSans-Regular;
+    src: url('./assets/NotoSans-Regular.ttf');
+  }
+
   #app {
-    @font-face {
-      font-family: NotoSans-Regular;
-      src: url('./assets/NotoSans-Regular.ttf');
-}
     font-family: 'NotoSans-Regular', Helvetica, Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

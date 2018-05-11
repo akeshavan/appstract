@@ -14,7 +14,7 @@
       <div id="game">
         <h4>How many people took part in the study?</h4>
         <b-alert show dismissible v-if="userInfo.isAnonymous" variant="danger">
-          <router-link to="/signup"> Log In</router-link> or <router-link to="/signup"> Sign Up</router-link> now to compete on the leaderboard!
+          <router-link to="/login"> Log In</router-link> or <router-link to="/signup"> Sign Up</router-link> now to compete on the leaderboard!
         </b-alert>
         <div v-if="!abstract || status === 'loading'" class="bshelf">
           <bookshelf></bookshelf>
@@ -96,22 +96,10 @@
     return Math.floor(Math.random() * ((max - min) + 1)) + min;
   }
 
-  const ALPHABET = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-
-  const ID_LENGTH = 8;
-
-  const generate = function() {
-    var rtn = '';
-    for (var i = 0; i < ID_LENGTH; i++) {
-      rtn += ALPHABET.charAt(Math.floor(Math.random() * ALPHABET.length));
-    }
-    return rtn;
-  }
-
 
   export default {
     name: 'play',
-    props: ['userInfo', 'userData', 'levels', 'currentLevel'],
+    props: ['userInfo', 'userData', 'levels', 'currentLevel', 'anonID'],
     data() {
       return {
         currentImage: {
@@ -196,6 +184,7 @@
     },
     methods: {
       next() {
+        const totalTime = new Date() - this.startTime;
         console.log('setting N', this.N);
         db.ref('imageCount')
           .child(this.currentCount['.key'])
@@ -211,13 +200,14 @@
 
         let user;
         if (this.userInfo.isAnonymous) {
-          user = generate();
+          user = this.anonID;
         } else {
           user = this.userData['.key'];
         }
         const entry = { vote: this.N,
           user,
           pmid: this.currentCount['.key'],
+          time: totalTime,
         };
 
         db.ref('votes')

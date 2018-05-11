@@ -1,5 +1,5 @@
 <template name="signup">
-  <div id="signup">
+  <div id="signup" class="pt-3">
     <h1> Sign Up </h1>
     <!-- Modal Component -->
 
