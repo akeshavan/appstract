@@ -9,7 +9,6 @@
          to see the profile or logout.
     -->
     <div class="content">
-      <div class="corner-ribbon bottom-right sticky blue">Beta</div>
     <b-navbar toggleable="md" type="dark" variant="danger" sticky>
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
@@ -63,8 +62,8 @@
 
         <b-nav-form>
           <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
-          <b-button size="sm" class="my-2 my-sm-0" variant="default" v-b-modal.manualModal>
-            Manual
+          <b-button size="md" class="my-2 my-sm-0" variant="default" v-b-modal.manualModal>
+            Enter a number
 
             <!-- TODO: spinner here -->
           </b-button>
@@ -77,7 +76,7 @@
 
         <b-nav-form>
           <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
-          <b-button size="sm" class="my-2 my-sm-0" v-on:click="next">
+          <b-button size="md" class="my-2 my-sm-0" v-on:click="next">
             <span v-if="status === 'loading'">
               <i class="fa fa-spinner fa-spin"></i>
             </span>
@@ -103,7 +102,7 @@
 
     <!-- The content is in the router view -->
     <!-- the modal -->
-    <b-modal id="manualModal" title="Manual Input" hide-footer ref="manual">
+    <b-modal id="manualModal" title="Enter a number" hide-footer ref="manual">
       <b-form @submit="preventSubmit">
         <b-input v-model="N"></b-input>
       </b-form>
@@ -348,7 +347,7 @@ export default {
   }
 
   .router {
-    padding-top: 40px;
+    /*padding-top: 40px;*/
   }
 
   #signupForm {
@@ -362,78 +361,18 @@ export default {
 
   }
 
-  /* The ribbons */
+ .form-inline button{
+   background-color: #f8f9fa;
+   color: black;
+ }
 
-.corner-ribbon{
-  width: 200px;
-  background: #e43;
-  position: absolute;
-  top: 25px;
-  left: -50px;
-  text-align: center;
-  line-height: 50px;
-  letter-spacing: 1px;
-  color: #f0f0f0;
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
-}
+ .form-inline button:hover{
+   background-color: #f8f9fa;
+ }
 
-/* Custom styles */
+ .my-2 .my-sm-0{
+   color: black;
+ }
 
-.corner-ribbon.sticky{
-  position: fixed;
-}
-
-.corner-ribbon.shadow{
-  box-shadow: 0 0 3px rgba(0,0,0,.3);
-}
-
-/* Different positions */
-
-.corner-ribbon.top-left{
-  top: 25px;
-  left: -50px;
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
-}
-
-.corner-ribbon.top-right{
-  top: 25px;
-  right: -50px;
-  left: auto;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-}
-
-.corner-ribbon.bottom-left{
-  top: auto;
-  bottom: 25px;
-  left: -50px;
-  transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
-}
-
-.corner-ribbon.bottom-right{
-  top: auto;
-  right: -50px;
-  bottom: 25px;
-  left: auto;
-  transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
-}
-
-/* Colors */
-
-.corner-ribbon.white{background: #f0f0f0; color: #555;}
-.corner-ribbon.black{background: #333;}
-.corner-ribbon.grey{background: #999;}
-.corner-ribbon.blue{background: #007aff;
-z-index: 99}
-.corner-ribbon.green{background: #2c7;}
-.corner-ribbon.turquoise{background: #1b9;}
-.corner-ribbon.purple{background: #95b;}
-.corner-ribbon.red{background: #e43;}
-.corner-ribbon.orange{background: #e82;}
-.corner-ribbon.yellow{background: #ec0;}
 
 </style>
