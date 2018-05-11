@@ -1,0 +1,925 @@
+{
+  "id": [
+    "27534971"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27534971"
+  ],
+  "pmcid": [
+    "PMC5010606"
+  ],
+  "doi": [
+    "10.1007/s11307-016-0993-2"
+  ],
+  "title": [
+    "Combined PET/MRI: from Status Quo to Status Go. Summary Report of the Fifth International Workshop on PET/MR Imaging; February 15-19, 2016; Tübingen, Germany."
+  ],
+  "authorString": [
+    "Bailey DL, Pichler BJ, Gückel B, Barthel H, Beer AJ, Botnar R, Botnar R, Gillies R, Goh V, Gotthardt M, Hicks RJ, Lanzenberger R, la Fougere C, Lentschig M, Nekolla SG, Niederdraenk T, Nikolaou K, Nuyts J, Olego D, Riklund KÅ, Signore A, Schäfers M, Sossi V, Suminski M, Veit-Haibach P, Umutlu L, Wissmeyer M, Beyer T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bailey DL"
+          ],
+          "firstName": [
+            "D L"
+          ],
+          "lastName": [
+            "Bailey"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Royal North Shore Hospital, and Faculty of Health Sciences, University of Sydney, Sydney, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Pichler BJ"
+          ],
+          "firstName": [
+            "B J"
+          ],
+          "lastName": [
+            "Pichler"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Werner Siemens Imaging Center, Department of Preclinical Imaging and Radiopharmacy, Eberhard-Karls-Universität, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gückel B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Gückel"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Interventional and Diagnostic Radiology, Eberhard-Karls-Universität, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Barthel H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Barthel"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, University Clinic, Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Beer AJ"
+          ],
+          "firstName": [
+            "A J"
+          ],
+          "lastName": [
+            "Beer"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Ulm University, Ulm, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Botnar R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Botnar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9447-4367",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Imaging Sciences and Biomedical Engineering, King's College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Botnar R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Botnar"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2811-2509",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Imaging Sciences and Biomedical Engineering, King's College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gillies R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Gillies"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Moffitt Cancer Center, Tampa, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Goh V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Goh"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2321-8091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Imaging Sciences and Biomedical Engineering, Department of Cancer Imaging, King's College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gotthardt M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Gotthardt"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Radboud University, Nijmegen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Hicks RJ"
+          ],
+          "firstName": [
+            "R J"
+          ],
+          "lastName": [
+            "Hicks"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0758-0824",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Peter MacCallum Cancer Centre, Melbourne, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lanzenberger R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Lanzenberger"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4641-9539",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical University of Vienna, Vienna, Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "la Fougere C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "la Fougere"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7519-0417",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Nuclear Medicine and clinical Molecular Imaging, Department of Radiology, University of Tübingen, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lentschig M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Lentschig"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "ZEMODI, Zentrum für Moderne Diagnostik, Bremen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nekolla SG"
+          ],
+          "firstName": [
+            "S G"
+          ],
+          "lastName": [
+            "Nekolla"
+          ],
+          "initials": [
+            "SG"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, Technical University Munich, Munich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Niederdraenk T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Niederdraenk"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Strategy and Innovation Technology Center, Siemens Healthcare GmbH, Erlangen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nikolaou K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Nikolaou"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Interventional and Diagnostic Radiology, Eberhard-Karls-Universität, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Nuyts J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Nuyts"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1923-6198",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Imaging and Pathology, Nuclear Medicine and Molecular Imaging, KU Leuven - University of Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Olego D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Olego"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Philips, 3000 Minuteman Road, Andover, MA, 01810, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Riklund KÅ"
+          ],
+          "firstName": [
+            "K Åhlström"
+          ],
+          "lastName": [
+            "Riklund"
+          ],
+          "initials": [
+            "KÅ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5227-8117",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Diagnostic Radiology, Radiation Sciences, Umeå University/Norrlands University Hospital, Umeå, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Signore A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Signore"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nuclear Medicine Unit, Departments of Medical-Surgical Sciences and Translational Medicine, \"Sapienza\" University of Rome, Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Schäfers M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Schäfers"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, University Hospital Münster and European Institute for Molecular Imaging, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sossi V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Sossi"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Physics and Astronomy, University of British Columbia, Vancouver, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Suminski M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Suminski"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "GE Healthcare, PET/MR, Milwaukee, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Veit-Haibach P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Veit-Haibach"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, University Hospital Zurich, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Umutlu L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Umutlu"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Diagnostic and Interventional Radiology and Neuroradiology, University Hospital Essen, Essen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wissmeyer M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Wissmeyer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Nuclear Medicine, University Hospital of Geneva, Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Beyer T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Beyer"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Center for Medical Physics and Biomedical Engineering, General Hospital Vienna, Medical University Vienna, 4L, Waehringer Guertel 18-20, 1090, Vienna, Austria. thomas.beyer@meduniwien.ac.at."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9447-4367",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4641-9539",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1923-6198",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0758-0824",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5227-8117",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7519-0417",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2811-2509",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2321-8091",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2446215"
+      ],
+      "dateOfPublication": [
+        "2016 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular imaging and biology : MIB : the official publication of the Academy of Molecular Imaging"
+          ],
+          "ISOAbbreviation": [
+            "Mol Imaging Biol"
+          ],
+          "medlineAbbreviation": [
+            "Mol Imaging Biol"
+          ],
+          "NLMid": [
+            "101125610"
+          ],
+          "ISSN": [
+            "1536-1632"
+          ],
+          "ESSN": [
+            "1860-2002"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "637-650"
+  ],
+  "abstractText": [
+    "This article provides a collaborative perspective of the discussions and conclusions from the fifth international workshop of combined positron emission tomorgraphy (PET)/magnetic resonance imaging (MRI) that was held in Tübingen, Germany, from February 15 to 19, 2016. Specifically, we summarise the second part of the workshop made up of invited presentations from active researchers in the field of PET/MRI and associated fields augmented by round table discussions and dialogue boards with specific topics. This year, this included practical advice as to possible approaches to moving PET/MRI into clinical routine, the use of PET/MRI in brain receptor imaging, in assessing cardiovascular diseases, cancer, infection, and inflammatory diseases. To address perceived challenges still remaining to innovatively integrate PET and MRI system technologies, a dedicated round table session brought together key representatives from industry and academia who were engaged with either the conceptualisation or early adoption of hybrid PET/MRI systems. Discussions during the workshop highlighted that emerging unique applications of PET/MRI such as the ability to provide multi-parametric quantitative and visual information which will enable not only overall disease detection but also disease characterisation would eventually be regarded as compelling arguments for the adoption of PET/MR. However, as indicated by previous workshops, evidence in favour of this observation is only growing slowly, mainly due to the ongoing inability to pool data cohorts from independent trials as well as different systems and sites. The participants emphasised that moving from status quo to status go entails the need to adopt standardised imaging procedures and the readiness to act together prospectively across multiple PET/MRI sites and vendors."
+  ],
+  "affiliation": [
+    "Department of Nuclear Medicine, Royal North Shore Hospital, and Faculty of Health Sciences, University of Sydney, Sydney, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Congresses",
+        "Research Support, Non-U.S. Gov't",
+        "research-article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "16463"
+          ],
+          "agency": [
+            "Cancer Research UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Positron-Emission Tomography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Multimodal Imaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "MRI",
+        "PET",
+        "Oncology",
+        "Quantification",
+        "Neurology",
+        "Cardiology",
+        "Molecular Imaging",
+        "Pet/ct",
+        "Combined Imaging",
+        "Attenuation Correction",
+        "Pet/mri",
+        "Multi-parametric Imaging"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5010606?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5010606"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11307-016-0993-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-26"
+  ],
+  "dateOfCreation": [
+    "2016-08-19"
+  ],
+  "dateOfRevision": [
+    "2018-01-17"
+  ],
+  "firstPublicationDate": [
+    "2016-10-01"
+  ]
+}

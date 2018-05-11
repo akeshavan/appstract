@@ -1,0 +1,385 @@
+{
+  "id": [
+    "26361512"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26361512"
+  ],
+  "pmcid": [
+    "PMC4564042"
+  ],
+  "title": [
+    "Non-invasive brain stimulation in early rehabilitation after stroke."
+  ],
+  "authorString": [
+    "Blesneag AV, Popa L, Stan AD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blesneag AV"
+          ],
+          "firstName": [
+            "A V"
+          ],
+          "lastName": [
+            "Blesneag"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Department of Clinical Neurosciences, ''Iuliu Hațieganu'' University of Medicine and Pharmacy, Cluj-Napoca, Romania; ''RoNeuro'' Institute for Neurological Research and Diagnostic, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Popa L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Popa"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Clinical Neurosciences, ''Iuliu Hațieganu'' University of Medicine and Pharmacy, Cluj-Napoca, Romania; ''RoNeuro'' Institute for Neurological Research and Diagnostic, Cluj-Napoca, Romania."
+          ]
+        },
+        {
+          "fullName": [
+            "Stan AD"
+          ],
+          "firstName": [
+            "A D"
+          ],
+          "lastName": [
+            "Stan"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "affiliation": [
+            "Department of Clinical Neurosciences, ''Iuliu Hațieganu'' University of Medicine and Pharmacy, Cluj-Napoca, Romania; ''RoNeuro'' Institute for Neurological Research and Diagnostic, Cluj-Napoca, Romania."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8 Spec Issue"
+      ],
+      "journalIssueId": [
+        "2323611"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of medicine and life"
+          ],
+          "ISOAbbreviation": [
+            "J Med Life"
+          ],
+          "medlineAbbreviation": [
+            "J Med Life"
+          ],
+          "NLMid": [
+            "101477617"
+          ],
+          "ISSN": [
+            "1844-122X"
+          ],
+          "ESSN": [
+            "1844-3117"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "52-56"
+  ],
+  "abstractText": [
+    "The new tendency in rehabilitation involves non-invasive tools that, if applied early after stroke, promote neurorecovery. Repetitive transcranial magnetic stimulation and transcranial direct current stimulation may correct the disruption of cortical excitability and effectively contribute to the restoration of movement and speech. The present paper analyses the results of non-invasive brain stimulation (NIBS) trials, highlighting different aspects related to the repetitive transcranial magnetic stimulation frequency, transcranial direct current stimulation polarity, the period and stimulation places in acute and subacute ischemic strokes. The risk of adverse events, the association with motor or language recovery specific training, and the cumulative positive effect evaluation are also discussed."
+  ],
+  "affiliation": [
+    "Department of Clinical Neurosciences, ''Iuliu Hațieganu'' University of Medicine and Pharmacy, Cluj-Napoca, Romania; ''RoNeuro'' Institute for Neurological Research and Diagnostic, Cluj-Napoca, Romania."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Speech"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stroke",
+        "Repetitive transcranial magnetic stimulation",
+        "Neurorehabilitation",
+        "Transcranial Direct Current Stimulation"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4564042?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4564042"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-05-09"
+  ],
+  "dateOfCreation": [
+    "2015-09-12"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "firstPublicationDate": [
+    "2015-01-01"
+  ]
+}

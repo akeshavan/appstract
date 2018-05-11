@@ -1,0 +1,499 @@
+{
+  "id": [
+    "27071789"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27071789"
+  ],
+  "pmcid": [
+    "PMC5080861"
+  ],
+  "doi": [
+    "10.2174/1871527315666160413120845"
+  ],
+  "title": [
+    "The Potential of Nasal Oxytocin Administration for Remediation of Autism Spectrum Disorders."
+  ],
+  "authorString": [
+    "Okamoto Y, Ishitobi M, Wada Y, Kosaka H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Okamoto Y"
+          ],
+          "firstName": [
+            "Yuko"
+          ],
+          "lastName": [
+            "Okamoto"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Ishitobi M"
+          ],
+          "firstName": [
+            "Makoto"
+          ],
+          "lastName": [
+            "Ishitobi"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Wada Y"
+          ],
+          "firstName": [
+            "Yuji"
+          ],
+          "lastName": [
+            "Wada"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Kosaka H"
+          ],
+          "firstName": [
+            "Hirotaka"
+          ],
+          "lastName": [
+            "Kosaka"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Research Center for Child Mental Development, University of Fukui, Eiheiji, Fukui 910-1193, Japan. hirotaka@u-fukui.ac.jp."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2408544"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "CNS & neurological disorders drug targets"
+          ],
+          "ISOAbbreviation": [
+            "CNS Neurol Disord Drug Targets"
+          ],
+          "medlineAbbreviation": [
+            "CNS Neurol Disord Drug Targets"
+          ],
+          "NLMid": [
+            "101269155"
+          ],
+          "ISSN": [
+            "1871-5273"
+          ],
+          "ESSN": [
+            "1996-3181"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "564-577"
+  ],
+  "abstractText": [
+    "Administration of oxytocin has been proposed as a treatment for the core symptoms of autism spectrum disorder (ASD), including social-communicative deficit. Previous clinical trials have investigated the efficacy and safety of oxytocin intranasal single-dose and long-term administration for individuals with ASD. All studies suggest that singledose and long-term administration are well tolerated, and no severe adverse events have been reported. However, the efficacy of long-term oxytocin administration is controversial. Some studies have reported significant improvement of the core symptoms of ASD by long-term oxytocin administration, while other studies showed no such improvement. To elucidate the factors influencing the efficacy of oxytocin administration, it is necessary to examine the effects of administration schedules (e.g., dosage amount, frequency per day) and participant characteristics (e.g., age, sex, intellectual ability). In addition to doubts about the efficacy of particular methods of administration, questions remain about the mechanism of action of intranasal oxytocin on the central nervous system. Examination of changes in the neural underpinnings of social behavior and simultaneous oxytocin levels in blood or cerebrospinal fluid could prove important in elucidating the pharmacokinetics of intranasal oxytocin administration, which could be essential for establishing optimal oxytocin treatments for individuals with ASD."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxytocin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotropic Drugs"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Administration, Intranasal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autism Spectrum Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oxytocin"
+          ],
+          "registryNumber": [
+            "50-56-6"
+          ]
+        },
+        {
+          "name": [
+            "Psychotropic Drugs"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5080861?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5080861"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1871527315666160413120845"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp",
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-10-04"
+  ],
+  "dateOfCreation": [
+    "2016-05-13"
+  ],
+  "dateOfRevision": [
+    "2017-10-04"
+  ],
+  "firstPublicationDate": [
+    "2016-01-01"
+  ]
+}

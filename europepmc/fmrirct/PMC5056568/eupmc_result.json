@@ -1,0 +1,319 @@
+{
+  "id": [
+    "27413138"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27413138"
+  ],
+  "pmcid": [
+    "PMC5056568"
+  ],
+  "doi": [
+    "10.5056/jnm16018"
+  ],
+  "title": [
+    "Effect of Probiotics on Central Nervous System Functions in Animals and Humans: A Systematic Review."
+  ],
+  "authorString": [
+    "Wang H, Lee IS, Braun C, Enck P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Huiying"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Graduate Training Center of Neuroscience, IMPRS for Cognitive and Systems Neuroscience, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee IS"
+          ],
+          "firstName": [
+            "In-Seon"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "IS"
+          ],
+          "affiliation": [
+            "Graduate Training Center of Neuroscience, IMPRS for Cognitive and Systems Neuroscience, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Braun C"
+          ],
+          "firstName": [
+            "Christoph"
+          ],
+          "lastName": [
+            "Braun"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "CIMeC, Center for Mind/Brain Sciences, University of Trento, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Enck P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Enck"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychosomatic Medicine and Psychotherapy, University of Tübingen, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "2458274"
+      ],
+      "dateOfPublication": [
+        "2016 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neurogastroenterology and motility"
+          ],
+          "ISOAbbreviation": [
+            "J Neurogastroenterol Motil"
+          ],
+          "medlineAbbreviation": [
+            "J Neurogastroenterol Motil"
+          ],
+          "NLMid": [
+            "101530189"
+          ],
+          "ISSN": [
+            "2093-0879"
+          ],
+          "ESSN": [
+            "2093-0887"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "589-605"
+  ],
+  "abstractText": [
+    "To systematically review the effects of probiotics on central nervous system function in animals and humans, to summarize effective interventions (species of probiotic, dose, duration), and to analyze the possibility of translating preclinical studies. Literature searches were conducted in Pubmed, Medline, Embase, and the Cochrane Library. Only randomized controlled trials were included. In total, 38 studies were included: 25 in animals and 15 in humans (2 studies were conducted in both). Most studies used Bifidobacterium (eg, B. longum, B. breve , and B. infantis ) and Lactobacillus (eg, L. helveticus , and L. rhamnosus ), with doses between 10⁸ and 10¹⁰ colony-forming units for 2 weeks in animals and 4 weeks in humans. These probiotics showed efficacy in improving psychiatric disorder-related behaviors including anxiety, depression, autism spectrum disorder (ASD), obsessive-compulsive disorder, and memory abilities, including spatial and non-spatial memory. Because many of the basic science studies showed some efficacy of probiotics on central nervous system function, this background may guide and promote further preclinical and clinical studies. Translating animal studies to human studies has obvious limitations but also suggests possibilities. Here, we provide several suggestions for the translation of animal studies. More experimental designs with both behavioral and neuroimaging measures in healthy volunteers and patients are needed in the future."
+  ],
+  "affiliation": [
+    "Graduate Training Center of Neuroscience, IMPRS for Cognitive and Systems Neuroscience, Tübingen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Animals",
+        "Depression",
+        "Probiotics",
+        "Anxiety",
+        "Humans"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5056568?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5056568"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5056/jnm16018"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28508447"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Dermatol Ther. 2017 Sep;30(5):"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "91"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-07-14"
+  ],
+  "dateOfRevision": [
+    "2017-11-05"
+  ],
+  "firstPublicationDate": [
+    "2016-10-01"
+  ]
+}

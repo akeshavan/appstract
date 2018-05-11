@@ -1,0 +1,475 @@
+{
+  "id": [
+    "29124115"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29124115"
+  ],
+  "pmcid": [
+    "PMC5671630"
+  ],
+  "doi": [
+    "10.1016/j.trci.2017.09.003"
+  ],
+  "title": [
+    "Study protocol of the Intense Physical Activity and Cognition study: The effect of high-intensity exercise training on cognitive function in older adults."
+  ],
+  "authorString": [
+    "Brown BM, Rainey-Smith SR, Castalanelli N, Gordon N, Markovic S, Sohrabi HR, Weinborn M, Laws SM, Doecke J, Shen K, Martins RN, Peiffer JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Brown BM"
+          ],
+          "firstName": [
+            "Belinda M"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Sir James McCusker Alzheimer's Disease Research Unit, Hollywood Private Hospital, Nedlands, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rainey-Smith SR"
+          ],
+          "firstName": [
+            "Stephanie R"
+          ],
+          "lastName": [
+            "Rainey-Smith"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "School of Medical and Health Sciences, Edith Cowan University, Joondalup, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Castalanelli N"
+          ],
+          "firstName": [
+            "Natalie"
+          ],
+          "lastName": [
+            "Castalanelli"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "School of Psychological Science, University of Western Australia, Crawley, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Gordon N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Gordon"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "School of Psychology and Exercise Science, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Markovic S"
+          ],
+          "firstName": [
+            "Shaun"
+          ],
+          "lastName": [
+            "Markovic"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Sir James McCusker Alzheimer's Disease Research Unit, Hollywood Private Hospital, Nedlands, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sohrabi HR"
+          ],
+          "firstName": [
+            "Hamid R"
+          ],
+          "lastName": [
+            "Sohrabi"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8017-8682",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Biomedical Sciences, Faculty of Medicine and Health Sciences, Macquarie University, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Weinborn M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Weinborn"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7094-9930",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Psychological Science, University of Western Australia, Crawley, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Laws SM"
+          ],
+          "firstName": [
+            "Simon M"
+          ],
+          "lastName": [
+            "Laws"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "School of Biomedical Sciences, Faculty of Health Sciences, Curtin Health Innovation Research Institute, Curtin University, Bentley, Western Australia, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Doecke J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Doecke"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Australian eHealth Research Centre, Commonwealth Scientific and Industrial Research Organisation, Brisbane, Queensland, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen K"
+          ],
+          "firstName": [
+            "Kaikai"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Australian eHealth Research Centre, Commonwealth Scientific and Industrial Research Organisation, Brisbane, Queensland, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Martins RN"
+          ],
+          "firstName": [
+            "Ralph N"
+          ],
+          "lastName": [
+            "Martins"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "School of Biomedical Sciences, Faculty of Medicine and Health Sciences, Macquarie University, New South Wales, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Peiffer JJ"
+          ],
+          "firstName": [
+            "Jeremiah J"
+          ],
+          "lastName": [
+            "Peiffer"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "School of Psychology and Exercise Science, Murdoch University, Murdoch, Western Australia, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8017-8682",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7094-9930",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2617723"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Alzheimer's & dementia (New York, N. Y.)"
+          ],
+          "ISOAbbreviation": [
+            "Alzheimers Dement (N Y)"
+          ],
+          "medlineAbbreviation": [
+            "Alzheimers Dement (N Y)"
+          ],
+          "NLMid": [
+            "101650118"
+          ],
+          "ISSN": [
+            "2352-8737"
+          ],
+          "ESSN": [
+            "2352-8737"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "562-570"
+  ],
+  "abstractText": [
+    "Inconsistent results from previous studies of exercise and cognitive function suggest that rigorously designed randomized controlled trials are urgently needed. Here, we describe the design of the Intense Physical Activity and Cognition (IPAC) study, which will assess the impact of a 6-month high-intensity exercise intervention on cognitive function and biomarkers of dementia risk, compared with a 6-month moderate-intensity exercise intervention and control group (no study-related exercise).One-hundred and five cognitively healthy men and women aged between 60 and 80 years are randomized into a high-intensity exercise, moderate-intensity exercise, or control group. Individuals randomized to an exercise intervention undertake 6 months of cycle-based exercise twice a week, at 50 minutes per session. All participants undergo comprehensive neuropsychological testing, blood sampling, brain magnetic resonance imaging, fitness testing, and a body composition scan at baseline, 6 months (immediately after intervention), and 18 months (12 months after intervention).The IPAC study takes a multidisciplinary approach to investigating the role of exercise in maintaining a healthy brain throughout aging. Rigorous monitoring of exertion and adherence throughout the intervention, combined with repeated measures of fitness, is vital in ensuring an optimum exercise dose is reached. Results from the IPAC study will be used to inform a large-scale multicentre randomized controlled trial, with the ultimate aim of pinpointing the frequency, duration, and intensity of exercise that provides the most benefit to the brain, in terms of enhancing cognitive function and reducing dementia risk in older adults."
+  ],
+  "affiliation": [
+    "Sir James McCusker Alzheimer's Disease Research Unit, Hollywood Private Hospital, Nedlands, Western Australia, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognition",
+        "Exercise",
+        "Dementia",
+        "intervention",
+        "Study Design"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5671630?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5671630"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.trci.2017.09.003"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-11-11"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-19"
+  ],
+  "firstPublicationDate": [
+    "2017-10-19"
+  ]
+}

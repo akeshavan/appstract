@@ -1,0 +1,500 @@
+{
+  "id": [
+    "26106316"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26106316"
+  ],
+  "pmcid": [
+    "PMC4460804"
+  ],
+  "doi": [
+    "10.3389/fnhum.2015.00332"
+  ],
+  "title": [
+    "Tai Chi Training may Reduce Dual Task Gait Variability, a Potential Mediator of Fall Risk, in Healthy Older Adults: Cross-Sectional and Randomized Trial Studies."
+  ],
+  "authorString": [
+    "Wayne PM, Hausdorff JM, Lough M, Gow BJ, Lipsitz L, Novak V, Macklin EA, Peng CK, Manor B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wayne PM"
+          ],
+          "firstName": [
+            "Peter M"
+          ],
+          "lastName": [
+            "Wayne"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            "Division of Preventive Medicine, Osher Center for Integrative Medicine, Brigham and Women's Hospital , Boston, MA , USA ; Harvard Medical School , Boston, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hausdorff JM"
+          ],
+          "firstName": [
+            "Jeffrey M"
+          ],
+          "lastName": [
+            "Hausdorff"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Neurology, Center for the Study of Movement, Cognition, and Mobility, Tel Aviv Sourasky Medical Center, Tel Aviv University , Tel Aviv , Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Lough M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Lough"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute for Aging Research, Hebrew Senior Life , Boston, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gow BJ"
+          ],
+          "firstName": [
+            "Brian J"
+          ],
+          "lastName": [
+            "Gow"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Division of Preventive Medicine, Osher Center for Integrative Medicine, Brigham and Women's Hospital , Boston, MA , USA ; Harvard Medical School , Boston, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lipsitz L"
+          ],
+          "firstName": [
+            "Lewis"
+          ],
+          "lastName": [
+            "Lipsitz"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute for Aging Research, Hebrew Senior Life , Boston, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Novak V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Novak"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Neurology, Beth Israel Deaconess Medical Center , Boston, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Macklin EA"
+          ],
+          "firstName": [
+            "Eric A"
+          ],
+          "lastName": [
+            "Macklin"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1618-3502",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Harvard Medical School , Boston, MA , USA ; Biostatistics Center, Massachusetts General Hospital , Boston, MA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng CK"
+          ],
+          "firstName": [
+            "Chung-Kang"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "CK"
+          ],
+          "affiliation": [
+            "Division of Interdisciplinary Medicine and Biotechnology, Beth Israel Deaconess Medical Center , Boston, MA , USA ; Center for Dynamical Biomarkers and Translational Medicine, National Central University , Chungli , Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Manor B"
+          ],
+          "firstName": [
+            "Brad"
+          ],
+          "lastName": [
+            "Manor"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute for Aging Research, Hebrew Senior Life , Boston, MA , USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1618-3502",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2251232"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "332"
+  ],
+  "abstractText": [
+    "Tai Chi (TC) exercise improves balance and reduces falls in older, health-impaired adults. TC's impact on dual task (DT) gait parameters predictive of falls, especially in healthy active older adults, however, is unknown.To compare differences in usual and DT gait between long-term TC-expert practitioners and age-/gender-matched TC-naïve adults, and to determine the effects of short-term TC training on gait in healthy, non-sedentary older adults.A cross-sectional study compared gait in healthy TC-naïve and TC-expert (24.5 ± 12 years experience) older adults. TC-naïve adults then completed a 6-month, two-arm, wait-list randomized clinical trial of TC training. Gait speed and stride time variability (Coefficient of Variation %) were assessed during 90 s trials of undisturbed and cognitive DT (serial subtractions) conditions.During DT, gait speed decreased (p < 0.003) and stride time variability increased (p < 0.004) in all groups. Cross-sectional comparisons indicated that stride time variability was lower in the TC-expert vs. TC-naïve group, significantly so during DT (2.11 vs. 2.55%; p = 0.027); by contrast, gait speed during both undisturbed and DT conditions did not differ between groups. Longitudinal analyses of TC-naïve adults randomized to 6 months of TC training or usual care identified improvement in DT gait speed in both groups. A small improvement in DT stride time variability (effect size = 0.2) was estimated with TC training, but no significant differences between groups were observed. Potentially important improvements after TC training could not be excluded in this small study.In healthy active older adults, positive effects of short- and long-term TC were observed only under cognitively challenging DT conditions and only for stride time variability. DT stride time variability offers a potentially sensitive metric for monitoring TC's impact on fall risk with healthy older adults."
+  ],
+  "affiliation": [
+    "Division of Preventive Medicine, Osher Center for Integrative Medicine, Brigham and Women's Hospital , Boston, MA , USA ; Harvard Medical School , Boston, MA , USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 AG044543"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "KL2 RR025757"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R37 AG025037"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG041785"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 AT005501"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG025037"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognition",
+        "Gait Analysis",
+        "Tai Chi",
+        "Dual Task Performance",
+        "Falls And Fall Risk Prevention"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4460804?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4460804"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2015.00332"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-06-24"
+  ],
+  "dateOfCreation": [
+    "2015-06-24"
+  ],
+  "dateOfRevision": [
+    "2017-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-09"
+  ],
+  "firstPublicationDate": [
+    "2015-06-09"
+  ]
+}

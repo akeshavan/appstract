@@ -1,0 +1,284 @@
+{
+  "id": [
+    "26665044"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26665044"
+  ],
+  "pmcid": [
+    "PMC4654780"
+  ],
+  "doi": [
+    "10.7453/gahmj.2015.012.suppl"
+  ],
+  "title": [
+    "Distant Healing Intention Therapies: An Overview of the Scientific Evidence."
+  ],
+  "authorString": [
+    "Radin D, Schlitz M, Baur C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Radin D"
+          ],
+          "firstName": [
+            "Dean"
+          ],
+          "lastName": [
+            "Radin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Institute of Noetic Sciences, Petaluma, California (Dr Radin)."
+          ]
+        },
+        {
+          "fullName": [
+            "Schlitz M"
+          ],
+          "firstName": [
+            "Marilyn"
+          ],
+          "lastName": [
+            "Schlitz"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "California Pacific Medical Center Research Institute, San Francisco, California (Dr Schlitz)."
+          ]
+        },
+        {
+          "fullName": [
+            "Baur C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Baur"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Samueli Institute, Alexandria, Virginia (Mr Baur)."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2354549"
+      ],
+      "dateOfPublication": [
+        "2015 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global advances in health and medicine"
+          ],
+          "ISOAbbreviation": [
+            "Glob Adv Health Med"
+          ],
+          "medlineAbbreviation": [
+            "Glob Adv Health Med"
+          ],
+          "NLMid": [
+            "101584936"
+          ],
+          "ISSN": [
+            "2164-957X"
+          ],
+          "ESSN": [
+            "2164-9561"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "67-71"
+  ],
+  "abstractText": [
+    "This article provides a broad overview of \"distant healing intention\" (DHI) therapies, ie, intentional healing modalities claimed to transcend the usual constraints of distance through space or time. We provide a summary of previous reviews and meta-analyses that have explored a diverse array of DHI modalities, outcome measures, and experimental protocols. While some significant experimental effects have been observed, the evidence to date does not yet provide confidence in its clinical efficacy. The purported \"nonlocal\" nature of DHI raises significant methodological and theoretical challenges. We recommend several avenues for improving future research."
+  ],
+  "affiliation": [
+    "Institute of Noetic Sciences, Petaluma, California (Dr Radin)."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Prayer",
+        "Nonlocal",
+        "Distant Healing Intention",
+        "Dhi"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4654780?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4654780"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7453/gahmj.2015.012.suppl"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-15"
+  ],
+  "dateOfCreation": [
+    "2015-12-15"
+  ],
+  "dateOfRevision": [
+    "2017-03-07"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-01"
+  ],
+  "firstPublicationDate": [
+    "2015-11-01"
+  ],
+  "embargoDate": [
+    "2016-01-09"
+  ]
+}

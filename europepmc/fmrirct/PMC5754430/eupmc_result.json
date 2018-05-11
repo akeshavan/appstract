@@ -1,0 +1,301 @@
+{
+  "id": [
+    "29282641"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29282641"
+  ],
+  "pmcid": [
+    "PMC5754430"
+  ],
+  "doi": [
+    "10.1007/s11065-017-9363-3"
+  ],
+  "title": [
+    "The Efficacy of Cognitive Intervention in Mild Cognitive Impairment (MCI): a Meta-Analysis of Outcomes on Neuropsychological Measures."
+  ],
+  "authorString": [
+    "Sherman DS, Mauser J, Nuno M, Sherzai D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sherman DS"
+          ],
+          "firstName": [
+            "Dale S"
+          ],
+          "lastName": [
+            "Sherman"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Cedars-Sinai Medical Center, 444 S. San Vicente Blvd, Suite 103, Los Angeles, CA, 90048, USA. dale.sherman@cshs.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Mauser J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Mauser"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Virginia Commonwealth University School of Medicine, Richmond, VA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nuno M"
+          ],
+          "firstName": [
+            "Miriam"
+          ],
+          "lastName": [
+            "Nuno"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "University of California, Davis, Davis, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sherzai D"
+          ],
+          "firstName": [
+            "Dean"
+          ],
+          "lastName": [
+            "Sherzai"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Loma Linda University Health, 11370 Anderson Street B100, Loma Linda, CA, 92354, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "27"
+      ],
+      "journalIssueId": [
+        "2635152"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychology review"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychol Rev"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychol Rev"
+          ],
+          "NLMid": [
+            "9009029"
+          ],
+          "ISSN": [
+            "1040-7308"
+          ],
+          "ESSN": [
+            "1573-6660"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "440-484"
+  ],
+  "abstractText": [
+    "Cognitive training in MCI may stimulate pre-existing neural reserves or recruit neural circuitry as \"compensatory scaffolding\" prompting neuroplastic reorganization to meet task demands (Reuter-Lorenz & Park, 2014). However, existing systematic reviews and meta-analytic studies exploring the benefits of cognitive interventions in MCI have been mixed. An updated examination regarding the efficacy of cognitive intervention in MCI is needed given improvements in adherence to MCI diagnostic criteria in subject selection, better defined interventions and strategies applied, increased use of neuropsychological measures pre- and post-intervention, as well as identification of moderator variables which may influence treatment. As such, this meta-analytic review was conducted to examine the efficacy of cognitive intervention in individuals diagnosed with mild cognitive impairment (MCI) versus MCI controls based on performance of neuropsychological outcome measures in randomized controlled trials (RCT). RCT studies published from January 1995 to June 2017 were obtained through source databases of MEDLINE-R, PubMed, Healthstar, Global Health, PSYCH-INFO, and Health and Psychological Instruments using search parameters for MCI diagnostic category (mild cognitive impairment, MCI, pre-Alzheimer's disease, early cognitive decline, early onset Alzheimer's disease, and preclinical Alzheimer's disease) and the intervention or training conducted (intervention, training, stimulation, rehabilitation, or treatment). Other inclusion and exclusion criteria included subject selection based on established MCI criteria, RCT design in an outpatient setting, MCI controls (active or passive), and outcomes based on objective neuropsychological measures. From the 1199 abstracts identified, 26 articles met inclusion criteria for the meta-analyses completed across eleven (11) countries; 92.31% of which have been published within the past 7 years. A series of meta-analyses were performed to examine the effects of cognitive intervention by cognitive domain, type of training, and intervention content (cognitive domain targeted). We found significant, moderate effects for multicomponent training (Hedges' g observed = 0.398; CI [0.164, 0.631]; Z = 3.337; p = 0.001; Q = 55.511; df = 15; p = 0.000; I 2  = 72.978%; τ 2  = 0.146) as well as multidomain-focused strategies (Hedges' g = 0.230; 95% CI [0.108, 0.352]; Z = 3.692; p  < 0.001; Q = 12.713; df = 12; p = 0.390; I 2  = 5.612; τ 2  = 0.003). The effects for other interventions explored by cognitive domain, training type, or intervention content were indeterminate due to concerns for heterogeneity, bias, and small cell sizes. In addition, subgroup and meta-regression analyses were conducted with the moderators of MCI category, mode of intervention, training type, intervention content, program duration (total hours), type of control group (active or passive), post-intervention follow-up assessment period, and control for repeat administration. We found significant overall effects for intervention content with memory focused interventions appearing to be more effective than multidomain approaches. There was no evidence of an influence on outcomes for the other covariates examined. Overall, these findings suggest individuals with MCI who received multicomponent training or interventions targeting multiple domains (including lifestyle changes) were apt to display an improvement on outcome measures of cognition post-intervention. As such, multicomponent and multidomain forms of intervention may prompt recruitment of alternate neural processes as well as support primary networks to meet task demands simultaneously. In addition, interventions with memory and multidomain forms of content appear to be particularly helpful, with memory-based approaches possibly being more effective than multidomain methods. Other factors, such as program duration, appear to have less of an influence on intervention outcomes. Given this, although the creation of new primary network paths appears strained in MCI, interventions with memory-based or multidomain forms of content may facilitate partial activation of compensatory scaffolding and neuroplastic reorganization. The positive benefit of memory-based strategies may also reflect transfer effects indicative of compensatory network activation and the multiple-pathways involved in memory processes. Limitations of this review are similar to other meta-analysis in MCI, including a modest number studies, small sample sizes, multiple forms of interventions and types of training applied (some overlapping), and, while greatly improved in our view, a large diversity of instruments used to measure outcome. This is apt to have contributed to the presence of heterogeneity and publication bias precluding a more definitive determination of the outcomes observed."
+  ],
+  "affiliation": [
+    "Cedars-Sinai Medical Center, 444 S. San Vicente Blvd, Suite 103, Los Angeles, CA, 90048, USA. dale.sherman@cshs.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Meta-analysis",
+        "Treatment Efficacy",
+        "Cognitive Training",
+        "Cognitive Strategies",
+        "Cognitive Rehabilitation",
+        "Neuropsychological Outcomes",
+        "Mild Cognitive Impairment (Mci): Cognitive Interventions"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5754430?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5754430"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11065-017-9363-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-29"
+  ],
+  "dateOfRevision": [
+    "2018-01-26"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-27"
+  ],
+  "firstPublicationDate": [
+    "2017-12-27"
+  ]
+}

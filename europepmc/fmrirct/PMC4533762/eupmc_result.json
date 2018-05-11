@@ -1,0 +1,774 @@
+{
+  "id": [
+    "26265452"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26265452"
+  ],
+  "pmcid": [
+    "PMC4533762"
+  ],
+  "doi": [
+    "10.1186/s12888-015-0569-8"
+  ],
+  "title": [
+    "The effects of repetitive transcranial magnetic stimulation in obese females with binge eating disorder: a protocol for a double-blinded, randomized, sham-controlled trial."
+  ],
+  "authorString": [
+    "Maranhão MF, Estella NM, Cury ME, Amigo VL, Picasso CM, Berberian A, Campbell I, Schmidt U, Claudino AM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maranhão MF"
+          ],
+          "firstName": [
+            "Mara Fernandes"
+          ],
+          "lastName": [
+            "Maranhão"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. mara.proata@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Estella NM"
+          ],
+          "firstName": [
+            "Nara Mendes"
+          ],
+          "lastName": [
+            "Estella"
+          ],
+          "initials": [
+            "NM"
+          ],
+          "affiliation": [
+            "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. naramendes@post.harvard.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Cury ME"
+          ],
+          "firstName": [
+            "Maria Elisa Gisbert"
+          ],
+          "lastName": [
+            "Cury"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. m.elisa@clinicapsico.com.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Amigo VL"
+          ],
+          "firstName": [
+            "Veruska Lastoria"
+          ],
+          "lastName": [
+            "Amigo"
+          ],
+          "initials": [
+            "VL"
+          ],
+          "affiliation": [
+            "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. veruskalastoria@uol.com.br."
+          ]
+        },
+        {
+          "fullName": [
+            "Picasso CM"
+          ],
+          "firstName": [
+            "Clarissa Mollinero"
+          ],
+          "lastName": [
+            "Picasso"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. clarissalli@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Berberian A"
+          ],
+          "firstName": [
+            "Arthur"
+          ],
+          "lastName": [
+            "Berberian"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7281-0892",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory Integrative Neuroscience (LiNC), Psychiatric Department, Universidade Federal de São Paulo (UNIFESP), R. Pedro de Toledo, 669, 3rd floor, CEP 04039-032, São Paulo, SP, Brazil. Arthur.berberian@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Campbell I"
+          ],
+          "firstName": [
+            "Iain"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Section of Eating Disorder, Institute of Psychiatry, King's College London, Denmark Hill, SE5 8AF, London, UK. Iain.campbell@kcl.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmidt U"
+          ],
+          "firstName": [
+            "Ulrike"
+          ],
+          "lastName": [
+            "Schmidt"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Section of Eating Disorder, Institute of Psychiatry, King's College London, Denmark Hill, SE5 8AF, London, UK. ulrike.schmidt@kcl.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Claudino AM"
+          ],
+          "firstName": [
+            "Angélica Medeiros"
+          ],
+          "lastName": [
+            "Claudino"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. aclaudino@unifesp.br."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7281-0892",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2476306"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "194"
+  ],
+  "abstractText": [
+    "Binge eating disorder is a new category in DSM-5 and highly associated with higher body mass index. The neural mechanisms that underlie binge eating are of great interest in order to improve treatment interventions. Brain mechanisms underlying drug and food craving are suggested to be similar: for example, both are reported to be associated with increased neural activity in the orbitofrontal and anterior cingulate cortex, and a diminished regulatory influence from lateral prefrontal circuits. Several studies have begun to assess the potential benefits of brain stimulation in reducing craving and addictive behaviors. Data from a study of a one-off session of transcranial magnetic stimulation in healthy women identified as strong cravers and of individuals with bulimic-type eating disorders, reported a reduction in food craving and binge eating episodes. This provides support for a more extensive investigation of the potential therapeutic benefits of transcranial magnetic stimulation. Lastly, brain imaging studies and a dimensional approach, will improve understanding of the neural correlates of the disorders and of the mode of action of transcranial magnetic stimulation.Sixty eligible obese females, with binge eating disorder, will be randomly allocated to receive 20 sessions of transcranial magnetic stimulation intervention (n = 30) or the sham transcranial magnetic stimulation intervention (n = 30) scattered 3 days/week. Thirty eligible controls will complete the baseline assessment. The primary outcome (number of binge eating episodes) will be assed at each treatment sessions, and 8 weeks after intervention completion (follow-up). It is hypothesized that mean weekly binge-eating episodes will be reduced in the intervention group, compared to the sham group, and that the effect will be maintained at follow-up.Despite the severity associated with Binge Eating Disorder, there are limited treatment options. This study is an important step in the development of more effective treatments. Importantly, the study is the first to investigating binge eating disorder using a dimensional approach, by looking at the different aspects of the disorder, such as behavioral factors, biological factors, brain circuits and chemistry.Clinical Trials NCT02180984 . Registered in July 2014."
+  ],
+  "affiliation": [
+    "Eating Disorder Unit, Psychiatry Department, Universidade Federal de São Paulo (UNIFESP), R. Borges Lagoa, 570, 7th floor, CEP 04038-020, São Paulo, SP, Brazil. mara.proata@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hydrocortisone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leptin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation Mediators"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Estrogens"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ghrelin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Binge-Eating Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Craving"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "ghrelin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Estrogens"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Inflammation Mediators"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Leptin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Hydrocortisone"
+          ],
+          "registryNumber": [
+            "WI4X0X7BPJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4533762?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4533762"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-015-0569-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-02-19"
+  ],
+  "dateOfCreation": [
+    "2015-08-12"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-12"
+  ],
+  "firstPublicationDate": [
+    "2015-08-12"
+  ]
+}

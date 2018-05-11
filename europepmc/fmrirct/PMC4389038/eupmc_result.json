@@ -1,0 +1,322 @@
+{
+  "id": [
+    "26000209"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26000209"
+  ],
+  "pmcid": [
+    "PMC4389038"
+  ],
+  "doi": [
+    "10.1007/s40120-012-0003-9"
+  ],
+  "title": [
+    "Virtual reality versus conventional treatment of reaching ability in chronic stroke: clinical feasibility study."
+  ],
+  "authorString": [
+    "Levin MF, Snir O, Liebermann DG, Weingarden H, Weiss PL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Levin MF"
+          ],
+          "firstName": [
+            "Mindy F"
+          ],
+          "lastName": [
+            "Levin"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "School of Physical and Occupational Therapy, Faculty of Medicine, 3654 Promenade Sir William Osler, Montreal, QC H3G 1Y5 Canada ; Center for Interdisciplinary Research in Rehabilitation, Montreal, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Snir O"
+          ],
+          "firstName": [
+            "Osnat"
+          ],
+          "lastName": [
+            "Snir"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Occupational Therapy, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel ; Hannah Khoushy Child Development Center, Bnai Zion Medical Center, Haifa, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Liebermann DG"
+          ],
+          "firstName": [
+            "Dario G"
+          ],
+          "lastName": [
+            "Liebermann"
+          ],
+          "initials": [
+            "DG"
+          ],
+          "affiliation": [
+            "Department of Physical Therapy, Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Weingarden H"
+          ],
+          "firstName": [
+            "Harold"
+          ],
+          "lastName": [
+            "Weingarden"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurological Rehabilitation, Sheba Medical Center, Tel Hashomer, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Weiss PL"
+          ],
+          "firstName": [
+            "Patrice L"
+          ],
+          "lastName": [
+            "Weiss"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "affiliation": [
+            "Department of Occupational Therapy, Faculty of Social Welfare and Health Sciences, University of Haifa, Haifa, Israel."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2286983"
+      ],
+      "dateOfPublication": [
+        "2012 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurology and therapy"
+          ],
+          "ISOAbbreviation": [
+            "Neurol Ther"
+          ],
+          "medlineAbbreviation": [
+            "Neurol Ther"
+          ],
+          "NLMid": [
+            "101637818"
+          ],
+          "ISSN": [
+            "2193-8253"
+          ],
+          "ESSN": [
+            "2193-6536"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "The objective of this study was to evaluate the potential of exercises performed in a 2D video-capture virtual reality (VR) training environment to improve upper limb motor ability in stroke patients compared to those performed in conventional therapy.A small sample randomized control trial, in an outpatient rehabilitation center with 12 patients with chronic stroke, aged 33-80 years, who were randomly allocated to video-capture VR therapy and conventional therapy groups. All patients participated in four clinical evaluation sessions (pre-test 1, pre-test 2, post-test, follow-up) and nine 45-minute intervention sessions over a 3-week period. Main outcomes assessed were Body Structure and Function (impairment: Fugl-Meyer Assessment [FMA]; Composite Spasticity Index [CSI]; Reaching Performance Scale for Stroke), Activity (Box and Blocks; Wolf Motor Function Test [WMFT]), and Participation (Motor Activity Log) levels of the International Classification of Functioning.Improvements occurred in both groups, but more patients in the VR group improved upper limb clinical impairment (FMA, CSI) and activity scores (WMFT) and improvements occurred earlier. Patients in the VR group also reported satisfaction with the novel treatment.The modest advantage of VR over conventional training supports further investigation of the effect of video-capture VR or VR combined with conventional therapy in larger-scale randomized, more intense controlled studies."
+  ],
+  "affiliation": [
+    "School of Physical and Occupational Therapy, Faculty of Medicine, 3654 Promenade Sir William Osler, Montreal, QC H3G 1Y5 Canada ; Center for Interdisciplinary Research in Rehabilitation, Montreal, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virtual reality",
+        "Stroke",
+        "intervention",
+        "Clinical Outcomes",
+        "Reaching"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4389038?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4389038"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s40120-012-0003-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-05-22"
+  ],
+  "dateOfCreation": [
+    "2015-05-22"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2012-08-24"
+  ],
+  "firstPublicationDate": [
+    "2012-08-24"
+  ]
+}

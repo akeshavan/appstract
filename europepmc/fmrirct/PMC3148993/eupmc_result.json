@@ -1,0 +1,787 @@
+{
+  "id": [
+    "21752257"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21752257"
+  ],
+  "pmcid": [
+    "PMC3148993"
+  ],
+  "doi": [
+    "10.1186/1745-6215-12-175"
+  ],
+  "title": [
+    "Improving mood with psychoanalytic and cognitive therapies (IMPACT): a pragmatic effectiveness superiority trial to investigate whether specialised psychological treatment reduces the risk for relapse in adolescents with moderate to severe unipolar depression: study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Goodyer IM, Tsancheva S, Byford S, Dubicka B, Hill J, Kelvin R, Reynolds S, Roberts C, Senior R, Suckling J, Wilkinson P, Target M, Fonagy P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goodyer IM"
+          ],
+          "firstName": [
+            "Ian M"
+          ],
+          "lastName": [
+            "Goodyer"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Cambridge and the Cambridge and Peterborough Foundation Trust, Douglas House, 18b Trumpington Road Cambridge, UK. ig104@cam.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Tsancheva S"
+          ],
+          "firstName": [
+            "Sonya"
+          ],
+          "lastName": [
+            "Tsancheva"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Byford S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Byford"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7084-1495",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dubicka B"
+          ],
+          "firstName": [
+            "Bernadka"
+          ],
+          "lastName": [
+            "Dubicka"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Hill J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Hill"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Kelvin R"
+          ],
+          "firstName": [
+            "Raphael"
+          ],
+          "lastName": [
+            "Kelvin"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Reynolds S"
+          ],
+          "firstName": [
+            "Shirley"
+          ],
+          "lastName": [
+            "Reynolds"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9975-2023",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Roberts C"
+          ],
+          "firstName": [
+            "Christopher"
+          ],
+          "lastName": [
+            "Roberts"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Senior R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Senior"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Suckling J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Suckling"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Wilkinson P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Wilkinson"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Target M"
+          ],
+          "firstName": [
+            "Mary"
+          ],
+          "lastName": [
+            "Target"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Fonagy P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Fonagy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0229-0091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9975-2023",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7084-1495",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0229-0091",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2469902"
+      ],
+      "dateOfPublication": [
+        "2011 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "175"
+  ],
+  "abstractText": [
+    "Up to 70% of adolescents with moderate to severe unipolar major depression respond to psychological treatment plus Fluoxetine (20-50 mg) with symptom reduction and improved social function reported by 24 weeks after beginning treatment. Around 20% of non responders appear treatment resistant and 30% of responders relapse within 2 years. The specific efficacy of different psychological therapies and the moderators and mediators that influence risk for relapse are unclear. The cost-effectiveness and safety of psychological treatments remain poorly evaluated.Improving Mood with Psychoanalytic and Cognitive Therapies, the IMPACT Study, will determine whether Cognitive Behavioural Therapy or Short Term Psychoanalytic Therapy is superior in reducing relapse compared with Specialist Clinical Care. The study is a multicentre pragmatic effectiveness superiority randomised clinical trial: Cognitive Behavioural Therapy consists of 20 sessions over 30 weeks, Short Term Psychoanalytic Psychotherapy 30 sessions over 30 weeks and Specialist Clinical Care 12 sessions over 20 weeks. We will recruit 540 patients with 180 randomised to each arm. Patients will be reassessed at 6, 12, 36, 52 and 86 weeks. Methodological aspects of the study are systematic recruitment, explicit inclusion criteria, reliability checks of assessments with control for rater shift, research assessors independent of treatment team and blind to randomization, analysis by intention to treat, data management using remote data entry, measures of quality assurance, advanced statistical analysis, manualised treatment protocols, checks of adherence and competence of therapists and assessment of cost-effectiveness. We will also determine whether time to recovery and/or relapse are moderated by variations in brain structure and function and selected genetic and hormone biomarkers taken at entry.The objective of this clinical trial is to determine whether there are specific effects of specialist psychotherapy that reduce relapse in unipolar major depression in adolescents and thereby costs of treatment to society. We also anticipate being able to utilise psychotherapy experience, neuroimaging, genetic and hormone measures to reveal what techniques and their protocols may work best for which patients.Current Controlled Trials ISRCTN83033550."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, University of Cambridge and the Cambridge and Peterborough Foundation Trust, Douglas House, 18b Trumpington Road Cambridge, UK. ig104@cam.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "06/05/01"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NF-SI-0510-10228"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0802226"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "97/29/01"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Assessment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Adolescent Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Affect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatric Status Rating Scales"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Psychoanalytic Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Care Costs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Secondary Prevention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3148993?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3148993"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21752257/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21752257/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1745-6215-12-175"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "20"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-15"
+  ],
+  "dateOfCreation": [
+    "2011-08-03"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2011-07-13"
+  ],
+  "firstPublicationDate": [
+    "2011-07-13"
+  ]
+}

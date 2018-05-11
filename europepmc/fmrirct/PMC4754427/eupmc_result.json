@@ -1,0 +1,302 @@
+{
+  "id": [
+    "26909013"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26909013"
+  ],
+  "pmcid": [
+    "PMC4754427"
+  ],
+  "doi": [
+    "10.3389/fnins.2016.00030"
+  ],
+  "title": [
+    "Targeting Neural Endophenotypes of Eating Disorders with Non-invasive Brain Stimulation."
+  ],
+  "authorString": [
+    "Dunlop KA, Woodside B, Downar J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Dunlop KA"
+          ],
+          "firstName": [
+            "Katharine A"
+          ],
+          "lastName": [
+            "Dunlop"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Institute of Medical Sciences, University of TorontoToronto, ON, Canada; MRI-Guided rTMS Clinic, University Health NetworkToronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Woodside B"
+          ],
+          "firstName": [
+            "Blake"
+          ],
+          "lastName": [
+            "Woodside"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Medical Sciences, University of TorontoToronto, ON, Canada; Department of Psychiatry, University Health NetworkToronto, ON, Canada; Department of Psychiatry, University of TorontoToronto, ON, Canada; Eating Disorders Program, University Health NetworkToronto, ON, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Downar J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Downar"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5140-174X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Medical Sciences, University of TorontoToronto, ON, Canada; MRI-Guided rTMS Clinic, University Health NetworkToronto, ON, Canada; Department of Psychiatry, University Health NetworkToronto, ON, Canada; Department of Psychiatry, University of TorontoToronto, ON, Canada; Toronto Western Research Institute, University Health NetworkToronto, ON, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5140-174X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2369098"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "30"
+  ],
+  "abstractText": [
+    "The term \"eating disorders\" (ED) encompasses a wide variety of disordered eating and compensatory behaviors, and so the term is associated with considerable clinical and phenotypic heterogeneity. This heterogeneity makes optimizing treatment techniques difficult. One class of treatments is non-invasive brain stimulation (NIBS). NIBS, including repetitive transcranial magnetic stimulation (rTMS) and transcranial direct current stimulation (tDCS), are accessible forms of neuromodulation that alter the cortical excitability of a target brain region. It is crucial for NIBS to be successful that the target is well selected for the patient population in question. Targets may best be selected by stepping back from conventional DSM-5 diagnostic criteria to identify neural substrates of more basic phenotypes, including behavior related to rewards and punishment, cognitive control, and social processes. These phenotypic dimensions have been recently laid out by the Research Domain Criteria (RDoC) initiative. Consequently, this review is intended to identify potential dimensions as outlined by the RDoC and the underlying behavioral and neurobiological targets associated with ED. This review will also identify candidate targets for NIBS based on these dimensions and review the available literature on rTMS and tDCS in ED. This review systematically reviews abnormal neural circuitry in ED within the RDoC framework, and also systematically reviews the available literature investigating NIBS as a treatment for ED."
+  ],
+  "affiliation": [
+    "Institute of Medical Sciences, University of TorontoToronto, ON, Canada; MRI-Guided rTMS Clinic, University Health NetworkToronto, ON, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "fMRI",
+        "rTMS",
+        "Tdcs",
+        "Rdoc",
+        "Eating Disorders (Ed)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4754427?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4754427"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2016.00030"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-02-24"
+  ],
+  "dateOfCreation": [
+    "2016-02-24"
+  ],
+  "dateOfRevision": [
+    "2016-02-28"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-16"
+  ],
+  "firstPublicationDate": [
+    "2016-02-16"
+  ]
+}

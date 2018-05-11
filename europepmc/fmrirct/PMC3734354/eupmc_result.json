@@ -1,0 +1,278 @@
+{
+  "id": [
+    "23964224"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23964224"
+  ],
+  "pmcid": [
+    "PMC3734354"
+  ],
+  "doi": [
+    "10.3389/fnhum.2013.00445"
+  ],
+  "title": [
+    "Neuroimaging, a new tool for investigating the effects of early diet on cognitive and brain development."
+  ],
+  "authorString": [
+    "Isaacs EB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Isaacs EB"
+          ],
+          "firstName": [
+            "Elizabeth B"
+          ],
+          "lastName": [
+            "Isaacs"
+          ],
+          "initials": [
+            "EB"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004142"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "445"
+  ],
+  "abstractText": [
+    "Nutrition is crucial to the initial development of the central nervous system (CNS), and then to its maintenance, because both depend on dietary intake to supply the elements required to develop and fuel the system. Diet in early life is often seen in the context of \"programming\" where a stimulus occurring during a vulnerable period can have long-lasting or even lifetime effects on some aspect of the organism's structure or function. Nutrition was first shown to be a programming stimulus for growth, and then for cognitive behavior, in animal studies that were able to employ methods that allowed the demonstration of neural effects of early nutrition. Such research raised the question of whether nutrition could also programme cognition/brain structure in humans. Initial studies of cognitive effects were observational, usually conducted in developing countries where the presence of confounding factors made it difficult to interpret the role of nutrition in the cognitive deficits that were seen. Attributing causality to nutrition required randomized controlled trials (RCTs) and these, often in developed countries, started to appear around 30 years ago. Most demonstrated convincingly that early nutrition could affect subsequent cognition. Until the advent of neuroimaging techniques that allowed in vivo examination of the brain, however, we could determine very little about the neural effects of early diet in humans. The combination of well-designed trials with neuroimaging tools means that we are now able to pose and answer questions that would have seemed impossible only recently. This review discusses various neuroimaging methods that are suitable for use in nutrition studies, while pointing out some of the limitations that they may have. The existing literature is small, but examples of studies that have used these methods are presented. Finally, some considerations that have arisen from previous studies, as well as suggestions for future research, are discussed."
+  ],
+  "affiliation": [
+    "Childhood Nutrition Research Centre, UCL Institute of Child Health London, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognition",
+        "Brain Development",
+        "Programming",
+        "Neuroimaging",
+        "Early Diet"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3734354?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3734354"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23964224/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23964224/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2013.00445"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-08-21"
+  ],
+  "dateOfCreation": [
+    "2013-08-21"
+  ],
+  "dateOfRevision": [
+    "2013-08-23"
+  ],
+  "electronicPublicationDate": [
+    "2013-08-06"
+  ],
+  "firstPublicationDate": [
+    "2013-08-06"
+  ]
+}

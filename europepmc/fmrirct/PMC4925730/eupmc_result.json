@@ -1,0 +1,299 @@
+{
+  "id": [
+    "27358589"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27358589"
+  ],
+  "pmcid": [
+    "PMC4925730"
+  ],
+  "doi": [
+    "10.5114/wo.2016.60065"
+  ],
+  "title": [
+    "Acupuncture: could it become everyday practice in oncology?"
+  ],
+  "authorString": [
+    "Kilian-Kita A, Puskulluoglu M, Konopka K, Krzemieniecki K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kilian-Kita A"
+          ],
+          "firstName": [
+            "Aneta"
+          ],
+          "lastName": [
+            "Kilian-Kita"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Clinical Oncology, University Hospital in Krakow, Krakow, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Puskulluoglu M"
+          ],
+          "firstName": [
+            "Mirosława"
+          ],
+          "lastName": [
+            "Puskulluoglu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Clinical Oncology, University Hospital in Krakow, Krakow, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Konopka K"
+          ],
+          "firstName": [
+            "Kamil"
+          ],
+          "lastName": [
+            "Konopka"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Clinical Oncology, University Hospital in Krakow, Krakow, Poland."
+          ]
+        },
+        {
+          "fullName": [
+            "Krzemieniecki K"
+          ],
+          "firstName": [
+            "Krzysztof"
+          ],
+          "lastName": [
+            "Krzemieniecki"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Clinical Oncology, University Hospital in Krakow, Krakow, Poland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "20"
+      ],
+      "journalIssueId": [
+        "2423841"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Contemporary oncology (Poznan, Poland)"
+          ],
+          "ISOAbbreviation": [
+            "Contemp Oncol (Pozn)"
+          ],
+          "medlineAbbreviation": [
+            "Contemp Oncol (Pozn)"
+          ],
+          "NLMid": [
+            "101233223"
+          ],
+          "ISSN": [
+            "1428-2526"
+          ],
+          "ESSN": [
+            "1897-4309"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "119-123"
+  ],
+  "abstractText": [
+    "Acupuncture is a complementary and alternative medical treatment (CAM) which is increasingly used in the care of cancer patients. Traditionally derived from Chinese medicine, nowadays it is becoming a part of evidence-based oncology. The use of acupuncture in these patients has been recommended by the American Cancer Society (ACS) for the treatment of side effects associated with conventional cancer therapy and cancer-related ailments. A growing body of evidence supports the use of acupuncture in the treatment of cancer-induced pain and chemotherapy-related nausea and vomiting. Also other indications, such as xerostomia, fatigue, hot flashes, anxiety and peripheral neuropathy, are being constantly evaluated. This article summarizes the most important discoveries related to the possible usefulness of this method in contemporary oncology. Emphasis is placed on the results of randomized controlled trials with an adequate level of evidence. However, explanation of the mechanisms responsible for these effects requires confirmation in further studies with an adequate level of evidence. In future, acupuncture may become an interesting and valuable addition to conventional medicine."
+  ],
+  "affiliation": [
+    "Department of Clinical Oncology, University Hospital in Krakow, Krakow, Poland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Acupuncture",
+        "Side effects",
+        "Complementary And Alternative Treatment",
+        "Supportive Treatment"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4925730?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4925730"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5114/wo.2016.60065"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-30"
+  ],
+  "dateOfCreation": [
+    "2016-06-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-14"
+  ],
+  "firstPublicationDate": [
+    "2016-06-14"
+  ]
+}

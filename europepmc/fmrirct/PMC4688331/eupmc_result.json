@@ -1,0 +1,370 @@
+{
+  "id": [
+    "26713079"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26713079"
+  ],
+  "pmcid": [
+    "PMC4688331"
+  ],
+  "doi": [
+    "10.5607/en.2015.24.4.312"
+  ],
+  "title": [
+    "Is Oxytocin Application for Autism Spectrum Disorder Evidence-Based?"
+  ],
+  "authorString": [
+    "Lee SY, Lee AR, Hwangbo R, Han J, Hong M, Bahn GH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lee SY"
+          ],
+          "firstName": [
+            "Seung Yup"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "affiliation": [
+            "Graduate School of Medicine, Kyung Hee University, Seoul 02543, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee AR"
+          ],
+          "firstName": [
+            "Ah Rah"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Kyung Hee University School of Medicine, Seoul 02543, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Hwangbo R"
+          ],
+          "firstName": [
+            "Ram"
+          ],
+          "lastName": [
+            "Hwangbo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Kyung Hee University Hospital, Seoul 02447, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Han J"
+          ],
+          "firstName": [
+            "Juhee"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Kyung Hee University Hospital, Seoul 02447, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Hong M"
+          ],
+          "firstName": [
+            "Minha"
+          ],
+          "lastName": [
+            "Hong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4924-1107",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Seonam University, College of Medicine, Myongji Hospital, Goyang 10475, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Bahn GH"
+          ],
+          "firstName": [
+            "Geon Ho"
+          ],
+          "lastName": [
+            "Bahn"
+          ],
+          "initials": [
+            "GH"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Kyung Hee University School of Medicine, Seoul 02447, Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4924-1107",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4120-5603",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2357326"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Experimental neurobiology"
+          ],
+          "ISOAbbreviation": [
+            "Exp Neurobiol"
+          ],
+          "medlineAbbreviation": [
+            "Exp Neurobiol"
+          ],
+          "NLMid": [
+            "101278187"
+          ],
+          "ISSN": [
+            "1226-2560"
+          ],
+          "ESSN": [
+            "2093-8144"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "312-324"
+  ],
+  "abstractText": [
+    "Autism spectrum disorder (ASD) is characterized by persistent deficits within two core symptom domains: social communication and restricted, repetitive behaviors. Although numerous studies have reported psychopharmacological treatment outcomes for the core symptom domains of ASD, there are not enough studies on fundamental treatments based on the etiological pathology of ASD. Studies on candidate medications related to the pathogenesis of ASD, such as naltrexone and secretin, were conducted, but the results were inconclusive. Oxytocin has been identified as having an important role in maternal behavior and attachment, and it has been recognized as a key factor in the social developmental deficit seen in ASD. Genetic studies have also identified associations between ASD and the oxytocin pathway. As ASD has its onset in infancy, parents are willing to try even experimental or unapproved treatments in an effort to avoid missing the critical period for diagnosis and treatment, which can place their child in an irreversible state. While therapeutic application of oxytocin for ASD is in its early stages, we have concluded that oxytocin would be a promising therapeutic substance via a thorough literature review focusing on the following: the relationship between oxytocin and sociality; single nucleotide polymorphisms as a biological marker of ASD; and validity verification of oxytocin treatment in humans. We also reviewed materials related to the mechanism of oxytocin action that may support its potential application in treating ASD."
+  ],
+  "affiliation": [
+    "Graduate School of Medicine, Kyung Hee University, Seoul 02543, Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oxytocin",
+        "Gene",
+        "Behavior",
+        "Intranasal",
+        "Sociality",
+        "Autism Spectrum Disorder"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4688331?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4688331"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5607/en.2015.24.4.312"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-12-29"
+  ],
+  "dateOfCreation": [
+    "2015-12-29"
+  ],
+  "dateOfRevision": [
+    "2015-12-31"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-16"
+  ],
+  "firstPublicationDate": [
+    "2015-12-16"
+  ]
+}

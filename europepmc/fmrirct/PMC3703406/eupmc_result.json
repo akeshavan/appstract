@@ -1,0 +1,520 @@
+{
+  "id": [
+    "23843881"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23843881"
+  ],
+  "pmcid": [
+    "PMC3703406"
+  ],
+  "doi": [
+    "10.1155/2013/795906"
+  ],
+  "title": [
+    "Acupuncture-evoked response in somatosensory and prefrontal cortices predicts immediate pain reduction in carpal tunnel syndrome."
+  ],
+  "authorString": [
+    "Maeda Y, Kettner N, Lee J, Kim J, Cina S, Malatesta C, Gerber J, McManus C, Im J, Libby A, Mezzacappa P, Morse LR, Park K, Audette J, Napadow V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Maeda Y"
+          ],
+          "firstName": [
+            "Yumi"
+          ],
+          "lastName": [
+            "Maeda"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital, No. 2301 149 Thirteenth Street, Charlestown, MA 02129, USA ; Department of Radiology, Logan College of Chiropractic/University Programs, Chesterfield, MO 63017, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kettner N"
+          ],
+          "firstName": [
+            "Norman"
+          ],
+          "lastName": [
+            "Kettner"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Lee J"
+          ],
+          "firstName": [
+            "Jeungchan"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Kim J"
+          ],
+          "firstName": [
+            "Jieun"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Cina S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Cina"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Malatesta C"
+          ],
+          "firstName": [
+            "Cristina"
+          ],
+          "lastName": [
+            "Malatesta"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Gerber J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Gerber"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "McManus C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "McManus"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Im J"
+          ],
+          "firstName": [
+            "Jaehyun"
+          ],
+          "lastName": [
+            "Im"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Libby A"
+          ],
+          "firstName": [
+            "Alexandra"
+          ],
+          "lastName": [
+            "Libby"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Mezzacappa P"
+          ],
+          "firstName": [
+            "Pia"
+          ],
+          "lastName": [
+            "Mezzacappa"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Morse LR"
+          ],
+          "firstName": [
+            "Leslie R"
+          ],
+          "lastName": [
+            "Morse"
+          ],
+          "initials": [
+            "LR"
+          ]
+        },
+        {
+          "fullName": [
+            "Park K"
+          ],
+          "firstName": [
+            "Kyungmo"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Audette J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Audette"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Napadow V"
+          ],
+          "firstName": [
+            "Vitaly"
+          ],
+          "lastName": [
+            "Napadow"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1941-1750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1941-1750",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2004961"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "795906"
+  ],
+  "abstractText": [
+    "The linkage between brain response to acupuncture and subsequent analgesia remains poorly understood. Our aim was to evaluate this linkage in chronic pain patients with carpal tunnel syndrome (CTS). Brain response to electroacupuncture (EA) was evaluated with functional MRI. Subjects were randomized to 3 groups: (1) EA applied at local acupoints on the affected wrist (PC-7 to TW-5), (2) EA at distal acupoints (contralateral ankle, SP-6 to LV-4), and (3) sham EA at nonacupoint locations on the affected wrist. Symptom ratings were evaluated prior to and following the scan. Subjects in the local and distal groups reported reduced pain. Verum EA produced greater reduction of paresthesia compared to sham. Compared to sham EA, local EA produced greater activation in insula and S2 and greater deactivation in ipsilateral S1, while distal EA produced greater activation in S2 and deactivation in posterior cingulate cortex. Brain response to distal EA in prefrontal cortex (PFC) and brain response to verum EA in S1, SMA, and PFC were correlated with pain reduction following stimulation. Thus, while greater activation to verum acupuncture in these regions may predict subsequent analgesia, PFC activation may specifically mediate reduced pain when stimulating distal acupoints."
+  ],
+  "affiliation": [
+    "Athinoula A. Martinos Center for Biomedical Imaging, Department of Radiology, Massachusetts General Hospital, No. 2301 149 Thirteenth Street, Charlestown, MA 02129, USA ; Department of Radiology, Logan College of Chiropractic/University Programs, Chesterfield, MO 63017, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AT004714"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 AT002048"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3703406?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3703406"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23843881/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23843881/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/795906"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-07-11"
+  ],
+  "dateOfCreation": [
+    "2013-07-11"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2013-06-17"
+  ],
+  "firstPublicationDate": [
+    "2013-06-17"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "id": [
+    "26816866"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26816866"
+  ],
+  "pmcid": [
+    "PMC4708545"
+  ],
+  "doi": [
+    "10.3978/j.issn.2223-4683.2015.10.09"
+  ],
+  "title": [
+    "Similarities between interstitial cystitis/bladder pain syndrome and vulvodynia: implications for patient management."
+  ],
+  "authorString": [
+    "Fariello JY, Moldwin RM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fariello JY"
+          ],
+          "firstName": [
+            "Jennifer Yonaitis"
+          ],
+          "lastName": [
+            "Fariello"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "1 Academic Urology at Bryn Mawr, The Center for Pelvic Medicine, Rosemont, PA, USA ; 2 Hofstra North Shore-LIJ School of Medicine, Pelvic Pain Treatment Center, The Arthur Smith Institute for Urology, North Shore-LIJ Healthcare System, New Hyde Park, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Moldwin RM"
+          ],
+          "firstName": [
+            "Robert M"
+          ],
+          "lastName": [
+            "Moldwin"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "1 Academic Urology at Bryn Mawr, The Center for Pelvic Medicine, Rosemont, PA, USA ; 2 Hofstra North Shore-LIJ School of Medicine, Pelvic Pain Treatment Center, The Arthur Smith Institute for Urology, North Shore-LIJ Healthcare System, New Hyde Park, NY, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2367605"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Translational andrology and urology"
+          ],
+          "ISOAbbreviation": [
+            "Transl Androl Urol"
+          ],
+          "medlineAbbreviation": [
+            "Transl Androl Urol"
+          ],
+          "NLMid": [
+            "101581119"
+          ],
+          "ISSN": [
+            "2223-4691"
+          ],
+          "ESSN": [
+            "2223-4691"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "643-652"
+  ],
+  "abstractText": [
+    "Interstitial cystitis/bladder pain syndrome (IC/BPS) and vulvodynia are chronic pain syndromes that appear to be intertwined from the perspectives of embryology, pathology and epidemiology. These associations may account for similar responses to various therapies."
+  ],
+  "affiliation": [
+    "1 Academic Urology at Bryn Mawr, The Center for Pelvic Medicine, Rosemont, PA, USA ; 2 Hofstra North Shore-LIJ School of Medicine, Pelvic Pain Treatment Center, The Arthur Smith Institute for Urology, North Shore-LIJ Healthcare System, New Hyde Park, NY, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Interstitial Cystitis/bladder Pain Syndrome (Ic/bps)",
+        "Vulvodynia, Urogenital Sinus (Ugs), Treatments"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4708545?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4708545"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3978/j.issn.2223-4683.2015.10.09"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-28"
+  ],
+  "dateOfCreation": [
+    "2016-01-28"
+  ],
+  "dateOfRevision": [
+    "2016-01-29"
+  ],
+  "firstPublicationDate": [
+    "2015-12-01"
+  ]
+}

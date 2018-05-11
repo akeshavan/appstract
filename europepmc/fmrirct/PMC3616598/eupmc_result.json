@@ -1,0 +1,335 @@
+{
+  "id": [
+    "23650474"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23650474"
+  ],
+  "pmcid": [
+    "PMC3616598"
+  ],
+  "doi": [
+    "10.4137/jcnsd.s6691"
+  ],
+  "title": [
+    "Pharmacological treatment of attention deficit hyperactivity disorder in children and adolescents: clinical strategies."
+  ],
+  "authorString": [
+    "Shier AC, Reichenbacher T, Ghuman HS, Ghuman JK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shier AC"
+          ],
+          "firstName": [
+            "Anna C"
+          ],
+          "lastName": [
+            "Shier"
+          ],
+          "initials": [
+            "AC"
+          ]
+        },
+        {
+          "fullName": [
+            "Reichenbacher T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Reichenbacher"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Ghuman HS"
+          ],
+          "firstName": [
+            "Harinder S"
+          ],
+          "lastName": [
+            "Ghuman"
+          ],
+          "initials": [
+            "HS"
+          ]
+        },
+        {
+          "fullName": [
+            "Ghuman JK"
+          ],
+          "firstName": [
+            "Jaswinder K"
+          ],
+          "lastName": [
+            "Ghuman"
+          ],
+          "initials": [
+            "JK"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2036763"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of central nervous system disease"
+          ],
+          "ISOAbbreviation": [
+            "J Cent Nerv Syst Dis"
+          ],
+          "medlineAbbreviation": [
+            "J Cent Nerv Syst Dis"
+          ],
+          "NLMid": [
+            "101595026"
+          ],
+          "ISSN": [
+            "1179-5735"
+          ],
+          "ESSN": [
+            "1179-5735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "1-17"
+  ],
+  "abstractText": [
+    "Attention deficit hyperactivity disorder (ADHD) is a common neurobehavioral disorder of childhood that can result in significant functional impairment, and if not adequately treated can lead to impaired quality of life. Pharmacotherapy is considered the first-line treatment for ADHD in children and adolescents. We review both recent literature and seminal studies regarding the pharmacological treatment of ADHD in children and adolescents. There is ample evidence for the efficacy and safety of both stimulants and non-stimulants in the treatment of ADHD. We review important aspects of evaluation and assessment and discuss first-line pharmacological treatments and as well as when to consider using alternative pharmacological agents. Treatment approaches to manage frequently seen comorbid disorders with ADHD are also covered."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K23 MH001883"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "ADHD",
+        "Adolescents",
+        "Stimulants",
+        "Non-stimulants",
+        "Clinical Strategies"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3616598?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3616598"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23650474/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23650474/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4137/JCNSD.S6691"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-08"
+  ],
+  "dateOfCreation": [
+    "2013-05-07"
+  ],
+  "dateOfRevision": [
+    "2016-10-24"
+  ],
+  "electronicPublicationDate": [
+    "2012-12-20"
+  ],
+  "firstPublicationDate": [
+    "2012-12-20"
+  ]
+}

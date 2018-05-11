@@ -1,0 +1,299 @@
+{
+  "id": [
+    "26257700"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26257700"
+  ],
+  "pmcid": [
+    "PMC4513203"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2015.01059"
+  ],
+  "title": [
+    "Calm and smart? A selective review of meditation effects on decision making."
+  ],
+  "authorString": [
+    "Sun S, Yao Z, Wei J, Yu R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sun S"
+          ],
+          "firstName": [
+            "Sai"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychology and Center for Studies of Psychological Application, School of Psychology, South China Normal University Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yao Z"
+          ],
+          "firstName": [
+            "Ziqing"
+          ],
+          "lastName": [
+            "Yao"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Psychology and Center for Studies of Psychological Application, School of Psychology, South China Normal University Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wei J"
+          ],
+          "firstName": [
+            "Jaixin"
+          ],
+          "lastName": [
+            "Wei"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychology and Center for Studies of Psychological Application, School of Psychology, South China Normal University Guangzhou, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu R"
+          ],
+          "firstName": [
+            "Rongjun"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Psychology and Center for Studies of Psychological Application, School of Psychology, South China Normal University Guangzhou, China ; School of Economics and Management and Scientific Laboratory of Economic Behaviors, South China Normal University Guangzhou, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2250732"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1059"
+  ],
+  "abstractText": [
+    "Over the past two decades, there has been a growing interest in the use of meditation to improve cognitive performance, emotional balance, and well-being. As a consequence, research into the psychological effects and neural mechanisms of meditation has been accumulating. Whether and how meditation affects decision making is not yet clear. Here, we review evidence from behavioral and neuroimaging studies and summarize the effects of meditation on social and non-social economic decision making. Research suggests that meditation modulates brain activities associated with cognitive control, emotion regulation and empathy, and leads to improved non-social and social decision making. Accordingly, we propose an integrative model in which cognitive control, emotional regulation, and empathic concern mediate the effects of meditation on decision making. This model provides insights into the mechanisms by which meditation affects the decision making process. More evidence is needed to test our explanatory model and to explore the function of specific brain areas and their interactive effects on decision making during meditation training."
+  ],
+  "affiliation": [
+    "Department of Psychology and Center for Studies of Psychological Application, School of Psychology, South China Normal University Guangzhou, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Decision Making",
+        "Meditation",
+        "Empathy",
+        "Neuroimaging",
+        "Prosocial Behavior"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4513203?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4513203"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2015.01059"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-08-10"
+  ],
+  "dateOfCreation": [
+    "2015-08-10"
+  ],
+  "dateOfRevision": [
+    "2015-08-12"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-24"
+  ],
+  "firstPublicationDate": [
+    "2015-07-24"
+  ]
+}

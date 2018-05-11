@@ -1,0 +1,545 @@
+{
+  "id": [
+    "27703739"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27703739"
+  ],
+  "pmcid": [
+    "PMC4995563"
+  ],
+  "doi": [
+    "10.1192/bjpo.bp.115.001339"
+  ],
+  "title": [
+    "Alterations in dorsal and ventral posterior cingulate connectivity in APOE ε4 carriers at risk of Alzheimer's disease."
+  ],
+  "authorString": [
+    "Kerestes R, Phal PM, Steward C, Moffat BA, Salinas S, Cox KL, Ellis KA, Cyarto EV, Ames D, Martins RN, Masters CL, Rowe CC, Sharman MJ, Salvado O, Szoeke C, Lai M, Lautenschlager NT, Desmond PM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kerestes R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Kerestes"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            ", PhD, Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, Australia and Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Phal PM"
+          ],
+          "firstName": [
+            "Pramit M"
+          ],
+          "lastName": [
+            "Phal"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            ", MBBS, FRANZCR."
+          ]
+        },
+        {
+          "fullName": [
+            "Steward C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Steward"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            ", PhD."
+          ]
+        },
+        {
+          "fullName": [
+            "Moffat BA"
+          ],
+          "firstName": [
+            "Bradford A"
+          ],
+          "lastName": [
+            "Moffat"
+          ],
+          "initials": [
+            "BA"
+          ],
+          "affiliation": [
+            ", PhD."
+          ]
+        },
+        {
+          "fullName": [
+            "Salinas S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "Salinas"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            ", MSc (Eng), all at Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cox KL"
+          ],
+          "firstName": [
+            "Kay L"
+          ],
+          "lastName": [
+            "Cox"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            ", PhD, School of Medicine and Pharmacology, University of Western Australia, Perth, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ellis KA"
+          ],
+          "firstName": [
+            "Kathryn A"
+          ],
+          "lastName": [
+            "Ellis"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            ", PhD, Academic Unit for Psychiatry of Old Age, St. Vincent's Health, Department of Psychiatry, University of Melbourne, Melbourne, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Cyarto EV"
+          ],
+          "firstName": [
+            "Elizabeth V"
+          ],
+          "lastName": [
+            "Cyarto"
+          ],
+          "initials": [
+            "EV"
+          ],
+          "affiliation": [
+            ", PhD, National Ageing Research Institute, University of Melbourne, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Ames D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Ames"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            ", MBBS, FRANZC, FRCPsych, Academic Unit for Psychiatry of Old Age, St Vincent's Health, Department of Psychiatry, University of Melbourne, Melbourne, Australia and National Ageing Research Institute, University of Melbourne, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Martins RN"
+          ],
+          "firstName": [
+            "Ralph N"
+          ],
+          "lastName": [
+            "Martins"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            ", PhD, School of Medical Sciences, Edith Cowan University, Perth, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Masters CL"
+          ],
+          "firstName": [
+            "Colin L"
+          ],
+          "lastName": [
+            "Masters"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            ", MD, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Rowe CC"
+          ],
+          "firstName": [
+            "Christopher C"
+          ],
+          "lastName": [
+            "Rowe"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            ", MD, FRACP, Department of Nuclear Medicine and Centre for PET, Austin Health, Heidelberg, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sharman MJ"
+          ],
+          "firstName": [
+            "Matthew J"
+          ],
+          "lastName": [
+            "Sharman"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1005-4793",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            ", PhD, School of Health Sciences, University of Tasmania, Hobart, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Salvado O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Salvado"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            ", PhD, Commonwealth Scientific Industrial Research Organization Preventative Health National Research Flagship, Australian e-Health Research Centre, Brisbane, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Szoeke C"
+          ],
+          "firstName": [
+            "Cassandra"
+          ],
+          "lastName": [
+            "Szoeke"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            ", MBBS, FRACP, PhD."
+          ]
+        },
+        {
+          "fullName": [
+            "Lai M"
+          ],
+          "firstName": [
+            "Michelle"
+          ],
+          "lastName": [
+            "Lai"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            ", MBBS, MPH, Mmed, National Ageing Research Institute, University of Melbourne, Parkville, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lautenschlager NT"
+          ],
+          "firstName": [
+            "Nicola T"
+          ],
+          "lastName": [
+            "Lautenschlager"
+          ],
+          "initials": [
+            "NT"
+          ],
+          "affiliation": [
+            ", MD, Academic Unit for Psychiatry of Old Age, St. Vincent's Health, Department of Psychiatry, University of Melbourne, Melbourne, Australia and North Western Mental Health, Melbourne Health, Melbourne, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Desmond PM"
+          ],
+          "firstName": [
+            "Patricia M"
+          ],
+          "lastName": [
+            "Desmond"
+          ],
+          "initials": [
+            "PM"
+          ],
+          "affiliation": [
+            ", MD, Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1005-4793",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2458732"
+      ],
+      "dateOfPublication": [
+        "2015 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BJPsych open"
+          ],
+          "ISOAbbreviation": [
+            "BJPsych Open"
+          ],
+          "medlineAbbreviation": [
+            "BJPsych Open"
+          ],
+          "NLMid": [
+            "101667931"
+          ],
+          "ISSN": [
+            "2056-4724"
+          ],
+          "ESSN": [
+            "2056-4724"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "139-148"
+  ],
+  "abstractText": [
+    "Recent evidence suggests that exercise plays a role in cognition and that the posterior cingulate cortex (PCC) can be divided into dorsal and ventral subregions based on distinct connectivity patterns.To examine the effect of physical activity and division of the PCC on brain functional connectivity measures in subjective memory complainers (SMC) carrying the epsilon 4 allele of apolipoprotein E (APOE ε4) allele.Participants were 22 SMC carrying the APOE ε4 allele (ε4+; mean age 72.18 years) and 58 SMC non-carriers (ε4-; mean age 72.79 years). Connectivity of four dorsal and ventral seeds was examined. Relationships between PCC connectivity and physical activity measures were explored.ε4+ individuals showed increased connectivity between the dorsal PCC and dorsolateral prefrontal cortex, and the ventral PCC and supplementary motor area (SMA). Greater levels of physical activity correlated with the magnitude of ventral PCC-SMA connectivity.The results provide the first evidence that ε4+ individuals at increased risk of cognitive decline show distinct alterations in dorsal and ventral PCC functional connectivity.D.A. has served on scientific advisory boards for Novartis, Eli Lilly, Janssen, Prana and Pfizer, and as Editor-in-Chief for International Psychogeriatrics; received speaker honoraria from Pfizer and Lundbeck, and research support from Eli Lilly, GlaxoSmithKline, Forest Laboratories, Novartis, and CSIRO. C.L.M. has received consulting fees from Eli Lilly and Prana Biotechnology, and has stock ownership in Prana Biotechnology. C.C.R. has received consultancy payments from Roche and Piramal, and research support from Avid Radiopharmaceuticals, Eli Lilly, GE Healthcare, Piramal and Navidea for amyloid imaging. C.S. has provided clinical consultancy and been on scientific advisory committees for the Australian CSIRO, Alzheimer's Australia, University of Melbourne and other relationships, which are subject to confidentiality clauses; she has been a named Chief Investigator on investigator-driven collaborative research projects in partnership with Pfizer, Merck, Piramal, Bayer and GE Healthcare. Her research programme has received support from the National Health and Medical Research Council Alzheimer's Association, Collier Trust, Scobie and Claire McKinnon Foundation, JO and JR Wicking Trust, Shepherd Foundation, Brain Foundation, Mason Foundation, Ramaciotti Foundation, Alzheimer's Australia and the Royal Australian College of Physicians.© The Royal College of Psychiatrists 2015. This is an open access article distributed under the terms of the Creative Commons Non-Commercial, No Derivatives (CC BY-NC-ND) licence."
+  ],
+  "affiliation": [
+    ", PhD, Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, Australia and Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4995563?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4995563"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1192/bjpo.bp.115.001339"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-10-05"
+  ],
+  "dateOfRevision": [
+    "2017-02-08"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-09"
+  ],
+  "firstPublicationDate": [
+    "2015-10-01"
+  ]
+}

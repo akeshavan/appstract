@@ -1,0 +1,673 @@
+{
+  "id": [
+    "26499250"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26499250"
+  ],
+  "pmcid": [
+    "PMC4619532"
+  ],
+  "doi": [
+    "10.1186/s13063-015-0999-0"
+  ],
+  "title": [
+    "Would transcranial direct current stimulation (tDCS) enhance the effects of working memory training in older adults with mild neurocognitive disorder due to Alzheimer's disease: study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Cheng CP, Chan SS, Mak AD, Chan WC, Cheng ST, Shi L, Wang D, Lam LC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cheng CP"
+          ],
+          "firstName": [
+            "Calvin P W"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Tai Po Hospital, 9 Chuen On Road, Tai Po, Hong Kong. cpw182@ha.org.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Chan SS"
+          ],
+          "firstName": [
+            "Sandra S M"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The Chinese University of Hong Kong, Rm G25, G/F, Multi-center, Tai Po Hospital, 9 Chuen On Road, Tai Po, Hong Kong. schan@cuhk.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Mak AD"
+          ],
+          "firstName": [
+            "Arthur D P"
+          ],
+          "lastName": [
+            "Mak"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1627-6434",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The Chinese University of Hong Kong, Rm G25, G/F, Multi-center, Tai Po Hospital, 9 Chuen On Road, Tai Po, Hong Kong. arthurdpmak@cuhk.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Chan WC"
+          ],
+          "firstName": [
+            "Wai Chi"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Hong Kong, 3/F, HKJC for Interdisciplinary Research, 5 Sassoon Road, Pokfulam, Hong Kong. waicchan@hku.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng ST"
+          ],
+          "firstName": [
+            "Sheung Tak"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Department of Health and Physical Education, Hong Kong Institute of Education, Rm D4-2/F-03, Block D4, 10 Lo Ping Road, Tai Po, NT, Hong Kong. takcheng@ied.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi L"
+          ],
+          "firstName": [
+            "Lin"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Medicine and Therapeutics, The Chinese University of Hong Kong, 9/F, Lui Che Woo Sciences Building, Prince of Wales Hospital, Shatin, Hong Kong. shilin@cuhk.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang D"
+          ],
+          "firstName": [
+            "Defeng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Imaging and Interventional Radiology, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, Hong Kong. dfwang@cuhk.edu.hk."
+          ]
+        },
+        {
+          "fullName": [
+            "Lam LC"
+          ],
+          "firstName": [
+            "Linda Chiu-Wa"
+          ],
+          "lastName": [
+            "Lam"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The Chinese University of Hong Kong, Rm G25, G/F, Multi-center, Tai Po Hospital, 9 Chuen On Road, Tai Po, Hong Kong. cwlam@cuhk.edu.hk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1627-6434",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2252428"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "479"
+  ],
+  "abstractText": [
+    "There has been longstanding interesting in cognitive training for older adults with cognitive impairment. In this study, we will investigate the effects of working memory training, and explore augmentation strategies that could possibly consolidate the effects in older adults with mild neurocognitive disorder. Transcranial direct current stimulation (tDCS) has been demonstrated to affect the neuronal excitability and reported to enhance memory performance. As tDCS may also modulate cognitive function through changes in neuroplastic response, it would be adopted as an augmentation strategy for working memory training in the present study.This is a 4-week intervention double-blind randomized controlled trial (RCT) of tDCS. Chinese older adults (aged 60 to 90 years) with mild neurocognitive disorder due to Alzheimer's disease (DSM-5 criteria) would be randomized into a 4-week intervention of either tDCS-working memory (DCS-WM), tDCS-control cognitive training (DCS-CC), and sham tDCS-working memory (WM-CD) groups. The primary outcome would be working memory test - the n-back task performance and the Chinese version of the Alzheimer's Disease Assessment Scale - Cognitive Subscale (ADAS-Cog). Secondary outcomes would be test performance of specific cognitive domains and mood. Intention-to-treat analysis would be carried out. Changes of efficacy indicators with time and intervention would be tested with mixed effect models.This study adopts the theory of neuroplasticity to evaluate the potential cognitive benefits of non-invasive electrical brain stimulation, working memory training and dual stimulation in older adults at risk of cognitive decline. It would also examine the tolerability, program adherence and adverse effects of this novel intervention. Information would be helpful for further research of dementia prevention studies.ChiCTR-TRC- 14005036 Date of registration: 31 July 2014."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Tai Po Hospital, 9 Chuen On Road, Tai Po, Hong Kong. cpw182@ha.org.hk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Alzheimer Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Combined Modality Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Compliance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Memory, Short-Term"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuronal Plasticity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hong Kong"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intention to Treat Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Direct Current Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4619532?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4619532"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-015-0999-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-11"
+  ],
+  "dateOfCreation": [
+    "2015-10-27"
+  ],
+  "dateOfRevision": [
+    "2015-10-28"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-24"
+  ],
+  "firstPublicationDate": [
+    "2015-10-24"
+  ]
+}

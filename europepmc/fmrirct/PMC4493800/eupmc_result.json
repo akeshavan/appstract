@@ -1,0 +1,530 @@
+{
+  "id": [
+    "26149275"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26149275"
+  ],
+  "pmcid": [
+    "PMC4493800"
+  ],
+  "doi": [
+    "10.1186/s12888-015-0528-4"
+  ],
+  "title": [
+    "The clinical and cost effectiveness of group art therapy for people with non-psychotic mental health disorders: a systematic review and cost-effectiveness analysis."
+  ],
+  "authorString": [
+    "Uttley L, Stevenson M, Scope A, Rawdin A, Sutton A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Uttley L"
+          ],
+          "firstName": [
+            "Lesley"
+          ],
+          "lastName": [
+            "Uttley"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. l.uttley@sheffield.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Stevenson M"
+          ],
+          "firstName": [
+            "Matt"
+          ],
+          "lastName": [
+            "Stevenson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. m.d.stevenson@sheffield.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Scope A"
+          ],
+          "firstName": [
+            "Alison"
+          ],
+          "lastName": [
+            "Scope"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. a.scope@sheffield.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Rawdin A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Rawdin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. a.rawdin@sheffield.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Sutton A"
+          ],
+          "firstName": [
+            "Anthea"
+          ],
+          "lastName": [
+            "Sutton"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2449-2516",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. a.sutton@sheffield.ac.uk."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2449-2516",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2269475"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "151"
+  ],
+  "abstractText": [
+    "The majority of mental health problems are non-psychotic (e.g., depression, anxiety, and phobias). For some people, art therapy may be a more acceptable alternative form of psychological therapy than standard forms of treatment, such as talking therapies. This study was part of a health technology assessment commissioned by the National Institute for Health Research, UK and aimed to systematically appraise the clinical and cost-effective evidence for art therapy for people with non-psychotic mental health disorders.Comprehensive literature searches for studies examining art therapy in populations with non-psychotic mental health disorders were performed in May 2013. A quantitative systematic review of clinical effectiveness and a systematic review of studies evaluating the cost-effectiveness of group art therapy were conducted.Eleven randomised controlled trials were included (533 patients). Meta-analysis was not possible due to clinical heterogeneity and insufficient comparable data on outcome measures across studies. The control groups varied between studies but included: no treatment/wait-list, attention placebo controls and psychological therapy comparators. Art therapy was associated with significant positive changes relative to the control group in mental health symptoms in 7 of the 11 studies. A de novo model was constructed and populated with data identified from the clinical review. Scenario analyses were conducted allowing comparisons of group art therapy with wait-list control and group art therapy with group verbal therapy. Group art-therapy appeared cost-effective compared with wait-list control with high certainty although generalisability to the target population was unclear; group verbal therapy appeared more cost-effective than art therapy but there was considerable uncertainty and a sizeable probability that art therapy was more cost effective.From the limited available evidence art therapy was associated with positive effects compared with control in a number of studies in patients with different clinical profiles. The included trials were generally of poor quality and are therefore likely to be at high risk of bias. Art therapy appeared to be cost-effective versus wait-list but further studies are needed to confirm this finding in the target population. There was insufficient evidence to make an informed comparison of the cost-effectiveness of group art therapy with group verbal therapy.HTA project no. 12/27/16; PROSPERO registration no. CRD42013003957."
+  ],
+  "affiliation": [
+    "School of Health and Related Research (ScHARR), University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK. l.uttley@sheffield.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Art Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotherapy, Group"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality-Adjusted Life Years"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Waiting Lists"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4493800?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4493800"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-015-0528-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "26357908"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "BMC Psychiatry. 2015;15:212"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "13"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-04"
+  ],
+  "dateOfCreation": [
+    "2015-07-07"
+  ],
+  "dateOfRevision": [
+    "2015-07-09"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-07"
+  ],
+  "firstPublicationDate": [
+    "2015-07-07"
+  ]
+}

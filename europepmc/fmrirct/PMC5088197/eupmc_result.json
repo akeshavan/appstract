@@ -1,0 +1,312 @@
+{
+  "id": [
+    "27847473"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27847473"
+  ],
+  "pmcid": [
+    "PMC5088197"
+  ],
+  "doi": [
+    "10.3389/fnhum.2016.00533"
+  ],
+  "title": [
+    "Melodic Intonation Therapy in Chronic Aphasia: Evidence from a Pilot Randomized Controlled Trial."
+  ],
+  "authorString": [
+    "Van Der Meulen I, Van De Sandt-Koenderman MW, Heijenbrok MH, Visch-Brink E, Ribbers GM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Van Der Meulen I"
+          ],
+          "firstName": [
+            "Ineke"
+          ],
+          "lastName": [
+            "Van Der Meulen"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Rijndam Rehabilitation InstituteRotterdam, Netherlands; Department of Rehabilitation Medicine, Erasmus MC University Medical CentreRotterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Van De Sandt-Koenderman MW"
+          ],
+          "firstName": [
+            "Mieke W M E"
+          ],
+          "lastName": [
+            "Van De Sandt-Koenderman"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Rijndam Rehabilitation InstituteRotterdam, Netherlands; Department of Rehabilitation Medicine, Erasmus MC University Medical CentreRotterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Heijenbrok MH"
+          ],
+          "firstName": [
+            "Majanka H"
+          ],
+          "lastName": [
+            "Heijenbrok"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "affiliation": [
+            "Rijndam Rehabilitation InstituteRotterdam, Netherlands; Department of Rehabilitation Medicine, Erasmus MC University Medical CentreRotterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Visch-Brink E"
+          ],
+          "firstName": [
+            "Evy"
+          ],
+          "lastName": [
+            "Visch-Brink"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Neurology, Erasmus MC University Medical Centre Rotterdam, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ribbers GM"
+          ],
+          "firstName": [
+            "Gerard M"
+          ],
+          "lastName": [
+            "Ribbers"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Rijndam Rehabilitation InstituteRotterdam, Netherlands; Department of Rehabilitation Medicine, Erasmus MC University Medical CentreRotterdam, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2378184"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "533"
+  ],
+  "abstractText": [
+    "Melodic Intonation Therapy (MIT) is a language production therapy for severely non-fluent aphasic patients using melodic intoning and rhythm to restore language. Although many studies have reported its beneficial effects on language production, randomized controlled trials (RCT) examining the efficacy of MIT are rare. In an earlier publication, we presented the results of an RCT on MIT in subacute aphasia and found that MIT was effective on trained and untrained items. Further, we observed a clear trend in improved functional language use after MIT: subacute aphasic patients receiving MIT improved considerably on language tasks measuring connected speech and daily life verbal communication. Here, we present the results of a pilot RCT on MIT in chronic aphasia and compare these to the results observed in subacute aphasia. We used a multicenter waiting-list RCT design. Patients with chronic (>1 year) post-stroke aphasia were randomly allocated to the experimental group (6 weeks MIT) or to the control group (6 weeks no intervention followed by 6 weeks MIT). Assessments were done at baseline (T1), after 6 weeks (T2), and 6 weeks later (T3). Efficacy was evaluated at T2 using univariable linear regression analyses. Outcome measures were chosen to examine several levels of therapy success: improvement on trained items, generalization to untrained items, and generalization to verbal communication. Of 17 included patients, 10 were allocated to the experimental condition and 7 to the control condition. MIT significantly improved repetition of trained items (β = 13.32, p = 0.02). This effect did not remain stable at follow-up assessment. In contrast to earlier studies, we found only a limited and temporary effect of MIT, without generalization to untrained material or to functional communication. The results further suggest that the effect of MIT in chronic aphasia is more restricted than its effect in earlier stages post stroke. This is in line with studies showing larger effects of aphasia therapy in earlier compared to later stages post stroke. The study was designed as an RCT, but was underpowered. The results therefore have to be interpreted cautiously and future larger studies are needed.www.ClinicalTrials.gov, identifier NTR 1961."
+  ],
+  "affiliation": [
+    "Rijndam Rehabilitation InstituteRotterdam, Netherlands; Department of Rehabilitation Medicine, Erasmus MC University Medical CentreRotterdam, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Effectiveness",
+        "Aphasia",
+        "Language Therapy",
+        "Stroke Rehabilitation",
+        "Melodic Intonation Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5088197?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5088197"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2016.00533"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-16"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-01"
+  ],
+  "firstPublicationDate": [
+    "2016-11-01"
+  ]
+}

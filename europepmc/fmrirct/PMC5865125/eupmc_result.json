@@ -1,0 +1,569 @@
+{
+  "id": [
+    "29499084"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29499084"
+  ],
+  "pmcid": [
+    "PMC5865125"
+  ],
+  "doi": [
+    "10.1002/14651858.cd009728.pub4"
+  ],
+  "title": [
+    "Physical activity, diet and other behavioural interventions for improving cognition and school achievement in children and adolescents with obesity or overweight."
+  ],
+  "authorString": [
+    "Martin A, Booth JN, Laird Y, Sproule J, Reilly JJ, Saunders DH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Martin A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre for Population Health Sciences, University of Edinburgh, Medical School, Teviot Place, Edinburgh, UK, EH8 9AG."
+          ]
+        },
+        {
+          "fullName": [
+            "Booth JN"
+          ],
+          "firstName": [
+            "Josephine N"
+          ],
+          "lastName": [
+            "Booth"
+          ],
+          "initials": [
+            "JN"
+          ]
+        },
+        {
+          "fullName": [
+            "Laird Y"
+          ],
+          "firstName": [
+            "Yvonne"
+          ],
+          "lastName": [
+            "Laird"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9447-3439",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sproule J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Sproule"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Reilly JJ"
+          ],
+          "firstName": [
+            "John J"
+          ],
+          "lastName": [
+            "Reilly"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Saunders DH"
+          ],
+          "firstName": [
+            "David H"
+          ],
+          "lastName": [
+            "Saunders"
+          ],
+          "initials": [
+            "DH"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9447-3439",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2655928"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The Cochrane database of systematic reviews"
+          ],
+          "ISOAbbreviation": [
+            "Cochrane Database Syst Rev"
+          ],
+          "medlineAbbreviation": [
+            "Cochrane Database Syst Rev"
+          ],
+          "NLMid": [
+            "100909747"
+          ],
+          "ISSN": [
+            "1469-493X"
+          ],
+          "ESSN": [
+            "1469-493X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "CD009728"
+  ],
+  "abstractText": [
+    "The global prevalence of childhood and adolescent obesity is high. Lifestyle changes towards a healthy diet, increased physical activity and reduced sedentary activities are recommended to prevent and treat obesity. Evidence suggests that changing these health behaviours can benefit cognitive function and school achievement in children and adolescents in general. There are various theoretical mechanisms that suggest that children and adolescents with excessive body fat may benefit particularly from these interventions.To assess whether lifestyle interventions (in the areas of diet, physical activity, sedentary behaviour and behavioural therapy) improve school achievement, cognitive function (e.g. executive functions) and/or future success in children and adolescents with obesity or overweight, compared with standard care, waiting-list control, no treatment, or an attention placebo control group.In February 2017, we searched CENTRAL, MEDLINE and 15 other databases. We also searched two trials registries, reference lists, and handsearched one journal from inception. We also contacted researchers in the field to obtain unpublished data.We included randomised and quasi-randomised controlled trials (RCTs) of behavioural interventions for weight management in children and adolescents with obesity or overweight. We excluded studies in children and adolescents with medical conditions known to affect weight status, school achievement and cognitive function. We also excluded self- and parent-reported outcomes.Four review authors independently selected studies for inclusion. Two review authors extracted data, assessed quality and risks of bias, and evaluated the quality of the evidence using the GRADE approach. We contacted study authors to obtain additional information. We used standard methodological procedures expected by Cochrane. Where the same outcome was assessed across different intervention types, we reported standardised effect sizes for findings from single-study and multiple-study analyses to allow comparison of intervention effects across intervention types. To ease interpretation of the effect size, we also reported the mean difference of effect sizes for single-study outcomes.We included 18 studies (59 records) of 2384 children and adolescents with obesity or overweight. Eight studies delivered physical activity interventions, seven studies combined physical activity programmes with healthy lifestyle education, and three studies delivered dietary interventions. We included five RCTs and 13 cluster-RCTs. The studies took place in 10 different countries. Two were carried out in children attending preschool, 11 were conducted in primary/elementary school-aged children, four studies were aimed at adolescents attending secondary/high school and one study included primary/elementary and secondary/high school-aged children. The number of studies included for each outcome was low, with up to only three studies per outcome. The quality of evidence ranged from high to very low and 17 studies had a high risk of bias for at least one item. None of the studies reported data on additional educational support needs and adverse events.Compared to standard practice, analyses of physical activity-only interventions suggested high-quality evidence for improved mean cognitive executive function scores. The mean difference (MD) was 5.00 scale points higher in an after-school exercise group compared to standard practice (95% confidence interval (CI) 0.68 to 9.32; scale mean 100, standard deviation 15; 116 children, 1 study). There was no statistically significant beneficial effect in favour of the intervention for mathematics, reading, or inhibition control. The standardised mean difference (SMD) for mathematics was 0.49 (95% CI -0.04 to 1.01; 2 studies, 255 children, moderate-quality evidence) and for reading was 0.10 (95% CI -0.30 to 0.49; 2 studies, 308 children, moderate-quality evidence). The MD for inhibition control was -1.55 scale points (95% CI -5.85 to 2.75; scale range 0 to 100; SMD -0.15, 95% CI -0.58 to 0.28; 1 study, 84 children, very low-quality evidence). No data were available for average achievement across subjects taught at school.There was no evidence of a beneficial effect of physical activity interventions combined with healthy lifestyle education on average achievement across subjects taught at school, mathematics achievement, reading achievement or inhibition control. The MD for average achievement across subjects taught at school was 6.37 points lower in the intervention group compared to standard practice (95% CI -36.83 to 24.09; scale mean 500, scale SD 70; SMD -0.18, 95% CI -0.93 to 0.58; 1 study, 31 children, low-quality evidence). The effect estimate for mathematics achievement was SMD 0.02 (95% CI -0.19 to 0.22; 3 studies, 384 children, very low-quality evidence), for reading achievement SMD 0.00 (95% CI -0.24 to 0.24; 2 studies, 284 children, low-quality evidence), and for inhibition control SMD -0.67 (95% CI -1.50 to 0.16; 2 studies, 110 children, very low-quality evidence). No data were available for the effect of combined physical activity and healthy lifestyle education on cognitive executive functions.There was a moderate difference in the average achievement across subjects taught at school favouring interventions targeting the improvement of the school food environment compared to standard practice in adolescents with obesity (SMD 0.46, 95% CI 0.25 to 0.66; 2 studies, 382 adolescents, low-quality evidence), but not with overweight. Replacing packed school lunch with a nutrient-rich diet in addition to nutrition education did not improve mathematics (MD -2.18, 95% CI -5.83 to 1.47; scale range 0 to 69; SMD -0.26, 95% CI -0.72 to 0.20; 1 study, 76 children, low-quality evidence) and reading achievement (MD 1.17, 95% CI -4.40 to 6.73; scale range 0 to 108; SMD 0.13, 95% CI -0.35 to 0.61; 1 study, 67 children, low-quality evidence).Despite the large number of childhood and adolescent obesity treatment trials, we were only able to partially assess the impact of obesity treatment interventions on school achievement and cognitive abilities. School and community-based physical activity interventions as part of an obesity prevention or treatment programme can benefit executive functions of children with obesity or overweight specifically. Similarly, school-based dietary interventions may benefit general school achievement in children with obesity. These findings might assist health and education practitioners to make decisions related to promoting physical activity and healthy eating in schools. Future obesity treatment and prevention studies in clinical, school and community settings should consider assessing academic and cognitive as well as physical outcomes."
+  ],
+  "affiliation": [
+    "Centre for Population Health Sciences, University of Edinburgh, Medical School, Teviot Place, Edinburgh, UK, EH8 9AG."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Chief Scientist Office"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Diet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sensitivity and Specificity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Achievement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Life Style"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mathematics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reading"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Educational Status"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Overweight"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Executive Function"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pediatric Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5865125?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5865125"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/14651858.CD009728.pub4"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "29376563"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Cochrane Database Syst Rev. 2018 Jan 29;1:CD009728"
+          ],
+          "type": [
+            "Update of"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-04-16"
+  ],
+  "dateOfCreation": [
+    "2018-03-03"
+  ],
+  "dateOfRevision": [
+    "2018-04-16"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-02"
+  ],
+  "firstPublicationDate": [
+    "2018-03-02"
+  ]
+}

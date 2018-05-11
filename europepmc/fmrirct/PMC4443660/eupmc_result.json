@@ -1,0 +1,1182 @@
+{
+  "id": [
+    "25956385"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25956385"
+  ],
+  "pmcid": [
+    "PMC4443660"
+  ],
+  "doi": [
+    "10.1186/s13063-015-0725-y"
+  ],
+  "title": [
+    "The CSAW Study (Can Shoulder Arthroscopy Work?) - a placebo-controlled surgical intervention trial assessing the clinical and cost effectiveness of arthroscopic subacromial decompression for shoulder pain: study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Beard D, Rees J, Rombach I, Cooper C, Cook J, Merritt N, Gray A, Gwilym S, Judge A, Savulescu J, Moser J, Donovan J, Jepson M, Wilson C, Tracey I, Wartolowska K, Dean B, Carr A, CSAW Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Beard D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Beard"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. david.beard@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Rees J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Rees"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. jonathan.rees@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Rombach I"
+          ],
+          "firstName": [
+            "Ines"
+          ],
+          "lastName": [
+            "Rombach"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. ines.rombach@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Cooper C"
+          ],
+          "firstName": [
+            "Cushla"
+          ],
+          "lastName": [
+            "Cooper"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. cushla.cooper@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Cook J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Cook"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4156-6989",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. jonathan.cook@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Merritt N"
+          ],
+          "firstName": [
+            "Naomi"
+          ],
+          "lastName": [
+            "Merritt"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. naomi.merritt@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Gray A"
+          ],
+          "firstName": [
+            "Alastair"
+          ],
+          "lastName": [
+            "Gray"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nuffield Department of Population Health, University of Oxford, Old Road Campus, Roosevelt Drive, Oxford, OX3 7LF, UK. alastair.gray@dph.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Gwilym S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Gwilym"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1323-8646",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. steve.gwilym@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Judge A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Judge"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. andrew.judge@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Savulescu J"
+          ],
+          "firstName": [
+            "Julian"
+          ],
+          "lastName": [
+            "Savulescu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Institute for Science and Ethics, University of Oxford, Suite 8, Littlegate House, 16/17 St Ebbe's Street, Oxford, OX1 1PT, UK. julian.savulescu@philosophy.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Moser J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Moser"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. jane.moser@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Donovan J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Donovan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Social and Community Medicine, University of Bristol, Canynge Hall, 39 Whatley Road, Bristol, BS8 2PS, UK. jenny.donovan@bristol.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Jepson M"
+          ],
+          "firstName": [
+            "Marcus"
+          ],
+          "lastName": [
+            "Jepson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Social and Community Medicine, University of Bristol, Canynge Hall, 39 Whatley Road, Bristol, BS8 2PS, UK. marcus.jepson@bristol.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Social and Community Medicine, University of Bristol, Canynge Hall, 39 Whatley Road, Bristol, BS8 2PS, UK. marcus.jepson@bristol.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Tracey I"
+          ],
+          "firstName": [
+            "Irene"
+          ],
+          "lastName": [
+            "Tracey"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Nuffield Department of Clinical Neurosciences, John Radcliffe Hospital, Headley Way, Headington, Oxford, OX3 9DU, UK. irene@fmrib.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Wartolowska K"
+          ],
+          "firstName": [
+            "Karolina"
+          ],
+          "lastName": [
+            "Wartolowska"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4049-2364",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. karolina.wartolowska@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Dean B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Dean"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. benjamin.dean@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Carr A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Carr"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. andrew.carr@ndorms.ox.ac.uk."
+          ]
+        },
+        {
+          "collectiveName": [
+            "CSAW Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Jones A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6944-9365",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rangan A"
+          ],
+          "firstName": [
+            "Amar"
+          ],
+          "lastName": [
+            "Rangan"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Hutchinson J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Hutchinson"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Farrar-Hockley D"
+          ],
+          "firstName": [
+            "Dair"
+          ],
+          "lastName": [
+            "Farrar-Hockley"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Conboy V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Conboy"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Costa M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Stanton L"
+          ],
+          "firstName": [
+            "Louise"
+          ],
+          "lastName": [
+            "Stanton"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Brealey S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Brealey"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Bowers M"
+          ],
+          "firstName": [
+            "Megan"
+          ],
+          "lastName": [
+            "Bowers"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1323-8646",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4156-6989",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4049-2364",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6944-9365",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2475878"
+      ],
+      "dateOfPublication": [
+        "2015 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "210"
+  ],
+  "abstractText": [
+    "Arthroscopic subacromial decompression (ASAD) is a commonly performed surgical intervention for shoulder pain. The rationale is that removal of a bony acromial spur relieves symptoms by decompressing rotator cuff tendons passing through the subacromial space. However, the efficacy of this procedure is uncertain. The objective of this trial was to compare the efficacy and cost-effectiveness of ASAD in patients with subacromial pain using appropriate control groups, including placebo intervention.The trial is a three-group, parallel design, pragmatic, randomised controlled study. The intervention content for each group (ASAD, active monitoring with specialist reassessment (AMSR) and investigational shoulder arthroscopy only (AO)) enables assessment of (1) the efficacy of the surgery against no surgery; (2) the need for a specific component of the surgery-namely, removal of the bony spur; and (3) quantification of the placebo effect. Concealed allocation was performed using a 1:1:1 randomisation ratio and using age, sex, baseline Oxford Shoulder Score (OSS) and centre as minimisation criteria. The primary outcome measure is the OSS at 6 months post randomisation. A total of 300 patients recruited over 24 months from a minimum of 14 UK shoulder units over 24 months were required to detect a difference of 4.5 points on the OSS (standard deviation, 9) with 90% power and to allow for 15% loss to follow-up. Secondary outcomes include cost-effectiveness, pain, complications and patient satisfaction. A substantial qualitative research component is included. The primary analysis will be conducted on the modified intention-to-treat analysis. Sensitivity analysis will be used to assess the robustness of the results with regard to the underlying assumptions about missing data using multiple imputation.This trial uses an innovative design to account for the known placebo effects of surgery, but it also will delineate the mechanism for any benefit from surgery. The investigational AO group is considered a placebo intervention (not sham surgery), as it includes all components of subacromial decompression except the critical surgical element. Some discussion is also dedicated to the challenges of conducting placebo surgery trials.UK Clinical Research Network UKCRN12104. Registered 22 May 2012. International Standard Randomised Controlled Trial ISRCTN33864128 . Registered 22 June 2012. ClinicalTrials.gov NCT01623011 . Registered 15 June 2012."
+  ],
+  "affiliation": [
+    "Nuffield Department of Orthopaedics, Rheumatology and Musculoskeletal Sciences, The Botnar Research Centre, University of Oxford, Headington, Oxford, OX3 7LD, UK. david.beard@ndorms.ox.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Pragmatic Clinical Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "19707"
+          ],
+          "agency": [
+            "Arthritis Research UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Arthritis Research UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0700399"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acromion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Shoulder Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Postoperative Complications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthroscopy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Decompression, Surgical"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sample Size"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Predictive Value of Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Care Costs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Osteophyte"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intention to Treat Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United Kingdom"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4443660?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4443660"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-015-0725-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-02-02"
+  ],
+  "dateOfCreation": [
+    "2015-05-10"
+  ],
+  "dateOfRevision": [
+    "2018-01-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-09"
+  ],
+  "firstPublicationDate": [
+    "2015-05-09"
+  ]
+}

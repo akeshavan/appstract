@@ -1,0 +1,343 @@
+{
+  "id": [
+    "28384301"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28384301"
+  ],
+  "pmcid": [
+    "PMC5383070"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0175107"
+  ],
+  "title": [
+    "Effects of cognitive bias modification on social anxiety: A meta-analysis."
+  ],
+  "authorString": [
+    "Liu H, Li X, Han B, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liu H"
+          ],
+          "firstName": [
+            "Haining"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "University of Chinese Academy of Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xianwen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Nursing, Nanjing Medical University, Nanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han B"
+          ],
+          "firstName": [
+            "Buxin"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "University of Chinese Academy of Sciences, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiaoqian"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "University of Chinese Academy of Sciences, Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2543035"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0175107"
+  ],
+  "abstractText": [
+    "Cognitive bias modification (CBM), a set of techniques for modifying bias in information processing-is considered a novel intervention for social anxiety disorder (SAD), which has drawn considerable interest from researchers. However, the effects of CBM on SAD are not consistent. Some studies have demonstrated significant positive effects compared to control groups, while others have found no such effects.We conducted a meta-analysis aimed at quantitatively assessing the effects of CBM on SAD at post-test.Through a systematic literature search by two independent raters, 34 articles (36 randomized studies) including 2,550 participants were identified. A multilevel modeling approach was employed to assess the effects of CBM on SAD, and to explore the potentially crucial procedures and sample characteristics that enhance the effectiveness of benign training.In general, there were small but significant effects of CBM on the primary symptoms of SAD (g = 0.17), cognitive bias (CB) toward threat (g = 0.32), and reactivity in stressful situations (g = 0.25), but non-significant effects on secondary symptoms. However, the interpretation modification program was more effective than was attentional bias modification in reducing SAD primary symptoms and negative CB. Laboratory training procedures produced larger primary symptom reductions compared to Internet-based training, whereas the percentage of contingency and feedback about training performance boosted cognitive effects only. Finally, the following groups were more likely to benefit from CBM: younger participants (primary symptoms and cognitive effects), women (primary symptom effects), and samples with stronger CB (stressor effects). The quality of the randomized controlled trials was less than desirable, as there was some indication of publication bias in our study.Current findings broadly supported cognitive theories of SAD that consider a bidirectional or mutually reinforcing relationship between symptoms and CBs. However, the small therapeutic effect observed here indicates that it is necessary to develop more reliable and efficient CBM interventions that are specific to SAD."
+  ],
+  "affiliation": [
+    "University of Chinese Academy of Sciences, Beijing, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Phobia, Social"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5383070?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5383070"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0175107"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-07"
+  ],
+  "dateOfCreation": [
+    "2017-04-06"
+  ],
+  "dateOfRevision": [
+    "2017-09-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-06"
+  ],
+  "firstPublicationDate": [
+    "2017-04-06"
+  ]
+}

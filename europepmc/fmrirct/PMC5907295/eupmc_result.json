@@ -1,0 +1,296 @@
+{
+  "id": [
+    "29669599"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29669599"
+  ],
+  "pmcid": [
+    "PMC5907295"
+  ],
+  "doi": [
+    "10.1186/s13722-018-0115-3"
+  ],
+  "title": [
+    "Mindfulness-based treatment of addiction: current state of the field and envisioning the next wave of research."
+  ],
+  "authorString": [
+    "Garland EL, Howard MO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Garland EL"
+          ],
+          "firstName": [
+            "Eric L"
+          ],
+          "lastName": [
+            "Garland"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Center on Mindfulness and Integrative Health Intervention Development, University of Utah, 395 South, 1500 East, Salt Lake City, UT, 84112, USA. eric.garland@socwk.utah.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Howard MO"
+          ],
+          "firstName": [
+            "Matthew O"
+          ],
+          "lastName": [
+            "Howard"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "University of North Carolina at Chapel Hill, Chapel Hill, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2666630"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Addiction science & clinical practice"
+          ],
+          "ISOAbbreviation": [
+            "Addict Sci Clin Pract"
+          ],
+          "medlineAbbreviation": [
+            "Addict Sci Clin Pract"
+          ],
+          "NLMid": [
+            "101316917"
+          ],
+          "ISSN": [
+            "1940-0632"
+          ],
+          "ESSN": [
+            "1940-0640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "14"
+  ],
+  "abstractText": [
+    "Contemporary advances in addiction neuroscience have paralleled increasing interest in the ancient mental training practice of mindfulness meditation as a potential therapy for addiction. In the past decade, mindfulness-based interventions (MBIs) have been studied as a treatment for an array addictive behaviors, including drinking, smoking, opioid misuse, and use of illicit substances like cocaine and heroin. This article reviews current research evaluating MBIs as a treatment for addiction, with a focus on findings pertaining to clinical outcomes and biobehavioral mechanisms. Studies indicate that MBIs reduce substance misuse and craving by modulating cognitive, affective, and psychophysiological processes integral to self-regulation and reward processing. This integrative review provides the basis for manifold recommendations regarding the next wave of research needed to firmly establish the efficacy of MBIs and elucidate the mechanistic pathways by which these therapies ameliorate addiction. Issues pertaining to MBI treatment optimization and sequencing, dissemination and implementation, dose-response relationships, and research rigor and reproducibility are discussed."
+  ],
+  "affiliation": [
+    "Center on Mindfulness and Integrative Health Intervention Development, University of Utah, 395 South, 1500 East, Salt Lake City, UT, 84112, USA. eric.garland@socwk.utah.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R61AT009296"
+          ],
+          "agency": [
+            "National Center for Complementary and Integrative Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01DA042033"
+          ],
+          "agency": [
+            "National Institute on Drug Abuse"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Review",
+        "Dissemination",
+        "SMART",
+        "Addiction",
+        "Reward",
+        "Automaticity",
+        "Mindfulness",
+        "Dose–response"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5907295?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5907295"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13722-018-0115-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-20"
+  ],
+  "dateOfRevision": [
+    "2018-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-18"
+  ],
+  "firstPublicationDate": [
+    "2018-04-18"
+  ]
+}

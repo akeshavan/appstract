@@ -1,0 +1,755 @@
+{
+  "id": [
+    "28342214"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28342214"
+  ],
+  "pmcid": [
+    "PMC5434828"
+  ],
+  "doi": [
+    "10.1002/hbm.23584"
+  ],
+  "title": [
+    "Real-time fMRI neurofeedback in adolescents with attention deficit hyperactivity disorder."
+  ],
+  "authorString": [
+    "Alegria AA, Wulff M, Brinson H, Barker GJ, Norman LJ, Brandeis D, Stahl D, David AS, Taylor E, Giampietro V, Rubia K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Alegria AA"
+          ],
+          "firstName": [
+            "Analucia A"
+          ],
+          "lastName": [
+            "Alegria"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Wulff M"
+          ],
+          "firstName": [
+            "Melanie"
+          ],
+          "lastName": [
+            "Wulff"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Brinson H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "Brinson"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Barker GJ"
+          ],
+          "firstName": [
+            "Gareth J"
+          ],
+          "lastName": [
+            "Barker"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5214-7421",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Neuroimaging Science, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Norman LJ"
+          ],
+          "firstName": [
+            "Luke J"
+          ],
+          "lastName": [
+            "Norman"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Brandeis D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Brandeis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry and Psychotherapy, Central Institute of Mental Health, Medical Faculty Mannheim/Heidelberg University, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stahl D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Stahl"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7987-6619",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Biostatistics, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "David AS"
+          ],
+          "firstName": [
+            "Anthony S"
+          ],
+          "lastName": [
+            "David"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Department of Psychosis Studies, Institute of Psychiatry, Psychology and Neuroscience King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Giampietro V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Giampietro"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9381-8201",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Neuroimaging Science, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Rubia K"
+          ],
+          "firstName": [
+            "Katya"
+          ],
+          "lastName": [
+            "Rubia"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1410-7701",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1410-7701",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9381-8201",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7987-6619",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5214-7421",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "38"
+      ],
+      "journalIssueId": [
+        "2556721"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Human brain mapping"
+          ],
+          "ISOAbbreviation": [
+            "Hum Brain Mapp"
+          ],
+          "medlineAbbreviation": [
+            "Hum Brain Mapp"
+          ],
+          "NLMid": [
+            "9419065"
+          ],
+          "ISSN": [
+            "1065-9471"
+          ],
+          "ESSN": [
+            "1097-0193"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "3190-3209"
+  ],
+  "abstractText": [
+    "Attention Deficit Hyperactivity Disorder (ADHD) is associated with poor self-control, underpinned by inferior fronto-striatal deficits. Real-time functional magnetic resonance neurofeedback (rtfMRI-NF) allows participants to gain self-control over dysregulated brain regions. Despite evidence for beneficial effects of electrophysiological-NF on ADHD symptoms, no study has applied the spatially superior rtfMRI-NF neurotherapy to ADHD. A randomized controlled trial tested the efficacy of rtfMRI-NF of right inferior prefrontal cortex (rIFG), a key region that is compromised in ADHD and upregulated with psychostimulants, on improvement of ADHD symptoms, cognition, and inhibitory fMRI activation. To control for region-specificity, an active control group received rtfMRI-NF of the left parahippocampal gyrus (lPHG). Thirty-one ADHD boys were randomly allocated and had to learn to upregulate their target brain region in an average of 11 rtfMRI-NF runs over 2 weeks. Feedback was provided through a video-clip of a rocket that had to be moved up into space. A transfer session without feedback tested learning retention as a proximal measure of transfer to everyday life. Both NF groups showed significant linear activation increases with increasing number of runs in their respective target regions and significant reduction in ADHD symptoms after neurotherapy and at 11-month follow-up. Only the group targeting rIFG, however, showed a transfer effect, which correlated with ADHD symptom reductions, improved at trend level in sustained attention, and showed increased IFG activation during an inhibitory fMRI task. This proof-of-concept study demonstrates for the first time feasibility, safety, and shorter- and longer-term efficacy of rtfMRI-NF of rIFG in adolescents with ADHD. Hum Brain Mapp 38:3190-3209, 2017. © 2017 The Authors Human Brain Mapping Published by Wiley Periodicals, Inc."
+  ],
+  "affiliation": [
+    "Department of Child and Adolescent Psychiatry, Institute of Psychiatry, Psychology and Neuroscience, King's College London, London, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxygen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention Deficit Disorder with Hyperactivity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatric Status Rating Scales"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Laterality"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurofeedback"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "fMRI",
+        "ADHD",
+        "Stop Task",
+        "Real-time Fmri Neurofeedback",
+        "Fmri-neurofeedback"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oxygen"
+          ],
+          "registryNumber": [
+            "S88TT14065"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5434828?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5434828"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/hbm.23584"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-03-01"
+  ],
+  "dateOfCreation": [
+    "2017-03-26"
+  ],
+  "dateOfRevision": [
+    "2018-03-04"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-25"
+  ],
+  "firstPublicationDate": [
+    "2017-03-25"
+  ]
+}

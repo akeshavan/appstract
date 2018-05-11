@@ -1,0 +1,460 @@
+{
+  "id": [
+    "28303161"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28303161"
+  ],
+  "pmcid": [
+    "PMC5337797"
+  ],
+  "doi": [
+    "10.1155/2017/6083629"
+  ],
+  "title": [
+    "A Systematic Review of Intervention Studies Examining Nutritional and Herbal Therapies for Mild Cognitive Impairment and Dementia Using Neuroimaging Methods: Study Characteristics and Intervention Efficacy."
+  ],
+  "authorString": [
+    "Steiner GZ, Mathersul DC, MacMillan F, Camfield DA, Klupp NL, Seto SW, Huang Y, Hohenberg MI, Chang DH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Steiner GZ"
+          ],
+          "firstName": [
+            "Genevieve Z"
+          ],
+          "lastName": [
+            "Steiner"
+          ],
+          "initials": [
+            "GZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8708-6104",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institute of Complementary Medicine (NICM), Western Sydney University, Penrith, NSW 2751, Australia; School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathersul DC"
+          ],
+          "firstName": [
+            "Danielle C"
+          ],
+          "lastName": [
+            "Mathersul"
+          ],
+          "initials": [
+            "DC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2372-8654",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "War Related Illness and Injury Study Center, Veterans Affairs Palo Alto Health Care System, Palo Alto, CA 94304, USA; School of Medicine, Stanford University, Stanford, CA 94305, USA; Department of Psychology, University of Pennsylvania, Philadelphia, PA 19104, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "MacMillan F"
+          ],
+          "firstName": [
+            "Freya"
+          ],
+          "lastName": [
+            "MacMillan"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Camfield DA"
+          ],
+          "firstName": [
+            "David A"
+          ],
+          "lastName": [
+            "Camfield"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "School of Psychology and Illawarra Health & Medical Research Institute (IHMRI), University of Wollongong, Wollongong, NSW 2252, Australia; Centre for Human Psychopharmacology, Swinburne University of Technology, Hawthorne, VIC 3122, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Klupp NL"
+          ],
+          "firstName": [
+            "Nerida L"
+          ],
+          "lastName": [
+            "Klupp"
+          ],
+          "initials": [
+            "NL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7147-8595",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institute of Complementary Medicine (NICM), Western Sydney University, Penrith, NSW 2751, Australia; School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Seto SW"
+          ],
+          "firstName": [
+            "Sai W"
+          ],
+          "lastName": [
+            "Seto"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "National Institute of Complementary Medicine (NICM), Western Sydney University, Penrith, NSW 2751, Australia; School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2652-8586",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Hohenberg MI"
+          ],
+          "firstName": [
+            "Mark I"
+          ],
+          "lastName": [
+            "Hohenberg"
+          ],
+          "initials": [
+            "MI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2696-6068",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medicine, Western Sydney University, Penrith, NSW 2751, Australia; Department of Medicine, Campbelltown Hospital, South Western Sydney Area Health Service, Campbelltown, NSW 2560, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang DH"
+          ],
+          "firstName": [
+            "Dennis H"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6584-738X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "National Institute of Complementary Medicine (NICM), Western Sydney University, Penrith, NSW 2751, Australia; School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7147-8595",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8708-6104",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2696-6068",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2652-8586",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6584-738X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2372-8654",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2017"
+      ],
+      "journalIssueId": [
+        "2517870"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "6083629"
+  ],
+  "abstractText": [
+    "Neuroimaging facilitates the assessment of complementary medicines (CMs) by providing a noninvasive insight into their mechanisms of action in the human brain. This is important for identifying the potential treatment options for target disease cohorts with complex pathophysiologies. The aim of this systematic review was to evaluate study characteristics, intervention efficacy, and the structural and functional neuroimaging methods used in research assessing nutritional and herbal medicines for mild cognitive impairment (MCI) and dementia. Six databases were searched for articles reporting on CMs, dementia, and neuroimaging methods. Data were extracted from 21/2,742 eligible full text articles and risk of bias was assessed. Nine studies examined people with Alzheimer's disease, 7 MCI, 4 vascular dementia, and 1 all-cause dementia. Ten studies tested herbal medicines, 8 vitamins and supplements, and 3 nootropics. Ten studies used electroencephalography (EEG), 5 structural magnetic resonance imaging (MRI), 2 functional MRI (fMRI), 3 cerebral blood flow (CBF), 1 single photon emission tomography (SPECT), and 1 positron emission tomography (PET). Four studies had a low risk of bias, with the majority consistently demonstrating inadequate reporting on randomisation, allocation concealment, blinding, and power calculations. A narrative synthesis approach was assumed due to heterogeneity in study methods, interventions, target cohorts, and quality. Eleven key recommendations are suggested to advance future work in this area."
+  ],
+  "affiliation": [
+    "National Institute of Complementary Medicine (NICM), Western Sydney University, Penrith, NSW 2751, Australia; School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5337797?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5337797"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2017/6083629"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-17"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-19"
+  ],
+  "firstPublicationDate": [
+    "2017-02-19"
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "id": [
+    "24179799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24179799"
+  ],
+  "pmcid": [
+    "PMC3777795"
+  ],
+  "doi": [
+    "10.1016/j.nicl.2013.03.011"
+  ],
+  "title": [
+    "Neural mechanisms of symptom improvements in generalized anxiety disorder following mindfulness training."
+  ],
+  "authorString": [
+    "Hölzel BK, Hoge EA, Greve DN, Gard T, Creswell JD, Brown KW, Barrett LF, Schwartz C, Vaitl D, Lazar SW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hölzel BK"
+          ],
+          "firstName": [
+            "Britta K"
+          ],
+          "lastName": [
+            "Hölzel"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "affiliation": [
+            "Massachusetts General Hospital, 120 2nd Ave., Charlestown, MA, 02129, USA ; Bender Institute of Neuroimaging, Justus-Liebig University, Otto-Behaghel-Str. 10H, 35394 Giessen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoge EA"
+          ],
+          "firstName": [
+            "Elizabeth A"
+          ],
+          "lastName": [
+            "Hoge"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5513-2292",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Greve DN"
+          ],
+          "firstName": [
+            "Douglas N"
+          ],
+          "lastName": [
+            "Greve"
+          ],
+          "initials": [
+            "DN"
+          ]
+        },
+        {
+          "fullName": [
+            "Gard T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Gard"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Creswell JD"
+          ],
+          "firstName": [
+            "J David"
+          ],
+          "lastName": [
+            "Creswell"
+          ],
+          "initials": [
+            "JD"
+          ]
+        },
+        {
+          "fullName": [
+            "Brown KW"
+          ],
+          "firstName": [
+            "Kirk Warren"
+          ],
+          "lastName": [
+            "Brown"
+          ],
+          "initials": [
+            "KW"
+          ]
+        },
+        {
+          "fullName": [
+            "Barrett LF"
+          ],
+          "firstName": [
+            "Lisa Feldman"
+          ],
+          "lastName": [
+            "Barrett"
+          ],
+          "initials": [
+            "LF"
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz C"
+          ],
+          "firstName": [
+            "Carl"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Vaitl D"
+          ],
+          "firstName": [
+            "Dieter"
+          ],
+          "lastName": [
+            "Vaitl"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Lazar SW"
+          ],
+          "firstName": [
+            "Sara W"
+          ],
+          "lastName": [
+            "Lazar"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1126-8363",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1126-8363",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5513-2292",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2038916"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NeuroImage. Clinical"
+          ],
+          "ISOAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "medlineAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "NLMid": [
+            "101597070"
+          ],
+          "ISSN": [
+            "2213-1582"
+          ],
+          "ESSN": [
+            "2213-1582"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "448-458"
+  ],
+  "abstractText": [
+    "Mindfulness training aims to impact emotion regulation. Generalized anxiety disorder (GAD) symptoms can be successfully addressed through mindfulness-based interventions. This preliminary study is the first to investigate neural mechanisms of symptom improvements in GAD following mindfulness training. Furthermore, we compared brain activation between GAD patients and healthy participants at baseline. 26 patients with a current DSM-IV GAD diagnosis were randomized to an 8-week Mindfulness Based Stress Reduction (MBSR, N = 15) or a stress management education (SME, N = 11) active control program. 26 healthy participants were included for baseline comparisons. BOLD response was assessed with fMRI during affect labeling of angry and neutral facial expressions. At baseline, GAD patients showed higher amygdala activation than healthy participants in response to neutral, but not angry faces, suggesting that ambiguous stimuli reveal stronger reactivity in GAD patients. In patients, amygdala activation in response to neutral faces decreased following both interventions. BOLD response in ventrolateral prefrontal regions (VLPFC) showed greater increase in MBSR than SME participants. Functional connectivity between amygdala and PFC regions increased significantly pre- to post-intervention within the MBSR, but not SME group. Both, change in VLPFC activation and amygdala-prefrontal connectivity were correlated with change in Beck Anxiety Inventory (BAI) scores, suggesting clinical relevance of these changes. Amygdala-prefrontal connectivity turned from negative coupling (typically seen in down-regulation of emotions), to positive coupling; potentially suggesting a unique mechanism of mindfulness. Findings suggest that in GAD, mindfulness training leads to changes in fronto-limbic areas crucial for the regulation of emotion; these changes correspond with reported symptom improvements."
+  ],
+  "affiliation": [
+    "Massachusetts General Hospital, 120 2nd Ave., Charlestown, MA, 02129, USA ; Bender Institute of Neuroimaging, Justus-Liebig University, Otto-Behaghel-Str. 10H, 35394 Giessen, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K23 AT004432"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P41 RR014075"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT006344"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 RR023401"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 RR019307"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 RR023043"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 AT003425"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress",
+        "Connectivity",
+        "Amygdala",
+        "intervention",
+        "prefrontal cortex",
+        "Longitudinal",
+        "Emotion Regulation",
+        "Mindfulness",
+        "Generalized Anxiety Disorder",
+        "Ventrolateral Prefrontal Cortex",
+        "Beck Anxiety Inventory"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3777795?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3777795"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24179799/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24179799/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2013.03.011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "47"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2013-11-01"
+  ],
+  "dateOfCreation": [
+    "2013-11-01"
+  ],
+  "dateOfRevision": [
+    "2017-10-31"
+  ],
+  "electronicPublicationDate": [
+    "2013-03-25"
+  ],
+  "firstPublicationDate": [
+    "2013-03-25"
+  ]
+}

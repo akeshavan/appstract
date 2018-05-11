@@ -1,0 +1,417 @@
+{
+  "id": [
+    "26583107"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26583107"
+  ],
+  "pmcid": [
+    "PMC4637036"
+  ],
+  "doi": [
+    "10.1155/2015/438908"
+  ],
+  "title": [
+    "Cognitive Interventions in Older Persons: Do They Change the Functioning of the Brain?"
+  ],
+  "authorString": [
+    "van Os Y, de Vugt ME, van Boxtel M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van Os Y"
+          ],
+          "firstName": [
+            "Yindee"
+          ],
+          "lastName": [
+            "van Os"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Medical Psychology, Elkerliek Hospital, Wesselmanlaan 25, 5507 HA Helmond, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "de Vugt ME"
+          ],
+          "firstName": [
+            "Marjolein E"
+          ],
+          "lastName": [
+            "de Vugt"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "School for Mental Health and Neuroscience, Alzheimer Centre Limburg, Department of Psychiatry and Neuropsychology, Maastricht University, P.O. Box 616, 6200 MD Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Boxtel M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "van Boxtel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School for Mental Health and Neuroscience, Alzheimer Centre Limburg, Department of Psychiatry and Neuropsychology, Maastricht University, P.O. Box 616, 6200 MD Maastricht, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2246988"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "438908"
+  ],
+  "abstractText": [
+    "Cognitive interventions for older persons that may diminish the burden of cognitive problems and could delay conversion to dementia are of great importance. The underlying mechanisms of such interventions might be psychological compensation and neuronal plasticity. This review provides an overview of the literature concerning the evidence that cognitive interventions cause brain activation changes, even in damaged neural systems.A systematic search of the literature was conducted in several international databases, Medline, Embase, Cinahl, Cochrane, and Psychinfo. The methodological quality was assessed according to the guidelines of the Dutch Institute for Health Care Improvement (CBO).Nineteen relevant articles were included with varied methodological quality. All studies were conducted in diverse populations from healthy elderly to patients with dementia and show changes in brain activation after intervention.The results thus far show that cognitive interventions cause changes in brain activation patterns. The exact interpretation of these neurobiological changes remains unclear. More study is needed to understand the extent to which cognitive interventions are effective to delay conversion to dementia. Future studies should more explicitly try to relate clinically significant improvement to changes in brain activation. Long-term follow-up data are necessary to evaluate the stability of the effects."
+  ],
+  "affiliation": [
+    "Department of Medical Psychology, Elkerliek Hospital, Wesselmanlaan 25, 5507 HA Helmond, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dementia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4637036?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4637036"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/438908"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-31"
+  ],
+  "dateOfCreation": [
+    "2015-11-20"
+  ],
+  "dateOfRevision": [
+    "2015-11-23"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-25"
+  ],
+  "firstPublicationDate": [
+    "2015-10-25"
+  ]
+}

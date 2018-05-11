@@ -1,0 +1,404 @@
+{
+  "id": [
+    "24550848"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24550848"
+  ],
+  "pmcid": [
+    "PMC3912739"
+  ],
+  "doi": [
+    "10.3389/fpsyt.2014.00011"
+  ],
+  "title": [
+    "A critical review of pro-cognitive drug targets in psychosis: convergence on myelination and inflammation."
+  ],
+  "authorString": [
+    "Kroken RA, Løberg EM, Drønen T, Grüner R, Hugdahl K, Kompus K, Skrede S, Johnsen E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kroken RA"
+          ],
+          "firstName": [
+            "Rune A"
+          ],
+          "lastName": [
+            "Kroken"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, Haukeland University Hospital , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Løberg EM"
+          ],
+          "firstName": [
+            "Else-Marie"
+          ],
+          "lastName": [
+            "Løberg"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, Haukeland University Hospital , Bergen , Norway ; Department of Biological and Medical Psychology, University of Bergen , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Drønen T"
+          ],
+          "firstName": [
+            "Tore"
+          ],
+          "lastName": [
+            "Drønen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, Haukeland University Hospital , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Grüner R"
+          ],
+          "firstName": [
+            "Renate"
+          ],
+          "lastName": [
+            "Grüner"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Radiology, Haukeland University Hospital , Bergen , Norway ; Department of Physics and Technology, University of Bergen , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Hugdahl K"
+          ],
+          "firstName": [
+            "Kenneth"
+          ],
+          "lastName": [
+            "Hugdahl"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, Haukeland University Hospital , Bergen , Norway ; Department of Biological and Medical Psychology, University of Bergen , Bergen , Norway ; Department of Radiology, Haukeland University Hospital , Bergen , Norway ; NORMENT Center of Excellence, University of Bergen , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Kompus K"
+          ],
+          "firstName": [
+            "Kristiina"
+          ],
+          "lastName": [
+            "Kompus"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Biological and Medical Psychology, University of Bergen , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Skrede S"
+          ],
+          "firstName": [
+            "Silje"
+          ],
+          "lastName": [
+            "Skrede"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "NORMENT Center of Excellence, University of Bergen , Bergen , Norway ; Dr. Einar Martens' Research Group for Biological Psychiatry, Centre for Medical Genetics and Molecular Medicine, Haukeland University Hospital , Bergen , Norway ; Department of Clinical Science, K.G. Jebsen Centre for Psychosis Research, University of Bergen , Bergen , Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Johnsen E"
+          ],
+          "firstName": [
+            "Erik"
+          ],
+          "lastName": [
+            "Johnsen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, Haukeland University Hospital , Bergen , Norway ; Department of Clinical Medicine, University of Bergen , Bergen , Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2120435"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "NLMid": [
+            "101545006"
+          ],
+          "ISSN": [
+            "1664-0640"
+          ],
+          "ESSN": [
+            "1664-0640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "11"
+  ],
+  "abstractText": [
+    "Antipsychotic drugs have thus far focused on dopaminergic antagonism at the D2 receptors, as counteracting the hyperdopaminergia in nigrostriatal and mesolimbic projections has been considered mandatory for the antipsychotic action of the drugs. Current drugs effectively target the positive symptoms of psychosis such as hallucinations and delusions in the majority of patients, whereas effect sizes are smaller for negative symptoms and cognitive dysfunctions. With the understanding that neurocognitive dysfunction associated with schizophrenia have a greater impact on functional outcome than the positive symptoms, the focus in pharmacotherapy for schizophrenia has shifted to the potential effect of future drugs on cognitive enhancement. A major obstacle is, however, that the biological underpinnings of cognitive dysfunction remain largely unknown. With the availability of increasingly sophisticated techniques in molecular biology and brain imaging, this situation is about to change with major advances being made in identifying the neuronal substrates underlying schizophrenia, and putative pro-cognitive drug targets may be revealed. In relation to cognitive effects, this review focuses on evidence from basic neuroscience and clinical studies, taking two separate perspectives. One perspective is the identification of previously under-recognized treatment targets for existing antipsychotic drugs, including myelination and mediators of inflammation. A second perspective is the development of new drugs or novel treatment targets for well-known drugs, which act on recently discovered treatment targets for cognitive enhancement, and which may complement the existing drugs. This might pave the way for personalized treatment regimens for patients with schizophrenia aimed at improved functional outcome. The review also aims at identifying major current constraints for pro-cognitive drug development for patients with schizophrenia."
+  ],
+  "affiliation": [
+    "Division of Psychiatry, Haukeland University Hospital , Bergen , Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Glutamate",
+        "Schizophrenia",
+        "Connectivity",
+        "Cognition",
+        "Inflammation",
+        "immunology",
+        "Myelin",
+        "Neuroimaging"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3912739?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3912739"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24550848/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24550848/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyt.2014.00011"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-02-19"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-04"
+  ],
+  "firstPublicationDate": [
+    "2014-02-04"
+  ]
+}

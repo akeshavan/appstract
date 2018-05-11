@@ -1,0 +1,629 @@
+{
+  "id": [
+    "25897797"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25897797"
+  ],
+  "pmcid": [
+    "PMC4422504"
+  ],
+  "doi": [
+    "10.1186/s12888-015-0470-5"
+  ],
+  "title": [
+    "Primary prevention of psychosis through interventions in the symptomatic prodromal phase, a pragmatic Norwegian Ultra High Risk study."
+  ],
+  "authorString": [
+    "Joa I, Gisselgård J, Brønnick K, McGlashan T, Johannessen JO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Joa I"
+          ],
+          "firstName": [
+            "Inge"
+          ],
+          "lastName": [
+            "Joa"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5516-2336",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Network for medical sciences, University of Stavanger, 4036, Stavanger, Norway. inge.joa@sus.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Gisselgård J"
+          ],
+          "firstName": [
+            "Jens"
+          ],
+          "lastName": [
+            "Gisselgård"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Psychiatric Division, Stavanger University Hospital, TIPS- Centre for Clinical Research in Psychosis, Armauer Hansensvei 20, N-4011, Stavanger, Norway. jens.petter.gisselgard@sus.no."
+          ]
+        },
+        {
+          "fullName": [
+            "Brønnick K"
+          ],
+          "firstName": [
+            "Kolbjørn"
+          ],
+          "lastName": [
+            "Brønnick"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Network for medical sciences, University of Stavanger, 4036, Stavanger, Norway. kolbjorn.selvag.bronnick@sus.no."
+          ]
+        },
+        {
+          "fullName": [
+            "McGlashan T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "McGlashan"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Yale University, New Haven, CT, USA. thomas.mcglashan@yale.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Johannessen JO"
+          ],
+          "firstName": [
+            "Jan Olav"
+          ],
+          "lastName": [
+            "Johannessen"
+          ],
+          "initials": [
+            "JO"
+          ],
+          "affiliation": [
+            "Network for medical sciences, University of Stavanger, 4036, Stavanger, Norway. jojo@sus.no."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5516-2336",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2269475"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "89"
+  ],
+  "abstractText": [
+    "Evidence has been accumulating that it may be possible to achieve prevention in psychotic disorders. The aim of the Prevention Of Psychosis (POP) study is to reduce the annual incidence of psychotic disorders in a catchment area population through detection and intervention in the prodromal phase of disorder. Prodromal patients will be recruited through information campaigns modelled on the Scandinavian early Treatment and Intervention in Psychosis (TIPS) study and assessed by low-threshold detection teams.The study will use a parallel control design comparing the incidence of first episode psychotic disorders between two Norwegian catchment areas with prodromal detection and treatment (Stavanger and Fonna) with two catchment areas without a prodromal intervention program (Bergen and Østfold). The primary aim of the current study is to test the effect of a Prodromal Detection and Treatment program at the health care systems level. The study will investigate: 1) If the combination of information campaigns and detection teams modelled will help in identifying individuals (age 13-65, fulfilling study inclusion criteria) at high risk of developing psychosis early, and 2) If a graded, multi-modal treatment program will reduce rates of conversion compared to the rates seen in follow-along assessments.Positive results could potentially revolutionize therapy by treating risk earlier rather than disorder later and could open a new era of early detection and intervention in psychosis. Negative results will suggest that the potential for psychosis is determined early in life and that research should focus more on genetically linked neurodevelopmental processes. If we can identify people about to become psychotic with high accuracy, we can track them to understand more about how psychosis unfolds. Appropriate intervention at this stage could also prevent or delay the onset of psychosis and/or subsequent deterioration, i.e., social and instrumental disability, suicide, aggressive behavior, affective- and cognitive deficits.Current Controlled Trials ISRCTN20328848 . Registered 02 November 2014."
+  ],
+  "affiliation": [
+    "Network for medical sciences, University of Stavanger, 4036, Stavanger, Norway. inge.joa@sus.no."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Pragmatic Clinical Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fatty Acids, Omega-3"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Early Diagnosis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Combined Modality Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotic Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DH"
+                  ],
+                  "qualifierName": [
+                    "diet therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Psychotherapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Primary Prevention"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Prodromal Symptoms"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fatty Acids, Omega-3"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4422504?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4422504"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-015-0470-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-28"
+  ],
+  "dateOfCreation": [
+    "2015-05-07"
+  ],
+  "dateOfRevision": [
+    "2015-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-22"
+  ],
+  "firstPublicationDate": [
+    "2015-04-22"
+  ]
+}

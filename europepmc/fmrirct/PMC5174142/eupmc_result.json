@@ -1,0 +1,611 @@
+{
+  "id": [
+    "27418186"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27418186"
+  ],
+  "pmcid": [
+    "PMC5174142"
+  ],
+  "doi": [
+    "10.1007/s00394-016-1257-2"
+  ],
+  "title": [
+    "Sugars, obesity, and cardiovascular disease: results from recent randomized control trials."
+  ],
+  "authorString": [
+    "Rippe JM, Angelopoulos TJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rippe JM"
+          ],
+          "firstName": [
+            "James M"
+          ],
+          "lastName": [
+            "Rippe"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Rippe Lifestyle Institute, 21 North Quinsigamond Avenue, Shrewsbury, MA, 01545, USA. jrippe@rippelifestyle.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Angelopoulos TJ"
+          ],
+          "firstName": [
+            "Theodore J"
+          ],
+          "lastName": [
+            "Angelopoulos"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "School of Health Sciences, Emory and Henry College, Emory, VA, 24327, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 2"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2507060"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Nutr"
+          ],
+          "NLMid": [
+            "100888704"
+          ],
+          "ISSN": [
+            "1436-6207"
+          ],
+          "ESSN": [
+            "1436-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "45-53"
+  ],
+  "abstractText": [
+    "The relationship between sugar consumption and various health-related sequelas is controversial. Some investigators have argued that excessive sugar consumption is associated with increased risk of obesity, coronary heart disease, diabetes (T2D), metabolic syndrome, non-alcoholic fatty liver disease, and stimulation of reward pathways in the brain potentially causing excessive caloric consumption. These concerns have influenced organizations such as the World Health Organization, the Scientific Advisory Committee on Nutrition in England not to exceed 5 % of total energy and the Dietary Guidelines for Americans Advisory Committee 2015 to recommend upper limits of sugar consumption not to exceed 10 % of calories. Data from many randomized control trials (RCTs) do not support linkages between sugar consumption at normal levels within the human diet and various adverse metabolic and health-related effects. Fructose and glucose are typically consumed together in roughly equal proportions from high-fructose corn syrup (also known as isoglucose in Europe) or sucrose. The purpose of this review is to present data from recent RCTs and findings from recent systematic reviews and meta-analyses related to sugar consumption and its putative health effects. This review evaluates findings from recent randomized controlled trials, systematic reviews and meta-analyses into the relationship of sugar consumption and a range of health-related issues including energy-regulating hormones, obesity, cardiovascular disease, diabetes, and accumulation of liver fat and neurologic responses. Data from these sources do not support linkages between sugar consumption at normal levels within the human diet and various adverse metabolic and health-related effects."
+  ],
+  "affiliation": [
+    "Rippe Lifestyle Institute, 21 North Quinsigamond Avenue, Shrewsbury, MA, 01545, USA. jrippe@rippelifestyle.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cardiovascular Diseases"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diabetes Mellitus, Type 1"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dietary Sucrose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fructose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Glucose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lipids"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Energy Metabolism"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Energy Intake"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Blood Pressure"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meta-Analysis as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Non-alcoholic Fatty Liver Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CI"
+                  ],
+                  "qualifierName": [
+                    "chemically induced"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "High Fructose Corn Syrup"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sucrose",
+        "Obesity",
+        "Cardiovascular disease",
+        "Sugars",
+        "High-fructose Corn Syrup"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Lipids"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fructose"
+          ],
+          "registryNumber": [
+            "30237-26-4"
+          ]
+        },
+        {
+          "name": [
+            "Dietary Sucrose"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Glucose"
+          ],
+          "registryNumber": [
+            "IY9XDZ35W2"
+          ]
+        },
+        {
+          "name": [
+            "High Fructose Corn Syrup"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5174142?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5174142"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00394-016-1257-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-02-14"
+  ],
+  "dateOfCreation": [
+    "2016-07-15"
+  ],
+  "dateOfRevision": [
+    "2017-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-14"
+  ],
+  "firstPublicationDate": [
+    "2016-07-14"
+  ]
+}

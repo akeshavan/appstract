@@ -1,0 +1,299 @@
+{
+  "id": [
+    "25071434"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25071434"
+  ],
+  "pmcid": [
+    "PMC4080825"
+  ],
+  "doi": [
+    "10.3389/fnins.2014.00190"
+  ],
+  "title": [
+    "Music in disorders of consciousness."
+  ],
+  "authorString": [
+    "Rollnik JD, Altenmüller E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rollnik JD"
+          ],
+          "firstName": [
+            "Jens D"
+          ],
+          "lastName": [
+            "Rollnik"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "BDH-Clinic Hessisch Oldendorf, Teaching Hospital of Hannover Medical School (MHH), Institute for Neurorehabilitational Research (InFo) Hessisch Oldendorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Altenmüller E"
+          ],
+          "firstName": [
+            "Eckart"
+          ],
+          "lastName": [
+            "Altenmüller"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Institute of Music Physiology and Musician's Medicine (MMM), University of Music, Drama and Media Hannover Hannover, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120430"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "190"
+  ],
+  "abstractText": [
+    "This review presents an overview of the use of music therapy in neurological early rehabilitation of patients with coma and other disorders of consciousness (DOC) such as unresponsive wakefulness syndrome (UWS) or minimally conscious state (MCS). There is evidence that patients suffering from UWS show emotional processing of auditory information, such as listening to speech. Thus, it seems reasonable to believe that music listening-as part of an enriched environment setting-may be of therapeutic value in these patients. There is, however, a considerable lack of evidence. The authors strongly encourage further studies to evaluate the efficacy of music listening in patients with DOC in neurological early rehabilitation. These studies should consider a precise clinical definition and homogeneity of the patient cohort with respect to the quality (coma vs. UWS vs. MCS), duration (rather weeks to months than days) and cause (traumatic vs. non-traumatic) of DOC, a standardized intervention protocol, valid clinical outcome parameters over a longer observation period (weeks to months), monitoring of neurophysiological and vegetative parameters and, if available, neuroimaging to confirm diagnosis and to demonstrate responses and functional changes in the patients' brains."
+  ],
+  "affiliation": [
+    "BDH-Clinic Hessisch Oldendorf, Teaching Hospital of Hannover Medical School (MHH), Institute for Neurorehabilitational Research (InFo) Hessisch Oldendorf, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "music",
+        "Coma",
+        "Music Therapy",
+        "Unresponsive Wakefulness Syndrome",
+        "Minimally Conscious State"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4080825?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4080825"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25071434/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25071434/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2014.00190"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-07-29"
+  ],
+  "dateOfCreation": [
+    "2014-07-29"
+  ],
+  "dateOfRevision": [
+    "2014-07-31"
+  ],
+  "electronicPublicationDate": [
+    "2014-07-03"
+  ],
+  "firstPublicationDate": [
+    "2014-07-03"
+  ]
+}

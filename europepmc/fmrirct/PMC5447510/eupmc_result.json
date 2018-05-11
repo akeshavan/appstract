@@ -1,0 +1,891 @@
+{
+  "id": [
+    "28580293"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28580293"
+  ],
+  "pmcid": [
+    "PMC5447510"
+  ],
+  "doi": [
+    "10.1016/j.nicl.2017.05.013"
+  ],
+  "title": [
+    "Acupuncture modulates the abnormal brainstem activity in migraine without aura patients."
+  ],
+  "authorString": [
+    "Li Z, Zeng F, Yin T, Lan L, Makris N, Jorgenson K, Guo T, Wu F, Gao Y, Dong M, Liu M, Yang J, Li Y, Gong Q, Liang F, Kong J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhengjie"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Makris N"
+          ],
+          "firstName": [
+            "Nikos"
+          ],
+          "lastName": [
+            "Makris"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jorgenson K"
+          ],
+          "firstName": [
+            "Kristen"
+          ],
+          "lastName": [
+            "Jorgenson"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo T"
+          ],
+          "firstName": [
+            "Taipin"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5298-8132",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao Y"
+          ],
+          "firstName": [
+            "Yujie"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong M"
+          ],
+          "firstName": [
+            "Mingkai"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mailan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Acupuncture & Tuina School, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Q"
+          ],
+          "firstName": [
+            "Qiyong"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Huaxi MR Research Center, West China Hospital of Sichuan University, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang F"
+          ],
+          "firstName": [
+            "Fanrong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2210-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School, MA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2210-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5298-8132",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2551637"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NeuroImage. Clinical"
+          ],
+          "ISOAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "medlineAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "NLMid": [
+            "101597070"
+          ],
+          "ISSN": [
+            "2213-1582"
+          ],
+          "ESSN": [
+            "2213-1582"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "367-375"
+  ],
+  "abstractText": [
+    "Migraine is a common neurological disease with a high prevalence and unsatisfactory treatment options. The specific pathophysiological mechanisms of migraine remain unclear, which restricts the development of effective treatments for this prevalent disorder. The aims of this study were to 1) compare the spontaneous brain activity differences between Migraine without Aura (MwoA) patients and healthy controls (HCs), using amplitude of low-frequency fluctuations (ALFF) calculation method, and 2) explore how an effective treatment (verum acupuncture) could modulate the ALFF of MwoA patients. One hundred MwoA patients and forty-six matched HCs were recruited. Patients were randomized to four weeks' verum acupuncture, sham acupuncture, and waiting list groups. Patients had resting state BOLD-fMRI scan before and after treatment, while HCs only had resting state BOLD-fMRI scan at baseline. Headache intensity, headache frequency, self-rating anxiety and self-rating depression were used for clinical efficacy evaluation. Compared with HCs, MwoA patients showed increased ALFF in posterior insula and putamen/caudate, and reduced ALFF in rostral ventromedial medulla (RVM)/trigeminocervical complex (TCC). After longitudinal verum acupuncture treatment, the decreased ALFF of the RVM/TCC was normalized in migraine patients. Verum acupuncture and sham acupuncture have different modulation effects on ALFF of RVM/TCC in migraine patients. Our results suggest that impairment of the homeostasis of the trigeminovascular nociceptive pathway is involved in the neural pathophysiology of migraines. Effective treatments, such as verum acupuncture, could help to restore this imbalance."
+  ],
+  "affiliation": [
+    "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01 AT006663"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 AT008707"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT008563"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT006364"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Stem"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neural Pathways"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trigeminal Nerve"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Outcome Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine without Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nociception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Acupuncture",
+        "Migraine",
+        "Resting State Fmri",
+        "Amplitude Of Low-frequency Fluctuations",
+        "Trigeminocervical Complex",
+        "Brainsterm"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5447510?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5447510"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2017.05.013"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-03-23"
+  ],
+  "dateOfCreation": [
+    "2017-06-06"
+  ],
+  "dateOfRevision": [
+    "2018-03-23"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-22"
+  ],
+  "firstPublicationDate": [
+    "2017-05-22"
+  ]
+}

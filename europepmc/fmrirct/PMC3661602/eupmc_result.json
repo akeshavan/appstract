@@ -1,0 +1,666 @@
+{
+  "id": [
+    "23717453"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23717453"
+  ],
+  "pmcid": [
+    "PMC3661602"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0063614"
+  ],
+  "title": [
+    "Failure of working memory training to enhance cognition or intelligence."
+  ],
+  "authorString": [
+    "Thompson TW, Waskom ML, Garel KL, Cardenas-Iniguez C, Reynolds GO, Winter R, Chang P, Pollard K, Lala N, Alvarez GA, Gabrieli JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Thompson TW"
+          ],
+          "firstName": [
+            "Todd W"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "TW"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA. toddt@mit.edu"
+          ]
+        },
+        {
+          "fullName": [
+            "Waskom ML"
+          ],
+          "firstName": [
+            "Michael L"
+          ],
+          "lastName": [
+            "Waskom"
+          ],
+          "initials": [
+            "ML"
+          ]
+        },
+        {
+          "fullName": [
+            "Garel KL"
+          ],
+          "firstName": [
+            "Keri-Lee A"
+          ],
+          "lastName": [
+            "Garel"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9198-6535",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cardenas-Iniguez C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Cardenas-Iniguez"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Reynolds GO"
+          ],
+          "firstName": [
+            "Gretchen O"
+          ],
+          "lastName": [
+            "Reynolds"
+          ],
+          "initials": [
+            "GO"
+          ]
+        },
+        {
+          "fullName": [
+            "Winter R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Winter"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Chang P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Pollard K"
+          ],
+          "firstName": [
+            "Kiersten"
+          ],
+          "lastName": [
+            "Pollard"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Lala N"
+          ],
+          "firstName": [
+            "Nupur"
+          ],
+          "lastName": [
+            "Lala"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Alvarez GA"
+          ],
+          "firstName": [
+            "George A"
+          ],
+          "lastName": [
+            "Alvarez"
+          ],
+          "initials": [
+            "GA"
+          ]
+        },
+        {
+          "fullName": [
+            "Gabrieli JD"
+          ],
+          "firstName": [
+            "John D E"
+          ],
+          "lastName": [
+            "Gabrieli"
+          ],
+          "initials": [
+            "JD"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9198-6535",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2036605"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "e63614"
+  ],
+  "abstractText": [
+    "Fluid intelligence is important for successful functioning in the modern world, but much evidence suggests that fluid intelligence is largely immutable after childhood. Recently, however, researchers have reported gains in fluid intelligence after multiple sessions of adaptive working memory training in adults. The current study attempted to replicate and expand those results by administering a broad assessment of cognitive abilities and personality traits to young adults who underwent 20 sessions of an adaptive dual n-back working memory training program and comparing their post-training performance on those tests to a matched set of young adults who underwent 20 sessions of an adaptive attentional tracking program. Pre- and post-training measurements of fluid intelligence, standardized intelligence tests, speed of processing, reading skills, and other tests of working memory were assessed. Both training groups exhibited substantial and specific improvements on the trained tasks that persisted for at least 6 months post-training, but no transfer of improvement was observed to any of the non-trained measurements when compared to a third untrained group serving as a passive control. These findings fail to support the idea that adaptive working memory training in healthy young adults enhances working memory capacity in non-trained tasks, fluid intelligence, or other measures of cognitive abilities."
+  ],
+  "affiliation": [
+    "Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, Massachusetts, USA. toddt@mit.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R90 DA023427"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T90DA022759"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T90 DA022759"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R90DA023427"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intelligence"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory, Short-Term"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Education"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reading"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3661602?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3661602"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23717453/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23717453/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0063614"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "45"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-04-17"
+  ],
+  "dateOfCreation": [
+    "2013-05-29"
+  ],
+  "dateOfRevision": [
+    "2017-11-04"
+  ],
+  "electronicPublicationDate": [
+    "2013-05-22"
+  ],
+  "firstPublicationDate": [
+    "2013-05-22"
+  ]
+}

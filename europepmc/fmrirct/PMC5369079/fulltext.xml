@@ -1,0 +1,918 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="other"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="iso-abbrev">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="publisher-id">ijerph</journal-id><journal-title-group><journal-title>International Journal of Environmental Research and Public Health</journal-title></journal-title-group><issn pub-type="ppub">1661-7827</issn><issn pub-type="epub">1660-4601</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5369079</article-id><article-id pub-id-type="doi">10.3390/ijerph14030243</article-id><article-id pub-id-type="publisher-id">ijerph-14-00243</article-id><article-categories><subj-group subj-group-type="heading"><subject>Concept Paper</subject></subj-group></article-categories><title-group><article-title>A Novel Therapy for People Who Attempt Suicide and Why We Need New Models of Suicide </article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Michel</surname><given-names>Konrad</given-names></name><xref ref-type="aff" rid="af1-ijerph-14-00243">1</xref><xref rid="c1-ijerph-14-00243" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Valach</surname><given-names>Ladislav</given-names></name><xref ref-type="aff" rid="af2-ijerph-14-00243">2</xref></contrib><contrib contrib-type="author"><name><surname>Gysin-Maillart</surname><given-names>Anja</given-names></name><xref ref-type="aff" rid="af1-ijerph-14-00243">1</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>O&#x02019;Connor</surname><given-names>Rory</given-names></name><role>Academic Editor</role></contrib><contrib contrib-type="editor"><name><surname>Portzky</surname><given-names>Gwendolyn</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijerph-14-00243"><label>1</label>University Hospital of Psychiatry, Outpatient Department, 3008 Bern, Switzerland; <email>anja.maillart@spk.unibe.ch</email></aff><aff id="af2-ijerph-14-00243"><label>2</label>Private Practice, 3400 Burgdorf, Switzerland; <email>ladislav.valach@hispeed.ch</email></aff><author-notes><corresp id="c1-ijerph-14-00243"><label>*</label>Correspondence: <email>konrad.michel@spk.unibe.ch</email>; Tel.: +41-79-660-1066</corresp></author-notes><pub-date pub-type="epub"><day>01</day><month>3</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2017</year></pub-date><volume>14</volume><issue>3</issue><elocation-id>243</elocation-id><history><date date-type="received"><day>16</day><month>12</month><year>2016</year></date><date date-type="accepted"><day>24</day><month>2</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 by the authors.</copyright-statement><copyright-year>2017</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>This paper presents a model of suicidal behaviour based on suicide as a goal-directed action, and its implications. An action theoretical model has guided the authors in the development of a brief therapy for individuals who attempt suicide (ASSIP&#x02014;Attempted Suicide Short Intervention Program). Key elements are an early therapeutic alliance, narrative interviewing, psychoeducation, a joint case conceptualization, safety planning, and regular letters over 24 months. In a randomized controlled trial, ASSIP was highly effective in reducing the risk of suicide reattempts. The therapeutic elements in this treatment are described and possible implications for future directions in clinical suicide prevention discussed.</p></abstract><kwd-group><kwd>attempted suicide</kwd><kwd>suicide</kwd><kwd>suicide prevention</kwd><kwd>action theory</kwd><kwd>narrative interview</kwd><kwd>psychotherapy</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijerph-14-00243"><title>1. Introduction</title><disp-quote><p>&#x0201c;<italic>It should be axiomatic that suicide cannot be prevented until it is properly conceptualized</italic>&#x0201d;.</p><attrib>[<xref rid="B1-ijerph-14-00243" ref-type="bibr">1</xref>]</attrib></disp-quote><p>Suicide is a multifactorial phenomenon, and there are numerous models of suicide and suicidal behaviour, ranging from Durkheim&#x02019;s anomic suicide to suicide as an outcome of serotonin dysfunction [<xref rid="B2-ijerph-14-00243" ref-type="bibr">2</xref>,<xref rid="B3-ijerph-14-00243" ref-type="bibr">3</xref>]. Ultimately, models of suicidal behaviour must translate into projects that are effective in reducing suicidal behaviour. The clinically most prevalent model is the biomedical model, based on the close association of suicide with psychiatric pathology [<xref rid="B4-ijerph-14-00243" ref-type="bibr">4</xref>]. However, although psychiatric diagnoses are major risk factors for suicide [<xref rid="B5-ijerph-14-00243" ref-type="bibr">5</xref>], prevention projects aimed at improving the detection and treatment of psychiatric disorders have limited potential to reduce suicidal behaviour on a population level [<xref rid="B6-ijerph-14-00243" ref-type="bibr">6</xref>,<xref rid="B7-ijerph-14-00243" ref-type="bibr">7</xref>]. The evidence for pharmacotherapy, and antidepressant treatment in particular, is mixed [<xref rid="B8-ijerph-14-00243" ref-type="bibr">8</xref>,<xref rid="B9-ijerph-14-00243" ref-type="bibr">9</xref>,<xref rid="B10-ijerph-14-00243" ref-type="bibr">10</xref>], with the exception of long-term lithium treatment [<xref rid="B11-ijerph-14-00243" ref-type="bibr">11</xref>].</p><p>We need to look beyond the medical model in order to improve the effect of clinical suicide prevention [<xref rid="B12-ijerph-14-00243" ref-type="bibr">12</xref>,<xref rid="B13-ijerph-14-00243" ref-type="bibr">13</xref>,<xref rid="B14-ijerph-14-00243" ref-type="bibr">14</xref>,<xref rid="B15-ijerph-14-00243" ref-type="bibr">15</xref>]. A number of psychotherapeutic treatments, including Cognitive Behaviour Therapy (CBT), Dialectical Behavior Therapy (DBT), and Collaborative Assessment and Management of Suicidality (CAMS), have shown a reduction in repeated suicidal behaviour [<xref rid="B16-ijerph-14-00243" ref-type="bibr">16</xref>,<xref rid="B17-ijerph-14-00243" ref-type="bibr">17</xref>,<xref rid="B18-ijerph-14-00243" ref-type="bibr">18</xref>,<xref rid="B19-ijerph-14-00243" ref-type="bibr">19</xref>], but due to small numbers and the lack of replication studies, the evidence so far is limited [<xref rid="B20-ijerph-14-00243" ref-type="bibr">20</xref>,<xref rid="B21-ijerph-14-00243" ref-type="bibr">21</xref>].</p></sec><sec id="sec2-ijerph-14-00243"><title>2. A Tower of Babel Syndrome</title><disp-quote><p>&#x0201c;<italic>I got very angry when they kept asking me if I would do it again. They were not interested in my feelings. Life is not such a matter-of-fact thing and, if I was honest, I couldn&#x02019;t say if I would do it again or not. What was clear to me was that I could not have enough trust in any of these doctors to really talk openly about myself</italic>&#x0201d;.</p><attrib>[<xref rid="B22-ijerph-14-00243" ref-type="bibr">22</xref>]</attrib></disp-quote><p>A major obstacle in clinical suicide prevention is the fact that many individuals at risk of suicide, males in particular, do not seek help [<xref rid="B23-ijerph-14-00243" ref-type="bibr">23</xref>]. We asked patients one year after a suicide attempt, who, in retrospect, could have helped to stop them from harming themselves. Twenty percent mentioned relatives or friends, while 52% said nobody, and only 10% mentioned a health professional [<xref rid="B24-ijerph-14-00243" ref-type="bibr">24</xref>]. Suicidal patients, above all men and the young [<xref rid="B25-ijerph-14-00243" ref-type="bibr">25</xref>], do not feel that consulting a health professional might be helpful. Most people experience suicide ideation as ego-syntonic, i.e., as something that does not need treatment. They do not feel ill. Even when people do contact health professionals, suicidality is very often not addressed. In a psychological autopsy study of 571 suicides, in which a health care professional had been contacted prior to the suicide, the issue of suicide had been raised in only 22% of the last visits [<xref rid="B26-ijerph-14-00243" ref-type="bibr">26</xref>]. Eighteen percent of those who had contacted a physician had done so on the day of their suicide, yet even then, the issue of suicide was addressed in only one fifth of these cases. Similar findings have been reported in Australia [<xref rid="B27-ijerph-14-00243" ref-type="bibr">27</xref>]. As a rule, suicidal persons, even when under medical care, rarely talk about their intentions, nor do they spontaneously mention past suicidal crises [<xref rid="B28-ijerph-14-00243" ref-type="bibr">28</xref>,<xref rid="B29-ijerph-14-00243" ref-type="bibr">29</xref>]. Yet, the other side of the problem is that health professionals rarely ask about past and present suicidality [<xref rid="B30-ijerph-14-00243" ref-type="bibr">30</xref>,<xref rid="B31-ijerph-14-00243" ref-type="bibr">31</xref>]. In a survey conducted in Bern, 48% of general practitioners were surprised by the suicide of their patients, and 67% said they had no knowledge of their patients&#x02019; previous suicide attempts [<xref rid="B32-ijerph-14-00243" ref-type="bibr">32</xref>]. Consistent with the general communication problem, the adherence to follow-up appointments after a suicide attempt is low, often being no higher than 50% [<xref rid="B33-ijerph-14-00243" ref-type="bibr">33</xref>], and these patients tend to drop out of treatment prematurely [<xref rid="B34-ijerph-14-00243" ref-type="bibr">34</xref>,<xref rid="B35-ijerph-14-00243" ref-type="bibr">35</xref>]. In a UK study, patients who had been hospitalised after a suicide attempt said that they had found nurses and social workers more helpful than doctors [<xref rid="B36-ijerph-14-00243" ref-type="bibr">36</xref>]. The staff attribute that showed the strongest correlation with help received, was the ability to listen and to express sympathy.</p><p>To be open to listen and to be sympathetic with a patient disclosing suicidal intentions, is undoubtedly a difficult task for the clinician. Medical training equips health professionals with the ability to look for pathology and to diagnose somatic and psychiatric disorders, but it does not provide helpful models to understand peoples&#x02019; actions. Thus, the patients&#x02019; concepts of suicide and the concepts of professional helpers, do not match, i.e., patients and doctors speak different languages. A meaningful discourse needs a common ground of understanding where the two protagonists can meet.</p></sec><sec id="sec3-ijerph-14-00243"><title>3. Understanding Suicide as an Action</title><disp-quote><p>&#x0201c;<italic>I messed up the relationships with most of my relatives, and I am in the train of doing the same thing with my wife. Everything wrong, always, always, always. My best wishes to everybody, including me. I do not know where the journey will go, but at least it does not stay in this vale of tears&#x0201d;..... &#x0201c;I always wanted to keep suicide as the last way out. Maybe I didn&#x02019;t quite mean it when I first tried to kill myself. Next time will only take place when I really mean it</italic>&#x0201d;.</p><attrib>[<xref rid="B37-ijerph-14-00243" ref-type="bibr">37</xref>]</attrib></disp-quote><p>Suicide is many things&#x02014;the most obvious facet of suicide is often overlooked: suicide is an action. Actions, according to action theory, are being carried out by agents; that is, by persons who are setting goals, making plans, who are monitoring and regulating their own behaviour, thoughts, and emotions in the pursuit of their goals [<xref rid="B38-ijerph-14-00243" ref-type="bibr">38</xref>]. Action theory represents the way in which people explain and understand actions, and it uses concepts from the common vocabulary of everyday life, such as needs, intentions, plans, strategies, decisions, choices, success, and failure. Actions are related to a hierarchy of goal-directed systems, which are shaped by a person&#x02019;s biography. The higher-order developmental systems include long-term goals relating to a person&#x02019;s life-career or identity, and mid-term projects, typically related to work or relationships [<xref rid="B39-ijerph-14-00243" ref-type="bibr">39</xref>]. In a case study, we conceptualized suicidal behaviour using an action theoretical model [<xref rid="B37-ijerph-14-00243" ref-type="bibr">37</xref>]. We argued that suicide emerges as an alternative to life-oriented goals, when, due to adverse life events, a person is faced with a serious threat to important personal higher order goals, such as to be loved, respected, or to be successful. The emotional experience of such a personal crisis is characterized by psychological pain, hopelessness and feelings of shame, a sense of personal failure, of being useless, of being a burden to others, and self-hate [<xref rid="B40-ijerph-14-00243" ref-type="bibr">40</xref>,<xref rid="B41-ijerph-14-00243" ref-type="bibr">41</xref>]. Under high emotional stress, long-term life-oriented goals lose their meaning, and the individual becomes subjected to extreme short-term goals. Suicide then emerges as a possible solution to end an unbearable mental state. The disconnect between the wish to die, the action of killing oneself, and the experience of being killed, has also been conceptualized as a distorted goal-directed action [<xref rid="B42-ijerph-14-00243" ref-type="bibr">42</xref>].</p><p>The way in which we make sense of the actions of others and the way in which we explain our own actions, is through stories or narratives. A narrative is a story told to an attentive listener, giving meaning to events in order to explain the inner logic of a specific behaviour or action. A coherent autobiographical narrative in itself creates a sense of self and mastery. It is also the prototype of a shared experience, or joint project, allowing the patient to generate multiple perspectives. &#x0201c;When we are able to formulate the right story, and it is heard in the right way by the right listener, we are able to deal more effectively with the experience&#x0201d; [<xref rid="B43-ijerph-14-00243" ref-type="bibr">43</xref>]. Patients&#x02019; narratives typically contain clear descriptions of goal-directed processes (see quote at the beginning of this section). Furthermore, patients may describe how suicide first&#x02014;and often repeatedly&#x02014;became an option in their lives. They may describe how they came to take the first steps towards suicide, deciding on the means of suicide, their fantasies about the results of their action, and maybe also how they were interrupted in their preparations of the suicidal act. Most patients describe intensive monitoring (cognitive, emotional, and physiological) prior to the suicide action. A few patients describe a fast transition from suicidal impulses to the suicide action.</p><p>We hypothesized that focusing on the patients&#x02019; very personal narratives might be more helpful to meet the patients&#x02019; own understanding of a suicidal crisis than focusing on a psychiatric diagnosis [<xref rid="B37-ijerph-14-00243" ref-type="bibr">37</xref>,<xref rid="B44-ijerph-14-00243" ref-type="bibr">44</xref>]. In a clinical study based on single interviews shortly after a suicide attempt, we found that, in comparison to the usual clinical interviewing style, patients&#x02019; ratings of the therapeutic relationship in the Penn Helping Alliance Questionnaire [<xref rid="B45-ijerph-14-00243" ref-type="bibr">45</xref>] were significantly higher, when the interviewer in the introduction used a narrative approach. The approach was considered to be narrative when the interviewer used the words &#x0201c;tell&#x0201d; or &#x0201c;story&#x0201d; (&#x0201c;can you please tell me how you came to the point of harming yourself?&#x0201d; or &#x0201c;I would like to hear the story behind the suicidal crisis&#x0201c;) [<xref rid="B46-ijerph-14-00243" ref-type="bibr">46</xref>]. We discussed our findings in a conference with international experts of clinical suicidology, which developed into the Aeschi Working Group, and the biennial Aeschi Conferences [<xref rid="B47-ijerph-14-00243" ref-type="bibr">47</xref>]. The Guidelines for Clinicians formulated by this group emphasize that &#x0201c;the ultimate goal should be to engage the patient in a therapeutic relationship, even in a first assessment interview&#x0201d; [<xref rid="B48-ijerph-14-00243" ref-type="bibr">48</xref>]. From psychotherapy research, we know that the early therapeutic alliance is a major factor for therapy outcome [<xref rid="B49-ijerph-14-00243" ref-type="bibr">49</xref>,<xref rid="B50-ijerph-14-00243" ref-type="bibr">50</xref>,<xref rid="B51-ijerph-14-00243" ref-type="bibr">51</xref>].</p><p>A truly narrative approach requires newly defined roles of the patient and therapist: In the narrative, the patient is the &#x0201c;expert&#x0201d; of his or her suicide story, and the therapist is in a &#x0201c;not knowing position&#x0201d; [<xref rid="B52-ijerph-14-00243" ref-type="bibr">52</xref>] (p. 166); while in the psychiatric assessment of the patient&#x02019;s mental state, the therapist is the expert. Following the narrative interview, we introduced a follow-up session, in which patients were confronted with the video-recorded interview. The video-playback and self-confrontation technique has been described by several authors [<xref rid="B53-ijerph-14-00243" ref-type="bibr">53</xref>,<xref rid="B54-ijerph-14-00243" ref-type="bibr">54</xref>,<xref rid="B55-ijerph-14-00243" ref-type="bibr">55</xref>]. In the video playback session, the patient and therapist sit side-by-side in front of the screen, watching the recorded interview; the prototype of a collaborative therapeutic approach [<xref rid="B13-ijerph-14-00243" ref-type="bibr">13</xref>]. The video is paused from time to time and patients are invited to report on any thoughts, feelings, and sensations that they had watching the interview, as well as to provide additional information regarding the suicide narrative. The aim of the video-playback is to achieve emotional and cognitive activation and restructuring, fostering self-awareness and insight, as the following letter exemplifies.</p><disp-quote><p>Dear doctor</p><p>Since I have seen you I have been feeling unburdened. Although about a week ago I experienced again something like beginning thoughts about suicide, I do feel better than three weeks ago, after the suicide attempt. Since then I also talked more with friends, and I tried again and again to explain what happened. I feel that the interview, and above all, watching together the video afterwards, gave me very much in terms of working through. Today it is much more clear to me what a &#x0201c;silly&#x0201d; idea such a suicide attempt, or suicide itself, is.</p><p>Again, many thanks! With best regards, R.W.</p><attrib>[<xref rid="B56-ijerph-14-00243" ref-type="bibr">56</xref>]</attrib></disp-quote><p>Although the patient&#x02019;s view of a suicide attempt as something &#x0201c;silly&#x0201d; does not do justice to the traumatic dimension of an acute suicidal crisis, it indicates that, through the video playback, the patient has gained some insight into the altered mental state he experienced during the acute suicidal crisis. In action theoretical terms, the video playback technique is a joint action between patient and therapist, aimed at a shared goal: To understand the critical points of the suicidal process in the context of relevant biographical issues, to identify vulnerability and trigger factors, and to develop alternatives for future survival. Patient and therapist take an insider&#x02019;s, as well as an outsider&#x02019;s, position. In terms of mentalization [<xref rid="B52-ijerph-14-00243" ref-type="bibr">52</xref>], it is a process of joint attention, wherein the patient&#x02019;s mental state is typically the focus of their shared attention, in a supportive and safe environment.</p></sec><sec id="sec4-ijerph-14-00243"><title>4. We Need Brief and Effective Therapies for Patients Who Attempt Suicide</title><disp-quote><p>&#x0201c;<italic>Ensure that people who have attempted suicide can get effective interventions to prevent further attempts</italic>&#x0201d;, Aspirational Goal Nr. 6, Research Agenda of the National Action Alliance of Suicide Prevention.</p><attrib>[<xref rid="B57-ijerph-14-00243" ref-type="bibr">57</xref>]</attrib></disp-quote><p>In contrast to the large number of suicidal individuals who do not seek professional help, those admitted to emergency departments following a suicide attempt enter the health care system, and can thus be taken into follow-up care. This is a key focus of clinical suicide prevention [<xref rid="B58-ijerph-14-00243" ref-type="bibr">58</xref>]. Attempted suicide is the main risk factor for suicide and suicide reattempts [<xref rid="B59-ijerph-14-00243" ref-type="bibr">59</xref>]. The suicide risk increases with each attempt and remains high over decades [<xref rid="B60-ijerph-14-00243" ref-type="bibr">60</xref>]. Repetition of non-fatal self-harm is common: Approximately 15%&#x02013;25% of people who self-harm will repeat an episode within one year, and 20%&#x02013;25% over the next few years [<xref rid="B61-ijerph-14-00243" ref-type="bibr">61</xref>]. Emergency department visits and inpatient hospitalizations due to suicidal ideation and suicide attempts, result in over 1 million hospital visits per year, leading to costs of some US$4.7 billion [<xref rid="B62-ijerph-14-00243" ref-type="bibr">62</xref>]. It has been estimated that interventions that reduce suicide attempts by 25% may lead to a 2.6% reduction in the suicide rate, which would result in approximately 1000 lives being saved in the US, annually [<xref rid="B63-ijerph-14-00243" ref-type="bibr">63</xref>].</p><p>Considering the limited resources for follow-up treatment of the large group of patients who attempt suicide, there is a clear need for brief and focused treatments for these patients [<xref rid="B58-ijerph-14-00243" ref-type="bibr">58</xref>,<xref rid="B64-ijerph-14-00243" ref-type="bibr">64</xref>]. Based on a model of suicide as a goal-directed action, we developed a brief therapy program for patients with a recent history of attempted suicide.</p></sec><sec id="sec5-ijerph-14-00243"><title>5. ASSIP (Attempted Suicide Short Intervention Program)</title><disp-quote><p>&#x0201c;<italic>Being empathic with the suicidal wish means assuming the suicidal person&#x02019;s perspective and &#x02018;seeing&#x02019; how this person has reached a dead end without trying to interfere, stop, or correct the suicidal wishes. This means that the therapist attempts to empathize with the patient&#x02019;s pain experience to such a point that he/she can &#x02018;see&#x02019; why suicide is the only alternative available to the patient&#x02026;Instead of working against the suicidal stream</italic>&#x0201d;.</p><attrib>[<xref rid="B65-ijerph-14-00243" ref-type="bibr">65</xref>]</attrib></disp-quote><p>ASSIP is a treatment administered in three 60&#x02013;90 min sessions, ideally within three weeks. A fourth session can be added if considered necessary.</p><sec id="sec5dot1-ijerph-14-00243"><title>5.1. First Session</title><p>A narrative interview is conducted, in which patients are asked to tell their personal stories about how they had reached the point of wanting to kill themselves, and how they went about it. The aim of the narrative interview is to reach&#x02014;in a biographical context&#x02014;a patient-centred understanding of the individual mechanisms leading to psychological pain and suicidal behaviour, and to elicit specific vulnerability factors and trigger events. All interviews are video-recorded, with the patients&#x02019; written consent.</p></sec><sec id="sec5dot2-ijerph-14-00243"><title>5.2. Second Session</title><p>The patient and therapist watch selected sequences of the video-recorded interview, sitting side-by-side. Thus, the patient is put into the observer&#x02019;s seat, watching the suicide narrative recorded in session one. The therapist helps to provide a detailed reconstruction of the transition from an experience of psychological pain and stress, to the suicidal action. Automatic thoughts, emotions, physiological changes, and contingent behaviour are identified. At the end of the session, two patients are given a psychoeducative handout (&#x0201c;Suicide is not a rational act&#x0201d;) as a homework task, to be returned, with personal comments, at the next session. The handout aims to establish a shared model of suicidal behaviour, by integrating theoretical concepts such as suicide risk factors, psychological pain, and the suicidal mode, as well as basic neurobiological correlates of the suicidal mind. Following the second session, the therapist prepares a written draft of the case conceptualization.</p></sec><sec id="sec5dot3-ijerph-14-00243"><title>5.3. Third Session</title><p>The patients&#x02019; written feedback, in response to the handout, is discussed. The draft of the case conceptualization is collaboratively revised. The case conceptualization formulates personal vulnerabilities and suicide triggers, providing the rationale for the need to develop individual warning signs and safety strategies for future suicidal crises. The written case conceptualization and the personal safety strategies are printed and handed out to the patient, with additional copies for the health professionals involved in treatment. Long-term goals, warning signs, and safety strategies are copied to a credit-card sized folded leaflet and given to the patient. Patients are instructed to carry this leaflet on them at all times, and to consult it in the event of an emotional crisis.</p></sec><sec id="sec5dot4-ijerph-14-00243"><title>5.4. Letters</title><p>Participants are sent semi-standardized letters over a period of 24 months, 3-monthly in the first year, and 6-monthly in the second year. The letters remind participants of the long-term risk of future suicidal crises and the importance of the safety strategies. Letters are signed personally by the ASSIP therapists. Patients are informed that they do not have to respond to the letters, but that a feedback about how things are going would be welcome. In the cases where patients write back (usually vie e-mail), the ASSIP therapist acknowledges this in the next letter.</p><p>For further details, see the ASSIP manual [<xref rid="B56-ijerph-14-00243" ref-type="bibr">56</xref>].</p></sec></sec><sec id="sec6-ijerph-14-00243"><title>6. Evaluating ASSIP</title><disp-quote><p>&#x0201c;<italic>ASSIP, a manual-based brief therapy for patients who have attempted suicide, administered in a real-world clinical setting, was efficacious in reducing suicidal behavior over 24 months. ASSIP thus fulfils the need for a brief, easy-to-implement, and low-cost intervention</italic>&#x0201d;.</p><attrib>[<xref rid="B66-ijerph-14-00243" ref-type="bibr">66</xref>]</attrib></disp-quote><sec id="sec6dot1-ijerph-14-00243"><title>6.1. Method</title><p>Patients admitted to the emergency unit of the Bern University General Hospital following attempted suicide, were randomly allocated to treatment as usual (<italic>N</italic> = 60) or treatment as usual plus ASSIP (<italic>N</italic> = 60). ASSIP participants received three therapy sessions followed by regular contact through personalized letters over 24 months. Participants considered to be at high risk of suicide were included; 63% were diagnosed with an affective disorder and 50% had a history of prior suicide attempts. Clinical exclusion criteria were habitual self-harm, serious cognitive impairment, and psychotic disorder. The primary outcome measure was repeat suicide attempts during the 24-months follow-up period. Secondary outcome measures were suicidal ideation and healthcare utilization. Furthermore, the effects of prior suicide attempts, depression at the baseline, diagnosis, and therapeutic alliance on the outcome, were investigated.</p></sec><sec id="sec6dot2-ijerph-14-00243"><title>6.2. Results</title><p>Treatment and control groups did not differ in demographic or clinical variables, with the exception of the number of outpatient sessions prior to the index suicide attempt. During the 24-months follow-up period, five repeat attempts were recorded in the ASSIP group and 41 attempts in the control group. The rates of participants reattempting suicide at least once were 8.3% (<italic>n</italic> = 5) and 26.7% (<italic>n</italic> = 16), respectively. ASSIP was associated with an approximately 80% reduced risk of repeat episodes (Wald &#x003c7;<sup>2</sup><sub>1</sub> = 13.1; 95% CI: 12.4&#x02013;13.7; <italic>p</italic> &#x0003c; 0.001). ASSIP participants spent significantly fewer days in hospital during the follow-up period. Higher therapeutic alliance in this group was associated with a lower rate of repeat attempts. Prior suicide attempts, depression, and a diagnosis of personality disorder at the baseline, did not significantly affect the outcome.</p></sec><sec id="sec6dot3-ijerph-14-00243"><title>6.3. Conclusions</title><p>ASSIP, a manual-based brief therapy for patients who had recently attempted suicide, administered in addition to the usual clinical treatment, was effective in reducing suicidal behaviour in a real-world clinical setting. ASSIP fulfils the need for an easy to administer, low-cost intervention. Future studies with larger patient samples are required to determine the effectiveness of ASSIP in other clinical and sociocultural settings.</p><p>The study can be openly accessed at PLOS Medicine [<xref rid="B66-ijerph-14-00243" ref-type="bibr">66</xref>].</p></sec></sec><sec id="sec7-ijerph-14-00243"><title>7. What Makes ASSIP Effective?</title><disp-quote><p>&#x0201c;<italic>Nothing diminishes anxiety as much as a sense of how to proceed in an anxiety-provoking situation. Like our patients, we therapists can benefit from structure</italic>&#x0201d;.</p><attrib>[<xref rid="B67-ijerph-14-00243" ref-type="bibr">67</xref>]</attrib></disp-quote><p>The finding that a very brief therapy can have a remarkable effect on the rate of repeat attempts over a time period of two years made us ask questions about the components that are likely to be effective in ASSIP. As ASSIP has been evaluated in the RCT as a &#x0201c;package&#x0201d;, we can only speculate about the therapy process factors involved.</p><sec id="sec7dot1-ijerph-14-00243"><title>7.1. Clear Structure and Treatment Goals</title><p>ASSIP is a highly structured treatment program, with clear objectives for each session, and is easy to understand for patients. Patients are informed about the treatment goals at the beginning of therapy. It is made clear that ASSIP will not &#x0201c;cure&#x0201d; suicidality, but that working together will lead to the tools required to respond differently to any future suicidal crisis. One of the main findings in psychotherapy research is that the outcome is associated with the patient-therapist agreement on treatment goals and the collaboration on treatment tasks necessary for goal attainment [<xref rid="B68-ijerph-14-00243" ref-type="bibr">68</xref>]. Furthermore, recent literature has highlighted the benefit of simple, well-structured, and, for patients, easy to understand therapy programs [<xref rid="B69-ijerph-14-00243" ref-type="bibr">69</xref>]. Brief treatments are typically patient-centred, facilitating a therapeutic alliance based on collaboration, information, and trust. This therapeutic approach stands in contrast to a relationship between a &#x0201c;healing&#x0201d; therapist and a passive patient [<xref rid="B69-ijerph-14-00243" ref-type="bibr">69</xref>]. In the treatment of people who attempt suicide, an increasing awareness of the mechanisms related to acute suicidality leads to a sense of empowerment, an improved sense of control, and a reduction of guilt [<xref rid="B67-ijerph-14-00243" ref-type="bibr">67</xref>], (p. 89); [<xref rid="B70-ijerph-14-00243" ref-type="bibr">70</xref>].</p></sec><sec id="sec7dot2-ijerph-14-00243"><title>7.2. Therapeutic Alliance</title><p>Building a therapeutic alliance with the patient has been the key element in designing ASSIP. It is based on the belief that a patient-centred and collaborative approach is a must, in order to achieve a lasting therapeutic change. ASSIP has emerged from the work of the Aeschi Working Group, which has been called the &#x0201c;Aeschi-philosophy&#x0201d;. The essence of this therapeutic approach has been summarized in a multi-author volume [<xref rid="B71-ijerph-14-00243" ref-type="bibr">71</xref>]. Therapeutic alliance is understood as a process &#x0201c;in which patients allow a therapist to enter their personal world, in order to initiate a process of intrapsychic change. Once a therapeutic alliance has been established, a bond between the patient and therapist will ensue, which will often be lasting, and will continue beyond the formal termination of treatment&#x0201c; [<xref rid="B72-ijerph-14-00243" ref-type="bibr">72</xref>].</p></sec><sec id="sec7dot3-ijerph-14-00243"><title>7.3. Narrative Interviewing</title><p>A key element in ASSIP is the narrative interview. Suicidality is understood as a highly individual phenomenon, with a strong biographical background. The gold standard is to see &#x0201c;the patient&#x02019;s percepts through the eyes of the patient&#x0201d; [<xref rid="B73-ijerph-14-00243" ref-type="bibr">73</xref>], (p. 46). We had hypothesized that a narrative approach, based on the notion that suicide is an action, would enhance therapeutic alliance&#x02014;which would then be associated with a better therapy adherence and outcome. In the RCT, this hypothesis was supported by the finding that the dropout rate in the treatment group was very low (4/60), compared to the control group (13/60). In the treatment group, the therapeutic alliance measured with the Penn Helping Alliance Questionnaire (HAQ), increased from session one to session three, which we take as a sign that patients increasingly felt that the treatment was helpful. Furthermore, we found an inverse relationship between the HAQ scores in the first session and suicide ideation during the course of follow-up sessions [<xref rid="B74-ijerph-14-00243" ref-type="bibr">74</xref>]. Thus, the narrative interview establishes a joint life-enhancing project, in which there is a growing engagement with treatment.</p></sec><sec id="sec7dot4-ijerph-14-00243"><title>7.4. Video-Playback and Self-Confrontation</title><p>The video-playback session is a powerful experience for patients, reviewing their own narratives in a safe and supportive environment. Being in the position of the observer is a form of self-confrontation with one&#x02019;s own suicidal wish. The external mode is &#x0201c;a starting point for the real work of accessing and articulating felt emotions and elaborating new meanings&#x0201d; [<xref rid="B75-ijerph-14-00243" ref-type="bibr">75</xref>]. A theoretical model conceptualizing the process of the video self-confrontation is offered by the two-mode model of cognitive-emotional processing [<xref rid="B76-ijerph-14-00243" ref-type="bibr">76</xref>]. Stanovich and West [<xref rid="B77-ijerph-14-00243" ref-type="bibr">77</xref>] referred to these two systems as System 1 and System 2. System 1 in this theoretical frame operates with little or no conscious input, is intuitive and automatic, and is the source of most of our actions. Although usually reliable in familiar situations, with generally swift and appropriate responses to challenges, this computational system is subject to systematic errors in specific circumstances. It typically operates within an emotional context and has a tendency to jump to conclusions on the basis of very limited evidence [<xref rid="B78-ijerph-14-00243" ref-type="bibr">78</xref>]. System 2 has the function of an override system for risky decisions provided by System 1&#x02014;such as planning and initiating suicidal behaviour. In this theoretical frame, the video self-confrontation can be seen as an activation of System 2, with patients reflecting on their suicide story and the possibility of other solutions than suicide to a seemingly unbearable state of mind. Furthermore, in ASSIP, the video self-confrontation prepares the ground for the motivation to detect future situations that require increased cognitive control [<xref rid="B79-ijerph-14-00243" ref-type="bibr">79</xref>].</p></sec><sec id="sec7dot5-ijerph-14-00243"><title>7.5. Psychoeducative Handout</title><p>The handout given to patients is a four-page summary of several aspects of suicidal behaviour, fostering the patients&#x02019; cooperation with the homework task, which requires the provision of written feedback to the therapist. The goal is to collaboratively develop a model of suicidal behaviour, which will be informed by the therapist&#x02019;s professional knowledge, integrating the patient&#x02019;s experiential knowledge. The model of suicide presented in this handout (&#x0201c;Suicide is not a rational decision&#x0201d;) includes clinically relevant aspects of suicidal behaviour, such as psychological pain, the suicidal mode, and risk factors such as depression, early trauma, etc., as well as findings from neurobiological research.</p><p><italic>Psychological pain</italic> is explained as the result of an experience that fundamentally threatens the sense of self. It explained that psychological pain is triggered by a negative experience, such as a threatened or actual breakdown of a relationship, or by an experience of personal failure or loss of important personal goals. &#x0201c;This pain may be worse than the most extreme physical pain. When we see no solution to such a painful experience, a state of alarm will ensue, which may be difficult to control. We lose faith that this experience of alarm and intense pain will ever subside.&#x0201d; The handout explains that dissociative symptoms are typical for the experience of extreme psychological pain: &#x0201c;Suicidal people report that they were not their usual self anymore and that they were acting in a trance-like state, that they felt disconnected from their physical body, and felt no pain. These critical mental states are called &#x0201c;dissociation&#x0201d;, which means that the normal self-perception is disrupted. In such a condition it is practically impossible to think and act rationally.&#x0201d; Dissociative symptoms related to psychological pain have been described by Orbach [<xref rid="B80-ijerph-14-00243" ref-type="bibr">80</xref>,<xref rid="B81-ijerph-14-00243" ref-type="bibr">81</xref>]. This concept, in our experience, is extremely helpful for patients to reduce the shame that is often associated with self-harm.</p><p><italic>The suicidal mode</italic> has been described as a cognitive-emotional-behavioral state of mind, designed to deal with specific, extraordinary situations, such as emotionally stressful or traumatic experiences. In ASSIP, it is described as an on/off phenomenon, which can be reactivated at any time [<xref rid="B70-ijerph-14-00243" ref-type="bibr">70</xref>,<xref rid="B82-ijerph-14-00243" ref-type="bibr">82</xref>]. The handout introduces findings from brain research: &#x0201c;After the recent suicidal crisis the suicidal mode will be stored in your brain circuitry and be readily available in future similar situations&#x0201d;. It is explained that, in the acute suicidal crisis, the neural activity in the brain region responsible for problem solving, i.e., the prefrontal cortex, is deactivated [<xref rid="B83-ijerph-14-00243" ref-type="bibr">83</xref>,<xref rid="B84-ijerph-14-00243" ref-type="bibr">84</xref>], and that therefore, safety strategies need to be developed. These must be implemented before the suicidal mode is fully activated.</p></sec><sec id="sec7dot6-ijerph-14-00243"><title>7.6. Safety Planning</title><p>Safety planning is a therapeutic concept well known from CBT [<xref rid="B16-ijerph-14-00243" ref-type="bibr">16</xref>,<xref rid="B85-ijerph-14-00243" ref-type="bibr">85</xref>]. It is closely related to the concept of the suicidal mode, which, in ASSIP, is broken down into different stages of the suicidal development in which we differentiate between the mental pain phase, the suicide action planning, and the phase of suicide action execution. This model demonstrates to the patient that safety strategies can be put into action at various stages (see <xref ref-type="fig" rid="ijerph-14-00243-f001">Figure 1</xref>). These include first stage strategies, in which patients can use their own personal resources, and second stage acute strategies, that involve personal and professional helpers or institutions. Early warning signs and safety strategies are collaboratively determined.</p></sec><sec id="sec7dot7-ijerph-14-00243"><title>7.7. Written Case Conceptualization</title><p>The draft of the case conceptualization, prepared by the therapist, is revised sentence-by-sentence in close collaboration with the patient, so that the patient &#x0201c;owns&#x0201d; this summary of the suicidal crisis. Most importantly, the text includes the patient&#x02019;s specific vulnerabilities and the events triggering the suicidal action&#x02014;factors that, in the future, could again activate the suicidal mode. The case conceptualization prepares the ground for formulating warning signs and safety strategies.</p></sec><sec id="sec7dot8-ijerph-14-00243"><title>7.8. Outreach Elements</title><p>Apart from home visits and phone calls, the most common outreach elements are regular letters and postcards [<xref rid="B86-ijerph-14-00243" ref-type="bibr">86</xref>,<xref rid="B87-ijerph-14-00243" ref-type="bibr">87</xref>,<xref rid="B88-ijerph-14-00243" ref-type="bibr">88</xref>,<xref rid="B89-ijerph-14-00243" ref-type="bibr">89</xref>,<xref rid="B90-ijerph-14-00243" ref-type="bibr">90</xref>]. Although their preventive effect has been mixed, we felt that personalised letters following the face-to-face sessions would mean more to the patients than anonymous letters: &#x0201c;A &#x0201c;lifeline&#x0201d; is only helpful if there is someone at the other end, i.e., first there has to be a trustful relationship&#x0201d; [<xref rid="B91-ijerph-14-00243" ref-type="bibr">91</xref>]. In ASSIP, the therapist continues to be a representation of a &#x0201c;secure base&#x0201d; experience in the sense of attachment theory [<xref rid="B92-ijerph-14-00243" ref-type="bibr">92</xref>]. The notion of the secure base states that, &#x0201c;in times of calamity&#x0201d;, humans seek the support of a person that understands them and can provide security. The letters function as a prolongation of a meaningful therapeutic relationship, as well as reminders of the collaboratively developed safety strategies. The crisis card, a credit-card sized, folded list of personalized safety strategies, serves the same purpose.</p></sec></sec><sec id="sec8-ijerph-14-00243"><title>8. Lessons Learnt from ASSIP: Can They Be Used to Improve Concepts of Suicide Prevention?</title><disp-quote><p>&#x0201c;<italic>&#x02026; suicidology has disproportionately focused on explaining suicide rather than understanding it. We need to better understand the particular circumstances associated with better outcomes</italic>&#x0201d;.</p><attrib>[<xref rid="B93-ijerph-14-00243" ref-type="bibr">93</xref>]</attrib></disp-quote><p>Suicide prevention is faced with many barriers, and we need to improve the ways in which we can overcome them. Thoughts of suicide once or several times in a lifetime are common in Western societies&#x02014;[<xref rid="B94-ijerph-14-00243" ref-type="bibr">94</xref>]. However, as described in <xref ref-type="sec" rid="sec2-ijerph-14-00243">Section 2</xref> of this article, suicidal thoughts and plans are often not addressed in medical consultation. Suicidal persons suffer from a loss of self-esteem, and they are ashamed of not being able to cope with their problems. They are afraid of not being understood. They are afraid of stigmatisation. To be told that they suffer from a depression may be helpful for some of them, but for others, it makes things worse. Men in particular tend to see the diagnosis of depression as yet another failure in their life [<xref rid="B95-ijerph-14-00243" ref-type="bibr">95</xref>]. Patients and therapists need concepts that help them to overcome their helplessness vis-&#x000e0;-vis the phenomenon of suicidal behaviour. Concepts used in suicide prevention must provide a common conceptual ground, where suicidal individuals and health professionals can meet. ASSIP uses some novel concepts of suicidal behaviour and treatment, which may have the potential to be effective elements in other areas of suicide prevention. Here, we try to formulate the lessons learnt from ASSIP in a general manner.</p><sec id="sec8dot1-ijerph-14-00243"><title>8.1. Concept Nr. 1: Suicide Is an Action and Has a Personal History</title><p>Affective disorders and other psychiatric diagnoses are risk factors for suicide, not the cause. Understanding suicide as an action shifts the focus to the individuality of suicidal behaviour. Every suicide story is different. Suicidal behaviour is not the result of a single cause. Unfortunately, in clinical practice, particularly in medical and psychiatric institutions, the clinicians&#x02019; listening abilities have often been replaced by questionnaires and manualized interviews. Yet, a &#x0201c;one-size-fits all approach&#x0201d; will not reach the suicidal individual [<xref rid="B96-ijerph-14-00243" ref-type="bibr">96</xref>]. People with suicidal ideation will only open up and confide their stories of pain and shame if the therapist is an empathic listener, who wants to learn from and understand &#x0201c;the person in the patient&#x0201d; [<xref rid="B97-ijerph-14-00243" ref-type="bibr">97</xref>]. Suicidal individuals have an impressive narrative competence; that is, they are well able to provide a congruent story. Once a person feels understood and has developed trust, the path will be open for a truly collaborative therapy. The guidelines for clinicians issued by the Aeschi Working Group, state that &#x0201c;an empathic approach is essential to help patients re-establish life-oriented goals&#x0201d; [<xref rid="B48-ijerph-14-00243" ref-type="bibr">48</xref>]. To listen to patients in an empathic, attentive, and nonjudgmental way, is, of course, not something new; it is simply good clinical practice.</p></sec><sec id="sec8dot2-ijerph-14-00243"><title>8.2. Concept Nr. 2: Suicide Happens in an Altered State of Consciousness</title><p>Suicide and attempted suicide are usually the result of adverse events leading to an emotional crisis, best characterized by the concept of psychological pain. Psychological pain and the feeling of hopelessness lead to the decision that suicide is the only way left to end the suffering. This may be so convincing that alternatives, or life-oriented plans and goals, are out of focus. The suicidal brain is focused on a quick solution for the unbearable state of mind, which seems fully convincing in that given moment (&#x0201c;cognitive-emotional myopia&#x0201d;). A person who cannot simulate alternatives to a given situation becomes &#x0201c;stimulus bound&#x0201d;. Patients with a history of suicidal behaviour have impaired decision-making capacities [<xref rid="B98-ijerph-14-00243" ref-type="bibr">98</xref>], a finding associated with reduced activity in frontal brain areas [<xref rid="B99-ijerph-14-00243" ref-type="bibr">99</xref>]. Dissociative symptoms, which in clinical practice are often not recognized, point to a mental condition with trauma-like dimensions [<xref rid="B100-ijerph-14-00243" ref-type="bibr">100</xref>]. An fMRI study using script-driven recall of the suicidal crisis, suggested that changes in the prefrontal neural activity have a strong state-dependent component [<xref rid="B83-ijerph-14-00243" ref-type="bibr">83</xref>]. In the suicidal mode characterized by dissociative symptoms, the plan is put into action in the sense of an &#x0201c;auto-pilot&#x0201d; condition.</p></sec><sec id="sec8dot3-ijerph-14-00243"><title>8.3. Concept Nr. 3: In a Crisis We Cannot Always Trust Our Brains</title><p>We contend that suicide is an action that, in retrospect, most people would regret. Patients who survive a suicidal act, typically realize that alternatives would have been available, and that in retrospect, suicide, in view of their long-term life plans, was a wrong decision. This is convincingly demonstrated by Kevin Hines, who talks about his jump from the Golden Gate Bridge [<xref rid="B101-ijerph-14-00243" ref-type="bibr">101</xref>]. The model of suicide as an action related to seriously impaired decision-making, reduces stigma and shame; the latter being one of the main barriers to people who need to seek help [<xref rid="B12-ijerph-14-00243" ref-type="bibr">12</xref>,<xref rid="B41-ijerph-14-00243" ref-type="bibr">41</xref>]. Therefore, the message in a prevention campaign could be: &#x0201c;In an emotional crisis be aware: you cannot always trust your brain. Suicide is an action that your brain may convincingly see as the only solution. It is not a psychiatric disorder, and there is no reason to be ashamed. It can happen to anybody. It is time-limited. There is always another solution. You should discuss your condition with a professional helper. Your life is too precious.&#x0201d;</p></sec><sec id="sec8dot4-ijerph-14-00243"><title>8.4. Concept Nr. 4: After a Suicidal Crisis: Beware of the Increased Suicide Risk</title><p>We believe that, after a suicide attempt, suicidality cannot be &#x0201c;cured&#x0201d; for good. Research suggests that the suicidal mode is also a neurobiological mode. It is stored in the neural circuitry and will be triggered again in the future by adverse personal experiences. After a suicidal crisis, people need to be aware of the increased risk. They need to develop an awareness of the warning signs, and use safety strategies during an early stage in the development of the suicidal mode. Psychoeducation is key for clinical suicide prevention. Furthermore, outreach elements such as regular letters, phone calls, and home visits appear to be useful preventive measures. The effect of psychoeducation and continued contact has been demonstrated in the Fleischman et al. [<xref rid="B102-ijerph-14-00243" ref-type="bibr">102</xref>] study. A personal, long-term follow-up by the same health professional (as in ASSIP) appears to be particularly helpful [<xref rid="B103-ijerph-14-00243" ref-type="bibr">103</xref>]. This may also account for the beneficial effect of long-term pharmacotherapy, which requires a long-term relationship with a health professional [<xref rid="B104-ijerph-14-00243" ref-type="bibr">104</xref>].</p></sec></sec><sec id="sec9-ijerph-14-00243"><title>9. Conclusions</title><disp-quote><p>&#x0201c;<italic>No single initiative will suffice; rather, there must be comprehensive, integrated efforts that reach across health systems and communities, (...). Mosaics, where pieces fit together to make a more complete picture, are required to address the extraordinary diversity of those who die by suicide</italic>&#x0201d;.</p><attrib>[<xref rid="B105-ijerph-14-00243" ref-type="bibr">105</xref>]</attrib></disp-quote><p>ASSIP, a brief and effective therapy for patients seen after a suicide attempt, introduced some novel therapeutic elements such as narrative interviewing, video-playback, and case conceptualizations, using the concept of suicide as a goal-directed action. In this article, it has been argued that theoretical concepts on which ASSIP is based, may be useful for new clinical and universal prevention projects. These concepts also imply certain future directions in suicide research:
+<list list-type="bullet"><list-item><p>Neurobiological research has not &#x0201c;found&#x0201d; the cause of suicide, but it has given us exciting insights into the brain and the brain function related to suicidal behaviour [<xref rid="B106-ijerph-14-00243" ref-type="bibr">106</xref>,<xref rid="B107-ijerph-14-00243" ref-type="bibr">107</xref>,<xref rid="B108-ijerph-14-00243" ref-type="bibr">108</xref>]. We need more research focusing on the neurobiology of actions and decision-making, both trait- and state-dependent.</p></list-item><list-item><p>We need to understand the relationship between problems of decision-making, psychiatric pathology, and childhood trauma.</p></list-item><list-item><p>We need large randomized treatment trials in various clinical settings, with long-term follow-up.</p></list-item><list-item><p>We need more psychotherapy research to find out which therapy process factors are most effective in the treatment of suicidality. There is a huge need for brief and effective therapies.</p></list-item><list-item><p>We need to investigate the effect of successful therapies on brain function.</p></list-item><list-item><p>On universal and indicated levels of prevention, we need to learn which models of suicide best reach people, in order to change attitudes and knowledge about suicide, to reduce stigma and shame, and to increase help-seeking behaviour.</p></list-item></list></p></sec></body><back><notes><title>Author Contributions</title><p>Konrad Michel wrote the draft of the article; Ladislav Valach contributed to the content related to action theory; Anja Gysin-Maillart contributed to the content related to ASSIP.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijerph-14-00243"><label>1.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Maris</surname><given-names>R.</given-names></name></person-group>
+<source>Pathways to Suicide: A Survey of Self-Destructive Behaviors</source>
+<publisher-name>The Johns Hopkins University Press</publisher-name>
+<publisher-loc>Baltimore, MD, USA</publisher-loc>
+<year>1981</year>
+</element-citation></ref><ref id="B2-ijerph-14-00243"><label>2.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Durkheim</surname><given-names>E.</given-names></name></person-group>
+<source>Le suicide: Etude de Sociologie (Suicide: A Sociological Study)</source>
+<publisher-name>F&#x000e9;lix Alcan</publisher-name>
+<publisher-loc>Paris, France</publisher-loc>
+<year>1897</year>
+</element-citation></ref><ref id="B3-ijerph-14-00243"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mann</surname><given-names>J.J.</given-names></name><name><surname>McBride</surname><given-names>P.A.</given-names></name><name><surname>Brown</surname><given-names>R.P.</given-names></name><name><surname>Linnoila</surname><given-names>M.</given-names></name><name><surname>Leon</surname><given-names>A.C.</given-names></name><name><surname>DeMeo</surname><given-names>M.</given-names></name><name><surname>Mieczkowski</surname><given-names>T.</given-names></name><name><surname>Myers</surname><given-names>J.E.</given-names></name><name><surname>Stanley</surname><given-names>M.</given-names></name></person-group>
+<article-title>Relationship between central and peripheral serotonin indexes in depressed and suicidal psychiatric inpatients</article-title>
+<source>Arch. Gen. Psychiatry</source>
+<year>1992</year>
+<volume>49</volume>
+<fpage>442</fpage>
+<lpage>446</lpage>
+<?supplied-pmid 1376106?><pub-id pub-id-type="pmid">1376106</pub-id></element-citation></ref><ref id="B4-ijerph-14-00243"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rihmer</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Suicide risk in mood disorders</article-title>
+<source>Curr. Opin. Psychiatry</source>
+<year>2007</year>
+<volume>20</volume>
+<fpage>17</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.1097/YCO.0b013e3280106868</pub-id>
+<?supplied-pmid 17143077?><pub-id pub-id-type="pmid">17143077</pub-id></element-citation></ref><ref id="B5-ijerph-14-00243"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Borges</surname><given-names>G.</given-names></name><name><surname>Nock</surname><given-names>M.K.</given-names></name><name><surname>Haro Abad</surname><given-names>J.M.</given-names></name><name><surname>Hwang</surname><given-names>I.</given-names></name><name><surname>Sampson</surname><given-names>N.A.</given-names></name><name><surname>Alonso</surname><given-names>J.</given-names></name><name><surname>Andrade</surname><given-names>L.H.</given-names></name><name><surname>Angermeyer</surname><given-names>M.C.</given-names></name><name><surname>Beautrais</surname><given-names>A.</given-names></name><name><surname>Bromet</surname><given-names>E.</given-names></name><etal/></person-group>
+<article-title>Twelve-month prevalence of and risk factors for suicide attempts in the world health organization world mental health surveys</article-title>
+<source>J. Clin. Psychiatry</source>
+<year>2010</year>
+<volume>71</volume>
+<fpage>1617</fpage>
+<lpage>1628</lpage>
+<pub-id pub-id-type="doi">10.4088/JCP.08m04967blu</pub-id>
+<?supplied-pmid 20816034?><pub-id pub-id-type="pmid">20816034</pub-id></element-citation></ref><ref id="B6-ijerph-14-00243"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Leo</surname><given-names>D.</given-names></name></person-group>
+<article-title>Why are we not getting any closer to preventing suicide?</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2002</year>
+<volume>181</volume>
+<fpage>372</fpage>
+<lpage>374</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.181.5.372</pub-id>
+<?supplied-pmid 12411260?><pub-id pub-id-type="pmid">12411260</pub-id></element-citation></ref><ref id="B7-ijerph-14-00243"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertolote</surname><given-names>J.M.</given-names></name><name><surname>Fleischmann</surname><given-names>A.</given-names></name><name><surname>De Leo</surname><given-names>D.</given-names></name><name><surname>Wasserman</surname><given-names>D.</given-names></name></person-group>
+<article-title>Suicide and mental disorders: Do we know enough?</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2003</year>
+<volume>183</volume>
+<fpage>382</fpage>
+<lpage>383</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.183.5.382</pub-id>
+<?supplied-pmid 14594911?><pub-id pub-id-type="pmid">14594911</pub-id></element-citation></ref><ref id="B8-ijerph-14-00243"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kapusta</surname><given-names>N.D.</given-names></name><name><surname>Niederkrotenthaler</surname><given-names>T.</given-names></name><name><surname>Etzersdorfer</surname><given-names>E.</given-names></name><name><surname>Voracek</surname><given-names>M.</given-names></name><name><surname>Dervic</surname><given-names>K.</given-names></name><name><surname>Jandl-Jager</surname><given-names>E.</given-names></name><name><surname>Sonneck</surname><given-names>G.</given-names></name></person-group>
+<article-title>Influence of psychotherapist density and antidepressant sales on suicide rates</article-title>
+<source>Acta Psychiatr. Scand.</source>
+<year>2009</year>
+<volume>119</volume>
+<fpage>236</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-0447.2008.01314.x</pub-id>
+<?supplied-pmid 19076117?><pub-id pub-id-type="pmid">19076117</pub-id></element-citation></ref><ref id="B9-ijerph-14-00243"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pacchiarotti</surname><given-names>I.</given-names></name><name><surname>Bond</surname><given-names>D.J.</given-names></name><name><surname>Baldessarini</surname><given-names>R.J.</given-names></name><name><surname>Nolen</surname><given-names>W.A.</given-names></name><name><surname>Grunze</surname><given-names>H.</given-names></name><name><surname>Licht</surname><given-names>R.W.</given-names></name><name><surname>Post</surname><given-names>R.M.</given-names></name><name><surname>Berk</surname><given-names>M.</given-names></name><name><surname>Goodwin</surname><given-names>G.M.</given-names></name><name><surname>Sachs</surname><given-names>G.S.</given-names></name><etal/></person-group>
+<article-title>The international society for bipolar disorders (ISBD) task force report on antidepressant use in bipolar disorders</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2013</year>
+<volume>170</volume>
+<fpage>1249</fpage>
+<lpage>1262</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.2013.13020185</pub-id>
+<?supplied-pmid 24030475?><pub-id pub-id-type="pmid">24030475</pub-id></element-citation></ref><ref id="B10-ijerph-14-00243"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Praag</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>A stubborn behaviour: The failure of antidepressants to reduce suicide rates</article-title>
+<source>World J. Biol. Psychiatry</source>
+<year>2003</year>
+<volume>4</volume>
+<fpage>184</fpage>
+<lpage>191</lpage>
+<pub-id pub-id-type="doi">10.1080/15622970310029917</pub-id>
+<?supplied-pmid 14608590?><pub-id pub-id-type="pmid">14608590</pub-id></element-citation></ref><ref id="B11-ijerph-14-00243"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cipriani</surname><given-names>A.</given-names></name><name><surname>Hawton</surname><given-names>K.</given-names></name><name><surname>Stockton</surname><given-names>S.</given-names></name><name><surname>Geddes</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Lithium in the prevention of suicide in mood disorders: Updated systematic review and meta-analysis</article-title>
+<source>BMJ</source>
+<year>2013</year>
+<volume>346</volume>
+<fpage>f3646</fpage>
+<pub-id pub-id-type="doi">10.1136/bmj.f3646</pub-id>
+<?supplied-pmid 23814104?><pub-id pub-id-type="pmid">23814104</pub-id></element-citation></ref><ref id="B12-ijerph-14-00243"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Leo</surname><given-names>D.</given-names></name></person-group>
+<article-title>Suicide prevention is far more than a psychiatric business</article-title>
+<source>World Psychiatry</source>
+<year>2004</year>
+<volume>3</volume>
+<fpage>155</fpage>
+<lpage>156</lpage>
+<?supplied-pmid 16633482?><pub-id pub-id-type="pmid">16633482</pub-id></element-citation></ref><ref id="B13-ijerph-14-00243"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jobes</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>Collaborating to prevent suicide: A clinical-research perspective</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>2000</year>
+<volume>30</volume>
+<fpage>8</fpage>
+<lpage>17</lpage>
+<?supplied-pmid 10782715?><pub-id pub-id-type="pmid">10782715</pub-id></element-citation></ref><ref id="B14-ijerph-14-00243"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linehan</surname><given-names>M.M.</given-names></name></person-group>
+<article-title>Suicide intervention research: A field in desperate need of development</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>2008</year>
+<volume>38</volume>
+<fpage>483</fpage>
+<lpage>485</lpage>
+<pub-id pub-id-type="doi">10.1521/suli.2008.38.5.483</pub-id>
+<?supplied-pmid 19014300?><pub-id pub-id-type="pmid">19014300</pub-id></element-citation></ref><ref id="B15-ijerph-14-00243"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hjelmeland</surname><given-names>H.</given-names></name><name><surname>Knizek</surname><given-names>B.L.</given-names></name></person-group>
+<article-title>Why we need qualitative research in suicidology</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>2010</year>
+<volume>40</volume>
+<fpage>74</fpage>
+<lpage>80</lpage>
+<pub-id pub-id-type="doi">10.1521/suli.2010.40.1.74</pub-id>
+<?supplied-pmid 20170263?><pub-id pub-id-type="pmid">20170263</pub-id></element-citation></ref><ref id="B16-ijerph-14-00243"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brown</surname><given-names>G.K.</given-names></name><name><surname>Ten Have</surname><given-names>T.</given-names></name><name><surname>Henriques</surname><given-names>G.R.</given-names></name><name><surname>Xie</surname><given-names>S.X.</given-names></name><name><surname>Hollander</surname><given-names>J.E.</given-names></name><name><surname>Beck</surname><given-names>A.T.</given-names></name></person-group>
+<article-title>Cognitive therapy for the prevention of suicide attempts: A randomized controlled trial</article-title>
+<source>JAMA</source>
+<year>2005</year>
+<volume>294</volume>
+<fpage>563</fpage>
+<lpage>570</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.294.5.563</pub-id>
+<?supplied-pmid 16077050?><pub-id pub-id-type="pmid">16077050</pub-id></element-citation></ref><ref id="B17-ijerph-14-00243"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rudd</surname><given-names>M.D.</given-names></name><name><surname>Bryan</surname><given-names>C.J.</given-names></name><name><surname>Wertenberger</surname><given-names>E.G.</given-names></name><name><surname>Peterson</surname><given-names>A.L.</given-names></name><name><surname>Young-McCaughan</surname><given-names>S.</given-names></name><name><surname>Mintz</surname><given-names>J.</given-names></name><name><surname>Williams</surname><given-names>S.R.</given-names></name><name><surname>Arne</surname><given-names>K.A.</given-names></name><name><surname>Breitbach</surname><given-names>J.</given-names></name><name><surname>Delano</surname><given-names>K.</given-names></name><etal/></person-group>
+<article-title>Brief cognitive-behavioral therapy effects on post-treatment suicide attempts in a military sample: Results of a randomized clinical trial with 2-year follow-up</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2015</year>
+<volume>172</volume>
+<fpage>441</fpage>
+<lpage>449</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.2014.14070843</pub-id>
+<?supplied-pmid 25677353?><pub-id pub-id-type="pmid">25677353</pub-id></element-citation></ref><ref id="B18-ijerph-14-00243"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linehan</surname><given-names>M.M.</given-names></name><name><surname>Armstrong</surname><given-names>H.E.</given-names></name><name><surname>Suarez</surname><given-names>A.</given-names></name><name><surname>Allmon</surname><given-names>D.</given-names></name><name><surname>Heard</surname><given-names>H.L.</given-names></name></person-group>
+<article-title>Cognitive-behavioral treatment of chronically parasuicidal borderline patients</article-title>
+<source>Arch. Gen. Psychiatry</source>
+<year>1991</year>
+<volume>48</volume>
+<fpage>1060</fpage>
+<lpage>1064</lpage>
+<pub-id pub-id-type="doi">10.1001/archpsyc.1991.01810360024003</pub-id>
+<?supplied-pmid 1845222?><pub-id pub-id-type="pmid">1845222</pub-id></element-citation></ref><ref id="B19-ijerph-14-00243"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jobes</surname><given-names>D.A.</given-names></name></person-group>
+<article-title>The collaborative assessment and management of suicidality (CAMS): An evolving evidence-based clinical approach to suicidal risk</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>2012</year>
+<volume>42</volume>
+<fpage>640</fpage>
+<lpage>653</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1943-278X.2012.00119.x</pub-id>
+<?supplied-pmid 22971238?><pub-id pub-id-type="pmid">22971238</pub-id></element-citation></ref><ref id="B20-ijerph-14-00243"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zalsman</surname><given-names>G.</given-names></name><name><surname>Hawton</surname><given-names>K.</given-names></name><name><surname>Wasserman</surname><given-names>D.</given-names></name><name><surname>van Heeringen</surname><given-names>K.</given-names></name><name><surname>Arensman</surname><given-names>E.</given-names></name><name><surname>Sarchiapone</surname><given-names>M.</given-names></name><name><surname>Carli</surname><given-names>V.</given-names></name><name><surname>Hoschl</surname><given-names>C.</given-names></name><name><surname>Barzilay</surname><given-names>R.</given-names></name><name><surname>Balazs</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Suicide prevention strategies revisited: 10-Year systematic review</article-title>
+<source>Lancet Psychiatry</source>
+<year>2016</year>
+<volume>3</volume>
+<fpage>646</fpage>
+<lpage>659</lpage>
+<pub-id pub-id-type="doi">10.1016/S2215-0366(16)30030-X</pub-id>
+<pub-id pub-id-type="pmid">27289303</pub-id></element-citation></ref><ref id="B21-ijerph-14-00243"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hetrick</surname><given-names>S.E.</given-names></name><name><surname>Robinson</surname><given-names>J.</given-names></name><name><surname>Spittal</surname><given-names>M.J.</given-names></name><name><surname>Carter</surname><given-names>G.</given-names></name></person-group>
+<article-title>Effective psychological and psychosocial approaches to reduce repetition of self-harm: A systematic review, meta-analysis and meta-regression</article-title>
+<source>BMJ Open</source>
+<year>2016</year>
+<volume>6</volume>
+<fpage>e011024</fpage>
+<pub-id pub-id-type="doi">10.1136/bmjopen-2016-011024</pub-id>
+<?supplied-pmid 27660314?><pub-id pub-id-type="pmid">27660314</pub-id></element-citation></ref><ref id="B22-ijerph-14-00243"><label>22.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Dey</surname><given-names>P.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name></person-group>
+<article-title>Suicide as goal-directed action</article-title>
+<source>Understanding Suicidal Behaviour: The Suicidal Process Approach to Research and Treatment</source>
+<person-group person-group-type="editor"><name><surname>Heeringen</surname><given-names>K.V.</given-names></name></person-group>
+<publisher-name>Wiley &#x00026; Sons</publisher-name>
+<publisher-loc>Chichester, UK</publisher-loc>
+<year>2001</year>
+</element-citation></ref><ref id="B23-ijerph-14-00243"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Downs</surname><given-names>M.F.</given-names></name><name><surname>Eisenberg</surname><given-names>D.</given-names></name></person-group>
+<article-title>Help seeking and treatment use among suicidal college students</article-title>
+<source>J. Am. Coll. Health</source>
+<year>2012</year>
+<volume>60</volume>
+<fpage>104</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="doi">10.1080/07448481.2011.619611</pub-id>
+<?supplied-pmid 22316407?><pub-id pub-id-type="pmid">22316407</pub-id></element-citation></ref><ref id="B24-ijerph-14-00243"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Waeber</surname><given-names>V.</given-names></name></person-group>
+<article-title>Understanding deliberate self-harm: The patients&#x02019; views</article-title>
+<source>Crisis</source>
+<year>1994</year>
+<volume>15</volume>
+<fpage>172</fpage>
+<lpage>178</lpage>
+<?supplied-pmid 7729149?><pub-id pub-id-type="pmid">7729149</pub-id></element-citation></ref><ref id="B25-ijerph-14-00243"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Renaud</surname><given-names>J.</given-names></name><name><surname>Berlim</surname><given-names>M.T.</given-names></name><name><surname>Seguin</surname><given-names>M.</given-names></name><name><surname>McGirr</surname><given-names>A.</given-names></name><name><surname>Tousignant</surname><given-names>M.</given-names></name><name><surname>Turecki</surname><given-names>G.</given-names></name></person-group>
+<article-title>Recent and lifetime utilization of health care services by children and adolescent suicide victims: A case-control study</article-title>
+<source>J. Affect. Disord.</source>
+<year>2009</year>
+<volume>117</volume>
+<fpage>168</fpage>
+<lpage>173</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jad.2009.01.004</pub-id>
+<?supplied-pmid 19187970?><pub-id pub-id-type="pmid">19187970</pub-id></element-citation></ref><ref id="B26-ijerph-14-00243"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Isomets&#x000e4;</surname><given-names>E.T.</given-names></name><name><surname>Heikkinen</surname><given-names>M.E.</given-names></name><name><surname>Marttunen</surname><given-names>M.J.</given-names></name><name><surname>Henriksson</surname><given-names>M.M.</given-names></name><name><surname>Aro</surname><given-names>H.M.</given-names></name><name><surname>L&#x000f6;nnqvist</surname><given-names>J.K.</given-names></name></person-group>
+<article-title>The last appointment before suicide: Is suicide intent communicated?</article-title>
+<source>Am. J. Psychiatry</source>
+<year>1995</year>
+<volume>152</volume>
+<fpage>919</fpage>
+<lpage>922</lpage>
+<?supplied-pmid 7755124?><pub-id pub-id-type="pmid">7755124</pub-id></element-citation></ref><ref id="B27-ijerph-14-00243"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pirkis</surname><given-names>J.</given-names></name><name><surname>Burgess</surname><given-names>P.</given-names></name></person-group>
+<article-title>Suicide and recency of health care contacts. A systematic review</article-title>
+<source>Br. J. Psychiatry</source>
+<year>1998</year>
+<volume>173</volume>
+<fpage>462</fpage>
+<lpage>474</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.173.6.462</pub-id>
+<?supplied-pmid 9926074?><pub-id pub-id-type="pmid">9926074</pub-id></element-citation></ref><ref id="B28-ijerph-14-00243"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wolk-Wasserman</surname><given-names>D.</given-names></name></person-group>
+<article-title>Contacts of suicidal neurotic and prepsychotic/psychotic patients and their significant others with public care institutions before the suicide attempt</article-title>
+<source>Acta Psychiatr. Scand.</source>
+<year>1987</year>
+<volume>75</volume>
+<fpage>358</fpage>
+<lpage>372</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1600-0447.1987.tb02803.x</pub-id>
+<?supplied-pmid 3591420?><pub-id pub-id-type="pmid">3591420</pub-id></element-citation></ref><ref id="B29-ijerph-14-00243"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Apter</surname><given-names>A.</given-names></name><name><surname>Horesh</surname><given-names>N.</given-names></name><name><surname>Gothelf</surname><given-names>D.</given-names></name><name><surname>Graffi</surname><given-names>H.</given-names></name><name><surname>Lepkifker</surname><given-names>E.</given-names></name></person-group>
+<article-title>Relationship between self-disclosure and serious suicidal behavior</article-title>
+<source>Compr. Psychiatry</source>
+<year>2001</year>
+<volume>42</volume>
+<fpage>70</fpage>
+<lpage>75</lpage>
+<pub-id pub-id-type="doi">10.1053/comp.2001.19748</pub-id>
+<?supplied-pmid 11154719?><pub-id pub-id-type="pmid">11154719</pub-id></element-citation></ref><ref id="B30-ijerph-14-00243"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Murphy</surname><given-names>G.E.</given-names></name></person-group>
+<article-title>The physician&#x02019;s responsibility for suicide. II. Errors of omission</article-title>
+<source>Ann. Intern. Med.</source>
+<year>1975</year>
+<volume>82</volume>
+<fpage>305</fpage>
+<lpage>309</lpage>
+<?supplied-pmid 1115463?><pub-id pub-id-type="pmid">1115463</pub-id></element-citation></ref><ref id="B31-ijerph-14-00243"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shea</surname><given-names>S.</given-names></name></person-group>
+<article-title>The delicate art of eliciting suicidal ideation</article-title>
+<source>Psychiatr. Ann.</source>
+<year>2004</year>
+<volume>34</volume>
+<fpage>374</fpage>
+<lpage>400</lpage>
+<pub-id pub-id-type="doi">10.3928/0048-5713-20040501-19</pub-id>
+</element-citation></ref><ref id="B32-ijerph-14-00243"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>Suicide and suicide prevention. Could the physician do more? Results of a questionnaire of relatives of suicide attempters and suicide victims</article-title>
+<source>Schweiz. Med. Wochenschr.</source>
+<year>1986</year>
+<volume>116</volume>
+<fpage>770</fpage>
+<lpage>774</lpage>
+<?supplied-pmid 3726508?><pub-id pub-id-type="pmid">3726508</pub-id></element-citation></ref><ref id="B33-ijerph-14-00243"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurz</surname><given-names>A.</given-names></name><name><surname>M&#x000f6;ller</surname><given-names>H.J.</given-names></name></person-group>
+<article-title>Help-seeking behavior and compliance of suicidal patients</article-title>
+<source>Psychiatr. Prax.</source>
+<year>1984</year>
+<volume>11</volume>
+<fpage>6</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="pmid">6709771</pub-id></element-citation></ref><ref id="B34-ijerph-14-00243"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fawcett</surname><given-names>J.</given-names></name><name><surname>Scheftner</surname><given-names>W.A.</given-names></name><name><surname>Fogg</surname><given-names>L.</given-names></name></person-group>
+<article-title>Predictive factors of post-discharge follow-up care among adolescent suicide attempters</article-title>
+<source>Acta Psychiatr. Scand.</source>
+<year>2001</year>
+<volume>104</volume>
+<fpage>31</fpage>
+<lpage>36</lpage>
+<pub-id pub-id-type="pmid">11437747</pub-id></element-citation></ref><ref id="B35-ijerph-14-00243"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Monti</surname><given-names>K.</given-names></name><name><surname>Cedereke</surname><given-names>M.</given-names></name><name><surname>Ojehagen</surname><given-names>A.</given-names></name></person-group>
+<article-title>Treatment attendance and suicidal behavior 1 month and 3 months after a suicide attempt: A comparison between two samples</article-title>
+<source>Arch. Suicide Res.</source>
+<year>2003</year>
+<volume>7</volume>
+<fpage>167</fpage>
+<lpage>174</lpage>
+<pub-id pub-id-type="doi">10.1080/13811110301581</pub-id>
+</element-citation></ref><ref id="B36-ijerph-14-00243"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Treolar</surname><given-names>A.J.</given-names></name><name><surname>Pinfold</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Deliberate self-harm: An assessment of patients&#x02019; attitudes to the care they receive</article-title>
+<source>Crisis</source>
+<year>1993</year>
+<volume>14</volume>
+<fpage>83</fpage>
+<lpage>89</lpage>
+<pub-id pub-id-type="pmid">8252929</pub-id></element-citation></ref><ref id="B37-ijerph-14-00243"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name></person-group>
+<article-title>Suicide as goal-directed action</article-title>
+<source>Arch. Suicide Res.</source>
+<year>1997</year>
+<volume>3</volume>
+<fpage>213</fpage>
+<lpage>221</lpage>
+<pub-id pub-id-type="doi">10.1080/13811119708258273</pub-id>
+</element-citation></ref><ref id="B38-ijerph-14-00243"><label>38.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Gollwitzer</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>The volitional benefits of planning</article-title>
+<source>The Psychology of Action. Linking Cognition and Motivation to Behavior</source>
+<person-group person-group-type="editor"><name><surname>Gollwitzer</surname><given-names>P.M.</given-names></name><name><surname>Bargh</surname><given-names>J.A.</given-names></name></person-group>
+<publisher-name>The Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1996</year>
+</element-citation></ref><ref id="B39-ijerph-14-00243"><label>39.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Young</surname><given-names>R.A.</given-names></name><name><surname>Dey</surname><given-names>P.</given-names></name></person-group>
+<article-title>Attempted suicide stories: Suicide career, suicide project and suicide action</article-title>
+<source>Action Theory Primer for Applied Research in the Social Sciences</source>
+<person-group person-group-type="editor"><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Young</surname><given-names>R.A.</given-names></name><name><surname>Lynam</surname><given-names>M.J.</given-names></name></person-group>
+<publisher-name>Praeger</publisher-name>
+<publisher-loc>Westport, CT, USA</publisher-loc>
+<year>2002</year>
+<fpage>153</fpage>
+<lpage>171</lpage>
+</element-citation></ref><ref id="B40-ijerph-14-00243"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maltsberger</surname><given-names>J.T.</given-names></name></person-group>
+<article-title>The descent into suicide</article-title>
+<source>Int. J. Psychoanal.</source>
+<year>2004</year>
+<volume>85</volume>
+<fpage>653</fpage>
+<lpage>668</lpage>
+<pub-id pub-id-type="doi">10.1516/3C96-URET-TLWX-6LWU</pub-id>
+<?supplied-pmid 15228702?><pub-id pub-id-type="pmid">15228702</pub-id></element-citation></ref><ref id="B41-ijerph-14-00243"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tornblom</surname><given-names>A.W.</given-names></name><name><surname>Werbart</surname><given-names>A.</given-names></name><name><surname>Rydelius</surname><given-names>P.A.</given-names></name></person-group>
+<article-title>Shame behind the masks: The parents&#x02019; perspective on their sons&#x02019; suicide</article-title>
+<source>Arch. Suicide Res.</source>
+<year>2013</year>
+<volume>17</volume>
+<fpage>242</fpage>
+<lpage>261</lpage>
+<pub-id pub-id-type="doi">10.1080/13811118.2013.805644</pub-id>
+<?supplied-pmid 23889574?><pub-id pub-id-type="pmid">23889574</pub-id></element-citation></ref><ref id="B42-ijerph-14-00243"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Young</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Suicide as a distorted goal-directed process: Wanting to die, killing, and being killed</article-title>
+<source>J. Nerv. Ment. Dis.</source>
+<year>2016</year>
+<volume>204</volume>
+<fpage>812</fpage>
+<lpage>819</lpage>
+<pub-id pub-id-type="doi">10.1097/NMD.0000000000000528</pub-id>
+<?supplied-pmid 27802251?><pub-id pub-id-type="pmid">27802251</pub-id></element-citation></ref><ref id="B43-ijerph-14-00243"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adler</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>The history of the present illness as treatment: Who&#x02019;s listening, and why does it matter?</article-title>
+<source>J. Am. Board Fam. Pract.</source>
+<year>1997</year>
+<volume>10</volume>
+<fpage>28</fpage>
+<lpage>35</lpage>
+<?supplied-pmid 9018660?><pub-id pub-id-type="pmid">9018660</pub-id></element-citation></ref><ref id="B44-ijerph-14-00243"><label>44.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Young</surname><given-names>R.A.</given-names></name><name><surname>Lynam</surname><given-names>M.J.</given-names></name></person-group>
+<source>Action Theory: A Primer for Applied Research in the Social Sciences</source>
+<publisher-name>Praeger</publisher-name>
+<publisher-loc>Westport, CT, USA</publisher-loc>
+<year>2002</year>
+</element-citation></ref><ref id="B45-ijerph-14-00243"><label>45.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Alexander</surname><given-names>L.B.</given-names></name><name><surname>Luborsky</surname><given-names>L.</given-names></name></person-group>
+<article-title>The penn helping alliance scales</article-title>
+<source>The Psychotherapeutic Process: A Research Handbook</source>
+<person-group person-group-type="editor"><name><surname>Greenberg</surname><given-names>L.S.</given-names></name><name><surname>Pinsoff</surname><given-names>W.M.</given-names></name></person-group>
+<publisher-name>Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1986</year>
+<fpage>325</fpage>
+<lpage>366</lpage>
+</element-citation></ref><ref id="B46-ijerph-14-00243"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Dey</surname><given-names>P.</given-names></name><name><surname>Stadler</surname><given-names>K.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name></person-group>
+<article-title>Therapist sensitivity towards emotional life-career issues and the working alliance with suicide attempters</article-title>
+<source>Arch. Suicide Res.</source>
+<year>2004</year>
+<volume>8</volume>
+<fpage>203</fpage>
+<lpage>213</lpage>
+<pub-id pub-id-type="doi">10.1080/13811110490436792</pub-id>
+<?supplied-pmid 16081387?><pub-id pub-id-type="pmid">16081387</pub-id></element-citation></ref><ref id="B47-ijerph-14-00243"><label>47.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>The Aeschi Working Group</collab></person-group>
+<article-title>Meeting the Suicidal Person</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.aeschiconference.unibe.ch/">http://www.aeschiconference.unibe.ch/</ext-link></comment>
+<date-in-citation>(accessed on 27 February 2017)</date-in-citation>
+</element-citation></ref><ref id="B48-ijerph-14-00243"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Maltsberger</surname><given-names>J.T.</given-names></name><name><surname>Jobes</surname><given-names>D.A.</given-names></name><name><surname>Leenaars</surname><given-names>A.A.</given-names></name><name><surname>Orbach</surname><given-names>I.</given-names></name><name><surname>Stadler</surname><given-names>K.</given-names></name><name><surname>Dey</surname><given-names>P.</given-names></name><name><surname>Young</surname><given-names>R.A.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name></person-group>
+<article-title>Discovering the truth in attempted suicide</article-title>
+<source>Am. J. Psychother.</source>
+<year>2002</year>
+<volume>56</volume>
+<fpage>424</fpage>
+<lpage>437</lpage>
+<?supplied-pmid 12400207?><pub-id pub-id-type="pmid">12400207</pub-id></element-citation></ref><ref id="B49-ijerph-14-00243"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Horvath</surname><given-names>A.O.</given-names></name><name><surname>Symonds</surname><given-names>B.D.</given-names></name></person-group>
+<article-title>Relation between working alliance and outcome in psychotherapy: A meta-analysis</article-title>
+<source>J. Couns. Psychol.</source>
+<year>1991</year>
+<volume>38</volume>
+<fpage>139</fpage>
+<lpage>149</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-0167.38.2.139</pub-id>
+</element-citation></ref><ref id="B50-ijerph-14-00243"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saltzman</surname><given-names>C.</given-names></name><name><surname>Luetgert</surname><given-names>M.J.</given-names></name><name><surname>Roth</surname><given-names>C.H.</given-names></name><name><surname>Creaser</surname><given-names>J.</given-names></name><name><surname>Howard</surname><given-names>L.</given-names></name></person-group>
+<article-title>Formation of a therapeutic relationship: Experiences during the initial phase of psychotherapy as predictors of treatment duration and outcome</article-title>
+<source>J. Consult. Clin. Psychol.</source>
+<year>1976</year>
+<volume>44</volume>
+<fpage>546</fpage>
+<lpage>555</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-006X.44.4.546</pub-id>
+<?supplied-pmid 939838?><pub-id pub-id-type="pmid">939838</pub-id></element-citation></ref><ref id="B51-ijerph-14-00243"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zuroff</surname><given-names>D.C.</given-names></name><name><surname>Blatt</surname><given-names>S.J.</given-names></name><name><surname>Sotsky</surname><given-names>S.M.</given-names></name><name><surname>Krupnick</surname><given-names>J.L.</given-names></name><name><surname>Martin</surname><given-names>D.J.</given-names></name><name><surname>Sanislow</surname><given-names>C.A.</given-names><suffix>III</suffix></name><name><surname>Simmens</surname><given-names>S.</given-names></name></person-group>
+<article-title>Relation of therapeutic alliance and perfectionism to outcome in brief outpatient treatment of depression</article-title>
+<source>J. Consult. Clin. Psychol.</source>
+<year>2000</year>
+<volume>68</volume>
+<fpage>114</fpage>
+<pub-id pub-id-type="doi">10.1037/0022-006X.68.1.114</pub-id>
+<?supplied-pmid 10710846?><pub-id pub-id-type="pmid">10710846</pub-id></element-citation></ref><ref id="B52-ijerph-14-00243"><label>52.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>J.G.</given-names></name><name><surname>Fonagy</surname><given-names>P.</given-names></name><name><surname>Bateman</surname><given-names>A.</given-names></name></person-group>
+<source>Mentalizing in Clinical Practice</source>
+<publisher-name>American Psychiatric Publishing</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2008</year>
+</element-citation></ref><ref id="B53-ijerph-14-00243"><label>53.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Hermans</surname><given-names>H.J.</given-names></name><name><surname>Hermans-Jansen</surname><given-names>E.</given-names></name></person-group>
+<source>Self-Narratives</source>
+<publisher-name>Guilford</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1995</year>
+</element-citation></ref><ref id="B54-ijerph-14-00243"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Young</surname><given-names>R.A.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Dillabough</surname><given-names>J.-A.</given-names></name><name><surname>Dover</surname><given-names>C.</given-names></name><name><surname>Matthes</surname><given-names>G.</given-names></name></person-group>
+<article-title>Career research from an action perspective: The self-confrontation procedure</article-title>
+<source>Career Dev. Q.</source>
+<year>1994</year>
+<volume>43</volume>
+<fpage>185</fpage>
+<lpage>196</lpage>
+<pub-id pub-id-type="doi">10.1002/j.2161-0045.1994.tb00857.x</pub-id>
+</element-citation></ref><ref id="B55-ijerph-14-00243"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Dey</surname><given-names>P.</given-names></name><name><surname>Young</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Self-confrontation interview with suicide attempters</article-title>
+<source>Couns. Psychol. Q.</source>
+<year>2002</year>
+<volume>15</volume>
+<fpage>1</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.1080/09515070110101487</pub-id>
+</element-citation></ref><ref id="B56-ijerph-14-00243"><label>56.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Gysin-Maillart</surname><given-names>A.</given-names></name></person-group>
+<source>ASSIP&#x02014;Attempted Suicide Short Intervention Program. A Manual for Clinicians</source>
+<publisher-name>Hogrefe Publishing</publisher-name>
+<publisher-loc>G&#x000f6;ttingen, Germany</publisher-loc>
+<year>2015</year>
+</element-citation></ref><ref id="B57-ijerph-14-00243"><label>57.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>National Institute of Mental Health and the Research Prioritization Task Force</collab></person-group>
+<source>A Prioritized Research Agenda for Suicide Prevention: An Action Plan to Save Lives</source>
+<publisher-name>National Action Alliance for Suicide Prevention</publisher-name>
+<publisher-loc>Rockville, MD, USA</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B58-ijerph-14-00243"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lizardi</surname><given-names>D.</given-names></name><name><surname>Stanley</surname><given-names>B.</given-names></name></person-group>
+<article-title>Treatment engagement: A neglected aspect in the psychiatric care of suicidal patients</article-title>
+<source>Psychiatr. Serv.</source>
+<year>2010</year>
+<volume>61</volume>
+<fpage>1183</fpage>
+<lpage>1191</lpage>
+<pub-id pub-id-type="doi">10.1176/ps.2010.61.12.1183</pub-id>
+<?supplied-pmid 21123401?><pub-id pub-id-type="pmid">21123401</pub-id></element-citation></ref><ref id="B59-ijerph-14-00243"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Runeson</surname><given-names>B.S.</given-names></name></person-group>
+<article-title>Suicide after parasuicide</article-title>
+<source>BMJ</source>
+<year>2002</year>
+<volume>325</volume>
+<fpage>1125</fpage>
+<lpage>1126</lpage>
+<pub-id pub-id-type="doi">10.1136/bmj.325.7373.1125/a</pub-id>
+<?supplied-pmid 12433743?><pub-id pub-id-type="pmid">12433743</pub-id></element-citation></ref><ref id="B60-ijerph-14-00243"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hawton</surname><given-names>K.</given-names></name><name><surname>Zahl</surname><given-names>D.</given-names></name><name><surname>Weatherall</surname><given-names>R.</given-names></name></person-group>
+<article-title>Suicide following deliberate self-harm: Long-term follow-up of patients who presented to a general hospital</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2003</year>
+<volume>182</volume>
+<fpage>537</fpage>
+<lpage>542</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.182.6.537</pub-id>
+<?supplied-pmid 12777346?><pub-id pub-id-type="pmid">12777346</pub-id></element-citation></ref><ref id="B61-ijerph-14-00243"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Owens</surname><given-names>D.</given-names></name><name><surname>Horrocks</surname><given-names>J.</given-names></name><name><surname>House</surname><given-names>A.</given-names></name></person-group>
+<article-title>Fatal and non-fatal repetition of self-harm systematic review</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2002</year>
+<volume>181</volume>
+<fpage>193</fpage>
+<lpage>199</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.181.3.193</pub-id>
+<pub-id pub-id-type="pmid">12204922</pub-id></element-citation></ref><ref id="B62-ijerph-14-00243"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>B.</given-names></name><name><surname>Lester</surname><given-names>D.</given-names></name></person-group>
+<article-title>Recalculating the economic cost of suicide</article-title>
+<source>Death Stud.</source>
+<year>2006</year>
+<volume>31</volume>
+<fpage>351</fpage>
+<lpage>361</lpage>
+<pub-id pub-id-type="doi">10.1080/07481180601187209</pub-id>
+<?supplied-pmid 17378112?><pub-id pub-id-type="pmid">17378112</pub-id></element-citation></ref><ref id="B63-ijerph-14-00243"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lewis</surname><given-names>G.</given-names></name><name><surname>Hawton</surname><given-names>K.</given-names></name><name><surname>Jones</surname><given-names>P.</given-names></name></person-group>
+<article-title>Strategies for preventing suicide</article-title>
+<source>Br. J. Psychiatry</source>
+<year>1997</year>
+<volume>171</volume>
+<fpage>351</fpage>
+<lpage>354</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.171.4.351</pub-id>
+<?supplied-pmid 9373424?><pub-id pub-id-type="pmid">9373424</pub-id></element-citation></ref><ref id="B64-ijerph-14-00243"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arensman</surname><given-names>E.</given-names></name><name><surname>Townsend</surname><given-names>E.</given-names></name><name><surname>Hawton</surname><given-names>K.</given-names></name><name><surname>Bremner</surname><given-names>S.</given-names></name><name><surname>Feldman</surname><given-names>E.</given-names></name><name><surname>Goldney</surname><given-names>R.</given-names></name><name><surname>Gunnell</surname><given-names>D.</given-names></name><name><surname>Hazell</surname><given-names>P.</given-names></name><name><surname>Van Heeringen</surname><given-names>K.</given-names></name><name><surname>House</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Psychosocial and pharmacological treatment of patients following deliberate self-harm: The methodological issues involved in evaluating effectiveness</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>2001</year>
+<volume>31</volume>
+<fpage>169</fpage>
+<lpage>180</lpage>
+<pub-id pub-id-type="doi">10.1521/suli.31.2.169.21516</pub-id>
+<?supplied-pmid 11459249?><pub-id pub-id-type="pmid">11459249</pub-id></element-citation></ref><ref id="B65-ijerph-14-00243"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orbach</surname><given-names>I.</given-names></name></person-group>
+<article-title>Therapeutic empathy with the suicidal wish: Principles of therapy with suicidal individuals</article-title>
+<source>Am. J. Psychother.</source>
+<year>2001</year>
+<volume>55</volume>
+<fpage>166</fpage>
+<lpage>184</lpage>
+<?supplied-pmid 11467255?><pub-id pub-id-type="pmid">11467255</pub-id></element-citation></ref><ref id="B66-ijerph-14-00243"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gysin-Maillart</surname><given-names>A.</given-names></name><name><surname>Schwab</surname><given-names>S.</given-names></name><name><surname>Soravia</surname><given-names>L.</given-names></name><name><surname>Megert</surname><given-names>M.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>A novel brief therapy for patients who attempt suicide: A 24-months follow-up randomized controlled study of the attempted suicide short intervention program (ASSIP)</article-title>
+<source>PLoS Med.</source>
+<year>2016</year>
+<volume>13</volume>
+<elocation-id>e1001968</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1001968</pub-id>
+<?supplied-pmid 26930055?><pub-id pub-id-type="pmid">26930055</pub-id></element-citation></ref><ref id="B67-ijerph-14-00243"><label>67.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Allen</surname><given-names>J.</given-names></name></person-group>
+<article-title>Mentalizing suicidal states</article-title>
+<source>Building a Therapeutic Alliance with the Suicidal Patient</source>
+<person-group person-group-type="editor"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Jobes</surname><given-names>D.A.</given-names></name></person-group>
+<publisher-name>American Psychological Association APA Books</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2011</year>
+<fpage>83</fpage>
+</element-citation></ref><ref id="B68-ijerph-14-00243"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arnow</surname><given-names>B.A.</given-names></name><name><surname>Steidtmann</surname><given-names>D.</given-names></name></person-group>
+<article-title>Harnessing the potential of the therapeutic alliance</article-title>
+<source>World Psychiatry</source>
+<year>2014</year>
+<volume>13</volume>
+<fpage>238</fpage>
+<lpage>240</lpage>
+<pub-id pub-id-type="doi">10.1002/wps.20147</pub-id>
+<?supplied-pmid 25273288?><pub-id pub-id-type="pmid">25273288</pub-id></element-citation></ref><ref id="B69-ijerph-14-00243"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colom</surname><given-names>F.</given-names></name></person-group>
+<article-title>Keeping therapies simple: Psychoeducation in the prevention of relapse in affective disorders</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2011</year>
+<volume>198</volume>
+<fpage>338</fpage>
+<pub-id pub-id-type="doi">10.1192/bjp.bp.110.090209</pub-id>
+<pub-id pub-id-type="pmid">21525516</pub-id></element-citation></ref><ref id="B70-ijerph-14-00243"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rudd</surname><given-names>M.D.</given-names></name></person-group>
+<article-title>Cognitive therapy for suicidality: An integrative, comprehensive, and practical approach to conceptualization</article-title>
+<source>J. Contemp. Psychother.</source>
+<year>2004</year>
+<volume>34</volume>
+<fpage>59</fpage>
+<lpage>72</lpage>
+<pub-id pub-id-type="doi">10.1023/B:JOCP.0000010913.66296.21</pub-id>
+</element-citation></ref><ref id="B71-ijerph-14-00243"><label>71.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Jobes</surname><given-names>D.A.</given-names></name></person-group>
+<source>Building a Therapeutic Alliance with the Suicidal Patient</source>
+<publisher-name>American Psychological Association APA Books</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B72-ijerph-14-00243"><label>72.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>Therapeutic alliance and the therapist</article-title>
+<source>The International Handbook of Suicide Prevention</source>
+<person-group person-group-type="editor"><name><surname>O&#x02019;Connor</surname><given-names>R.C.</given-names></name><name><surname>Pirkis</surname><given-names>J.</given-names></name></person-group>
+<publisher-name>John Wiley &#x00026; Sons Ltd.</publisher-name>
+<publisher-loc>Chichester, UK</publisher-loc>
+<year>2016</year>
+<fpage>346</fpage>
+<lpage>361</lpage>
+</element-citation></ref><ref id="B73-ijerph-14-00243"><label>73.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Jobes</surname><given-names>D.A.</given-names></name></person-group>
+<source>Managing Suicidal Risk: A Collaborative Approach</source>
+<publisher-name>Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2006</year>
+</element-citation></ref><ref id="B74-ijerph-14-00243"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gysin-Maillart</surname><given-names>A.C.</given-names></name><name><surname>Soravia</surname><given-names>L.M.</given-names></name><name><surname>Gemperli</surname><given-names>A.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>Suicide ideation is related to therapeutic alliance in a brief therapy for attempted suicide</article-title>
+<source>Arch. Suicide Res.</source>
+<year>2016</year>
+<volume>21</volume>
+<fpage>113</fpage>
+<lpage>126</lpage>
+<pub-id pub-id-type="doi">10.1080/13811118.2016.1162242</pub-id>
+<pub-id pub-id-type="pmid">26984644</pub-id></element-citation></ref><ref id="B75-ijerph-14-00243"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Angus</surname><given-names>L.</given-names></name><name><surname>Levitt</surname><given-names>H.</given-names></name><name><surname>Hardtke</surname><given-names>K.</given-names></name></person-group>
+<article-title>The narrative processes coding system: Research applications and implications for psychotherapy practice</article-title>
+<source>J. Clin. Psychol.</source>
+<year>1999</year>
+<volume>55</volume>
+<fpage>1255</fpage>
+<lpage>1270</lpage>
+<pub-id pub-id-type="doi">10.1002/(SICI)1097-4679(199910)55:10&#x0003c;1255::AID-JCLP7&#x0003e;3.0.CO;2-F</pub-id>
+<pub-id pub-id-type="pmid">11045775</pub-id></element-citation></ref><ref id="B76-ijerph-14-00243"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Epstein</surname><given-names>S.</given-names></name><name><surname>Lipson</surname><given-names>A.</given-names></name><name><surname>Holstein</surname><given-names>C.</given-names></name><name><surname>Huh</surname><given-names>E.</given-names></name></person-group>
+<article-title>Irrational reactions to negative outcomes: Evidence for two conceptual systems</article-title>
+<source>J. Pers. Soc. Psychol.</source>
+<year>1992</year>
+<volume>62</volume>
+<fpage>328</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-3514.62.2.328</pub-id>
+<?supplied-pmid 1556663?><pub-id pub-id-type="pmid">1556663</pub-id></element-citation></ref><ref id="B77-ijerph-14-00243"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanovich</surname><given-names>K.E.</given-names></name><name><surname>West</surname><given-names>R.F.</given-names></name></person-group>
+<article-title>Individual differences in reasoning: Implications for the rationality debate?</article-title>
+<source>Behav. Brain Sci.</source>
+<year>2000</year>
+<volume>23</volume>
+<fpage>645</fpage>
+<lpage>665</lpage>
+<pub-id pub-id-type="doi">10.1017/S0140525X00003435</pub-id>
+<?supplied-pmid 11301544?><pub-id pub-id-type="pmid">11301544</pub-id></element-citation></ref><ref id="B78-ijerph-14-00243"><label>78.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Kahneman</surname><given-names>D.</given-names></name></person-group>
+<source>Thinking Fast and Slow</source>
+<publisher-name>Farrar, Strauss and Giroux</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2011</year>
+</element-citation></ref><ref id="B79-ijerph-14-00243"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Botvinick</surname><given-names>M.M.</given-names></name><name><surname>Cohen</surname><given-names>J.D.</given-names></name><name><surname>Carter</surname><given-names>C.S.</given-names></name></person-group>
+<article-title>Conflict monitoring and anterior cingulate cortex: An update</article-title>
+<source>Trends Cogn. Sci.</source>
+<year>2004</year>
+<volume>8</volume>
+<fpage>539</fpage>
+<lpage>546</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tics.2004.10.003</pub-id>
+<?supplied-pmid 15556023?><pub-id pub-id-type="pmid">15556023</pub-id></element-citation></ref><ref id="B80-ijerph-14-00243"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orbach</surname><given-names>I.</given-names></name></person-group>
+<article-title>Dissociation, physical pain, and suicide: A hypothesis</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>1994</year>
+<volume>24</volume>
+<fpage>68</fpage>
+<lpage>79</lpage>
+<?supplied-pmid 8203010?><pub-id pub-id-type="pmid">8203010</pub-id></element-citation></ref><ref id="B81-ijerph-14-00243"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Orbach</surname><given-names>I.</given-names></name></person-group>
+<article-title>Suicide and the suicidal body</article-title>
+<source>Suicide Life Threat. Behav.</source>
+<year>2003</year>
+<volume>33</volume>
+<fpage>1</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="doi">10.1521/suli.33.1.1.22786</pub-id>
+<?supplied-pmid 12710535?><pub-id pub-id-type="pmid">12710535</pub-id></element-citation></ref><ref id="B82-ijerph-14-00243"><label>82.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Beck</surname><given-names>A.T.</given-names></name></person-group>
+<article-title>Beyond belief: A theory of modes, personality, and psychopathology</article-title>
+<source>Frontiers of Cognitive Therapy</source>
+<person-group person-group-type="editor"><name><surname>Salkovskis</surname><given-names>P.</given-names></name></person-group>
+<publisher-name>Guilford Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1996</year>
+<fpage>1</fpage>
+<lpage>25</lpage>
+</element-citation></ref><ref id="B83-ijerph-14-00243"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reisch</surname><given-names>T.</given-names></name><name><surname>Seifritz</surname><given-names>E.</given-names></name><name><surname>Esposito</surname><given-names>F.</given-names></name><name><surname>Wiest</surname><given-names>R.</given-names></name><name><surname>Valach</surname><given-names>L.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>An fmri study on mental pain and suicidal behavior</article-title>
+<source>J. Affect. Disord.</source>
+<year>2010</year>
+<volume>126</volume>
+<fpage>321</fpage>
+<lpage>325</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jad.2010.03.005</pub-id>
+<?supplied-pmid 20434779?><pub-id pub-id-type="pmid">20434779</pub-id></element-citation></ref><ref id="B84-ijerph-14-00243"><label>84.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>Neurobiology and patient-oriented models of suicide&#x02014;A contradiction?</article-title>
+<source>Building a Therapeutic Alliance with the Suicidal Patient</source>
+<person-group person-group-type="editor"><name><surname>Michel</surname><given-names>K.</given-names></name><name><surname>Jobes</surname><given-names>D.A.</given-names></name></person-group>
+<publisher-name>American Psychological Association APA Books</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2011</year>
+<fpage>183</fpage>
+<lpage>201</lpage>
+</element-citation></ref><ref id="B85-ijerph-14-00243"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanley</surname><given-names>B.</given-names></name><name><surname>Brown</surname><given-names>G.K.</given-names></name></person-group>
+<article-title>Safety planning intervention: A brief intervention to mitigate suicide risk</article-title>
+<source>Cogn. Behav. Pract.</source>
+<year>2012</year>
+<volume>19</volume>
+<fpage>256</fpage>
+<lpage>264</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cbpra.2011.01.001</pub-id>
+</element-citation></ref><ref id="B86-ijerph-14-00243"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carter</surname><given-names>G.L.</given-names></name><name><surname>Clover</surname><given-names>K.</given-names></name><name><surname>Whyte</surname><given-names>I.M.</given-names></name><name><surname>Dawson</surname><given-names>A.H.</given-names></name><name><surname>D&#x02019;Este</surname><given-names>C.</given-names></name></person-group>
+<article-title>Postcards from the edge project: Randomised controlled trial of an intervention using postcards to reduce repetition of hospital treated deliberate self poisoning</article-title>
+<source>BMJ</source>
+<year>2005</year>
+<volume>331</volume>
+<fpage>805</fpage>
+<lpage>807</lpage>
+<pub-id pub-id-type="doi">10.1136/bmj.38579.455266.E0</pub-id>
+<?supplied-pmid 16183654?><pub-id pub-id-type="pmid">16183654</pub-id></element-citation></ref><ref id="B87-ijerph-14-00243"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carter</surname><given-names>G.L.</given-names></name><name><surname>Clover</surname><given-names>K.</given-names></name><name><surname>Whyte</surname><given-names>I.M.</given-names></name><name><surname>Dawson</surname><given-names>A.H.</given-names></name><name><surname>D&#x02019;Este</surname><given-names>C.</given-names></name></person-group>
+<article-title>Postcards from the edge: 5-Year outcomes of a randomised controlled trial for hospital-treated self-poisoning</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2013</year>
+<volume>202</volume>
+<fpage>372</fpage>
+<lpage>380</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.bp.112.112664</pub-id>
+<?supplied-pmid 23520223?><pub-id pub-id-type="pmid">23520223</pub-id></element-citation></ref><ref id="B88-ijerph-14-00243"><label>88.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Motto</surname><given-names>J.A.</given-names></name><name><surname>Bostrom</surname><given-names>A.G.</given-names></name></person-group>
+<article-title>A randomized controlled trial of postcrisis suicide prevention</article-title>
+<source>Psychiatr. Serv.</source>
+<year>2001</year>
+<volume>52</volume>
+<fpage>828</fpage>
+<lpage>833</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ps.52.6.828</pub-id>
+<?supplied-pmid 11376235?><pub-id pub-id-type="pmid">11376235</pub-id></element-citation></ref><ref id="B89-ijerph-14-00243"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Beautrais</surname><given-names>A.L.</given-names></name><name><surname>Gibb</surname><given-names>S.J.</given-names></name><name><surname>Faulkner</surname><given-names>A.</given-names></name><name><surname>Fergusson</surname><given-names>D.M.</given-names></name><name><surname>Mulder</surname><given-names>R.T.</given-names></name></person-group>
+<article-title>Postcard intervention for repeat self-harm: Randomised controlled trial</article-title>
+<source>Br. J. Psychiatry</source>
+<year>2010</year>
+<volume>197</volume>
+<fpage>55</fpage>
+<lpage>60</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.bp.109.075754</pub-id>
+<?supplied-pmid 20592434?><pub-id pub-id-type="pmid">20592434</pub-id></element-citation></ref><ref id="B90-ijerph-14-00243"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bennewith</surname><given-names>O.</given-names></name><name><surname>Evans</surname><given-names>J.</given-names></name><name><surname>Donovan</surname><given-names>J.</given-names></name><name><surname>Paramasivan</surname><given-names>S.</given-names></name><name><surname>Owen-Smith</surname><given-names>A.</given-names></name><name><surname>Hollingworth</surname><given-names>W.</given-names></name><name><surname>Davies</surname><given-names>R.</given-names></name><name><surname>O&#x02019;Connor</surname><given-names>S.</given-names></name><name><surname>Hawton</surname><given-names>K.</given-names></name><name><surname>Kapur</surname><given-names>N.</given-names></name><etal/></person-group>
+<article-title>A contact-based intervention for people recently discharged from inpatient psychiatric care: A pilot study</article-title>
+<source>Arch. Suicide Res.</source>
+<year>2014</year>
+<volume>18</volume>
+<fpage>131</fpage>
+<lpage>143</lpage>
+<pub-id pub-id-type="doi">10.1080/13811118.2013.838196</pub-id>
+<?supplied-pmid 24673299?><pub-id pub-id-type="pmid">24673299</pub-id></element-citation></ref><ref id="B91-ijerph-14-00243"><label>91.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hepp</surname><given-names>U.</given-names></name><name><surname>Wittmann</surname><given-names>L.</given-names></name><name><surname>Schnyder</surname><given-names>U.</given-names></name><name><surname>Michel</surname><given-names>K.</given-names></name></person-group>
+<article-title>Psychological and psychosocial interventions after attempted suicide: An overview of treatment studies</article-title>
+<source>Crisis</source>
+<year>2004</year>
+<volume>25</volume>
+<fpage>108</fpage>
+<lpage>117</lpage>
+<pub-id pub-id-type="doi">10.1027/0227-5910.25.3.108</pub-id>
+<?supplied-pmid 15387237?><pub-id pub-id-type="pmid">15387237</pub-id></element-citation></ref><ref id="B92-ijerph-14-00243"><label>92.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Bowlby</surname><given-names>J.</given-names></name></person-group>
+<source>A Secure Base. Clinical Applications of Attachment Theory</source>
+<publisher-name>Routledge</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<year>1988</year>
+</element-citation></ref><ref id="B93-ijerph-14-00243"><label>93.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>O&#x02019;Connor</surname><given-names>R.</given-names></name><name><surname>Platt</surname><given-names>S.</given-names></name><name><surname>Gordon</surname><given-names>J.</given-names></name></person-group>
+<article-title>Achievements and Challenges in Suicidology: Conclusions and Future Directions</article-title>
+<source>International Handbook of Suicide Prevention</source>
+<person-group person-group-type="editor"><name><surname>O&#x02019;Connor</surname><given-names>R.</given-names></name><name><surname>Platt</surname><given-names>S.</given-names></name><name><surname>Gordon</surname><given-names>J.</given-names></name></person-group>
+<publisher-name>John Wiley &#x00026; Sons</publisher-name>
+<publisher-loc>Chichester, UK</publisher-loc>
+<year>2011</year>
+<fpage>625</fpage>
+<lpage>642</lpage>
+</element-citation></ref><ref id="B94-ijerph-14-00243"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kessler</surname><given-names>R.C.</given-names></name><name><surname>Borges</surname><given-names>G.</given-names></name><name><surname>Walters</surname><given-names>E.E.</given-names></name></person-group>
+<article-title>Prevalence of and risk factors for lifetime suicide attempts in the national comorbidity survey</article-title>
+<source>Arch. Gen. Psychiatry</source>
+<year>1999</year>
+<volume>56</volume>
+<fpage>617</fpage>
+<lpage>626</lpage>
+<pub-id pub-id-type="doi">10.1001/archpsyc.56.7.617</pub-id>
+<?supplied-pmid 10401507?><pub-id pub-id-type="pmid">10401507</pub-id></element-citation></ref><ref id="B95-ijerph-14-00243"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rutz</surname><given-names>W.</given-names></name><name><surname>von Knorring</surname><given-names>L.</given-names></name><name><surname>Pihlgren</surname><given-names>H.</given-names></name><name><surname>Rihmer</surname><given-names>Z.</given-names></name><name><surname>Walinder</surname><given-names>J.</given-names></name></person-group>
+<article-title>Prevention of male suicides: Lessons from gotland study</article-title>
+<source>Lancet</source>
+<year>1995</year>
+<volume>345</volume>
+<fpage>524</fpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(95)90622-3</pub-id>
+</element-citation></ref><ref id="B96-ijerph-14-00243"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rogers</surname><given-names>J.R.</given-names></name><name><surname>Soyka</surname><given-names>K.M.</given-names></name></person-group>
+<article-title>&#x0201c;One size fits all&#x0201d;: An existential-constructivist perspective on the crisis intervention approach with suicidal individuals</article-title>
+<source>J. Contemp. Psychother.</source>
+<year>2004</year>
+<volume>34</volume>
+<fpage>7</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="doi">10.1023/B:JOCP.0000010910.74165.3a</pub-id>
+</element-citation></ref><ref id="B97-ijerph-14-00243"><label>97.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Sabo</surname><given-names>A.N.</given-names></name><name><surname>Rand</surname><given-names>B.</given-names></name></person-group>
+<article-title>The relational aspects of psychopharmacology</article-title>
+<source>The Real World Guide to Psychotherapy Practice</source>
+<publisher-name>Harvard University Press</publisher-name>
+<publisher-loc>Cambridge, MA, USA</publisher-loc>
+<year>2000</year>
+<fpage>34</fpage>
+<lpage>59</lpage>
+</element-citation></ref><ref id="B98-ijerph-14-00243"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jollant</surname><given-names>F.</given-names></name><name><surname>Bellivier</surname><given-names>F.</given-names></name><name><surname>Leboyer</surname><given-names>M.</given-names></name><name><surname>Astruc</surname><given-names>B.</given-names></name><name><surname>Torres</surname><given-names>S.</given-names></name><name><surname>Verdier</surname><given-names>R.</given-names></name><name><surname>Castelnau</surname><given-names>D.</given-names></name><name><surname>Malafosse</surname><given-names>A.</given-names></name><name><surname>Courtet</surname><given-names>P.</given-names></name></person-group>
+<article-title>Impaired decision making in suicide attempters</article-title>
+<source>Am. J. Psychiatry</source>
+<year>2005</year>
+<volume>162</volume>
+<fpage>304</fpage>
+<lpage>310</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.162.2.304</pub-id>
+<?supplied-pmid 15677595?><pub-id pub-id-type="pmid">15677595</pub-id></element-citation></ref><ref id="B99-ijerph-14-00243"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jollant</surname><given-names>F.</given-names></name><name><surname>Lawrence</surname><given-names>N.S.</given-names></name><name><surname>Olie</surname><given-names>E.</given-names></name><name><surname>O&#x02019;Daly</surname><given-names>O.</given-names></name><name><surname>Malafosse</surname><given-names>A.</given-names></name><name><surname>Courtet</surname><given-names>P.</given-names></name><name><surname>Phillips</surname><given-names>M.L.</given-names></name></person-group>
+<article-title>Decreased activation of lateral orbitofrontal cortex during risky choices under uncertainty is associated with disadvantageous decision-making and suicidal behavior</article-title>
+<source>Neuroimage</source>
+<year>2010</year>
+<volume>51</volume>
+<fpage>1275</fpage>
+<lpage>1281</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2010.03.027</pub-id>
+<?supplied-pmid 20302946?><pub-id pub-id-type="pmid">20302946</pub-id></element-citation></ref><ref id="B100-ijerph-14-00243"><label>100.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Maltsberger</surname><given-names>J.T.</given-names></name></person-group>
+<article-title>Confusions of the body, the self, and others in suicidal states</article-title>
+<source>Suicidology: Essays in Honour of Edwin S. Shneidman</source>
+<person-group person-group-type="editor"><name><surname>Leenaars</surname><given-names>A.A.</given-names></name></person-group>
+<publisher-name>Jason Aronson Inc.</publisher-name>
+<publisher-loc>Northvale, NJ, USA</publisher-loc>
+<year>1993</year>
+<fpage>148</fpage>
+<lpage>171</lpage>
+</element-citation></ref><ref id="B101-ijerph-14-00243"><label>101.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><name><surname>Hines</surname><given-names>K.</given-names></name></person-group>
+<article-title>The Kevin Hines Story</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.kevinhinesstory.com/">http://www.kevinhinesstory.com/</ext-link></comment>
+<date-in-citation>(accessed on 27 February 2017)</date-in-citation>
+</element-citation></ref><ref id="B102-ijerph-14-00243"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fleischmann</surname><given-names>A.</given-names></name><name><surname>Bertolote</surname><given-names>J.M.</given-names></name><name><surname>Wasserman</surname><given-names>D.</given-names></name><name><surname>De Leo</surname><given-names>D.</given-names></name><name><surname>Bolhari</surname><given-names>J.</given-names></name><name><surname>Botega</surname><given-names>N.J.</given-names></name><name><surname>De Silva</surname><given-names>D.</given-names></name><name><surname>Phillips</surname><given-names>M.</given-names></name><name><surname>Vijayakumar</surname><given-names>L.</given-names></name><name><surname>Varnik</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Effectiveness of brief intervention and contact for suicide attempters: A randomized controlled trial in five countries</article-title>
+<source>Bull. World Health Organ.</source>
+<year>2008</year>
+<volume>86</volume>
+<fpage>703</fpage>
+<lpage>709</lpage>
+<pub-id pub-id-type="doi">10.2471/BLT.07.046995</pub-id>
+<?supplied-pmid 18797646?><pub-id pub-id-type="pmid">18797646</pub-id></element-citation></ref><ref id="B103-ijerph-14-00243"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sinclair</surname><given-names>J.</given-names></name><name><surname>Green</surname><given-names>J.</given-names></name></person-group>
+<article-title>Understanding resolution of deliberate self harm: Qualitative interview study of patients&#x02019; experiences</article-title>
+<source>BMJ</source>
+<year>2005</year>
+<volume>330</volume>
+<fpage>1112</fpage>
+<pub-id pub-id-type="doi">10.1136/bmj.38441.503333.8F</pub-id>
+<?supplied-pmid 15843425?><pub-id pub-id-type="pmid">15843425</pub-id></element-citation></ref><ref id="B104-ijerph-14-00243"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Angst</surname><given-names>J.</given-names></name><name><surname>Angst</surname><given-names>F.</given-names></name><name><surname>Gerber-Werder</surname><given-names>R.</given-names></name><name><surname>Gamma</surname><given-names>A.</given-names></name></person-group>
+<article-title>Suicide in 406 mood-disorder patients with and without long-term medication: A 40 to 44 years&#x02019; follow-up</article-title>
+<source>Arch. Suicide Res.</source>
+<year>2005</year>
+<volume>9</volume>
+<fpage>279</fpage>
+<lpage>300</lpage>
+<pub-id pub-id-type="doi">10.1080/13811110590929488</pub-id>
+<?supplied-pmid 16020171?><pub-id pub-id-type="pmid">16020171</pub-id></element-citation></ref><ref id="B105-ijerph-14-00243"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lytle</surname><given-names>M.C.</given-names></name><name><surname>Silenzio</surname><given-names>V.M.</given-names></name><name><surname>Caine</surname><given-names>E.D.</given-names></name></person-group>
+<article-title>Are there still too few suicides to generate public outrage?</article-title>
+<source>JAMA Psychiatry</source>
+<year>2016</year>
+<volume>73</volume>
+<fpage>1003</fpage>
+<lpage>1004</lpage>
+<pub-id pub-id-type="doi">10.1001/jamapsychiatry.2016.1736</pub-id>
+<?supplied-pmid 27706486?><pub-id pub-id-type="pmid">27706486</pub-id></element-citation></ref><ref id="B106-ijerph-14-00243"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mann</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Neurobiology of suicidal behaviour</article-title>
+<source>Nat. Rev. Neurosci.</source>
+<year>2003</year>
+<volume>4</volume>
+<fpage>819</fpage>
+<lpage>828</lpage>
+<pub-id pub-id-type="doi">10.1038/nrn1220</pub-id>
+<?supplied-pmid 14523381?><pub-id pub-id-type="pmid">14523381</pub-id></element-citation></ref><ref id="B107-ijerph-14-00243"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jollant</surname><given-names>F.</given-names></name><name><surname>Lawrence</surname><given-names>N.L.</given-names></name><name><surname>Olie</surname><given-names>E.</given-names></name><name><surname>Guillaume</surname><given-names>S.</given-names></name><name><surname>Courtet</surname><given-names>P.</given-names></name></person-group>
+<article-title>The suicidal mind and brain: A review of neuropsychological and neuroimaging studies</article-title>
+<source>World J. Biol. Psychiatry</source>
+<year>2011</year>
+<volume>12</volume>
+<fpage>319</fpage>
+<lpage>339</lpage>
+<pub-id pub-id-type="doi">10.3109/15622975.2011.556200</pub-id>
+<?supplied-pmid 21385016?><pub-id pub-id-type="pmid">21385016</pub-id></element-citation></ref><ref id="B108-ijerph-14-00243"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Turecki</surname><given-names>G.</given-names></name><name><surname>Ernst</surname><given-names>C.</given-names></name><name><surname>Jollant</surname><given-names>F.</given-names></name><name><surname>Labonte</surname><given-names>B.</given-names></name><name><surname>Mechawar</surname><given-names>N.</given-names></name></person-group>
+<article-title>The neurodevelopmental origins of suicidal behavior</article-title>
+<source>Trends Neurosci.</source>
+<year>2012</year>
+<volume>35</volume>
+<fpage>14</fpage>
+<lpage>23</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tins.2011.11.008</pub-id>
+<?supplied-pmid 22177979?><pub-id pub-id-type="pmid">22177979</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="ijerph-14-00243-f001" position="float"><label>Figure 1</label><caption><p>The treatment model of ASSIP, illustrating that safety strategies can switch off the suicidal mode at various stages in the development of the suicidal mode.</p></caption><graphic xlink:href="ijerph-14-00243-g001"/></fig></floats-group></article>

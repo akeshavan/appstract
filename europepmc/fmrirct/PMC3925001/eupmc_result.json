@@ -1,0 +1,280 @@
+{
+  "id": [
+    "24716183"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24716183"
+  ],
+  "pmcid": [
+    "PMC3925001"
+  ],
+  "doi": [
+    "10.4103/2225-4110.119733"
+  ],
+  "title": [
+    "Integrating acupuncture into cancer care."
+  ],
+  "authorString": [
+    "Chien TJ, Liu CY, Hsu CH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chien TJ"
+          ],
+          "firstName": [
+            "Tsai-Ju"
+          ],
+          "lastName": [
+            "Chien"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "Institute of Traditional Medicine, National Yang-Ming University, Taipei, Taiwan. ; Department of Internal Medicine, Division of Hemato-Oncology, Branch of Zhong-xing, Taipei City Hospital, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu CY"
+          ],
+          "firstName": [
+            "Chia-Yu"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "affiliation": [
+            "Institute of Traditional Medicine, National Yang-Ming University, Taipei, Taiwan. ; Department of Traditional Chinese Medicine,Branch of Linsen and Chinese Medicine, Taipei City Hospital, Taipei, Taiwan. ; Taiwan International Traditional Chinese Medicine Training Center, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu CH"
+          ],
+          "firstName": [
+            "Chung-Hua"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "Institute of Traditional Medicine, National Yang-Ming University, Taipei, Taiwan. ; Department of Traditional Chinese Medicine,Branch of Linsen and Chinese Medicine, Taipei City Hospital, Taipei, Taiwan. ; Taiwan International Traditional Chinese Medicine Training Center, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2148344"
+      ],
+      "dateOfPublication": [
+        "2013 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of traditional and complementary medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Tradit Complement Med"
+          ],
+          "medlineAbbreviation": [
+            "J Tradit Complement Med"
+          ],
+          "NLMid": [
+            "101605474"
+          ],
+          "ISSN": [
+            "2225-4110"
+          ],
+          "ESSN": [
+            "2225-4110"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "234-239"
+  ],
+  "abstractText": [
+    "Oncology acupuncture has become a new and promising field of research because more and more cancer patients have sought non-pharmacological alternatives for symptom management. While different mechanisms have been proposed to explain its efficacy, including theories of the neural system, endocrine cytokine or immunological regulation, its eventual role has become that of alleviating the side effects induced by chemotherapy or radiotherapy. In this paper, we have reviewed the related articles focusing on acupuncture mechanisms and applications in cancer care to provide a quick sketch of acupuncture in cancer care. A detailed search was performed to identify the randomized controlled trials (RCTs) and systematic reviews on acupuncture in oncology, using PUBMED and Cochrane. The search terms included: Acupuncture, acupressure, and cancer. Additional terms were used to target specific symptoms (i.e., breast cancer, hot flash, xerostomia, nausea, vomiting, cancer pain, insomnia, fatigue). Two authors independently extracted data for analysis and review. Ultimately, 25 articles underwent full-text review. Recent trials made efforts in studying (a) hot flashes in breast cancer, (b) xerostomia induced by radiotherapy in head and neck cancer, (c) nausea and vomiting post-chemotherapy, (d) cancer pain, and (e) fatigue and insomnia in cancer patients. Controversial results for acupuncture application in cancer care appeared in different categories, but a trend emerged that acupuncture can palliate cancer-related symptoms. The research to date certainly offers us a valid complementary therapy in treating cancer-related symptoms. Meanwhile, practical strategies with safe measures for enhancing the efficacy are needed in further interventions, as well as continuing research with a validated methodology."
+  ],
+  "affiliation": [
+    "Institute of Traditional Medicine, National Yang-Ming University, Taipei, Taiwan. ; Department of Internal Medicine, Division of Hemato-Oncology, Branch of Zhong-xing, Taipei City Hospital, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cancer",
+        "Acupuncture",
+        "Oncology"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3925001"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24716183/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/2225-4110.119733"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-04-09"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "firstPublicationDate": [
+    "2013-10-01"
+  ]
+}

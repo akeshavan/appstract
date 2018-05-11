@@ -1,0 +1,510 @@
+{
+  "id": [
+    "28100276"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28100276"
+  ],
+  "pmcid": [
+    "PMC5241978"
+  ],
+  "doi": [
+    "10.1186/s12967-016-1116-1"
+  ],
+  "title": [
+    "Realising stratified psychiatry using multidimensional signatures and trajectories."
+  ],
+  "authorString": [
+    "Joyce DW, Kehagia AA, Tracy DK, Proctor J, Shergill SS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Joyce DW"
+          ],
+          "firstName": [
+            "Dan W"
+          ],
+          "lastName": [
+            "Joyce"
+          ],
+          "initials": [
+            "DW"
+          ],
+          "affiliation": [
+            "Cognition Schizophrenia and Imaging Laboratory, Department of Psychosis Studies, PO63, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK. danjoyce@doctors.org.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Kehagia AA"
+          ],
+          "firstName": [
+            "Angie A"
+          ],
+          "lastName": [
+            "Kehagia"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Neuroimaging, Institute of Psychiatry, Psychology and Neuroscience (PO89), King's College London, De Crespigny Park, London, SE5 8AF, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Tracy DK"
+          ],
+          "firstName": [
+            "Derek K"
+          ],
+          "lastName": [
+            "Tracy"
+          ],
+          "initials": [
+            "DK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3609-9407",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cognition Schizophrenia and Imaging Laboratory, Department of Psychosis Studies, PO63, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Proctor J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Proctor"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Cognition Schizophrenia and Imaging Laboratory, Department of Psychosis Studies, PO63, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Shergill SS"
+          ],
+          "firstName": [
+            "Sukhwinder S"
+          ],
+          "lastName": [
+            "Shergill"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4928-9100",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cognition Schizophrenia and Imaging Laboratory, Department of Psychosis Studies, PO63, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4928-9100",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3609-9407",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2510858"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of translational medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Transl Med"
+          ],
+          "medlineAbbreviation": [
+            "J Transl Med"
+          ],
+          "NLMid": [
+            "101190741"
+          ],
+          "ISSN": [
+            "1479-5876"
+          ],
+          "ESSN": [
+            "1479-5876"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "15"
+  ],
+  "abstractText": [
+    "Stratified or personalised medicine targets treatments for groups of individuals with a disorder based on individual heterogeneity and shared factors that influence the likelihood of response. Psychiatry has traditionally defined diagnoses by constellations of co-occurring signs and symptoms that are assigned a categorical label (e.g. schizophrenia). Trial methodology in psychiatry has evaluated interventions targeted at these categorical entities, with diagnoses being equated to disorders. Recent insights into both the nosology and neurobiology of psychiatric disorder reveal that traditional categorical diagnoses cannot be equated with disorders. We argue that current quantitative methodology (1) inherits these categorical assumptions, (2) allows only for the discovery of average treatment response, (3) relies on composite outcome measures and (4) sacrifices valuable predictive information for stratified and personalised treatment in psychiatry.To achieve a truly 'stratified psychiatry' we propose and then operationalise two necessary steps: first, a formal multi-dimensional representation of disorder definition and clinical state, and second, the similar redefinition of outcomes as multidimensional constructs that can expose within- and between-patient differences in response. We use the categorical diagnosis of schizophrenia-conceptualised as a label for heterogeneous disorders-as a means of introducing operational definitions of stratified psychiatry using principles from multivariate analysis. We demonstrate this framework by application to the Clinical Antipsychotic Trials of Intervention Effectiveness dataset, showing heterogeneity in both patient clinical states and their trajectories after treatment that are lost in the traditional categorical approach with composite outcomes. We then systematically review a decade of registered clinical trials for cognitive deficits in schizophrenia highlighting existing assumptions of categorical diagnoses and aggregate outcomes while identifying a small number of trials that could be reanalysed using our proposal.We describe quantitative methods for the development of a multi-dimensional model of clinical state, disorders and trajectories which practically realises stratified psychiatry. We highlight the potential for recovering existing trial data, the implications for stratified psychiatry in trial design and clinical treatment and finally, describe different kinds of probabilistic reasoning tools necessary to implement stratification."
+  ],
+  "affiliation": [
+    "Cognition Schizophrenia and Imaging Laboratory, Department of Psychosis Studies, PO63, Institute of Psychiatry, Psychology and Neuroscience, King's College London, De Crespigny Park, London, SE5 8AF, UK. danjoyce@doctors.org.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "N01 MH90001"
+          ],
+          "agency": [
+            "WHI NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CL-2015-17-004"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multivariate Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schizophrenia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Psychiatry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Precision Medicine"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Methodology",
+        "trials",
+        "Multivariate",
+        "Stratified Psychiatry"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5241978?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5241978"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12967-016-1116-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-10-20"
+  ],
+  "dateOfCreation": [
+    "2017-01-20"
+  ],
+  "dateOfRevision": [
+    "2018-04-25"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-18"
+  ],
+  "firstPublicationDate": [
+    "2017-01-18"
+  ]
+}

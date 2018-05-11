@@ -1,0 +1,733 @@
+{
+  "id": [
+    "28545508"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28545508"
+  ],
+  "pmcid": [
+    "PMC5445390"
+  ],
+  "doi": [
+    "10.1186/s13063-017-1964-x"
+  ],
+  "title": [
+    "Open-label versus double-blind placebo treatment in irritable bowel syndrome: study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Ballou S, Kaptchuk TJ, Hirsch W, Nee J, Iturrino J, Hall KT, Kelley JM, Cheng V, Kirsch I, Jacobson E, Conboy L, Lembo A, Davis RB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ballou S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Ballou"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6746-1958",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA. sballou@bidmc.harvard.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaptchuk TJ"
+          ],
+          "firstName": [
+            "Ted J"
+          ],
+          "lastName": [
+            "Kaptchuk"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "Program in Placebo Studies, Beth Israel Deaconess Medical Center/Harvard Medical School, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirsch W"
+          ],
+          "firstName": [
+            "William"
+          ],
+          "lastName": [
+            "Hirsch"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nee J"
+          ],
+          "firstName": [
+            "Judy"
+          ],
+          "lastName": [
+            "Nee"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Iturrino J"
+          ],
+          "firstName": [
+            "Johanna"
+          ],
+          "lastName": [
+            "Iturrino"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hall KT"
+          ],
+          "firstName": [
+            "Kathryn T"
+          ],
+          "lastName": [
+            "Hall"
+          ],
+          "initials": [
+            "KT"
+          ],
+          "affiliation": [
+            "Program in Placebo Studies, Beth Israel Deaconess Medical Center/Harvard Medical School, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kelley JM"
+          ],
+          "firstName": [
+            "John M"
+          ],
+          "lastName": [
+            "Kelley"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Program in Placebo Studies, Beth Israel Deaconess Medical Center/Harvard Medical School, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng V"
+          ],
+          "firstName": [
+            "Vivian"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kirsch I"
+          ],
+          "firstName": [
+            "Irving"
+          ],
+          "lastName": [
+            "Kirsch"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Program in Placebo Studies, Beth Israel Deaconess Medical Center/Harvard Medical School, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobson E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Jacobson"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Global Health and Social Medicine Harvard Medical School, 641 Huntington Avenue, Boston, MA, 02115, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Conboy L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Conboy"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Program in Placebo Studies, Beth Israel Deaconess Medical Center/Harvard Medical School, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lembo A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Lembo"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Davis RB"
+          ],
+          "firstName": [
+            "Roger B"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "RB"
+          ],
+          "affiliation": [
+            "Program in Placebo Studies, Beth Israel Deaconess Medical Center/Harvard Medical School, 330 Brookline Avenue, Boston, MA, 02215, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6746-1958",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2552752"
+      ],
+      "dateOfPublication": [
+        "2017 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "234"
+  ],
+  "abstractText": [
+    "Placebo medications, by definition, are composed of inactive ingredients that have no physiological effect on symptoms. Nonetheless, administration of placebo in randomized controlled trials (RCTs) and in clinical settings has been demonstrated to have significant impact on many physical and psychological complaints. Until recently, conventional wisdom has suggested that patients must believe that placebo pills actually contain (or, at least, might possibly contain) active medication in order to elicit a response to placebo. However, several recent RCTs, including patients with irritable bowel syndrome (IBS), chronic low back pain, and episodic migraine, have demonstrated that individuals receiving open-label placebo (OLP) can still experience symptomatic improvement and benefit from honestly described placebo treatment.This paper describes an innovative multidisciplinary trial design (n = 280) that attempts to replicate and expand upon an earlier IBS OLP study. The current study will compare OLP to double-blind placebo (DBP) administration which is made possible by including a nested, double-blind RCT comparing DBP and peppermint oil. The study also examines possible genetic and psychological predictors of OLP and seeks to better understand participants' experiences with OLP and DBP through a series of extensive interviews with a randomly selected subgroup.OLP treatment is a novel strategy for ethically harnessing placebo effects. It has potential to re-frame theories of placebo and to influence how physicians can optimize watch-and-wait strategies for common, subjective symptoms. The current study aims to dramatically expand what we know about OLP by comparing, for the first time, OLP and DBP administration. Adopting a unique, multidisciplinary approach, the study also explores genetic, psychological and experiential dimensions of OLP. The paper ends with an extensive discussion of the \"culture\" of the trial as well as potential mechanisms of OLP and ethical implications.ClinicalTrials.gov, identifier: NCT02802241 . Registered on 14 June 2016."
+  ],
+  "affiliation": [
+    "Department of Medicine, Division of Gastroenterology, Beth Israel Deaconess Medical Center, 330 Brookline Avenue, Boston, MA, 02215, USA. sballou@bidmc.harvard.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 DK007760"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K01 HL130625"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Irritable Bowel Syndrome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Oils"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Placebo Effect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Interviews as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Research methods",
+        "irritable bowel syndrome",
+        "Peppermint Oil",
+        "Placebo Effects",
+        "Multi-disciplinary Models",
+        "Open-label Placebo"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Oils"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Gastrointestinal Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "peppermint oil"
+          ],
+          "registryNumber": [
+            "AV092KU4JH"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5445390?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5445390"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-017-1964-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-04-02"
+  ],
+  "dateOfCreation": [
+    "2017-05-27"
+  ],
+  "dateOfRevision": [
+    "2018-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-25"
+  ],
+  "firstPublicationDate": [
+    "2017-05-25"
+  ]
+}

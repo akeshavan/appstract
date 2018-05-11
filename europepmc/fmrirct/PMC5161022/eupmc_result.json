@@ -1,0 +1,297 @@
+{
+  "id": [
+    "28018195"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28018195"
+  ],
+  "pmcid": [
+    "PMC5161022"
+  ],
+  "doi": [
+    "10.3389/fnhum.2016.00626"
+  ],
+  "title": [
+    "Mediators of Physical Activity on Neurocognitive Function: A Review at Multiple Levels of Analysis."
+  ],
+  "authorString": [
+    "Stillman CM, Cohen J, Lehman ME, Erickson KI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stillman CM"
+          ],
+          "firstName": [
+            "Chelsea M"
+          ],
+          "lastName": [
+            "Stillman"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Medicine, University of Pittsburgh Medical Center, PittsburghPA, USA; Center for the Neural Basis of Cognition, University of Pittsburgh, PittsburghPA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen J"
+          ],
+          "firstName": [
+            "Jamie"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Center for the Neural Basis of Cognition, University of Pittsburgh, PittsburghPA, USA; Department of Psychology, University of Pittsburgh, PittsburghPA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Lehman ME"
+          ],
+          "firstName": [
+            "Morgan E"
+          ],
+          "lastName": [
+            "Lehman"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Pittsburgh, Pittsburgh PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Erickson KI"
+          ],
+          "firstName": [
+            "Kirk I"
+          ],
+          "lastName": [
+            "Erickson"
+          ],
+          "initials": [
+            "KI"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Medicine, University of Pittsburgh Medical Center, PittsburghPA, USA; Center for the Neural Basis of Cognition, University of Pittsburgh, PittsburghPA, USA; Department of Psychology, University of Pittsburgh, PittsburghPA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2390596"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "626"
+  ],
+  "abstractText": [
+    "Physical activity (PA) is known to maintain and improve neurocognitive health. However, there is still a poor understanding of the mechanisms by which PA exerts its effects on the brain and cognition in humans. Many of the most widely discussed mechanisms of PA are molecular and cellular and arise from animal models. While information about basic cellular and molecular mechanisms is an important foundation from which to build our understanding of how PA promotes cognitive health in humans, there are other pathways that could play a role in this relationship. For example, PA-induced changes to cellular and molecular pathways likely initiate changes to macroscopic properties of the brain and/or to behavior that in turn influence cognition. The present review uses a more macroscopic lens to identify potential brain and behavioral/socioemotional mediators of the association between PA and cognitive function. We first summarize what is known regarding cellular and molecular mechanisms, and then devote the remainder of the review to discussing evidence for brain systems and behavioral/socioemotional pathways by which PA influences cognition. It is our hope that discussing mechanisms at multiple levels of analysis will stimulate the field to examine both brain and behavioral mediators. Doing so is important, as it could lead to a more complete characterization of the processes by which PA influences neurocognitive function, as well as a greater variety of targets for modifying neurocognitive function in clinical contexts."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, School of Medicine, University of Pittsburgh Medical Center, PittsburghPA, USA; Center for the Neural Basis of Cognition, University of Pittsburgh, PittsburghPA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain",
+        "Cognition",
+        "Exercise",
+        "Mechanisms",
+        "Physical Activity",
+        "Mediation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5161022?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5161022"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2016.00626"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-12-26"
+  ],
+  "dateOfRevision": [
+    "2016-12-28"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-08"
+  ],
+  "firstPublicationDate": [
+    "2016-12-08"
+  ]
+}

@@ -1,0 +1,794 @@
+{
+  "id": [
+    "20064275"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "20064275"
+  ],
+  "pmcid": [
+    "PMC2832893"
+  ],
+  "doi": [
+    "10.1186/1471-2377-10-4"
+  ],
+  "title": [
+    "INCITE: A randomised trial comparing constraint induced movement therapy and bimanual training in children with congenital hemiplegia."
+  ],
+  "authorString": [
+    "Boyd R, Sakzewski L, Ziviani J, Abbott DF, Badawy R, Gilmore R, Provan K, Tournier JD, Macdonell RA, Jackson GD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Boyd R"
+          ],
+          "firstName": [
+            "Roslyn"
+          ],
+          "lastName": [
+            "Boyd"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Sakzewski L"
+          ],
+          "firstName": [
+            "Leanne"
+          ],
+          "lastName": [
+            "Sakzewski"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5395-544X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ziviani J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Ziviani"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Abbott DF"
+          ],
+          "firstName": [
+            "David F"
+          ],
+          "lastName": [
+            "Abbott"
+          ],
+          "initials": [
+            "DF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7259-8238",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Badawy R"
+          ],
+          "firstName": [
+            "Radwa"
+          ],
+          "lastName": [
+            "Badawy"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Gilmore R"
+          ],
+          "firstName": [
+            "Rose"
+          ],
+          "lastName": [
+            "Gilmore"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Provan K"
+          ],
+          "firstName": [
+            "Kerry"
+          ],
+          "lastName": [
+            "Provan"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Tournier JD"
+          ],
+          "firstName": [
+            "Jacques-Donald"
+          ],
+          "lastName": [
+            "Tournier"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5591-7383",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Macdonell RA"
+          ],
+          "firstName": [
+            "Richard A L"
+          ],
+          "lastName": [
+            "Macdonell"
+          ],
+          "initials": [
+            "RA"
+          ]
+        },
+        {
+          "fullName": [
+            "Jackson GD"
+          ],
+          "firstName": [
+            "Graeme D"
+          ],
+          "lastName": [
+            "Jackson"
+          ],
+          "initials": [
+            "GD"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5395-544X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7259-8238",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5591-7383",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "1690452"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "4"
+  ],
+  "abstractText": [
+    "BACKGROUND: Congenital hemiplegia is the most common form of cerebral palsy (CP) accounting for 1 in 1300 live births. These children have limitations in capacity to use the impaired upper limb and bimanual coordination deficits which impact on daily activities and participation in home, school and community life. There are currently two diverse intensive therapy approaches. Traditional therapy has adopted a bimanual approach (BIM training) and recently, constraint induced movement therapy (CIMT) has emerged as a promising unimanual approach. Uncertainty remains about the efficacy of these interventions and characteristics of best responders. This study aims to compare the efficacy of CIMT to BIM training to improve outcomes across the ICF for school children with congenital hemiplegia. METHODS/DESIGN: A matched pairs randomised comparison design will be used with children matched by age, gender, side of hemiplegia and level of upper limb function. Based on power calculations a sample size of 52 children (26 matched pairs) will be recruited. Children will be randomised within pairs to receive either CIMT or BIM training. Both interventions will use an intensive activity based day camp model, with groups receiving the same dosage of intervention delivered in the same environment (total 60 hours over 10 days). A novel circus theme will be used to enhance motivation. Groups will be compared at baseline, then at 3, 26 and 52 weeks following intervention. Severity of congenital hemiplegia will be classified according to brain structure (MRI and white matter fibre tracking), cortical excitability using Transcranial Magnetic Stimulation (TMS), functional use of the hand in everyday tasks (Manual Ability Classification System) and Gross Motor Function Classification System (GMFCS). Outcomes will address neurovascular changes (functional MRI, functional connectivity), and brain (re)organisation (TMS), body structure and function (range of motion, spasticity, strength and sensation), activity limitations (upper limb unimanual capacity and bimanual motor coordination), participation restrictions (in home, school and recreation), environmental (barriers and facilitators to participation) and quality of life. DISCUSSION: This paper outlines the theoretical basis, study hypotheses and outcome measures for a matched pairs randomised trial comparing CIMT and BIM training to improve outcomes across the ICF. TRIAL REGISTRATION: ACTRN12609000912280."
+  ],
+  "affiliation": [
+    "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Australia. r.boyd@uq.edu.au"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Hand"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebral Palsy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemiplegia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CN"
+                  ],
+                  "qualifierName": [
+                    "congenital"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Musculoskeletal Manipulations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Matched-Pair Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2832893?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2832893"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2377/10/4/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2377/10/4"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2377-10-4.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20064275/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20064275/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2377-10-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "41"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2010-05-05"
+  ],
+  "dateOfCreation": [
+    "2010-03-08"
+  ],
+  "dateOfRevision": [
+    "2013-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2010-01-12"
+  ],
+  "firstPublicationDate": [
+    "2010-01-12"
+  ]
+}

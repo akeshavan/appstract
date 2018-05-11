@@ -1,0 +1,316 @@
+{
+  "id": [
+    "28783134"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28783134"
+  ],
+  "pmcid": [
+    "PMC5575615"
+  ],
+  "doi": [
+    "10.3390/brainsci7080095"
+  ],
+  "title": [
+    "Assessing the Effectiveness of Neurofeedback Training in the Context of Clinical and Social Neuroscience."
+  ],
+  "authorString": [
+    "Orndorff-Plunkett F, Singh F, Aragón OR, Pineda JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Orndorff-Plunkett F"
+          ],
+          "firstName": [
+            "Franklin"
+          ],
+          "lastName": [
+            "Orndorff-Plunkett"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Electrical Engineering, University of California, San Diego, La Jolla, CA 92093, USA. forndorf@eng.ucsd.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh F"
+          ],
+          "firstName": [
+            "Fiza"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA. fizasinghmd@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Aragón OR"
+          ],
+          "firstName": [
+            "Oriana R"
+          ],
+          "lastName": [
+            "Aragón"
+          ],
+          "initials": [
+            "OR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1016-2076",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Marketing Department, Clemson University College of Business, Clemson, SC 29634, USA. oriana.aragon@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Pineda JA"
+          ],
+          "firstName": [
+            "Jaime A"
+          ],
+          "lastName": [
+            "Pineda"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Neurosciences Group, University of California, San Diego, La Jolla, CA 92093, USA. pineda@cogsci.ucsd.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1016-2076",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2585030"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain sciences"
+          ],
+          "ISOAbbreviation": [
+            "Brain Sci"
+          ],
+          "medlineAbbreviation": [
+            "Brain Sci"
+          ],
+          "NLMid": [
+            "101598646"
+          ],
+          "ISSN": [
+            "2076-3425"
+          ],
+          "ESSN": [
+            "2076-3425"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "Social neuroscience benefits from the experimental manipulation of neuronal activity. One possible manipulation, neurofeedback, is an operant conditioning-based technique in which individuals sense, interact with, and manage their own physiological and mental states. Neurofeedback has been applied to a wide variety of psychiatric illnesses, as well as to treat sub-clinical symptoms, and even to enhance performance in healthy populations. Despite growing interest, there persists a level of distrust and/or bias in the medical and research communities in the USA toward neurofeedback and other functional interventions. As a result, neurofeedback has been largely ignored, or disregarded within social neuroscience. We propose a systematic, empirically-based approach for assessing the effectiveness, and utility of neurofeedback. To that end, we use the term perturbative physiologic plasticity to suggest that biological systems function as an integrated whole that can be perturbed and guided, either directly or indirectly, into different physiological states. When the intention is to normalize the system, e.g., via neurofeedback, we describe it as self-directed neuroplasticity, whose outcome is persistent functional, structural, and behavioral changes. We argue that changes in physiological, neuropsychological, behavioral, interpersonal, and societal functioning following neurofeedback can serve as objective indices and as the metrics necessary for assessing levels of efficacy. In this chapter, we examine the effects of neurofeedback on functional connectivity in a few clinical disorders as case studies for this approach. We believe this broader perspective will open new avenues of investigation, especially within social neuroscience, to further elucidate the mechanisms and effectiveness of these types of interventions, and their relevance to basic research."
+  ],
+  "affiliation": [
+    "Department of Electrical Engineering, University of California, San Diego, La Jolla, CA 92093, USA. forndorf@eng.ucsd.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomarkers",
+        "Functional Connectivity",
+        "Neurotherapies",
+        "Perturbative Physiological Plasticity",
+        "Self-directed Plasticity"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5575615?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5575615"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/brainsci7080095"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-07"
+  ],
+  "dateOfRevision": [
+    "2017-09-02"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-07"
+  ],
+  "firstPublicationDate": [
+    "2017-08-07"
+  ]
+}

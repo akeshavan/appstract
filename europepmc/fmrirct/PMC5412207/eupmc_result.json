@@ -1,0 +1,572 @@
+{
+  "id": [
+    "28480365"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28480365"
+  ],
+  "pmcid": [
+    "PMC5412207"
+  ],
+  "doi": [
+    "10.21010/ajtcam.v13i6.14"
+  ],
+  "title": [
+    "IMAGING OF BRAIN FUNCTION BASED ON THE ANALYSIS OF FUNCTIONAL CONNECTIVITY - IMAGING ANALYSIS OF BRAIN FUNCTION BY FMRI AFTER ACUPUNCTURE AT LR3 IN HEALTHY INDIVIDUALS."
+  ],
+  "authorString": [
+    "Zheng Y, Wang Y, Lan Y, Qu X, Lin K, Zhang J, Qu S, Wang Y, Tang C, Huang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yuying"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan Y"
+          ],
+          "firstName": [
+            "Yujun"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qu X"
+          ],
+          "firstName": [
+            "Xiaodong"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin K"
+          ],
+          "firstName": [
+            "Kelin"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qu S"
+          ],
+          "firstName": [
+            "Shanshan"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanjie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang C"
+          ],
+          "firstName": [
+            "Chunzhi"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Clinical Medical College of Acupuncture, Moxibustion and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong Province 510405, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2555402"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "African journal of traditional, complementary, and alternative medicines : AJTCAM"
+          ],
+          "ISOAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "Afr J Tradit Complement Altern Med"
+          ],
+          "NLMid": [
+            "101232990"
+          ],
+          "ISSN": [
+            "0189-6016"
+          ],
+          "ESSN": [
+            "2505-0044"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "90-100"
+  ],
+  "abstractText": [
+    "This Study observed the relevant brain areas activated by acupuncture at the Taichong acupoint (LR3) and analyzed the functional connectivity among brain areas using resting state functional magnetic resonance imaging (fMRI) to explore the acupoint specificity of the Taichong acupoint.A total of 45 healthy subjects were randomly divided into the Taichong (LR3) group, sham acupuncture group and sham acupoint group. Subjects received resting state fMRI before acupuncture, after true (sham) acupuncture in each group. Analysis of changes in connectivity among the brain areas was performed using the brain functional connectivity method.The right cerebrum temporal lobe was selected as the seed point to analyze the functional connectivity. It had a functional connectivity with right cerebrum superior frontal gyrus, limbic lobe cingulate gyrus and left cerebrum inferior temporal gyrus (BA 37), inferior parietal lobule compared by before vs. after acupuncture at LR3, and right cerebrum sub-lobar insula and left cerebrum middle frontal gyrus, medial frontal gyrus compared by true vs. sham acupuncture at LR3, and right cerebrum occipital lobe cuneus, occipital lobe sub-gyral, parietal lobe precuneus and left cerebellum anterior lobe culmen by acupuncture at LR3 vs. sham acupoint.Acupuncture at LR3 mainly specifically activated the brain functional network that participates in visual function, associative function, and emotion cognition, which are similar to the features on LR3 in tradition Chinese medicine. These brain areas constituted a neural network structure with specific functions that had specific reference values for the interpretation of the acupoint specificity of the Taichong acupoint."
+  ],
+  "affiliation": [
+    "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lumbosacral Region"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupuncture Points"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Healthy Volunteers"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Acupuncture",
+        "Functional magnetic resonance imaging (fMRI)",
+        "Functional Connectivity",
+        "Taichong(lr3)"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5412207?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5412207"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.21010/ajtcam.v13i6.14"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-08"
+  ],
+  "dateOfCreation": [
+    "2017-05-08"
+  ],
+  "dateOfRevision": [
+    "2017-09-29"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-29"
+  ],
+  "firstPublicationDate": [
+    "2016-09-29"
+  ],
+  "embargoDate": [
+    "2017-09-29"
+  ]
+}

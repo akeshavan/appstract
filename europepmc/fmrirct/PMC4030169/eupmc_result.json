@@ -1,0 +1,339 @@
+{
+  "id": [
+    "24860487"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24860487"
+  ],
+  "pmcid": [
+    "PMC4030169"
+  ],
+  "doi": [
+    "10.3389/fnhum.2014.00321"
+  ],
+  "title": [
+    "What future research should bring to help resolving the debate about the efficacy of EEG-neurofeedback in children with ADHD."
+  ],
+  "authorString": [
+    "Vollebregt MA, van Dongen-Boomsma M, Slaats-Willemse D, Buitelaar JK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vollebregt MA"
+          ],
+          "firstName": [
+            "Madelon A"
+          ],
+          "lastName": [
+            "Vollebregt"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Karakter University Centre for Child and Adolescent Psychiatry Nijmegen, Netherlands ; Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands ; Centre for Cognitive Neuroimaging, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Dongen-Boomsma M"
+          ],
+          "firstName": [
+            "Martine"
+          ],
+          "lastName": [
+            "van Dongen-Boomsma"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Karakter University Centre for Child and Adolescent Psychiatry Nijmegen, Netherlands ; Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands ; Department of Psychiatry, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Slaats-Willemse D"
+          ],
+          "firstName": [
+            "Dorine"
+          ],
+          "lastName": [
+            "Slaats-Willemse"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Karakter University Centre for Child and Adolescent Psychiatry Nijmegen, Netherlands ; Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands ; Department of Psychiatry, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Buitelaar JK"
+          ],
+          "firstName": [
+            "Jan K"
+          ],
+          "lastName": [
+            "Buitelaar"
+          ],
+          "initials": [
+            "JK"
+          ],
+          "affiliation": [
+            "Karakter University Centre for Child and Adolescent Psychiatry Nijmegen, Netherlands ; Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands ; Centre for Cognitive Neuroimaging, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands ; Department of Psychiatry, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120175"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "321"
+  ],
+  "abstractText": [
+    "In recent years a rising amount of randomized controlled trials, reviews, and meta-analyses relating to the efficacy of electroencephalographic-neurofeedback (EEG-NF) in children with attention-deficit/hyperactivity disorder (ADHD) have been published. Although clinical reports and open treatment studies suggest EEG-NF to be effective, double blind placebo-controlled studies as well as a rigorous meta-analysis failed to find support for the efficacy of EEG-NF. Since absence of evidence does not equate with evidence of absence, we will outline how future research might overcome the present methodological limitations. To provide conclusive evidence for the presence or absence of the efficacy of EEG-NF in the treatment of ADHD, there is a need to set up a well-designed study that ensures optimal implementation and embedding of the training, and possibly incorporates different forms of neurofeedback."
+  ],
+  "affiliation": [
+    "Karakter University Centre for Child and Adolescent Psychiatry Nijmegen, Netherlands ; Department of Cognitive Neuroscience, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands ; Centre for Cognitive Neuroimaging, Donders Institute for Brain, Cognition and Behaviour, Radboud University Medical Centre Nijmegen, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Methodology",
+        "efficacy",
+        "Non-pharmacological Interventions",
+        "Attention-deficit/hyperactivity Disorder (Adhd)",
+        "Eeg-neurofeedback (Eeg-nf)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4030169?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4030169"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24860487/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24860487/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2014.00321"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-05-26"
+  ],
+  "dateOfCreation": [
+    "2014-05-26"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2014-05-15"
+  ],
+  "firstPublicationDate": [
+    "2014-05-15"
+  ]
+}

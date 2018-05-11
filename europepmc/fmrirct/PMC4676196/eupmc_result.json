@@ -1,0 +1,319 @@
+{
+  "id": [
+    "26696946"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26696946"
+  ],
+  "pmcid": [
+    "PMC4676196"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2015.01893"
+  ],
+  "title": [
+    "Neuroenhancement of Memory for Children with Autism by a Mind-Body Exercise."
+  ],
+  "authorString": [
+    "Chan AS, Han YM, Sze SL, Lau EM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chan AS"
+          ],
+          "firstName": [
+            "Agnes S"
+          ],
+          "lastName": [
+            "Chan"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Neuropsychology Laboratory, Department of Psychology, The Chinese University of Hong Kong Hong Kong, China ; Chanwuyi Research Center for Neuropsychological Well-Being, The Chinese University of Hong Kong Hong Kong, China ; Henan Songshan Research Institute for Chanwuyi Henan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Han YM"
+          ],
+          "firstName": [
+            "Yvonne M Y"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "YM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9534-6834",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Sciences, The Hong Kong Polytechnic University Hong Kong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sze SL"
+          ],
+          "firstName": [
+            "Sophia L"
+          ],
+          "lastName": [
+            "Sze"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "Neuropsychology Laboratory, Department of Psychology, The Chinese University of Hong Kong Hong Kong, China ; Chanwuyi Research Center for Neuropsychological Well-Being, The Chinese University of Hong Kong Hong Kong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lau EM"
+          ],
+          "firstName": [
+            "Eliza M"
+          ],
+          "lastName": [
+            "Lau"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Neuropsychology Laboratory, Department of Psychology, The Chinese University of Hong Kong Hong Kong, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9534-6834",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2250732"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1893"
+  ],
+  "abstractText": [
+    "The memory deficits found in individuals with autism spectrum disorder (ASD) may be caused by the lack of an effective strategy to aid memory. The executive control of memory processing is mediated largely by the timely coupling between frontal and posterior brain regions. The present study aimed to explore the potential effect of a Chinese mind-body exercise, namely Nei Gong, for enhancing learning and memory in children with ASD, and the possible neural basis of the improvement. Sixty-six children with ASD were randomly assigned to groups receiving Nei Gong training (NGT), progressive muscle relaxation (PMR) training, or no training for 1 month. Before and after training, the participants were tested individually on a computerized visual memory task while EEG signals were acquired during the memory encoding phase. Children in the NGT group demonstrated significantly enhanced memory performance and more effective use of a memory strategy, which was not observed in the other two groups. Furthermore, the improved memory after NGT was consistent with findings of elevated EEG theta coherence between frontal and posterior brain regions, a measure of functional coupling. The scalp EEG signals were localized by the standardized low resolution brain electromagnetic tomography method and found to originate from a neural network that promotes effective memory processing, including the prefrontal cortex, the parietal cortex, and the medial and inferior temporal cortex. This alteration in neural processing was not found in children receiving PMR or in those who received no training. The present findings suggest that the mind-body exercise program may have the potential effect on modulating neural functional connectivity underlying memory processing and hence enhance memory functions in individuals with autism."
+  ],
+  "affiliation": [
+    "Neuropsychology Laboratory, Department of Psychology, The Chinese University of Hong Kong Hong Kong, China ; Chanwuyi Research Center for Neuropsychological Well-Being, The Chinese University of Hong Kong Hong Kong, China ; Henan Songshan Research Institute for Chanwuyi Henan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Memory",
+        "EEG",
+        "Autism",
+        "Functional Connectivity",
+        "Mind–body Training",
+        "Neurocognitive Enhancement"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4676196?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4676196"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2015.01893"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-23"
+  ],
+  "dateOfCreation": [
+    "2015-12-23"
+  ],
+  "dateOfRevision": [
+    "2015-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-11"
+  ],
+  "firstPublicationDate": [
+    "2015-12-11"
+  ]
+}

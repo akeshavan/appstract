@@ -1,0 +1,565 @@
+{
+  "id": [
+    "27887589"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27887589"
+  ],
+  "pmcid": [
+    "PMC5124305"
+  ],
+  "doi": [
+    "10.1186/s12883-016-0754-5"
+  ],
+  "title": [
+    "Guidelines for dementia or Parkinson's disease with depression or anxiety: a systematic review."
+  ],
+  "authorString": [
+    "Goodarzi Z, Mele B, Guo S, Hanson H, Jette N, Patten S, Pringsheim T, Holroyd-Leduc J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goodarzi Z"
+          ],
+          "firstName": [
+            "Zahra"
+          ],
+          "lastName": [
+            "Goodarzi"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            ", #1104-South Tower. Foothills Medical Centre 3301 Hospital Drive, Calgary, NW, T2N 2T9, Canada. zahra.goodarzi@albertahealthservices.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Mele B"
+          ],
+          "firstName": [
+            "Bria"
+          ],
+          "lastName": [
+            "Mele"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Community Health Sciences, University of Calgary, Calgary, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo S"
+          ],
+          "firstName": [
+            "Selynne"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Faculty of Medicine, Undergraduate Medical Education, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hanson H"
+          ],
+          "firstName": [
+            "Heather"
+          ],
+          "lastName": [
+            "Hanson"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Seniors Health Strategic Clinical Network, Alberta Health Services, Alberta, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Jette N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Jette"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Hotchkiss Brain Institute, and O'Brien Institute for Public Health, University of Calgary and Alberta Health Services, Calgary, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Patten S"
+          ],
+          "firstName": [
+            "Scott"
+          ],
+          "lastName": [
+            "Patten"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9871-4041",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Mathison Centre for Mental Health Research and Education, University of Calgary, Calgary, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Pringsheim T"
+          ],
+          "firstName": [
+            "Tamara"
+          ],
+          "lastName": [
+            "Pringsheim"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Pediatrics, University of Calgary and Alberta Health Services, Calgary, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Holroyd-Leduc J"
+          ],
+          "firstName": [
+            "Jayna"
+          ],
+          "lastName": [
+            "Holroyd-Leduc"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Calgary and Alberta Health Services, Calgary, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9871-4041",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2485645"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "244"
+  ],
+  "abstractText": [
+    "Depression and anxiety remain under-diagnosed and under-treated in those with neurologic diseases such as dementia or Parkinson's Disease (PD). Our objectives were to first, to provide a synthesis of high quality guidelines available for the identification and management of depression or anxiety in those with dementia or PD. Second, to identify areas for improvement for future guidelines.We searched MEDLINE, PsycINFO, and EMBASE (2009 to July 24, 2015), grey literature (83 sources; July 24-Sept 6, 2015), and bibliographies of included studies. Included studies were evaluated for quality by four independent reviewers the AGREE II tool. Guideline characteristics, statements and recommendations relevant to depression or anxiety for dementia and PD were then extracted. (PROSPERO CRD: 42016014584) RESULTS: 8121 citations were reviewed with 31 full text articles included for assessment with the AGREE II tool. 17 were of sufficient quality for inclusion. Mean overall quality scores were between 4.25 to 6.5. Domain scores were lowest in the areas of stakeholder involvement, applicability, and editorial independence. Recommendations for the screening and diagnosis of depression were found for PD and dementia. There was little evidence to guide diagnosis or management of anxiety. Non-pharmacologic therapies were recommended for dementia patients. Most advocated pharmacologic treatment for depression, for both PD and dementia, but did not specify an agent due to lack of evidence.The available recent high quality guidelines outline several recommendations for the management of comorbid depression or anxiety in PD or dementia. However there remain significant gaps in the evidence."
+  ],
+  "affiliation": [
+    ", #1104-South Tower. Foothills Medical Centre 3301 Hospital Drive, Calgary, NW, T2N 2T9, Canada. zahra.goodarzi@albertahealthservices.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "201500198"
+          ],
+          "agency": [
+            "Alberta Innovates"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parkinson Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dementia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Practice Guidelines as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Anxiety",
+        "Dementia",
+        "Guidelines",
+        "Parkinson’s Disease"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5124305?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5124305"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-016-0754-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-02"
+  ],
+  "dateOfCreation": [
+    "2016-11-26"
+  ],
+  "dateOfRevision": [
+    "2017-01-04"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-25"
+  ],
+  "firstPublicationDate": [
+    "2016-11-25"
+  ]
+}

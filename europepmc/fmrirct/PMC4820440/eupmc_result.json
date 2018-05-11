@@ -1,0 +1,247 @@
+{
+  "id": [
+    "27092064"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27092064"
+  ],
+  "pmcid": [
+    "PMC4820440"
+  ],
+  "doi": [
+    "10.3389/fnbeh.2016.00052"
+  ],
+  "title": [
+    "An Integrative Model for the Neural Mechanism of Eye Movement Desensitization and Reprocessing (EMDR)."
+  ],
+  "authorString": [
+    "Coubard OA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Coubard OA"
+          ],
+          "firstName": [
+            "Olivier A"
+          ],
+          "lastName": [
+            "Coubard"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "affiliation": [
+            "The Neuropsychological Laboratory, CNS-Fed Paris, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2369084"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Behavioral Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Behav Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Behav Neurosci"
+          ],
+          "NLMid": [
+            "101477952"
+          ],
+          "ISSN": [
+            "1662-5153"
+          ],
+          "ESSN": [
+            "1662-5153"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "52"
+  ],
+  "abstractText": [
+    "Since the seminal report by Shapiro that bilateral stimulation induces cognitive and emotional changes, 26 years of basic and clinical research have examined the effects of Eye Movement Desensitization and Reprocessing (EMDR) in anxiety disorders, particularly in post-traumatic stress disorder (PTSD). The present article aims at better understanding EMDR neural mechanism. I first review procedural aspects of EMDR protocol and theoretical hypothesis about EMDR effects, and develop the reasons why the scientific community is still divided about EMDR. I then slide from psychology to physiology describing eye movements/emotion interaction from the physiological viewpoint, and introduce theoretical and technical tools used in movement research to re-examine EMDR neural mechanism. Using a recent physiological model for the neuropsychological architecture of motor and cognitive control, the Threshold Interval Modulation with Early Release-Rate of rIse Deviation with Early Release (TIMER-RIDER)-model, I explore how attentional control and bilateral stimulation may participate to EMDR effects. These effects may be obtained by two processes acting in parallel: (i) activity level enhancement of attentional control component; and (ii) bilateral stimulation in any sensorimotor modality, both resulting in lower inhibition enabling dysfunctional information to be processed and anxiety to be reduced. The TIMER-RIDER model offers quantitative predictions about EMDR effects for future research about its underlying physiological mechanisms."
+  ],
+  "affiliation": [
+    "The Neuropsychological Laboratory, CNS-Fed Paris, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Reaction time",
+        "Anxiety Disorders",
+        "Attentional Control",
+        "Post-traumatic Stress Disorder (Ptsd)",
+        "Eye Movement Desensitization And Reprocessing (Emdr)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4820440?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4820440"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnbeh.2016.00052"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-19"
+  ],
+  "dateOfCreation": [
+    "2016-04-19"
+  ],
+  "dateOfRevision": [
+    "2016-04-21"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-05"
+  ],
+  "firstPublicationDate": [
+    "2016-04-05"
+  ]
+}

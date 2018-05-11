@@ -1,0 +1,359 @@
+{
+  "id": [
+    "24454293"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24454293"
+  ],
+  "pmcid": [
+    "PMC3887509"
+  ],
+  "doi": [
+    "10.3389/fpsyt.2013.00173"
+  ],
+  "title": [
+    "Mindfulness training targets neurocognitive mechanisms of addiction at the attention-appraisal-emotion interface."
+  ],
+  "authorString": [
+    "Garland EL, Froeliger B, Howard MO."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Garland EL"
+          ],
+          "firstName": [
+            "Eric L"
+          ],
+          "lastName": [
+            "Garland"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Supportive Oncology and Survivorship Program, Huntsman Cancer Institute, University of Utah , Salt Lake City, UT , USA ; College of Social Work, University of Utah , Salt Lake City, UT , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Froeliger B"
+          ],
+          "firstName": [
+            "Brett"
+          ],
+          "lastName": [
+            "Froeliger"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9451-9900",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroscience, Hollings Cancer Center, Medical University of South Carolina , Charleston, SC , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Howard MO"
+          ],
+          "firstName": [
+            "Matthew O"
+          ],
+          "lastName": [
+            "Howard"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "affiliation": [
+            "School of Social Work, University of North Carolina at Chapel Hill , Chapel Hill, NC , USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9451-9900",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2115914"
+      ],
+      "dateOfPublication": [
+        "2014 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "NLMid": [
+            "101545006"
+          ],
+          "ISSN": [
+            "1664-0640"
+          ],
+          "ESSN": [
+            "1664-0640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "173"
+  ],
+  "abstractText": [
+    "Prominent neuroscience models suggest that addictive behavior occurs when environmental stressors and drug-relevant cues activate a cycle of cognitive, affective, and psychophysiological mechanisms, including dysregulated interactions between bottom-up and top-down neural processes, that compel the user to seek out and use drugs. Mindfulness-based interventions (MBIs) target pathogenic mechanisms of the risk chain linking stress and addiction. This review describes how MBIs may target neurocognitive mechanisms of addiction at the attention-appraisal-emotion interface. Empirical evidence is presented suggesting that MBIs ameliorate addiction by enhancing cognitive regulation of a number of key processes, including: clarifying cognitive appraisal and modulating negative emotions to reduce perseverative cognition and emotional arousal; enhancing metacognitive awareness to regulate drug-use action schema and decrease addiction attentional bias; promoting extinction learning to uncouple drug-use triggers from conditioned appetitive responses; reducing cue-reactivity and increasing cognitive control over craving; attenuating physiological stress reactivity through parasympathetic activation; and increasing savoring to restore natural reward processing. Treatment and research implications of our neurocognitive framework are presented. We conclude by offering a temporally sequenced description of neurocognitive processes targeted by MBIs through a hypothetical case study. Our neurocognitive framework has implications for the optimization of addiction treatment with MBIs."
+  ],
+  "affiliation": [
+    "Supportive Oncology and Survivorship Program, Huntsman Cancer Institute, University of Utah , Salt Lake City, UT , USA ; College of Social Work, University of Utah , Salt Lake City, UT , USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R34 DA037005"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stress",
+        "Substance dependence",
+        "Addiction",
+        "Reward",
+        "Automaticity",
+        "Mindfulness",
+        "Neurocognitive",
+        "Reappraisal Vs. Suppression"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3887509?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3887509"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24454293/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24454293/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyt.2013.00173"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "27"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-01-23"
+  ],
+  "dateOfRevision": [
+    "2016-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-10"
+  ],
+  "firstPublicationDate": [
+    "2014-01-10"
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "id": [
+    "24137264"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24137264"
+  ],
+  "pmcid": [
+    "PMC3786848"
+  ],
+  "doi": [
+    "10.3892/etm.2013.1210"
+  ],
+  "title": [
+    "Acupuncture for the treatment of urinary incontinence: A review of randomized controlled trials."
+  ],
+  "authorString": [
+    "Paik SH, Han SR, Kwon OJ, Ahn YM, Lee BC, Ahn SY."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Paik SH"
+          ],
+          "firstName": [
+            "Sun-Ho"
+          ],
+          "lastName": [
+            "Paik"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, College of Korean Medicine, Kyung Hee University, Dongdaemun-gu, Seoul 130-702, Republic of Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Han SR"
+          ],
+          "firstName": [
+            "Su-Ryun"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "SR"
+          ]
+        },
+        {
+          "fullName": [
+            "Kwon OJ"
+          ],
+          "firstName": [
+            "Oh-Jun"
+          ],
+          "lastName": [
+            "Kwon"
+          ],
+          "initials": [
+            "OJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn YM"
+          ],
+          "firstName": [
+            "Young-Min"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "YM"
+          ]
+        },
+        {
+          "fullName": [
+            "Lee BC"
+          ],
+          "firstName": [
+            "Byung-Cheol"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "BC"
+          ]
+        },
+        {
+          "fullName": [
+            "Ahn SY"
+          ],
+          "firstName": [
+            "Se-Young"
+          ],
+          "lastName": [
+            "Ahn"
+          ],
+          "initials": [
+            "SY"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2085375"
+      ],
+      "dateOfPublication": [
+        "2013 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Experimental and therapeutic medicine"
+          ],
+          "ISOAbbreviation": [
+            "Exp Ther Med"
+          ],
+          "medlineAbbreviation": [
+            "Exp Ther Med"
+          ],
+          "NLMid": [
+            "101531947"
+          ],
+          "ISSN": [
+            "1792-0981"
+          ],
+          "ESSN": [
+            "1792-1015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "773-780"
+  ],
+  "abstractText": [
+    "The aim of this study was to examine the effects of acupuncture on urinary incontinence and to discuss why these acupoints were selected. Seven databases were searched for any randomized controlled trials (RCTs) that investigated the use of acupuncture or acupressure as a treatment for urinary incontinence, and the Cochrane risk of bias tool was utilized to evaluate the risk of bias in each study. Four RCTs met all the inclusion criteria. The results from the selected RCTs failed to demonstrate any statistically significant improvements in urinary incontinence, although acupuncture or acupressure did exhibit favorable effects on overactive bladder symptoms and quality of life, in comparison with other conventional therapies. There have been limited results supporting acupuncture or acupressure as an effective treatment method for urinary incontinence; therefore, further RCTs are required to confirm the effectiveness of acupuncture or acupressure in the treatment of urinary incontinence."
+  ],
+  "affiliation": [
+    "Department of Internal Medicine, College of Korean Medicine, Kyung Hee University, Dongdaemun-gu, Seoul 130-702, Republic of Korea."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Acupuncture",
+        "Leakage",
+        "Urinary incontinence",
+        "Acupressure"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3786848?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3786848"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3892/etm.2013.1210"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2013-10-18"
+  ],
+  "electronicPublicationDate": [
+    "2013-07-09"
+  ],
+  "firstPublicationDate": [
+    "2013-07-09"
+  ]
+}

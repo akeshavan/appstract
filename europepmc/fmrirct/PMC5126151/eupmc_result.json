@@ -1,0 +1,668 @@
+{
+  "id": [
+    "27920978"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27920978"
+  ],
+  "pmcid": [
+    "PMC5126151"
+  ],
+  "doi": [
+    "10.1016/j.nicl.2016.11.012"
+  ],
+  "title": [
+    "Network interactions underlying mirror feedback in stroke: A dynamic causal modeling study."
+  ],
+  "authorString": [
+    "Saleh S, Yarossi M, Manuweera T, Adamovich S, Tunik E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saleh S"
+          ],
+          "firstName": [
+            "Soha"
+          ],
+          "lastName": [
+            "Saleh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Human Performance and Engineering Lab, Kessler Foundation, 1199 Pleasant Valley Way, West Orange, NJ 07052, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Yarossi M"
+          ],
+          "firstName": [
+            "Mathew"
+          ],
+          "lastName": [
+            "Yarossi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Dept. of Rehabilitation and Movement Science, Rutgers University, 65 Bergen Street, Newark, NJ 07101, United States; Graduate School of Biomedical Sciences, Rutgers University, 185 South Orange Avenue, Newark, NJ 07101, United States; Dept. of Biomedical Engineering, NJIT, 323 Dr. Martin Luther King Jr. Boulevard, Newark, NJ 07101, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Manuweera T"
+          ],
+          "firstName": [
+            "Thushini"
+          ],
+          "lastName": [
+            "Manuweera"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Dept. of Rehabilitation and Movement Science, Rutgers University, 65 Bergen Street, Newark, NJ 07101, United States; Graduate School of Biomedical Sciences, Rutgers University, 185 South Orange Avenue, Newark, NJ 07101, United States; Dept. of Biomedical Engineering, NJIT, 323 Dr. Martin Luther King Jr. Boulevard, Newark, NJ 07101, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Adamovich S"
+          ],
+          "firstName": [
+            "Sergei"
+          ],
+          "lastName": [
+            "Adamovich"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Dept. of Rehabilitation and Movement Science, Rutgers University, 65 Bergen Street, Newark, NJ 07101, United States; Graduate School of Biomedical Sciences, Rutgers University, 185 South Orange Avenue, Newark, NJ 07101, United States; Dept. of Biomedical Engineering, NJIT, 323 Dr. Martin Luther King Jr. Boulevard, Newark, NJ 07101, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Tunik E"
+          ],
+          "firstName": [
+            "Eugene"
+          ],
+          "lastName": [
+            "Tunik"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Dept. of Physical Therapy, Movement, and Rehabilitation Science, Northeastern University, 360 Huntington Ave., 301 RB, Boston, MA 02115, United States; Dept. of Bioengineering, Northeastern University, 360 Huntington Ave., Boston, MA 02115, United States; Dept. of Biology, Northeastern University, 360 Huntington Ave., Boston, MA 02115, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2497095"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NeuroImage. Clinical"
+          ],
+          "ISOAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "medlineAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "NLMid": [
+            "101597070"
+          ],
+          "ISSN": [
+            "2213-1582"
+          ],
+          "ESSN": [
+            "2213-1582"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "46-54"
+  ],
+  "abstractText": [
+    "Mirror visual feedback (MVF) is potentially a powerful tool to facilitate recovery of disordered movement and stimulate activation of under-active brain areas due to stroke. The neural mechanisms underlying MVF have therefore been a focus of recent inquiry. Although it is known that sensorimotor areas can be activated via mirror feedback, the network interactions driving this effect remain unknown. The aim of the current study was to fill this gap by using dynamic causal modeling to test the interactions between regions in the frontal and parietal lobes that may be important for modulating the activation of the ipsilesional motor cortex during mirror visual feedback of unaffected hand movement in stroke patients. Our intent was to distinguish between two theoretical neural mechanisms that might mediate ipsilateral activation in response to mirror-feedback: transfer of information between bilateral motor cortices versus recruitment of regions comprising an action observation network which in turn modulate the motor cortex. In an event-related fMRI design, fourteen chronic stroke subjects performed goal-directed finger flexion movements with their unaffected hand while observing real-time visual feedback of the corresponding (veridical) or opposite (mirror) hand in virtual reality. Among 30 plausible network models that were tested, the winning model revealed significant mirror feedback-based modulation of the ipsilesional motor cortex arising from the contralesional parietal cortex, in a region along the rostral extent of the intraparietal sulcus. No winning model was identified for the veridical feedback condition. We discuss our findings in the context of supporting the latter hypothesis, that mirror feedback-based activation of motor cortex may be attributed to engagement of a contralateral (contralesional) action observation network. These findings may have important implications for identifying putative cortical areas, which may be targeted with non-invasive brain stimulation as a means of potentiating the effects of mirror training."
+  ],
+  "affiliation": [
+    "Human Performance and Engineering Lab, Kessler Foundation, 1199 Pleasant Valley Way, West Orange, NJ 07052, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "F31 NS092268"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS085122"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HD058301"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fingers"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychomotor Performance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feedback, Sensory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "fMRI",
+        "Virtual reality",
+        "Motor control",
+        "Dcm",
+        "Visuomotor Integration",
+        "Mirror Feedback"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5126151?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5126151"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2016.11.012"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2016.11.012"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2016.11.012"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2016.11.012"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2016.11.012"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-11-17"
+  ],
+  "dateOfCreation": [
+    "2016-12-07"
+  ],
+  "dateOfRevision": [
+    "2018-04-17"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-21"
+  ],
+  "firstPublicationDate": [
+    "2016-11-21"
+  ]
+}

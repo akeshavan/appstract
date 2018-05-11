@@ -1,0 +1,524 @@
+{
+  "id": [
+    "23589705"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23589705"
+  ],
+  "pmcid": [
+    "PMC3621302"
+  ],
+  "doi": [
+    "10.1155/2013/694146"
+  ],
+  "title": [
+    "Biologic complexity in sickle cell disease: implications for developing targeted therapeutics."
+  ],
+  "authorString": [
+    "Gee BE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gee BE"
+          ],
+          "firstName": [
+            "Beatrice E"
+          ],
+          "lastName": [
+            "Gee"
+          ],
+          "initials": [
+            "BE"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Cardiovascular Research Institute, Morehouse School of Medicine, 720 Westview Drive SW, Atlanta, GA 30310-1495, USA. bgee@msm.edu"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2005226"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "TheScientificWorldJournal"
+          ],
+          "ISOAbbreviation": [
+            "ScientificWorldJournal"
+          ],
+          "medlineAbbreviation": [
+            "ScientificWorldJournal"
+          ],
+          "NLMid": [
+            "101131163"
+          ],
+          "ISSN": [
+            "2356-6140"
+          ],
+          "ESSN": [
+            "1537-744X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "694146"
+  ],
+  "abstractText": [
+    "Current therapy for sickle cell disease (SCD) is limited to supportive treatment of complications, red blood cell transfusions, hydroxyurea, and stem cell transplantation. Difficulty in the translation of mechanistically based therapies may be the result of a reductionist approach focused on individual pathways, without having demonstrated their relative contribution to SCD complications. Many pathophysiologic processes in SCD are likely to interact simultaneously to contribute to acute vaso-occlusion or chronic vasculopathy. Applying concepts of systems biology and network medicine, models were developed to show relationships between the primary defect of sickle hemoglobin (Hb S) polymerization and the outcomes of acute pain and chronic vasculopathy. Pathophysiologic processes such as inflammation and oxidative stress are downstream by-products of Hb S polymerization, transduced through secondary pathways of hemolysis and vaso-occlusion. Pain, a common clinical trials endpoint, is also complex and may be influenced by factors outside of sickle cell polymerization and vascular occlusion. Future sickle cell research needs to better address the biologic complexity of both sickle cell disease and pain. The relevance of individual pathways to important sickle cell outcomes needs to be demonstrated in vivo before investing in expensive and labor-intensive clinical trials."
+  ],
+  "affiliation": [
+    "Department of Pediatrics, Cardiovascular Research Institute, Morehouse School of Medicine, 720 Westview Drive SW, Atlanta, GA 30310-1495, USA. bgee@msm.edu"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, U.S. Gov't, P.H.S.",
+        "research-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "5R01HL095647"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P20 MD006881"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL095647"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S21 MD000101"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 TR000454"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 MD007588"
+          ],
+          "agency": [
+            "NIMHD NIH HHS"
+          ],
+          "acronym": [
+            "MD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U54 RR026137"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 RR025008"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "TL1 TR000456"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anemia, Sickle Cell"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemoglobin, Sickle"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Hemoglobin, Sickle"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3621302?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3621302"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23589705/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23589705/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/694146"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-09-30"
+  ],
+  "dateOfCreation": [
+    "2013-04-16"
+  ],
+  "dateOfRevision": [
+    "2017-11-17"
+  ],
+  "electronicPublicationDate": [
+    "2013-03-25"
+  ],
+  "firstPublicationDate": [
+    "2013-03-25"
+  ]
+}

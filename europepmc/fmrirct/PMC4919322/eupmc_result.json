@@ -1,0 +1,425 @@
+{
+  "id": [
+    "27445739"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27445739"
+  ],
+  "pmcid": [
+    "PMC4919322"
+  ],
+  "doi": [
+    "10.3389/fnhum.2016.00284"
+  ],
+  "title": [
+    "Does a Combination of Virtual Reality, Neuromodulation and Neuroimaging Provide a Comprehensive Platform for Neurorehabilitation? - A Narrative Review of the Literature."
+  ],
+  "authorString": [
+    "Teo WP, Muthalib M, Yamin S, Hendy AM, Bramstedt K, Kotsopoulos E, Perrey S, Ayaz H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Teo WP"
+          ],
+          "firstName": [
+            "Wei-Peng"
+          ],
+          "lastName": [
+            "Teo"
+          ],
+          "initials": [
+            "WP"
+          ],
+          "affiliation": [
+            "Institute for Physical Activity and Nutrition (IPAN), Deakin University, Burwood VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Muthalib M"
+          ],
+          "firstName": [
+            "Makii"
+          ],
+          "lastName": [
+            "Muthalib"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0073-9211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "EuroMov, University of MontpellierMontpellier, France; Cognitive Neuroscience Unit, Deakin University, BurwoodVIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Yamin S"
+          ],
+          "firstName": [
+            "Sami"
+          ],
+          "lastName": [
+            "Yamin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Liminal Pty Ltd., MelbourneVIC, Australia; Adult Mental Health, Monash Health, DandenongVIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Hendy AM"
+          ],
+          "firstName": [
+            "Ashlee M"
+          ],
+          "lastName": [
+            "Hendy"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "School of Exercise and Nutrition Sciences, Deakin University, Burwood VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bramstedt K"
+          ],
+          "firstName": [
+            "Kelly"
+          ],
+          "lastName": [
+            "Bramstedt"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Liminal Pty Ltd., Melbourne VIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Kotsopoulos E"
+          ],
+          "firstName": [
+            "Eleftheria"
+          ],
+          "lastName": [
+            "Kotsopoulos"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Liminal Pty Ltd., MelbourneVIC, Australia; Aged Persons Mental Health Service, Monash Health, CheltenhamVIC, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Perrey S"
+          ],
+          "firstName": [
+            "Stephane"
+          ],
+          "lastName": [
+            "Perrey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "EuroMov, University of Montpellier Montpellier, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Ayaz H"
+          ],
+          "firstName": [
+            "Hasan"
+          ],
+          "lastName": [
+            "Ayaz"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5514-2741",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Biomedical Engineering, Science and Health Systems, Drexel University, PhiladelphiaPA, USA; Department of Family and Community Health, University of Pennsylvania, PhiladelphiaPA, USA; The Division of General Pediatrics, Children's Hospital of Philadelphia, PhiladelphiaPA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5514-2741",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0073-9211",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2378184"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Human Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "284"
+  ],
+  "abstractText": [
+    "In the last decade, virtual reality (VR) training has been used extensively in video games and military training to provide a sense of realism and environmental interaction to its users. More recently, VR training has been explored as a possible adjunct therapy for people with motor and mental health dysfunctions. The concept underlying VR therapy as a treatment for motor and cognitive dysfunction is to improve neuroplasticity of the brain by engaging users in multisensory training. In this review, we discuss the theoretical framework underlying the use of VR as a therapeutic intervention for neurorehabilitation and provide evidence for its use in treating motor and mental disorders such as cerebral palsy, Parkinson's disease, stroke, schizophrenia, anxiety disorders, and other related clinical areas. While this review provides some insights into the efficacy of VR in clinical rehabilitation and its complimentary use with neuroimaging (e.g., fNIRS and EEG) and neuromodulation (e.g., tDCS and rTMS), more research is needed to understand how different clinical conditions are affected by VR therapies (e.g., stimulus presentation, interactivity, control and types of VR). Future studies should consider large, longitudinal randomized controlled trials to determine the true potential of VR therapies in various clinical populations."
+  ],
+  "affiliation": [
+    "Institute for Physical Activity and Nutrition (IPAN), Deakin University, Burwood VIC, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "EEG",
+        "Neuroplasticity",
+        "Neurorehabilitation",
+        "Tdcs",
+        "Fnirs",
+        "Virtual Reality Therapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4919322?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4919322"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2016.00284"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28167909"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Front Hum Neurosci. 2017 Feb 03;11:53"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-22"
+  ],
+  "dateOfCreation": [
+    "2016-07-22"
+  ],
+  "dateOfRevision": [
+    "2017-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-24"
+  ],
+  "firstPublicationDate": [
+    "2016-06-24"
+  ]
+}

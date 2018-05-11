@@ -1,0 +1,576 @@
+{
+  "id": [
+    "24885412"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24885412"
+  ],
+  "pmcid": [
+    "PMC4017705"
+  ],
+  "doi": [
+    "10.1186/1743-0003-11-79"
+  ],
+  "title": [
+    "Non-invasive neuromodulation to improve gait in chronic multiple sclerosis: a randomized double blind controlled pilot trial."
+  ],
+  "authorString": [
+    "Tyler ME, Kaczmarek KA, Rust KL, Subbotin AM, Skinner KL, Danilov YP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tyler ME"
+          ],
+          "firstName": [
+            "Mitchell E"
+          ],
+          "lastName": [
+            "Tyler"
+          ],
+          "initials": [
+            "ME"
+          ]
+        },
+        {
+          "fullName": [
+            "Kaczmarek KA"
+          ],
+          "firstName": [
+            "Kurt A"
+          ],
+          "lastName": [
+            "Kaczmarek"
+          ],
+          "initials": [
+            "KA"
+          ]
+        },
+        {
+          "fullName": [
+            "Rust KL"
+          ],
+          "firstName": [
+            "Kathy L"
+          ],
+          "lastName": [
+            "Rust"
+          ],
+          "initials": [
+            "KL"
+          ]
+        },
+        {
+          "fullName": [
+            "Subbotin AM"
+          ],
+          "firstName": [
+            "Alla M"
+          ],
+          "lastName": [
+            "Subbotin"
+          ],
+          "initials": [
+            "AM"
+          ]
+        },
+        {
+          "fullName": [
+            "Skinner KL"
+          ],
+          "firstName": [
+            "Kimberly L"
+          ],
+          "lastName": [
+            "Skinner"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, University of Wisconsin, Madison, WI 53706, USA. kzskinner@wisc.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Danilov YP"
+          ],
+          "firstName": [
+            "Yuri P"
+          ],
+          "lastName": [
+            "Danilov"
+          ],
+          "initials": [
+            "YP"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2146868"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neuroengineering and rehabilitation"
+          ],
+          "ISOAbbreviation": [
+            "J Neuroeng Rehabil"
+          ],
+          "medlineAbbreviation": [
+            "J Neuroeng Rehabil"
+          ],
+          "NLMid": [
+            "101232233"
+          ],
+          "ISSN": [
+            "1743-0003"
+          ],
+          "ESSN": [
+            "1743-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "79"
+  ],
+  "abstractText": [
+    "BACKGROUND: This study sought to examine the effect of targeted physical therapy with and without cranial nerve non-invasive neuromodulation (CN-NINM), on the walking ability of people with MS who exhibited a dysfunctional gait. We hypothesized that subjects who received electrical stimulation would have greater improvement than those who had a control device after a 14-week intervention. Gait disturbance is a common problem for people with multiple sclerosis (MS). Current management may include exercise, pharmacology, functional electrical stimulation, compensatory strategies, use of assistive devices, and implanted electrical devices. We have developed an effective rehabilitative strategy using neuromodulation of the cranial nerves via electrical stimulation of the tongue to enhance the plasticity of the brain. METHODS: The study is a within-subject blinded randomized control design. Twenty chronic MS subjects with an identified gait disturbance were assigned to either an active or control group. Both groups completed a 14-week intervention program using a standardized combination of exercise and a device that provided electrical stimulation to the tongue. Those in the active group received electrical stimulation on the tongue that they could perceive. Those in the control group used a device that did not provide a physiologically significant stimulus and was not perceivable. Subjects were assessed with the Dynamic Gait Index (DGI). RESULTS: The DGI scores improved for both groups. There were significant between-group differences, with the active group showing statistically greater improvement than the control group mean. CONCLUSION: People with MS demonstrated improved gait with CN-NINM training in a pilot randomized controlled trial. This study suggests that tongue-based neurostimulation may amplify the benefits of exercise for improving gait in people with chronic MS."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Tongue"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Multiple Sclerosis"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gait Disorders, Neurologic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gait"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electric Stimulation Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4017705?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4017705"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24885412/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24885412/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1743-0003-11-79"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-08-22"
+  ],
+  "dateOfCreation": [
+    "2014-06-04"
+  ],
+  "electronicPublicationDate": [
+    "2014-05-01"
+  ],
+  "firstPublicationDate": [
+    "2014-05-01"
+  ]
+}

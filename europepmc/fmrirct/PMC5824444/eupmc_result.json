@@ -1,0 +1,477 @@
+{
+  "id": [
+    "29475446"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29475446"
+  ],
+  "pmcid": [
+    "PMC5824444"
+  ],
+  "doi": [
+    "10.1186/s12937-018-0328-z"
+  ],
+  "title": [
+    "The effects of fatty fish intake on adolescents' nutritional status and associations with attention performance: results from the FINS-TEENS randomized controlled trial."
+  ],
+  "authorString": [
+    "Handeland K, Skotheim S, Baste V, Graff IE, Frøyland L, Lie Ø, Kjellevold M, Markhus MW, Stormark KM, Øyen J, Dahl L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Handeland K"
+          ],
+          "firstName": [
+            "Katina"
+          ],
+          "lastName": [
+            "Handeland"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7613-3489",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway. katina.handeland@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Skotheim S"
+          ],
+          "firstName": [
+            "Siv"
+          ],
+          "lastName": [
+            "Skotheim"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Regional Centre for Child and Youth Mental Health, Uni Research Health, P.O. Box 7810, 5020, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Baste V"
+          ],
+          "firstName": [
+            "Valborg"
+          ],
+          "lastName": [
+            "Baste"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Present Address: Uni Research Health, P.O. Box 7810, 5020, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Graff IE"
+          ],
+          "firstName": [
+            "Ingvild E"
+          ],
+          "lastName": [
+            "Graff"
+          ],
+          "initials": [
+            "IE"
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Frøyland L"
+          ],
+          "firstName": [
+            "Livar"
+          ],
+          "lastName": [
+            "Frøyland"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Lie Ø"
+          ],
+          "firstName": [
+            "Øyvind"
+          ],
+          "lastName": [
+            "Lie"
+          ],
+          "initials": [
+            "Ø"
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Kjellevold M"
+          ],
+          "firstName": [
+            "Marian"
+          ],
+          "lastName": [
+            "Kjellevold"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Markhus MW"
+          ],
+          "firstName": [
+            "Maria W"
+          ],
+          "lastName": [
+            "Markhus"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Stormark KM"
+          ],
+          "firstName": [
+            "Kjell M"
+          ],
+          "lastName": [
+            "Stormark"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Regional Centre for Child and Youth Mental Health, Uni Research Health, P.O. Box 7810, 5020, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Øyen J"
+          ],
+          "firstName": [
+            "Jannike"
+          ],
+          "lastName": [
+            "Øyen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5590-5136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Dahl L"
+          ],
+          "firstName": [
+            "Lisbeth"
+          ],
+          "lastName": [
+            "Dahl"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5590-5136",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7613-3489",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2650251"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nutrition journal"
+          ],
+          "ISOAbbreviation": [
+            "Nutr J"
+          ],
+          "medlineAbbreviation": [
+            "Nutr J"
+          ],
+          "NLMid": [
+            "101152213"
+          ],
+          "ISSN": [
+            "1475-2891"
+          ],
+          "ESSN": [
+            "1475-2891"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "30"
+  ],
+  "abstractText": [
+    "Adolescence involves changes in dietary habits that may induce imbalances in the intake of different nutrients. Fish is an important dietary source of omega-3 (n-3) long-chain polyunsaturated fatty acids (LCPUFAs), vitamin D, several minerals and high-quality protein. By using secondary outcomes and exploratory analyses, the aims of this paper were to evaluate if nutritional biomarkers (red blood cell fatty acids, serum (s)-25(OH)D, s-ferritin and urinary iodine concentration (UIC)) were altered during a dietary intervention, and if they mediated previously reported changes in attention performance. In addition, to examine the status of the biomarkers and explore associations between dietary pattern, biomarkers and attention performance cross-sectionally at baseline.The Fish Intervention Studies-TEENS (FINS-TEENS) was a three-armed intervention trial, including adolescents from eight secondary schools (n = 415; age: 14-15y) in Bergen, Norway. Participants were individually randomized to receive either fish meals, meat meals or n-3 LCPUFA supplements, three times a week for a total of 12 weeks. Blood and urine samples were collected pre and post intervention and attention performance was assessed with the d2 test of attention. Analyses of covariance (ANCOVA) assessed differences between groups in changes of biomarkers and linear mixed models were applied in analyses of attention performance and biomarkers. The trial is registered in ClinicalTrials.gov (NCT02350322).At baseline, the mean omega-3 index was 5.8 ± 1.3% and deficient status were identified for s-25(OH)D (54%), s-ferritin (10%) and UIC (40%). The intervention resulted in an increase in DHA and the omega-3 index which was larger in the supplement group compared to the fish and meat group (P < 0.01), and in the fish group compared to the meat group (P < 0.01). No differences between the groups were observed for changes in 25(OH)D, s-ferritin or UIC. None of the biomarkers mediated performance in the d2 test. The intake of fatty fish and a healthy dietary pattern was associated with scores in processing speed at baseline.These results show that Norwegian adolescents have insufficient status of important nutrients, which may be improved with fatty fish consumption or n-3 LCPUFA supplements. However, nutritional status was not associated with scores in the d2 test of attention."
+  ],
+  "affiliation": [
+    "Institute of Marine Research (IMR), P.O. Box 1870 Nordnes, 5817, Bergen, Norway. katina.handeland@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "900842"
+          ],
+          "agency": [
+            "The Norwegian Seafood Research Fund (FHF)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Iron",
+        "Vitamin D",
+        "Iodine",
+        "Dietary Intervention",
+        "Fatty Fish",
+        "N-3 Lcpufa",
+        "Healthy Adolescents"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5824444?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5824444"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12937-018-0328-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-02-25"
+  ],
+  "dateOfRevision": [
+    "2018-03-01"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-23"
+  ],
+  "firstPublicationDate": [
+    "2018-02-23"
+  ]
+}

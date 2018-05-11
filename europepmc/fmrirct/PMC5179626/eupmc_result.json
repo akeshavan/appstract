@@ -1,0 +1,248 @@
+{
+  "id": [
+    "28031623"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28031623"
+  ],
+  "pmcid": [
+    "PMC5179626"
+  ],
+  "doi": [
+    "10.4103/0973-1229.193079"
+  ],
+  "title": [
+    "Neural Implications of Psychotherapy, Pharmacotherapy, and Combined Treatment in Major Depressive Disorder."
+  ],
+  "authorString": [
+    "Schwartz TL, Santarsieri D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schwartz TL"
+          ],
+          "firstName": [
+            "Thomas L"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "affiliation": [
+            "MD. Professor and Vice Chair of Psychiatry, and Director of Medical Student Psychiatric Education at SUNY Upstate Medical University. Syracuse, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Santarsieri D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Santarsieri"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "B.S., Medical Student at the State University of New York (SUNY) Upstate Medical University in Syracuse, New York, USA E-mail: SantarsD@upstate.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2509101"
+      ],
+      "dateOfPublication": [
+        "2016 Jan-Dec"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Mens sana monographs"
+          ],
+          "ISOAbbreviation": [
+            "Mens Sana Monogr"
+          ],
+          "medlineAbbreviation": [
+            "Mens Sana Monogr"
+          ],
+          "NLMid": [
+            "101506580"
+          ],
+          "ISSN": [
+            "0973-1229"
+          ],
+          "ESSN": [
+            "1998-4014"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "30-45"
+  ],
+  "abstractText": [
+    "Numerous clinical trials have been conducted to determine the utility of antidepressant treatment (ADT), psychotherapy, and combined psycho-pharmaco-psychotherapy (PPPT) in treating major depressive disorder (MDD). While all approaches have shown benefit over placebo to varying degrees, the parallel neurophysiological mechanisms that underlie their efficacy have received little attention. The authors will review and discuss a growing body of literature that relates the factors of treatment selection and response to the principles of neuromodulation, with emphasis regarding how neuroimaging and other experimental data reinforce the need for personalized MDD treatment. This manuscript and its theoretical approaches were supported by conducting relevant literature searches of MEDLINE and PubMed electronic databases, prioritizing systemic reviews, and randomized clinical trials using selected MeSH terms. The authors conclude that ADT, psychotherapy, and PPPT all create potentially observable neurofunctional changes and argue that additive and synergistic potentiation of these effects in PPPT may produce more sustained symptom relief than with monotherapy alone."
+  ],
+  "affiliation": [
+    "MD. Professor and Vice Chair of Psychiatry, and Director of Medical Student Psychiatric Education at SUNY Upstate Medical University. Syracuse, NY, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Combination",
+        "efficacy",
+        "Pharmacotherapy",
+        "Major Depressive Disorder",
+        "psychotherapy",
+        "Attention Deficit Hyperactivity",
+        "Psycho-pharmaco-psychotherapy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5179626"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0973-1229.193079"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-12-29"
+  ],
+  "dateOfRevision": [
+    "2017-02-24"
+  ],
+  "firstPublicationDate": [
+    "2016-01-01"
+  ]
+}

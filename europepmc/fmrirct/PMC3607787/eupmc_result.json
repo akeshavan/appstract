@@ -1,0 +1,301 @@
+{
+  "id": [
+    "23532374"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23532374"
+  ],
+  "pmcid": [
+    "PMC3607787"
+  ],
+  "doi": [
+    "10.3389/fnint.2013.00016"
+  ],
+  "title": [
+    "Meta review of systematic and meta analytic reviews on movement differences, effect of movement based interventions, and the underlying neural mechanisms in autism spectrum disorder."
+  ],
+  "authorString": [
+    "Miyahara M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Miyahara M"
+          ],
+          "firstName": [
+            "Motohide"
+          ],
+          "lastName": [
+            "Miyahara"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8096-4341",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Movement Development Clinic, School of Physical Education, University of Otago Dunedin, New Zealand."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8096-4341",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004143"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in integrative neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Integr Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Integr Neurosci"
+          ],
+          "NLMid": [
+            "101477950"
+          ],
+          "ISSN": [
+            "1662-5145"
+          ],
+          "ESSN": [
+            "1662-5145"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "16"
+  ],
+  "abstractText": [
+    "PURPOSES: To identify and appraise evidence from published systematic and meta analytic reviews on (1) movement differences of individuals with autism spectrum disorders (ASD); (2) the effects of movement based interventions for ASD; (3) hypothesized underlying neural mechanisms for the movement characteristics. METHODS: A meta review of published systematic and meta analytic reviews on movement differences, structural, and functional brain anomalies in ASD and the effects of movement based interventions for individuals with ASD between 1806 and October 2012. The methodological quality of the identified systematic and meta analytic reviews was independently assessed by two assessors with the assessment of multiple systematic reviews (AMSTAR). RESULTS: The search yielded a total of 12 reviews that met the inclusion/exclusion criteria. The methodological quality of the reviews varied, but the review conclusions were similar. Although individuals with ASD generally perform less well than age-matched controls in developmental movement tasks, there are few exceptions whose movement abilities are intact. Most movement based interventions report their efficacies. However, all existing studies employ the research design that is inherently incapable of providing strong evidence, and they often fail to report the extent of psychosocial interactions within the movement interventions. The hypothesized neural mechanisms are still under development and speculative in nature. CONCLUSIONS: It is premature to designate movement disturbance as a core symptom of ASD. The effects of movement based interventions on the present ASD core symptoms need to be further validated by stronger evidence and verified theoretical mechanisms linking ASD with movement disorders."
+  ],
+  "affiliation": [
+    "Movement Development Clinic, School of Physical Education, University of Otago Dunedin, New Zealand."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Movement",
+        "Motor development",
+        "Autism",
+        "Developmental Coordination Disorder",
+        "Mri And Fmri"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3607787?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3607787"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23532374/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23532374/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnint.2013.00016"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-03-28"
+  ],
+  "dateOfCreation": [
+    "2013-03-27"
+  ],
+  "dateOfRevision": [
+    "2014-07-31"
+  ],
+  "electronicPublicationDate": [
+    "2013-03-26"
+  ],
+  "firstPublicationDate": [
+    "2013-03-26"
+  ]
+}

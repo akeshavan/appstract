@@ -1,0 +1,421 @@
+{
+  "id": [
+    "26808519"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26808519"
+  ],
+  "pmcid": [
+    "PMC4726793"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0147357"
+  ],
+  "title": [
+    "Psychosocial Intervention Is Associated with Altered Emotion Processing: An Event-Related Potential Study in At-Risk Adolescents."
+  ],
+  "authorString": [
+    "Pincham HL, Bryce D, Kokorikou D, Fonagy P, Fearon RM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pincham HL"
+          ],
+          "firstName": [
+            "Hannah L"
+          ],
+          "lastName": [
+            "Pincham"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "Research Department of Clinical, Educational and Health Psychology, University College London, 1-19 Torrington Place, London, United Kingdom, WC1E 7HB."
+          ]
+        },
+        {
+          "fullName": [
+            "Bryce D"
+          ],
+          "firstName": [
+            "Donna"
+          ],
+          "lastName": [
+            "Bryce"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Tübingen, Schleichstrasse 4, 72076, Tubingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kokorikou D"
+          ],
+          "firstName": [
+            "Danae"
+          ],
+          "lastName": [
+            "Kokorikou"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Developmental Neuroscience Unit, The Anna Freud Centre, 12 Maresfield Gardens, London, United Kingdom, NW3 5SU."
+          ]
+        },
+        {
+          "fullName": [
+            "Fonagy P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Fonagy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Research Department of Clinical, Educational and Health Psychology, University College London, 1-19 Torrington Place, London, United Kingdom, WC1E 7HB."
+          ]
+        },
+        {
+          "fullName": [
+            "Fearon RM"
+          ],
+          "firstName": [
+            "R M Pasco"
+          ],
+          "lastName": [
+            "Fearon"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1847-8443",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Department of Clinical, Educational and Health Psychology, University College London, 1-19 Torrington Place, London, United Kingdom, WC1E 7HB."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1847-8443",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2358464"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e0147357"
+  ],
+  "abstractText": [
+    "Emotion processing is vital for healthy adolescent development, and impaired emotional responses are associated with a number of psychiatric disorders. However, it is unclear whether observed differences between psychiatric populations and healthy controls reflect modifiable variations in functioning (and thus could be sensitive to changes resulting from intervention) or stable, non-modifiable, individual differences. The current study therefore investigated whether the Late Positive Potential (LPP; a neural index of emotion processing) can be used as a marker of therapeutic change following psycho-social intervention. At-risk male adolescents who had received less than four months intervention (minimal-intervention, N = 32) or more than nine months intervention (extended-intervention, N = 32) passively viewed emotional images whilst neural activity was recorded using electroencephalography. Significant differences in emotion processing, indicated by the LPP, were found between the two groups: the LPP did not differ according to valence in the minimal-intervention group, whereas the extended-intervention participants showed emotion processing in line with low risk populations (enhanced LPP for unpleasant images versus other images). Further, an inverse relationship between emotional reactivity (measured via the LPP) and antisocial behaviour was observed in minimal-intervention participants only. The data therefore provide preliminary cross-sectional evidence that abnormal neural responses to emotional information may be normalised following psychosocial intervention. Importantly, this study uniquely suggests that, in future randomised control trials, the LPP may be a useful biomarker to measure development and therapeutic change."
+  ],
+  "affiliation": [
+    "Research Department of Clinical, Educational and Health Psychology, University College London, 1-19 Torrington Place, London, United Kingdom, WC1E 7HB."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NF-SI-0514-10157"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Emotions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evoked Potentials"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4726793?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4726793"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0147357"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-08"
+  ],
+  "dateOfCreation": [
+    "2016-01-26"
+  ],
+  "dateOfRevision": [
+    "2016-02-04"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-25"
+  ],
+  "firstPublicationDate": [
+    "2016-01-25"
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "id": [
+    "27809791"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27809791"
+  ],
+  "pmcid": [
+    "PMC5093943"
+  ],
+  "doi": [
+    "10.1186/s12883-016-0731-z"
+  ],
+  "title": [
+    "The Parkin'Play study: protocol of a phase II randomized controlled trial to assess the effects of a health game on cognition in Parkinson's disease."
+  ],
+  "authorString": [
+    "van de Weijer SC, Duits AA, Bloem BR, Kessels RP, Jansen JF, Köhler S, Tissingh G, Kuijf ML."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van de Weijer SC"
+          ],
+          "firstName": [
+            "Sjors C F"
+          ],
+          "lastName": [
+            "van de Weijer"
+          ],
+          "initials": [
+            "SC"
+          ],
+          "affiliation": [
+            "Department of Neurology, Maastricht University Medical Center, Maastricht UMC+, P.O. Box 5800, 6202 AZ, Maastricht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Duits AA"
+          ],
+          "firstName": [
+            "Annelien A"
+          ],
+          "lastName": [
+            "Duits"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychology, Maastricht University Medical Center, Maastricht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloem BR"
+          ],
+          "firstName": [
+            "Bastiaan R"
+          ],
+          "lastName": [
+            "Bloem"
+          ],
+          "initials": [
+            "BR"
+          ],
+          "affiliation": [
+            "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kessels RP"
+          ],
+          "firstName": [
+            "Roy P"
+          ],
+          "lastName": [
+            "Kessels"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "affiliation": [
+            "Donders Institute for Brain, Cognition and Behaviour, Radboud University, Nijmegen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Jansen JF"
+          ],
+          "firstName": [
+            "Jacobus F A"
+          ],
+          "lastName": [
+            "Jansen"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "School for Mental Health and Neuroscience, Maastricht University, Maastricht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Köhler S"
+          ],
+          "firstName": [
+            "Sebastian"
+          ],
+          "lastName": [
+            "Köhler"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School for Mental Health and Neuroscience, Maastricht University, Maastricht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Tissingh G"
+          ],
+          "firstName": [
+            "Gerrit"
+          ],
+          "lastName": [
+            "Tissingh"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Neurology, Zuyderland Medical Center, Heerlen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuijf ML"
+          ],
+          "firstName": [
+            "Mark L"
+          ],
+          "lastName": [
+            "Kuijf"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Department of Neurology, Maastricht University Medical Center, Maastricht UMC+, P.O. Box 5800, 6202 AZ, Maastricht, The Netherlands. mark.kuijf@mumc.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2485645"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "209"
+  ],
+  "abstractText": [
+    "In Parkinson's disease (PD), cognitive impairment is an important non-motor symptom heralding the development of dementia. Effective treatments to slow down the rate of cognitive decline in PD patients with mild cognitive impairment are lacking. Here, we describe the design of the Parkin'Play study, which assesses the effects of a cognitive health game intervention on cognition in PD.This study is a multicentre, phase-II, open-randomized clinical trial that aims to recruit 222 PD patients with mild cognitive impairment. Eligible patients have PD, Hoehn & Yahr stages I-III, are aged between 40 and 75 years, and have cognitive impairment but no dementia. The intervention group (n = 111) will be trained using a web-based health game targeting multiple cognitive domains. The control group (n = 111) will be placed on a waiting list. In order to increase compliance the health game adapts to the subjects' performance, is enjoyable, and can be played at home. From each group, 20 patients will undergo fMRI to test for potential functional brain changes underlying treatment. The primary outcome after 12 weeks of training is cognitive function, as assessed by a standard neuropsychological assessment battery and an online cognitive assessment. The neuropsychological assessment battery covers the following domains: executive function, memory, visual perception, visuoconstruction and language. A compound score for overall cognitive function will be calculated as the mean score of all test Z-scores based on the distribution of scores for both groups taken together. Secondary outcomes at follow-up visits up to 24 weeks include various motor and non-motor symptoms, compliance, and biological endpoints (fMRI).This study aims at evaluating whether a cognitive intervention among PD patients leads to an increased cognitive performance on targeted domains. Strengths of this study are a unique web-based health game intervention, the large sample size, a control group without intervention and innovations designed to increase compliance.NTR5637 on 7-jan-2016."
+  ],
+  "affiliation": [
+    "Department of Neurology, Maastricht University Medical Center, Maastricht UMC+, P.O. Box 5800, 6202 AZ, Maastricht, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Clinical Trial, Phase II",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parkinson Disease"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Language"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Visual Perception"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Video Games"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Executive Function"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Parkinson disease",
+        "Rct",
+        "Cognitive Functions",
+        "Mild Cognitive Impairment",
+        "Health Game"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5093943?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5093943"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-016-0731-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-12-22"
+  ],
+  "dateOfCreation": [
+    "2016-11-04"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-03"
+  ],
+  "firstPublicationDate": [
+    "2016-11-03"
+  ]
+}

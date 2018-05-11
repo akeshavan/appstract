@@ -1,0 +1,810 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000Research</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4890313</article-id><article-id pub-id-type="doi">10.12688/f1000research.7586.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject><subj-group><subject>Developmental &#x00026; Pediatric Neurology</subject></subj-group><subj-group><subject>Motor Systems</subject></subj-group><subj-group><subject>Neurobiology of Disease &#x00026; Regeneration</subject></subj-group><subj-group><subject>Neurological Problems in Critical Care</subject></subj-group><subj-group><subject>Neurorehabilitation &#x00026; CNS Trauma</subject></subj-group><subj-group><subject>Stem Cells &#x00026; Regeneration</subject></subj-group></subj-group></article-categories><title-group><article-title>Recent advances in managing a spinal cord injury secondary to trauma</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 2 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Ahuja</surname><given-names>Christopher S.</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Martin</surname><given-names>Allan R.</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Fehlings</surname><given-names>Michael</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref><xref ref-type="aff" rid="a3">3</xref><xref ref-type="aff" rid="a4">4</xref><xref ref-type="aff" rid="a5">5</xref><xref ref-type="aff" rid="a6">6</xref></contrib><aff id="a1">
+<label>1</label>Division of Neurosurgery, Department of Surgery, University of Toronto, Toronto, Ontario, Canada</aff><aff id="a2">
+<label>2</label>Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada</aff><aff id="a3">
+<label>3</label>McEwen Centre for Regenerative Medicine, UHN, University of Toronto, Toronto, Ontario, Canada</aff><aff id="a4">
+<label>4</label>Department of Surgery, University of Toronto, Toronto, Ontario, Canada</aff><aff id="a5">
+<label>5</label>Spine Program, University of Toronto, Toronto, Ontario, Canada</aff><aff id="a6">
+<label>6</label>McLaughlin Center in Molecular Medicine, University of Toronto, Toronto, Ontario, Canada</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:michael.fehlings@uhn.on.ca">michael.fehlings@uhn.on.ca</email></corresp><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>Michael Fehlings is an investigator in the Stem Cells Inc. trial mentioned in this article. The authors have no other conflicts or potential conflicts to disclose.</p></fn></author-notes><pub-date pub-type="epub"><day>27</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>5</volume><elocation-id>F1000 Faculty Rev-1017</elocation-id><history><date date-type="accepted"><day>23</day><month>5</month><year>2016</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2016 Ahuja CS et al.</copyright-statement><copyright-year>2016</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-5-8169.pdf"/><abstract><p>Traumatic spinal cord injuries (SCIs) affect 1.3 million North Americans, producing devastating physical, social, and vocational impairment. Pathophysiologically, the initial mechanical trauma is followed by a significant secondary injury which includes local ischemia, pro-apoptotic signaling, release of cytotoxic factors, and inflammatory cell infiltration. Expedient delivery of medical and surgical care during this critical period can improve long-term functional outcomes, engendering the concept of &#x0201c;Time is Spine&#x0201d;. We emphasize the importance of expeditious care while outlining the initial clinical and radiographic assessment of patients. Key evidence-based early interventions (surgical decompression, blood pressure augmentation, and methylprednisolone) are also reviewed, including findings of the landmark Surgical Timing in Acute Spinal Cord Injury Study (STASCIS). We then describe other neuroprotective approaches on the edge of translation such as the sodium-channel blocker riluzole, the anti-inflammatory minocycline, and therapeutic hypothermia. We also review promising neuroregenerative therapies that are likely to influence management practices over the next decade including chondroitinase, Rho-ROCK pathway inhibition, and bioengineered strategies. The importance of emerging neural stem cell therapies to remyelinate denuded axons and regenerate neural circuits is also discussed. Finally, we outline future directions for research and patient care.</p></abstract><kwd-group kwd-group-type="author"><kwd>Spinal cord injury</kwd><kwd>trauma</kwd><kwd>MRI</kwd><kwd>imaging</kwd><kwd>stem cell</kwd><kwd>neuroprotection</kwd><kwd>neuroregeneration</kwd></kwd-group><funding-group><funding-statement>The author(s) declared that no grants were involved in supporting this work.</funding-statement></funding-group></article-meta><notes><sec sec-type="editor-note"><title>Editorial Note on the Review Process</title><p>
+<ext-link ext-link-type="uri" xlink:href="http://f1000research.com/channels/f1000-faculty-reviews/about-this-channel">F1000 Faculty Reviews</ext-link> are commissioned from members of the prestigious
+<ext-link ext-link-type="uri" xlink:href="http://f1000.com/prime/thefaculty">F1000 Faculty</ext-link> and are edited as a service to readers. In order to make these reviews as comprehensive and accessible as possible, the referees provide input before publication and only the final, revised version is published. The referees who approved the final version are listed with their names and affiliations but without their reports on earlier versions (any comments will already have been addressed in the published version).</p><p>The referees who approved this article are: </p><list list-type="simple" list-content="reviewer-list"><list-item><p>
+<named-content content-type="reviewer-name">Angela Gall</named-content>, London Spinal Cord Injury Centre, Royal National Orthopaedic Hospital, Stanmore, Middlesex, HA74LP, UK
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item><list-item><p>
+<named-content content-type="reviewer-name">Lorne Mendell</named-content>, Department of Neurobiology &#x00026; Behavior, Stony Brook University, Stony Brook, NY, 11794, USA
+<fn fn-type="COI-statement"><p>No competing interests were disclosed.</p></fn>
+</p></list-item></list></sec></notes></front><body><sec sec-type="intro"><title>Introduction</title><p>Traumatic spinal cord injuries (SCIs) have devastating consequences for patients and families. Direct lifetime costs can be as high as $1.1&#x02013;$4.6 million per patient, with over 1.3 million patients affected in North America alone
+<sup><xref rid="ref-1" ref-type="bibr">1</xref>,
+<xref rid="ref-2" ref-type="bibr">2</xref></sup>. Expedient delivery of specialized medical and surgical care can improve long-term functional outcomes for patients
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-4" ref-type="bibr">4</xref></sup>. The rapidly evolving management of patients with SCI is summarized here with emphasis on evidence-based current practices and upcoming therapies in trial.</p></sec><sec><title>Pathophysiology</title><p>The initial primary trauma results in mechanical injury to cells, damages the sensitive microvasculature of the cord, and causes hemorrhage. Pro-apoptotic signaling is initiated and progressive edema contributes to ongoing ischemia
+<sup><xref rid="ref-5" ref-type="bibr">5</xref>,
+<xref rid="ref-6" ref-type="bibr">6</xref></sup>. Furthermore, the blood-spinal cord barrier is disrupted, permitting an influx of vasoactive peptides, cytokines, and inflammatory cells
+<sup><xref rid="ref-7" ref-type="bibr">7</xref>,
+<xref rid="ref-8" ref-type="bibr">8</xref></sup>. Over the ensuing hours to days, by-products of cellular necrosis are released (ATP, DNA, and K
+<sup>+</sup>), creating a cytotoxic post-injury milieu and activating microglia to further recruit phagocytes. Macrophages and polymorphonuclear leukocytes infiltrate and generate oxygen free radicals and other cytotoxic by-products. Excess glutamate release and failure of reuptake by astrocytes results in excitotoxicity for adjacent neurons
+<sup><xref rid="ref-9" ref-type="bibr">9</xref>,
+<xref rid="ref-10" ref-type="bibr">10</xref></sup>. Please see
+<xref ref-type="fig" rid="f1">Figure 1</xref>.</p><fig fig-type="figure" id="f1" orientation="portrait" position="float"><label>Figure 1. </label><caption><p>&#x0201c;(
+<bold>A</bold>) Primary and secondary mechanisms of injury determining the final extent of spinal cord damage. The primary injury event starts a pathobiological cascade of secondary injury mechanisms that unfold in different phases within seconds of the primary trauma and continuing for several weeks thereafter. (
+<bold>B</bold>) Longitudinal section of the spinal cord after injury. The epicenter of the injury progressively expands after the primary trauma as a consequence of secondary injury events. This expansion causes an increased region of tissue cavitation and, ultimately, worsened long-term outcomes. Within and adjacent to the injury epicenter are severed and demyelinated axons. The neuroprotective agents listed act to subvert specific secondary injuries and prevent neural damage, while the neuroregenerative agents act to promote axonal regrowth once damage has occurred. ATP = adenosine triphosphate.&#x0201d; Reprinted with permission from Wilson J, Forgione N, Fehlings MG. Emerging therapies for acute traumatic spinal cord injury.
+<italic>CMAJ</italic>. 2012; 185(6): 485
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>.</p></caption><graphic xlink:href="f1000research-5-8169-g0000"/></fig><p>As the parenchymal volume is lost, cystic cavities coalesce, creating a physical barrier to cell migration
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>. Furthermore, the lack of structural framework impedes regenerative attempts. Over time, astrocytes proliferate and surround the perilesional zone, creating an irregular mesh-like barrier of interwoven cell processes
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. This is accompanied by fibroblast deposition of chondroitin sulfate proteoglycans (CSPGs) including neural/glial antigen 2 (NG2) and tenascin
+<sup><xref rid="ref-13" ref-type="bibr">13</xref>&#x02013;
+<xref rid="ref-16" ref-type="bibr">16</xref></sup>. CSPGs and myelin glycoproteins act via the Rho-ROCK (rho-associated protein kinase) pathway to inhibit neurite outgrowth by signaling growth cone collapse through effector kinases
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>. Together, these mechanisms severely restrict endogenous neural circuit regeneration and oligodendrocyte remyelination at a cellular level.</p><p>Systemically, cervical and thoracic cord injuries can interrupt the sympathetic output of the intermediolateral column, causing neurogenic shock with loss of peripheral vascular tone and bradycardia
+<sup><xref rid="ref-18" ref-type="bibr">18</xref></sup>. The result can be profound hypotension, which further exacerbates cord ischemia
+<sup><xref rid="ref-19" ref-type="bibr">19</xref></sup>. Paralysis of the intercostal and abdominal muscles restricts the inspiratory phase of ventilation, leading to hypercarbia and/or hypoxia. Furthermore, a weakened cough, poor mobilization, and secondary immunodeficiency (immune paralysis) after SCI make patients highly susceptible to life-threatening infections
+<sup><xref rid="ref-20" ref-type="bibr">20</xref>,
+<xref rid="ref-21" ref-type="bibr">21</xref></sup>.</p><p>There is currently a lack of consensus on the optimal approach to several areas of SCI diagnosis and treatment, in part owing to heterogeneity in injuries (cervical versus thoracic, complete versus incomplete) but also owing to conflicting interpretations of the literature. As discussed below, early recognition and appropriate triage of patients are critical first-line components of care; however, the choice of imaging modalities for diagnosis and prognostication remains unclear
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>. Care is largely supportive, but the long-term importance of early surgical decompression (&#x0003c;24 hours)
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-23" ref-type="bibr">23</xref>,
+<xref rid="ref-24" ref-type="bibr">24</xref></sup>, blood pressure augmentation (mean arterial pressure [MAP] &#x02265;85 mmHg)
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>, and selective use of methylprednisolone (MPSS)
+<sup><xref rid="ref-25" ref-type="bibr">25</xref>&#x02013;
+<xref rid="ref-28" ref-type="bibr">28</xref></sup> is increasingly being recognized. Even under ideal circumstances, recovery of lost function is patient dependent and largely determined by their clinical status at 1&#x02013;2 years post-injury. Below we summarize the current standards of care and discuss recent advances in the diagnosis, neuroprotection, prognostication, and regeneration for patients with SCI.</p></sec><sec><title>Current care</title><p>The first-line care of a patient with SCI involves securing the airway, breathing, and circulation followed by appropriate spinal immobilization in the field to limit further insult of the highly susceptible cord during transport
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>. Recognition and appropriate triage of SCI patients is critical in the early period to ensure timely delivery of interventions at specialized centers
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>. While maintaining spinal immobilization, airway and breathing management can range from supplemental oxygen to intubation and ventilation. At any point during the acute injury, systemic hypotension (systolic blood pressure [SBP] &#x0003c;90 mmHg) is associated with worse neurologic outcomes
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>. With a profound loss of vascular tone and potential bradycardia, patients can rapidly fall into neurogenic shock. Large-volume intravenous (IV) fluid therapy (most often crystalloids) is the mainstay of treatment; however, adjunctive alpha-adrenergic vasopressors (e.g. norepinephrine and phenylephrine) may also be used to temporize patients. As soon as the patient is resuscitated, an American Spinal Injury Association (ASIA) International Standards for Neurological Classification of SCI (ISNCSCI) examination should be completed to establish the level of injury and baseline function
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>.</p><p>Early imaging to localize and classify the injury is critical to expeditiously manage patients and provide the outcome-altering early interventions discussed below
+<sup><xref rid="ref-3" ref-type="bibr">3</xref>,
+<xref rid="ref-4" ref-type="bibr">4</xref>,
+<xref rid="ref-23" ref-type="bibr">23</xref>,
+<xref rid="ref-24" ref-type="bibr">24</xref></sup>. CT is recommended in all patients, as plain radiographs can miss 6% of injuries
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>. In those with cervical injuries and high-energy mechanisms, imaging of the thoracolumbar spine is also recommended to detect concomitant injuries
+<sup><xref rid="ref-30" ref-type="bibr">30</xref></sup>. Magnetic resonance imaging (MRI) can be useful to assess ligamentous injury, critical disc herniations, and epidural hematomas and enhance prognostication of outcomes
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>; however, its role in the initial workup of patients with SCI remains unclear given resource constraints at many centers. Urgent MRI is recommended by the authors in cases with unexplained neurological deficits to ensure that ongoing cord compression or ligamentous injuries are not missed.</p><p>While establishing the diagnosis and classifying the injury pattern, secondary injuries should be avoided by transferring the patient to an intensive care unit (ICU) setting with respiratory, hemodynamic, and cardiac monitoring
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>. Polytrauma patients should continue to have acute life- or limb-threatening injuries managed while maintaining appropriate spinal immobilization and recognizing early therapeutic windows for SCI interventions. This requires a concerted interdisciplinary effort including modified surgical positioning for orthopedic/general surgery procedures, fiberoptic tracheal intubation, and clear communication between teams.</p><sec><title>Early surgical decompression</title><p>Progressive edema and hemorrhage contribute to ongoing mechanical pressure on the sensitive microvascular circulation. Surgical decompression aims to relieve this pressure to reduce secondary ischemic-hypoxic injury. The Surgical Timing in Acute Spinal Cord Injury Study (STASCIS) was a prospective, observational study of 313 patients with cervical SCI. Patients undergoing early decompression (&#x0003c;24 hours from injury; mean = 14 hours) were more than twice as likely to have a two-grade ASIA Impairment Scale (AIS) improvement at 6-month follow-up than those undergoing late surgery (&#x02265;24 hours from injury; mean = 48.3 hours)
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>. No difference in complication rates between early (24%) and late (30%) surgery was found (p = 0.21). These findings were further confirmed in a prospective Canadian cohort study
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup>. Another observational study reported shorter hospital lengths of stay (LOS) for ASIA grade A (complete) or grade B (incomplete sensory injury; complete motor injury) patients undergoing early decompression
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. An additional multi-center, European (SCI-POEM) study is currently underway
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. The main critique of these studies is their cohort design, which was chosen for both practical reasons and ethical concerns surrounding randomizing patients where true clinical equipoise does not exist. However, these studies represent the most robust, large-scale data on surgery for SCI and provide support for a well-studied intervention in a field where few treatment options exist for patients. Given this data, the concept of &#x0201c;Time is Spine&#x0201d; has emerged, emphasizing the critical importance of early therapies to improve long-term functional outcomes
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. Furthermore, early surgical decompression (&#x0003c;24 hours) is recommended in current American Association of Neurological Surgeons (AANS) and Congress of Neurological Surgeons (CNS) guidelines
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>.</p></sec><sec><title>Mean arterial pressure</title><p>To further mitigate ischemia of the injured cord, blood pressure augmentation has emerged as a viable strategy. Maintaining MAP &#x02265;85&#x02013;90 mmHg post-injury has been shown to improve AIS grade outcomes for patients
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. Current AANS/CNS guidelines provide level III recommendations to maintain MAP for 7 days post-injury. This requires maintenance of a euvolemic or slightly hypervolemic state using IV crystalloid in addition to an infusion of vasopressors and invasive blood pressure monitoring (e.g. arterial line). These significant requirements have led to a non-inferiority trial of MAP &#x02265;65 mmHg versus MAP &#x02265;85 mmHg called MAPS, which is expected to be completed in 2017
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>.</p><p>Maintaining these MAP parameters can also be a barrier to mobilization, which is critical in the early post-injury period to prevent complications. Safely elevating patients and engaging muscle activity requires a collaborative, multidisciplinary effort along with adjuncts such as prophylactic vasopressors and peripheral/abdominal binding. The ideal time to begin mobilization should be evaluated on an individual basis according to the patient&#x02019;s hemodynamics, underlying comorbidities, and the expertise of the healthcare team.</p></sec><sec><title>Early intravenous methylprednisolone</title><p>MPSS is a synthetic corticosteroid which upregulates anti-inflammatory factors and decreases oxidative stress to enhance endogenous cell survival in animal models of SCI. A series of key clinical trials entitled National Spinal Cord Injury Study (NASCIS) I (1984)
+<sup><xref rid="ref-25" ref-type="bibr">25</xref></sup>, II (1990)
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>, and III (1997)
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup> demonstrated serious adverse events with a high-dose MPSS protocol (e.g. sepsis), which outweighed the potential benefit for neurologic recovery. However, when a low-dose protocol was given to patients within 8 hours of injury, no adverse events and a potential improvement were seen. The study methodology and subgroup analyses from this series have been extensively debated over the last several decades. To settle this debate, a comprehensive Cochrane review was published in 2012 encompassing six randomized controlled trials (RCTs) and several key observational studies. The analysis demonstrated a four-point ASIA motor score improvement for patients receiving MPSS within 8 hours of injury
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>. While this appears to be a small improvement in relative terms, a four-point improvement in key myotomes such as grip, triceps, and deltoid function can represent a significant functional gain for patients. The 2016 AOSpine guidelines, developed by an international and interdisciplinary committee of experts, will suggest IV MPSS (administered over 24 hours) as a treatment option when feasible to patients within 8 hours of injury.</p></sec></sec><sec><title>Frontiers of imaging</title><p>Conventional MRI, producing T1- and T2-weighted images, has been shown to be of modest value in helping to predict neurological and functional outcomes, particularly the prognostic factors of length of hemorrhage and degree of cord compression
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. However, conventional MRI fails to yield information about the health of the spinal cord tissue as signal changes are non-specific and can reflect a range of physiological processes such as hemorrhage (macroscopic or microscopic), edema, gliosis, cell loss, and cavitation
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. A number of emerging MRI techniques have the potential to substantially improve our ability for prognostication by quantifying the degree of tissue injury and measuring functional changes within the spinal cord
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup>. Techniques that can quantify aspects of tissue microstructure include diffusion tensor imaging (DTI), reflecting axonal integrity, magnetization transfer (MT) and myelin water fraction (MWF), correlating with myelin quantity, and MR spectroscopy (MRS), measuring the concentration of key molecules that reflect cell loss (
+<italic>N</italic>-acetylaspartate), gliosis (myo-inositol), and ischemia (lactate). Functional MRI (fMRI) can visualize neuronal activity and connectivity. All of these techniques are under intense investigation, with DTI in particular showing strong correlation with tissue injury, which may lead to clinical translation in the near future
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup>.</p></sec><sec><title>Frontiers of neuroprotection</title><p>Neuroprotective interventions to preserve injured tissue and reduce secondary insult are key approaches in SCI. Multiple therapies targeting components of the pathophysiologic cascade are currently under investigation and in trial.</p><p>Hypothermia decreases the basal metabolic rate of central nervous system tissue and reduces inflammation
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>. Therapeutic hypothermia (32&#x02013;34&#x000b0;C) has been applied in the neuroprotection of patients after cardiac arrest
+<sup><xref rid="ref-37" ref-type="bibr">37</xref></sup> and neonatal hypoxic-ischemic encephalopathy
+<sup><xref rid="ref-38" ref-type="bibr">38</xref>,
+<xref rid="ref-39" ref-type="bibr">39</xref></sup>. Animal models of SCI have demonstrated significant improvements with systemic intravascular cooling
+<sup><xref rid="ref-40" ref-type="bibr">40</xref></sup>, leading to a pilot study of 14 AIS grade A patients in which a trend towards neurologic improvement (43% versus 21%) was reported with no difference in complication rates
+<sup><xref rid="ref-41" ref-type="bibr">41</xref></sup>. The pending Acute Rapid Cooling Therapy for Injuries of the Spinal Cord (ARCTIC) phase II/III trial looks to further assess the efficacy of this therapy
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup>.</p><p>Riluzole is a benzothiazole, voltage-gated sodium-channel blocker which indirectly decreases glutamate release and enhances reuptake
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup>. It has been used successfully to slow the progression of motor neuron loss and improve survival in patients with amyotrophic lateral sclerosis
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>. A phase I/II clinical trial of 36 patients with SCI demonstrated 15.5-point improvements in ISNCSCI motor scores for riluzole-treated patients with a cervical level injury
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>. A phase II/III RCT entitled &#x0201c;Riluzole in Spinal Cord Injury Study&#x0201d; (RISCIS), sponsored by AOSpine, the North American Clinical Trials Network (NACTN), the Rick Hansen Institute, and the Ontario Neurotrauma Foundation, is now underway to further assess efficacy for patients with C4-8 level injuries. The trial is expected to complete in 2018
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. </p><p>Minocycline is a tetracycline-class antibiotic with anti-inflammatory properties including inhibition of tumor necrosis factor-&#x003b1; (TNF-&#x003b1;), interleukin-1&#x003b2; (IL-1&#x003b2;), cyclooxygenase-2 (COX-2), nitric oxide synthase (NOS), and microglial activation. Preclinical models of SCI showed dramatically decreased lesion sizes and neuron loss with acute minocycline treatment
+<sup><xref rid="ref-46" ref-type="bibr">46</xref>,
+<xref rid="ref-47" ref-type="bibr">47</xref></sup>. In a mixed-level phase II study, cervical SCI patients (N = 25) had a 14-point ASIA motor score improvement with minocycline treatment versus placebo (p = 0.05)
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>. This has led to a phase III trial (N = 248) of IV minocycline x 7 days versus placebo entitled &#x0201c;Minocycline in Acute Spinal Cord Injury&#x0201d; (MASC) to be completed by 2018
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p><p>Fibroblast growth factor (FGF) is part of the family of heparin-binding proteins. It has been shown to protect against excitotoxic cell death and mitigate oxygen free radical production in animal models of SCI
+<sup><xref rid="ref-49" ref-type="bibr">49</xref></sup>. SUN13837 (Asubio Pharmaceuticals Inc.) is an FGF analogue trialed in a phase I/II study which completed in 2015. Results are expected to be reported in the near future
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. Similarly, cytokine granulocyte-colony stimulating factor (G-CSF) has been shown to be neuroprotective in SCI by directly promoting cell survival and inhibiting TNF-&#x003b1; and IL-1&#x003b2;
+<sup><xref rid="ref-50" ref-type="bibr">50</xref></sup>. Two non-randomized studies demonstrated improvements in AIS scores for patients receiving IV G-CSF
+<sup><xref rid="ref-51" ref-type="bibr">51</xref>,
+<xref rid="ref-52" ref-type="bibr">52</xref></sup>. A larger randomized trial is anticipated.</p><p>Finally, magnesium is a non-competitive NMDA receptor antagonist. It has been applied in the neuroprotection of multiple central nervous system disorders to decrease excitotoxicity and inhibit inflammation. When delivered with an excipient, such as polyethylene glycol (PEG), it generates stable cerebrospinal fluid levels in the therapeutic range
+<sup><xref rid="ref-53" ref-type="bibr">53</xref>&#x02013;
+<xref rid="ref-55" ref-type="bibr">55</xref></sup>. AC105 (Acorda Therapeutics) is a Mg-PEG compound that was studied in a phase I trial concluding in February 2015
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. Results are pending report.</p></sec><sec><title>Frontiers of neuroregeneration</title><p>The majority of patients living with impairments from SCI are in the chronic phase of injury. Neuroregenerative strategies aiming to help these millions of patients are being developed by countless researchers worldwide. Significant therapeutic opportunities exist using endogenous and exogenous repair mechanisms with adjuncts to address barriers to recovery such as the loss of structural framework, cystic cavitation, astroglial/CSPG scarring, and inhibitory molecular signaling.</p><p>CSPGs, myelin-associated glycoproteins (MAGs), oligodendrocyte-myelin glycoprotein (OMgp), and neurite outgrowth inhibitor-A (NOGO-A) all act on receptors associated with the Rho-ROCK pathway to inhibit neurite outgrowth, thereby stemming attempts at recovery. Multiple types of drugs directed at disrupting this signaling cascade have been developed. Bioengineered monoclonal NOGO-A antibodies, given by intrathecal injection, have been shown to improve regeneration of rat and primate spinal cords
+<sup><xref rid="ref-56" ref-type="bibr">56</xref>,
+<xref rid="ref-57" ref-type="bibr">57</xref></sup>. A phase I study (N = 51) of ATI355 (anti-Nogo-A antibody) has been completed with results pending dissemination
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. Direct Rho inhibition has also been developed in the form of an intraoperatively applied epidural paste (Cethrin/VX-210; Vertex Pharmaceuticals)
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>. A mixed cervicothoracic-level phase I/IIa study (N = 48) demonstrated significant motor improvement (18.5 ASIA motor score points) for cervical patients receiving Cethrin without any increase in complications
+<sup><xref rid="ref-58" ref-type="bibr">58</xref></sup>. A further phase IIb trial is planned.</p><p>Instead of inhibiting the Rho-ROCK pathway, chondroitinase ABC (ChABC) is an enzyme which degrades CSPGs in the glial scar to effectively remove initiators of the cascade. In rodent models of SCI, intrathecal and intraparenchymal treatments with ChABC have been shown to reduce CSPGs, scar volume, and cavity volume. Electrophysiologic and behavioral improvements in motor and sensory function after ChABC treatment have also been demonstrated by a number of groups including seminal work by Bradbury
+<italic>et al</italic>.
+<sup><xref rid="ref-59" ref-type="bibr">59</xref>&#x02013;
+<xref rid="ref-61" ref-type="bibr">61</xref></sup>. This exciting approach is being further developed with novel delivery methods and in combination with other regenerative techniques such as cell-based therapy
+<sup><xref rid="ref-49" ref-type="bibr">49</xref>,
+<xref rid="ref-60" ref-type="bibr">60</xref>,
+<xref rid="ref-62" ref-type="bibr">62</xref></sup>. Furthermore, a humanized form of chondroitinase is being studied with a more central nervous system-specific motif.</p><p>Cell-based therapies are a rapidly evolving field of regenerative medicine. Embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), and their differentiated progeny, are capable of regenerating lost neural circuits, remyelinating denuded axons, modulating the inflammatory response, and modifying the microenvironment
+<sup><xref rid="ref-63" ref-type="bibr">63</xref>&#x02013;
+<xref rid="ref-65" ref-type="bibr">65</xref></sup>. ESCs have been studied the longest but are in limited supply and their use raises complex ethical issues. The discovery of four factors capable of generating a pluripotent cell from adult somatic cells provided a limitless source of cells with the possibility of developing autologous therapies in the future
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>. While previously unknown issues with iPSCs, such as epigenetic memory and early senescence, are being studied, these cells remain a key therapeutic strategy
+<sup><xref rid="ref-67" ref-type="bibr">67</xref></sup>. Multiple studies of oligodendrocyte precursor cells, neural precursor cells, and cells to modify the microenvironment have produced recovery of function in preclinical models over the past three decades
+<sup><xref rid="ref-68" ref-type="bibr">68</xref>&#x02013;
+<xref rid="ref-73" ref-type="bibr">73</xref></sup>. An international phase I/II trial of human central nervous system stem cell injections for cervical SCI is being conducted by Stem Cells Inc. with results expected in 2017
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. A parallel thoracic injury phase I/II study, currently completing follow-ups, has shown improvements in sensation with no increase in complication rates
+<sup><xref rid="ref-74" ref-type="bibr">74</xref></sup>. Another phase I trial of NSI-566 neural stem cells for thoracic injury is expected to conclude in 2016
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. Ongoing studies will continue to address safety concerns and establish efficacy of this exciting therapy.</p><p>Several important parallel cell-based strategies are under investigation. Schwann cells (SCs) are able to remyelinate both peripheral nervous system (PNS) and central nervous system axons and are a key component of effective PNS regeneration. In animal models, SCs have been shown to reduce cystic cavitation, enhance tissue sparing, and promote behavioral recovery
+<sup><xref rid="ref-75" ref-type="bibr">75</xref></sup>. The Miami Project to Cure Paralysis is currently recruiting patients with chronic ASIA grade A, B, and C cervical and thoracic injuries for a phase I (N = 10; NCT02354625), open-label trial of autologous SCs transplanted into the injury epicenter
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. The study is expected to conclude in 2018. The same team is also running a phase I study (N = 10; NCT01739023) of autologous SCs for subacute thoracic ASIA grade A SCI expected to report in 2016
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p><p>Olfactory ensheathing cells (OECs) cover olfactory neurons in a manner similar to SCs. They are potent phagocytes capable of continuously clearing microbes and debris from the nasal mucosa while also secreting neurotrophic support factors
+<sup><xref rid="ref-76" ref-type="bibr">76</xref>&#x02013;
+<xref rid="ref-79" ref-type="bibr">79</xref></sup>. OECs harvested from the nasal mucosa or olfactory bulb have been shown to enhance axonal regeneration and remyelination and significantly improve behavioral outcomes in animal models
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>. Several chronic SCI trials of OECs have been completed and compiled in a recent meta-analysis (cumulative N = 1193) which demonstrated no significant increase in serious adverse events. Higher-quality studies are required moving forward to definitively establish efficacy
+<sup><xref rid="ref-81" ref-type="bibr">81</xref></sup>.</p><p>Mesenchymal stem cells (MSCs) are multipotent stromal cells with the capacity to repair damaged tissues by differentiating along connective tissue lineages (e.g. chondrocytes, myocytes, osteoblasts, and adipocytes)
+<sup><xref rid="ref-82" ref-type="bibr">82</xref></sup>. Furthermore, they are uniquely capable of modulating the inflammatory response both at a systemic level and within their local environment
+<sup><xref rid="ref-83" ref-type="bibr">83</xref>&#x02013;
+<xref rid="ref-85" ref-type="bibr">85</xref></sup>. In animal models, MSCs have been shown to decrease peripheral inflammatory cell infiltration, enhance pro-survival trophic factor levels, and promote neural tissue sparing
+<sup><xref rid="ref-86" ref-type="bibr">86</xref>,
+<xref rid="ref-87" ref-type="bibr">87</xref></sup>. Numerous phase I and II trials studying autologous MSCs are ongoing worldwide. Pharmicell Co. is conducting a phase II/III trial (N = 32; NCT01676441) of autologous MSCs transplanted into the parenchyma and intrathecal space of patients with ASIA grade B injuries. The study is expected to conclude in 2016
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. A similar class of support cells is bone marrow cells (BMCs) which, in preclinical testing, have been shown to facilitate directed axonal regrowth by producing extracellular matrix
+<sup><xref rid="ref-88" ref-type="bibr">88</xref></sup> and promoting remyelination
+<sup><xref rid="ref-89" ref-type="bibr">89</xref></sup>. A phase I/II RCT (N = 21) of ASIA grade A patients administered autologous BMCs intraparenchymally or intrathecally was published in 2015. No serious adverse events were reported
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>. A similar recent study in children with chronic SCI also showed no significant adverse events
+<sup><xref rid="ref-91" ref-type="bibr">91</xref></sup>. Bioengineered strategies form an important complementary avenue of research for regeneration of the traumatically injured cord. Multiple biomaterials have been developed to fill cavitation defects and recreate the structural architecture required to promote endogenous and exogenous cell migration and survival
+<sup><xref rid="ref-92" ref-type="bibr">92</xref>&#x02013;
+<xref rid="ref-96" ref-type="bibr">96</xref></sup>. These materials are being engineered to have a specified porosity and density, be immunologically inert, and biodegrade over time. Furthermore, many have been modified to release growth factors or immunomodulatory drugs to enhance regeneration
+<sup><xref rid="ref-95" ref-type="bibr">95</xref>,
+<xref rid="ref-97" ref-type="bibr">97</xref>,
+<xref rid="ref-98" ref-type="bibr">98</xref></sup>. A unique class of biomaterial, self-assembling peptide hydrogels, has been designed to be injectable and assemble into nanofibrils resembling extracellular matrix when exposed to ionic or temperature changes
+<sup><xref rid="ref-68" ref-type="bibr">68</xref>,
+<xref rid="ref-99" ref-type="bibr">99</xref></sup>. As biochemical manufacturing and our transplant techniques are refined, biomaterials are likely to be important components of a successful regenerative therapy for SCI.</p></sec><sec><title>Frontiers of rehabilitation</title><p>A critical part of any treatment for SCI is an effective rehabilitation strategy. This requires the integration of SCI-specific physiotherapy (e.g. stretching, strength training, and transferring), occupational therapy (e.g. modified activities for self-care), nursing (e.g. wound care and bowel/bladder care), psychology, speech-language pathology, and medicine. Conventional physical rehabilitation aims to reduce chronic complications (e.g. ulcers, deformity, and cardiorespiratory deconditioning) while enhancing residual function for maximal gain. Several technological adjuncts are actively being researched and integrated into long-term rehabilitation to achieve these goals including functional electrical stimulation (FES) and epidural stimulation (EDS). FES applies microcurrents to nerves and muscles to enhance motor function during rehabilitation or daily activities. Patterned FES has shown success in restoring both upper extremity (e.g. writing, eating, and self-care) and lower extremity (e.g. supported ambulation and stationary bicycle riding) function. FES has also been used to significantly improve volitional control of the bowel and bladder
+<sup><xref rid="ref-100" ref-type="bibr">100</xref></sup>. In addition to immediate gains, FES may also produce long-term improvements similar to activity-based restorative therapy (ABRT) via mechanisms of neuroplasticity. Both ABRT and FES repeatedly activate preserved circuits to maintain existing connections while promoting synaptogenesis, myelination, and neurite sprouting
+<sup><xref rid="ref-100" ref-type="bibr">100</xref>&#x02013;
+<xref rid="ref-103" ref-type="bibr">103</xref></sup>. Furthermore, during physical rehabilitation, FES augmentation can dramatically increase patients&#x02019; oxygen uptake and respiratory rate and improve their fat to muscle ratio
+<sup><xref rid="ref-104" ref-type="bibr">104</xref>,
+<xref rid="ref-105" ref-type="bibr">105</xref></sup>. A phase III trial (N = 84; NCT01292811) of FES for the restoration of upper limb function in tetraplegic patients with subacute cervical injuries is currently recruiting patients. This study is expected to conclude in 2018. EDS is a parallel approach using microcurrents delivered by epidural electrodes to stimulate the spinal cord and/or conus medullaris
+<sup><xref rid="ref-106" ref-type="bibr">106</xref></sup>. It has been successfully used in the treatment of refractory neuropathic pain for numerous conditions (e.g. amputation, stroke, and SCI). The concept behind EDS-induced motor recovery is the enhancement of neuroplasticity by activating central circuits including the central pattern generator for locomotion (T11-L1) and cardiorespiratory circuits. Several phase I and II studies (NCT02592668, NCT02339233, and NCT02313194) are underway to explore the potential of EDS with results expected over the next 5 years
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>.</p></sec><sec><title>Looking forward</title><p>The landscape of SCI management is quickly changing as the heterogeneity of patients and long-term importance of key early interventions are increasingly being recognized. Combinatorial neuroprotective and neuroregenerative strategies are most likely to be effective moving forward given the multifaceted nature of the injury; however, this approach may require tailoring to specific patient subgroups. This necessitates a deeper understanding of SCI pathophysiology, clinical presentation, and relevant imaging, serum, and cerebrospinal fluid biomarkers
+<sup><xref rid="ref-107" ref-type="bibr">107</xref>,
+<xref rid="ref-108" ref-type="bibr">108</xref></sup>. While landmark studies of the past have enrolled varied groups of patients for logistical reasons, we foresee future studies stratifying patients by well-defined diagnostic criteria to elucidate subtle but prognostically important differences. The results of the above trials may become catalysts for critical changes in the current standard of care. Even small improvements in sensory or motor outcomes can have profound functional effects on patients&#x02019; vocational abilities and independence.</p></sec><sec><title>Abbreviations</title><p>AANS, American Association of Neurological Surgeons; ABRT, activity-based restorative therapy; AIS, American Spinal Injury Association Impairment Scale; ASIA, American Spinal Injury Association; BMC, bone marrow cell; ChABC, chondroitinase ABC; CNS, Congress of Neurological Surgeons; CSPG, chondroitin sulfate proteoglycan; DTI, detrusor tensor imaging; EDS, epidural stimulation; ESC, embryonic stem cell; FES, functional electrical stimulation; FGF, fibroblast growth factor; G-CSF, granulocyte-colony stimulating factor; IL-1&#x003b2;, interleukin-1&#x003b2;; iPSC, induced pluripotent stem cell; ISNCSCI, International Standards for Neurological Classification of Spinal Cord Injury; IV, intravenous; MAP, mean arterial pressure; MPSS, methylprednisolone; MRI, magnetic resonance imaging; MSC, mesenchymal stem cell; NOGO-A, neurite outgrowth inhibitor-A; OEC, olfactory ensheathing cell; PEG, polyethylene glycol; PNS, peripheral nervous system; RCT, randomized controlled trial; ROCK, rho-associated protein kinase; SBP, systolic blood pressure; SC, Schwann cell; SCI, spinal cord injury; STASCIS, Surgical Timing in Acute Spinal Cord Injury Study; TNF-&#x003b1;, tumor necrosis factor-&#x003b1;.</p></sec></body><back><ack><title>Acknowledgements</title><p>Thank you to Madeleine O&#x02019;Higgins for manuscript copyediting.</p></ack><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<collab>National Spinal Cord Injury Statistical Center</collab>:
+<article-title>Spinal cord injury facts and figures at a glance.</article-title>
+<source><italic>J Spinal Cord Med.</italic></source>
+<year>2014</year>;<volume>37</volume>(<issue>1</issue>):<fpage>117</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1179/1079026813Z.000000000249</pub-id>
+<!--<pub-id pub-id-type="pmcid">4066546</pub-id>-->
+<?supplied-pmid 24456486?><pub-id pub-id-type="pmid">24456486</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<collab>Foundation CaDR</collab>:
+<article-title>One degree of separation: paralysis and spinal cord injury in the United States</article-title>.<year>2010</year>
+<ext-link ext-link-type="uri" xlink:href="http://s3.amazonaws.com/reeve-assets-production/8112REPTFINAL.PDF">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dvorak</surname><given-names>MF</given-names></name><name><surname>Noonan</surname><given-names>VK</given-names></name><name><surname>Fallah</surname><given-names>N</given-names></name><etal/></person-group>:
+<article-title>The influence of time from injury to surgery on motor recovery and length of hospital stay in acute traumatic spinal cord injury: an observational Canadian cohort study.</article-title>
+<source><italic>J Neurotrauma.</italic></source>
+<year>2015</year>;<volume>32</volume>(<issue>9</issue>):<fpage>645</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1089/neu.2014.3632</pub-id>
+<!--<pub-id pub-id-type="pmcid">4410758</pub-id>-->
+<?supplied-pmid 25333195?><pub-id pub-id-type="pmid">25333195</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilson</surname><given-names>JR</given-names></name><name><surname>Forgione</surname><given-names>N</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name></person-group>:
+<article-title>Emerging therapies for acute traumatic spinal cord injury.</article-title>
+<source><italic>CMAJ.</italic></source>
+<year>2013</year>;<volume>185</volume>(<issue>6</issue>):<fpage>485</fpage>&#x02013;<lpage>92</lpage>.
+<pub-id pub-id-type="doi">10.1503/cmaj.121206</pub-id>
+<!--<pub-id pub-id-type="pmcid">3612151</pub-id>-->
+<?supplied-pmid 23228995?><pub-id pub-id-type="pmid">23228995</pub-id></mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>LaPlaca</surname><given-names>MC</given-names></name><name><surname>Simon</surname><given-names>CM</given-names></name><name><surname>Prado</surname><given-names>GR</given-names></name><etal/></person-group>:
+<article-title>CNS injury biomechanics and experimental models.</article-title>
+<source><italic>Prog Brain Res.</italic></source>
+<year>2007</year>;<volume>161</volume>:<fpage>13</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0079-6123(06)61002-9</pub-id>
+<?supplied-pmid 17618967?><pub-id pub-id-type="pmid">17618967</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Choo</surname><given-names>AM</given-names></name><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Lam</surname><given-names>CK</given-names></name><etal/></person-group>:
+<article-title>Contusion, dislocation, and distraction: primary hemorrhage and membrane permeability in distinct mechanisms of spinal cord injury.</article-title>
+<source><italic>J Neurosurg Spine.</italic></source>
+<year>2007</year>;<volume>6</volume>(<issue>3</issue>):<fpage>255</fpage>&#x02013;<lpage>66</lpage>.
+<pub-id pub-id-type="doi">10.3171/spi.2007.6.3.255</pub-id>
+<?supplied-pmid 17355025?><pub-id pub-id-type="pmid">17355025</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whetstone</surname><given-names>WD</given-names></name><name><surname>Hsu</surname><given-names>JY</given-names></name><name><surname>Eisenberg</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Blood-spinal cord barrier after spinal cord injury: relation to revascularization and wound healing.</article-title>
+<source><italic>J Neurosci Res.</italic></source>
+<year>2003</year>;<volume>74</volume>(<issue>2</issue>):<fpage>227</fpage>&#x02013;<lpage>39</lpage>.
+<pub-id pub-id-type="doi">10.1002/jnr.10759</pub-id>
+<!--<pub-id pub-id-type="pmcid">2837839</pub-id>-->
+<?supplied-pmid 14515352?><pub-id pub-id-type="pmid">14515352</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mautes</surname><given-names>AE</given-names></name><name><surname>Weinzierl</surname><given-names>MR</given-names></name><name><surname>Donovan</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Vascular events after spinal cord injury: contribution to secondary pathogenesis.</article-title>
+<source><italic>Phys Ther.</italic></source>
+<year>2000</year>;<volume>80</volume>(<issue>7</issue>):<fpage>673</fpage>&#x02013;<lpage>87</lpage>.
+<?supplied-pmid 10869130?><pub-id pub-id-type="pmid">10869130</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Mealing</surname><given-names>GA</given-names></name><name><surname>Morley</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Novel injury mechanism in anoxia and trauma of spinal cord white matter: glutamate release via reverse Na+-dependent glutamate transport.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>1999</year>;<volume>19</volume>(<issue>14</issue>):<fpage>RC16</fpage>.
+<?supplied-pmid 10407058?><pub-id pub-id-type="pmid">10407058</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>S</given-names></name><name><surname>Stys</surname><given-names>PK</given-names></name></person-group>:
+<article-title>Mechanisms of ionotropic glutamate receptor-mediated excitotoxicity in isolated spinal cord white matter.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>2000</year>;<volume>20</volume>(<issue>3</issue>):<fpage>1190</fpage>&#x02013;<lpage>8</lpage>.
+<?supplied-pmid 10648723?><pub-id pub-id-type="pmid">10648723</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Milhorat</surname><given-names>TH</given-names></name><name><surname>Capocelli</surname><given-names>AL</given-names><suffix>Jr</suffix></name><name><surname>Anzil</surname><given-names>AP</given-names></name><etal/></person-group>:
+<article-title>Pathological basis of spinal cord cavitation in syringomyelia: analysis of 105 autopsy cases.</article-title>
+<source><italic>J Neurosurg.</italic></source>
+<year>1995</year>;<volume>82</volume>(<issue>5</issue>):<fpage>802</fpage>&#x02013;<lpage>12</lpage>.
+<pub-id pub-id-type="doi">10.3171/jns.1995.82.5.0802</pub-id>
+<?supplied-pmid 7714606?><pub-id pub-id-type="pmid">7714606</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yuan</surname><given-names>YM</given-names></name><name><surname>He</surname><given-names>C</given-names></name></person-group>:
+<article-title>The glial scar in spinal cord injury and repair.</article-title>
+<source><italic>Neurosci Bull.</italic></source>
+<year>2013</year>;<volume>29</volume>(<issue>4</issue>):<fpage>421</fpage>&#x02013;<lpage>35</lpage>.
+<pub-id pub-id-type="doi">10.1007/s12264-013-1358-3</pub-id>
+<?supplied-pmid 23861090?><pub-id pub-id-type="pmid">23861090</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Snow</surname><given-names>DM</given-names></name><name><surname>Lemmon</surname><given-names>V</given-names></name><name><surname>Carrino</surname><given-names>DA</given-names></name><etal/></person-group>:
+<article-title>Sulfated proteoglycans in astroglial barriers inhibit neurite outgrowth
+<italic>in vitro</italic>.</article-title>
+<source><italic>Exp Neurol.</italic></source>
+<year>1990</year>;<volume>109</volume>(<issue>1</issue>):<fpage>111</fpage>&#x02013;<lpage>30</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0014-4886(05)80013-5</pub-id>
+<?supplied-pmid 2141574?><pub-id pub-id-type="pmid">2141574</pub-id></mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>H&#x000f6;ke</surname><given-names>A</given-names></name><name><surname>Silver</surname><given-names>J</given-names></name></person-group>:
+<article-title>Proteoglycans and other repulsive molecules in glial boundaries during development and regeneration of the nervous system.</article-title>
+<source><italic>Prog Brain Res.</italic></source>
+<year>1996</year>;<volume>108</volume>:<fpage>149</fpage>&#x02013;<lpage>63</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0079-6123(08)62538-8</pub-id>
+<?supplied-pmid 8979800?><pub-id pub-id-type="pmid">8979800</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Butt</surname><given-names>AM</given-names></name><name><surname>Duncan</surname><given-names>A</given-names></name><name><surname>Hornby</surname><given-names>MF</given-names></name><etal/></person-group>:
+<article-title>Cells expressing the NG2 antigen contact nodes of Ranvier in adult CNS white matter.</article-title>
+<source><italic>Glia.</italic></source>
+<year>1999</year>;<volume>26</volume>(<issue>1</issue>):<fpage>84</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1002/(SICI)1098-1136(199903)26:1&#x0003c;84::AID-GLIA9&#x0003e;3.0.CO;2-L</pub-id>
+<?supplied-pmid 10088675?><pub-id pub-id-type="pmid">10088675</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silver</surname><given-names>J</given-names></name></person-group>:
+<article-title>Inhibitory molecules in development and regeneration.</article-title>
+<source><italic>J Neurol.</italic></source>
+<year>1994</year>;<volume>242</volume>(<issue>1 Suppl 1</issue>):<fpage>S22</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1007/BF00939236</pub-id>
+<?supplied-pmid 7535345?><pub-id pub-id-type="pmid">7535345</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Forgione</surname><given-names>N</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name></person-group>:
+<article-title>Rho-ROCK inhibition in the treatment of spinal cord injury.</article-title>
+<source><italic>World Neurosurg.</italic></source>
+<year>2014</year>;<volume>82</volume>(<issue>3&#x02013;4</issue>):<fpage>e535</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.wneu.2013.01.009</pub-id>
+<?supplied-pmid 23298675?><pub-id pub-id-type="pmid">23298675</pub-id></mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Popa</surname><given-names>C</given-names></name><name><surname>Popa</surname><given-names>F</given-names></name><name><surname>Grigorean</surname><given-names>VT</given-names></name><etal/></person-group>:
+<article-title>Vascular dysfunctions following spinal cord injury.</article-title>
+<source><italic>J Med Life.</italic></source>
+<year>2010</year>;<volume>3</volume>(<issue>3</issue>):<fpage>275</fpage>&#x02013;<lpage>85</lpage>.
+<!--<pub-id pub-id-type="pmcid">3019008</pub-id>-->
+<?supplied-pmid 20945818?><pub-id pub-id-type="pmid">20945818</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Guha</surname><given-names>A</given-names></name><name><surname>Tator</surname><given-names>CH</given-names></name><name><surname>Rochon</surname><given-names>J</given-names></name></person-group>:
+<article-title>Spinal cord blood flow and systemic blood pressure after experimental spinal cord injury in rats.</article-title>
+<source><italic>Stroke.</italic></source>
+<year>1989</year>;<volume>20</volume>(<issue>3</issue>):<fpage>372</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1161/01.STR.20.3.372</pub-id>
+<?supplied-pmid 2922776?><pub-id pub-id-type="pmid">2922776</pub-id></mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Riegger</surname><given-names>T</given-names></name><name><surname>Conrad</surname><given-names>S</given-names></name><name><surname>Schluesener</surname><given-names>HJ</given-names></name><etal/></person-group>:
+<article-title>Immune depression syndrome following human spinal cord injury (SCI): a pilot study.</article-title>
+<source><italic>Neuroscience.</italic></source>
+<year>2009</year>;<volume>158</volume>(<issue>3</issue>):<fpage>1194</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2008.08.021</pub-id>
+<?supplied-pmid 18790013?><pub-id pub-id-type="pmid">18790013</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berlly</surname><given-names>M</given-names></name><name><surname>Shem</surname><given-names>K</given-names></name></person-group>:
+<article-title>Respiratory management during the first five days after spinal cord injury.</article-title>
+<source><italic>J Spinal Cord Med.</italic></source>
+<year>2007</year>;<volume>30</volume>(<issue>4</issue>):<fpage>309</fpage>&#x02013;<lpage>18</lpage>.
+<!--<pub-id pub-id-type="pmcid">2031940</pub-id>-->
+<?supplied-pmid 17853652?><pub-id pub-id-type="pmid">17853652</pub-id></mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Resnick</surname><given-names>DK</given-names></name></person-group>:
+<article-title>Updated Guidelines for the Management of Acute Cervical Spine and Spinal Cord Injury.</article-title>
+<source><italic>Neurosurgery.</italic></source>
+<year>2013</year>;<volume>72</volume>(<issue>Suppl 2</issue>):<fpage>1</fpage>.
+<pub-id pub-id-type="doi">10.1227/NEU.0b013e318276ee7e</pub-id>
+<?supplied-pmid 23417171?><pub-id pub-id-type="pmid">23417171</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fehlings</surname><given-names>MG</given-names></name><name><surname>Vaccaro</surname><given-names>A</given-names></name><name><surname>Wilson</surname><given-names>JR</given-names></name><etal/></person-group>:
+<article-title>Early versus delayed decompression for traumatic cervical spinal cord injury: results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS).</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2012</year>;<volume>7</volume>(<issue>2</issue>):<fpage>e32037</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0032037</pub-id>
+<!--<pub-id pub-id-type="pmcid">3285644</pub-id>-->
+<?supplied-pmid 22384132?><pub-id pub-id-type="pmid">22384132</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wilson</surname><given-names>JR</given-names></name><name><surname>Singh</surname><given-names>A</given-names></name><name><surname>Craven</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Early versus late surgery for traumatic spinal cord injury: the results of a prospective Canadian cohort study.</article-title>
+<source><italic>Spinal Cord.</italic></source>
+<year>2012</year>;<volume>50</volume>(<issue>11</issue>):<fpage>840</fpage>&#x02013;<lpage>3</lpage>.
+<pub-id pub-id-type="doi">10.1038/sc.2012.59</pub-id>
+<?supplied-pmid 22565550?><pub-id pub-id-type="pmid">22565550</pub-id></mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bracken</surname><given-names>MB</given-names></name><name><surname>Collins</surname><given-names>WF</given-names></name><name><surname>Freeman</surname><given-names>DF</given-names></name><etal/></person-group>:
+<article-title>Efficacy of methylprednisolone in acute spinal cord injury.</article-title>
+<source><italic>JAMA.</italic></source>
+<year>1984</year>;<volume>251</volume>(<issue>1</issue>):<fpage>45</fpage>&#x02013;<lpage>52</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.1984.03340250025015</pub-id>
+<?supplied-pmid 6361287?><pub-id pub-id-type="pmid">6361287</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bracken</surname><given-names>MB</given-names></name><name><surname>Shepard</surname><given-names>MJ</given-names></name><name><surname>Collins</surname><given-names>WF</given-names></name><etal/></person-group>:
+<article-title>A randomized, controlled trial of methylprednisolone or naloxone in the treatment of acute spinal-cord injury. Results of the Second National Acute Spinal Cord Injury Study.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>1990</year>;<volume>322</volume>(<issue>20</issue>):<fpage>1405</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJM199005173222001</pub-id>
+<?supplied-pmid 2278545?><pub-id pub-id-type="pmid">2278545</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bracken</surname><given-names>MB</given-names></name><name><surname>Shepard</surname><given-names>MJ</given-names></name><name><surname>Holford</surname><given-names>TR</given-names></name><etal/></person-group>:
+<article-title>Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury. Results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study.</article-title>
+<source><italic>JAMA.</italic></source>
+<year>1997</year>;<volume>277</volume>(<issue>20</issue>):<fpage>1597</fpage>&#x02013;<lpage>604</lpage>.
+<pub-id pub-id-type="doi">10.1001/jama.1997.03540440031029</pub-id>
+<?supplied-pmid 9168289?><pub-id pub-id-type="pmid">9168289</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fehlings</surname><given-names>MG</given-names></name><name><surname>Wilson</surname><given-names>JR</given-names></name><name><surname>Cho</surname><given-names>N</given-names></name></person-group>:
+<article-title>Methylprednisolone for the treatment of acute spinal cord injury: counterpoint.</article-title>
+<source><italic>Neurosurgery.</italic></source>
+<year>2014</year>;<volume>61</volume>(<issue>Suppl 1</issue>):<fpage>36</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1227/NEU.0000000000000412</pub-id>
+<?supplied-pmid 25032529?><pub-id pub-id-type="pmid">25032529</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ryken</surname><given-names>TC</given-names></name><name><surname>Hadley</surname><given-names>MN</given-names></name><name><surname>Walters</surname><given-names>BC</given-names></name><etal/></person-group>:
+<article-title>Radiographic assessment.</article-title>
+<source><italic>Neurosurgery.</italic></source>
+<year>2013</year>;<volume>72</volume>(<issue>Suppl 2</issue>):<fpage>54</fpage>&#x02013;<lpage>72</lpage>.
+<pub-id pub-id-type="doi">10.1227/NEU.0b013e318276edee</pub-id>
+<?supplied-pmid 23417179?><pub-id pub-id-type="pmid">23417179</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sixta</surname><given-names>S</given-names></name><name><surname>Moore</surname><given-names>FO</given-names></name><name><surname>Ditillo</surname><given-names>MF</given-names></name><etal/></person-group>:
+<article-title>Screening for thoracolumbar spinal injuries in blunt trauma: an Eastern Association for the Surgery of Trauma practice management guideline.</article-title>
+<source><italic>J Trauma Acute Care Surg.</italic></source>
+<year>2012</year>;<volume>73</volume>(<issue>5 Suppl 4</issue>):<fpage>S326</fpage>&#x02013;<lpage>32</lpage>.
+<pub-id pub-id-type="doi">10.1097/TA.0b013e31827559b8</pub-id>
+<?supplied-pmid 23114489?><pub-id pub-id-type="pmid">23114489</pub-id></mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bozzo</surname><given-names>A</given-names></name><name><surname>Marcoux</surname><given-names>J</given-names></name><name><surname>Radhakrishna</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>The role of magnetic resonance imaging in the management of acute spinal cord injury.</article-title>
+<source><italic>J Neurotrauma.</italic></source>
+<year>2011</year>;<volume>28</volume>(<issue>8</issue>):<fpage>1401</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1089/neu.2009.1236</pub-id>
+<!--<pub-id pub-id-type="pmcid">3143391</pub-id>-->
+<?supplied-pmid 20388006?><pub-id pub-id-type="pmid">20388006</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="book">
+<article-title>Clinical Trials.gov</article-title>.<year>2015</year>; Accessed December 21, 2015.
+<ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bracken</surname><given-names>MB</given-names></name></person-group>:
+<article-title>Steroids for acute spinal cord injury.</article-title>
+<source><italic>Cochrane Database Syst Rev.</italic></source>John Wiley &#x00026; Sons, Ltd;<year>2012</year>;<volume>1</volume>: CD001046.
+<pub-id pub-id-type="doi">10.1002/14651858.CD001046.pub2</pub-id>
+<?supplied-pmid 22258943?><pub-id pub-id-type="pmid">22258943</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stroman</surname><given-names>PW</given-names></name><name><surname>Wheeler-Kingshott</surname><given-names>C</given-names></name><name><surname>Bacon</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>The current state-of-the-art of spinal cord imaging: methods.</article-title>
+<source><italic>Neuroimage.</italic></source>
+<year>2014</year>;<volume>84</volume>:<fpage>1070</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2013.04.124</pub-id>
+<!--<pub-id pub-id-type="pmcid">4371133</pub-id>-->
+<?supplied-pmid 23685159?><pub-id pub-id-type="pmid">23685159</pub-id></mixed-citation></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>AR</given-names></name><name><surname>Aleksanderek</surname><given-names>I</given-names></name><name><surname>Cohen-Adad</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Translating state-of-the-art spinal cord MRI techniques to clinical use: A systematic review of clinical studies utilizing DTI, MT, MWF, MRS, and fMRI.</article-title>
+<source><italic>Neuroimage Clin.</italic></source>
+<year>2016</year>;<volume>10</volume>:<fpage>192</fpage>&#x02013;<lpage>238</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.nicl.2015.11.019</pub-id>
+<!--<pub-id pub-id-type="pmcid">4708075</pub-id>-->
+<?supplied-pmid 26862478?><pub-id pub-id-type="pmid">26862478</pub-id></mixed-citation></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kwon</surname><given-names>BK</given-names></name><name><surname>Mann</surname><given-names>C</given-names></name><name><surname>Sohn</surname><given-names>HM</given-names></name><etal/></person-group>:
+<article-title>Hypothermia for spinal cord injury.</article-title>
+<source><italic>Spine J.</italic></source>
+<year>2008</year>;<volume>8</volume>(<issue>6</issue>):<fpage>859</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.spinee.2007.12.006</pub-id>
+<?supplied-pmid 18329959?><pub-id pub-id-type="pmid">18329959</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<collab>Hypothermia after Cardiac Arrest Study Group</collab>:
+<article-title>Mild therapeutic hypothermia to improve the neurologic outcome after cardiac arrest.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>2002</year>;<volume>346</volume>(<issue>8</issue>):<fpage>549</fpage>&#x02013;<lpage>56</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJMoa012689</pub-id>
+<?supplied-pmid 11856793?><pub-id pub-id-type="pmid">11856793</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dehaes</surname><given-names>M</given-names></name><name><surname>Aggarwal</surname><given-names>A</given-names></name><name><surname>Lin</surname><given-names>PY</given-names></name><etal/></person-group>:
+<article-title>Cerebral oxygen metabolism in neonatal hypoxic ischemic encephalopathy during and after therapeutic hypothermia.</article-title>
+<source><italic>J Cereb Blood Flow Metab.</italic></source>
+<year>2014</year>;<volume>34</volume>(<issue>1</issue>):<fpage>87</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1038/jcbfm.2013.165</pub-id>
+<!--<pub-id pub-id-type="pmcid">3887346</pub-id>-->
+<?supplied-pmid 24064492?><pub-id pub-id-type="pmid">24064492</pub-id></mixed-citation></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dingley</surname><given-names>J</given-names></name><name><surname>Tooley</surname><given-names>J</given-names></name><name><surname>Liu</surname><given-names>X</given-names></name><etal/></person-group>:
+<article-title>Xenon ventilation during therapeutic hypothermia in neonatal encephalopathy: a feasibility study.</article-title>
+<source><italic>Pediatrics.</italic></source>
+<year>2014</year>;<volume>133</volume>(<issue>5</issue>):<fpage>809</fpage>&#x02013;<lpage>18</lpage>.
+<pub-id pub-id-type="doi">10.1542/peds.2013-0787</pub-id>
+<?supplied-pmid 24777219?><pub-id pub-id-type="pmid">24777219</pub-id></mixed-citation></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lo</surname><given-names>TP</given-names><suffix>Jr</suffix></name><name><surname>Cho</surname><given-names>KS</given-names></name><name><surname>Garg</surname><given-names>MS</given-names></name><etal/></person-group>:
+<article-title>Systemic hypothermia improves histological and functional outcome after cervical spinal cord contusion in rats.</article-title>
+<source><italic>J Comp Neurol.</italic></source>
+<year>2009</year>;<volume>514</volume>(<issue>5</issue>):<fpage>433</fpage>&#x02013;<lpage>48</lpage>.
+<pub-id pub-id-type="doi">10.1002/cne.22014</pub-id>
+<?supplied-pmid 19350644?><pub-id pub-id-type="pmid">19350644</pub-id></mixed-citation></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Levi</surname><given-names>AD</given-names></name><name><surname>Green</surname><given-names>BA</given-names></name><name><surname>Wang</surname><given-names>MY</given-names></name><etal/></person-group>:
+<article-title>Clinical application of modest hypothermia after spinal cord injury.</article-title>
+<source><italic>J Neurotrauma.</italic></source>
+<year>2009</year>;<volume>26</volume>(<issue>3</issue>):<fpage>407</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1089/neu.2008.0745</pub-id>
+<?supplied-pmid 19271964?><pub-id pub-id-type="pmid">19271964</pub-id></mixed-citation></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="book">
+<collab>Paralysis TMPtC</collab>:
+<article-title>Neuroprotection - therapeutic hypothermia</article-title>.<year>2014</year>; Accessed October 15, 2015.
+<ext-link ext-link-type="uri" xlink:href="http://www.themiamiproject.org/page.aspx?pid=844">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwartz</surname><given-names>G</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name></person-group>:
+<article-title>Evaluation of the neuroprotective effects of sodium channel blockers after spinal cord injury: improved behavioral and neuroanatomical recovery with riluzole.</article-title>
+<source><italic>J Neurosurg.</italic></source>
+<year>2001</year>;<volume>94</volume>(<issue>2 Suppl</issue>):<fpage>245</fpage>&#x02013;<lpage>56</lpage>.
+<pub-id pub-id-type="doi">10.3171/spi.2001.94.2.0245</pub-id>
+<?supplied-pmid 11302627?><pub-id pub-id-type="pmid">11302627</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bensimon</surname><given-names>G</given-names></name><name><surname>Lacomblez</surname><given-names>L</given-names></name><name><surname>Meininger</surname><given-names>V</given-names></name></person-group>:
+<article-title>A controlled trial of riluzole in amyotrophic lateral sclerosis. ALS/Riluzole Study Group.</article-title>
+<source><italic>N Engl J Med.</italic></source>
+<year>1994</year>;<volume>330</volume>(<issue>9</issue>):<fpage>585</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="doi">10.1056/NEJM199403033300901</pub-id>
+<?supplied-pmid 8302340?><pub-id pub-id-type="pmid">8302340</pub-id></mixed-citation></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Grossman</surname><given-names>RG</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name><name><surname>Frankowski</surname><given-names>RF</given-names></name><etal/></person-group>:
+<article-title>A prospective, multicenter, phase I matched-comparison group trial of safety, pharmacokinetics, and preliminary efficacy of riluzole in patients with traumatic spinal cord injury.</article-title>
+<source><italic>J Neurotrauma.</italic></source>
+<year>2014</year>;<volume>31</volume>(<issue>3</issue>):<fpage>239</fpage>&#x02013;<lpage>55</lpage>.
+<pub-id pub-id-type="doi">10.1089/neu.2013.2969</pub-id>
+<!--<pub-id pub-id-type="pmcid">3904533</pub-id>-->
+<?supplied-pmid 23859435?><pub-id pub-id-type="pmid">23859435</pub-id></mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wells</surname><given-names>JE</given-names></name><name><surname>Hurlbert</surname><given-names>RJ</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name><etal/></person-group>:
+<article-title>Neuroprotection by minocycline facilitates significant recovery from spinal cord injury in mice.</article-title>
+<source><italic>Brain.</italic></source>
+<year>2003</year>;<volume>126</volume>(<issue>Pt 7</issue>):<fpage>1628</fpage>&#x02013;<lpage>37</lpage>.
+<pub-id pub-id-type="doi">10.1093/brain/awg178</pub-id>
+<?supplied-pmid 12805103?><pub-id pub-id-type="pmid">12805103</pub-id></mixed-citation></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Festoff</surname><given-names>BW</given-names></name><name><surname>Ameenuddin</surname><given-names>S</given-names></name><name><surname>Arnold</surname><given-names>PM</given-names></name><etal/></person-group>:
+<article-title>Minocycline neuroprotects, reduces microgliosis, and inhibits caspase protease expression early after spinal cord injury.</article-title>
+<source><italic>J Neurochem.</italic></source>
+<year>2006</year>;<volume>97</volume>(<issue>5</issue>):<fpage>1314</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1471-4159.2006.03799.x</pub-id>
+<?supplied-pmid 16638021?><pub-id pub-id-type="pmid">16638021</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Casha</surname><given-names>S</given-names></name><name><surname>Zygun</surname><given-names>D</given-names></name><name><surname>McGowan</surname><given-names>MD</given-names></name><etal/></person-group>:
+<article-title>Results of a phase II placebo-controlled randomized trial of minocycline in acute spinal cord injury.</article-title>
+<source><italic>Brain.</italic></source>
+<year>2012</year>;<volume>135</volume>(<issue>Pt 4</issue>):<fpage>1224</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.1093/brain/aws072</pub-id>
+<?supplied-pmid 22505632?><pub-id pub-id-type="pmid">22505632</pub-id></mixed-citation></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siddiqui</surname><given-names>AM</given-names></name><name><surname>Khazaei</surname><given-names>M</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name></person-group>:
+<article-title>Translating mechanisms of neuroprotection, regeneration, and repair to treatment of spinal cord injury.</article-title>
+<source><italic>Prog Brain Res.</italic></source>
+<year>2015</year>;<volume>218</volume>:<fpage>15</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1016/bs.pbr.2014.12.007</pub-id>
+<?supplied-pmid 25890131?><pub-id pub-id-type="pmid">25890131</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kawabe</surname><given-names>J</given-names></name><name><surname>Koda</surname><given-names>M</given-names></name><name><surname>Hashimoto</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Neuroprotective effects of granulocyte colony-stimulating factor and relationship to promotion of angiogenesis after spinal cord injury in rats: laboratory investigation.</article-title>
+<source><italic>J Neurosurg Spine.</italic></source>
+<year>2011</year>;<volume>15</volume>(<issue>4</issue>):<fpage>414</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.3171/2011.5.SPINE10421</pub-id>
+<?supplied-pmid 21721873?><pub-id pub-id-type="pmid">21721873</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kamiya</surname><given-names>K</given-names></name><name><surname>Koda</surname><given-names>M</given-names></name><name><surname>Furuya</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Neuroprotective therapy with granulocyte colony-stimulating factor in acute spinal cord injury: a comparison with high-dose methylprednisolone as a historical control.</article-title>
+<source><italic>Eur Spine J.</italic></source>
+<year>2015</year>;<volume>24</volume>(<issue>5</issue>):<fpage>963</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00586-014-3373-0</pub-id>
+<?supplied-pmid 24961222?><pub-id pub-id-type="pmid">24961222</pub-id></mixed-citation></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takahashi</surname><given-names>H</given-names></name><name><surname>Yamazaki</surname><given-names>M</given-names></name><name><surname>Okawa</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Neuroprotective therapy using granulocyte colony-stimulating factor for acute spinal cord injury: a phase I/IIa clinical trial.</article-title>
+<source><italic>Eur Spine J.</italic></source>
+<year>2012</year>;<volume>21</volume>(<issue>12</issue>):<fpage>2580</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00586-012-2213-3</pub-id>
+<!--<pub-id pub-id-type="pmcid">3508205</pub-id>-->
+<?supplied-pmid 22391867?><pub-id pub-id-type="pmid">22391867</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kwon</surname><given-names>BK</given-names></name><name><surname>Roy</surname><given-names>J</given-names></name><name><surname>Lee</surname><given-names>JH</given-names></name><etal/></person-group>:
+<article-title>Magnesium chloride in a polyethylene glycol formulation as a neuroprotective therapy for acute spinal cord injury: preclinical refinement and optimization.</article-title>
+<source><italic>J Neurotrauma.</italic></source>
+<year>2009</year>;<volume>26</volume>(<issue>8</issue>):<fpage>1379</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1089/neu.2009.0884</pub-id>
+<?supplied-pmid 19317592?><pub-id pub-id-type="pmid">19317592</pub-id></mixed-citation></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Luo</surname><given-names>J</given-names></name><name><surname>Borgens</surname><given-names>R</given-names></name><name><surname>Shi</surname><given-names>R</given-names></name></person-group>:
+<article-title>Polyethylene glycol immediately repairs neuronal membranes and inhibits free radical production after acute spinal cord injury.</article-title>
+<source><italic>J Neurochem.</italic></source>
+<year>2002</year>;<volume>83</volume>(<issue>2</issue>):<fpage>471</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="doi">10.1046/j.1471-4159.2002.01160.x</pub-id>
+<?supplied-pmid 12423257?><pub-id pub-id-type="pmid">12423257</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaptanoglu</surname><given-names>E</given-names></name><name><surname>Beskonakli</surname><given-names>E</given-names></name><name><surname>Solaroglu</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Magnesium sulfate treatment in experimental spinal cord injury: emphasis on vascular changes and early clinical results.</article-title>
+<source><italic>Neurosurg Rev.</italic></source>
+<year>2003</year>;<volume>26</volume>(<issue>4</issue>):<fpage>283</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10143-003-0272-y</pub-id>
+<?supplied-pmid 12783273?><pub-id pub-id-type="pmid">12783273</pub-id></mixed-citation></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liebscher</surname><given-names>T</given-names></name><name><surname>Schnell</surname><given-names>L</given-names></name><name><surname>Schnell</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Nogo-A antibody improves regeneration and locomotion of spinal cord-injured rats.</article-title>
+<source><italic>Ann Neurol.</italic></source>
+<year>2005</year>;<volume>58</volume>(<issue>5</issue>):<fpage>706</fpage>&#x02013;<lpage>19</lpage>.
+<pub-id pub-id-type="doi">10.1002/ana.20627</pub-id>
+<?supplied-pmid 16173073?><pub-id pub-id-type="pmid">16173073</pub-id></mixed-citation></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Freund</surname><given-names>P</given-names></name><name><surname>Schmidlin</surname><given-names>E</given-names></name><name><surname>Wannier</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Nogo-A-specific antibody treatment enhances sprouting and functional recovery after cervical lesion in adult primates.</article-title>
+<source><italic>Nat Med.</italic></source>
+<year>2006</year>;<volume>12</volume>(<issue>7</issue>):<fpage>790</fpage>&#x02013;<lpage>2</lpage>.
+<pub-id pub-id-type="doi">10.1038/nm1436</pub-id>
+<?supplied-pmid 16819551?><pub-id pub-id-type="pmid">16819551</pub-id></mixed-citation></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fehlings</surname><given-names>MG</given-names></name><name><surname>Theodore</surname><given-names>N</given-names></name><name><surname>Harrop</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>A phase I/IIa clinical trial of a recombinant Rho protein antagonist in acute spinal cord injury.</article-title>
+<source><italic>J Neurotrauma.</italic></source>
+<year>2011</year>;<volume>28</volume>(<issue>5</issue>):<fpage>787</fpage>&#x02013;<lpage>96</lpage>.
+<pub-id pub-id-type="doi">10.1089/neu.2011.1765</pub-id>
+<?supplied-pmid 21381984?><pub-id pub-id-type="pmid">21381984</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradbury</surname><given-names>EJ</given-names></name><name><surname>Moon</surname><given-names>LD</given-names></name><name><surname>Popat</surname><given-names>RJ</given-names></name><etal/></person-group>:
+<article-title>Chondroitinase ABC promotes functional recovery after spinal cord injury.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2002</year>;<volume>416</volume>(<issue>6881</issue>):<fpage>636</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1038/416636a</pub-id>
+<?supplied-pmid 11948352?><pub-id pub-id-type="pmid">11948352</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karimi-Abdolrezaee</surname><given-names>S</given-names></name><name><surname>Eftekharpour</surname><given-names>E</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Synergistic effects of transplanted adult neural stem/progenitor cells, chondroitinase, and growth factors promote functional repair and plasticity of the chronically injured spinal cord.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>2010</year>;<volume>30</volume>(<issue>5</issue>):<fpage>1657</fpage>&#x02013;<lpage>76</lpage>.
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.3111-09.2010</pub-id>
+<?supplied-pmid 20130176?><pub-id pub-id-type="pmid">20130176</pub-id></mixed-citation></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>T</given-names></name><name><surname>Shen</surname><given-names>Y</given-names></name><name><surname>Lu</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>[Effect of chondroitinase ABC on axonal myelination and glial scar after spinal cord injury in rats].</article-title>
+<source><italic>Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi.</italic></source>
+<year>2013</year>;<volume>27</volume>(<issue>2</issue>):<fpage>145</fpage>&#x02013;<lpage>50</lpage>.
+<?supplied-pmid 23596678?><pub-id pub-id-type="pmid">23596678</pub-id></mixed-citation></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ikegami</surname><given-names>T</given-names></name><name><surname>Nakamura</surname><given-names>M</given-names></name><name><surname>Yamane</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Chondroitinase ABC combined with neural stem/progenitor cell transplantation enhances graft cell migration and outgrowth of growth-associated protein-43-positive fibers after rat spinal cord injury.</article-title>
+<source><italic>Eur J Neurosci.</italic></source>
+<year>2005</year>;<volume>22</volume>(<issue>12</issue>):<fpage>3036</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1460-9568.2005.04492.x</pub-id>
+<?supplied-pmid 16367770?><pub-id pub-id-type="pmid">16367770</pub-id></mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arriola</surname><given-names>A</given-names></name><name><surname>Kiel</surname><given-names>ME</given-names></name><name><surname>Shi</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Adjunctive MSCs enhance myelin formation by xenogenic oligodendrocyte precursors transplanted in the retina.</article-title>
+<source><italic>Cell Res.</italic></source>
+<year>2010</year>;<volume>20</volume>(<issue>6</issue>):<fpage>728</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1038/cr.2010.63</pub-id>
+<?supplied-pmid 20440303?><pub-id pub-id-type="pmid">20440303</pub-id></mixed-citation></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>L</given-names></name><name><surname>Shi</surname><given-names>J</given-names></name><name><surname>van Ginkel</surname><given-names>FW</given-names></name><etal/></person-group>:
+<article-title>Neural stem/progenitor cells modulate immune responses by suppressing T lymphocytes with nitric oxide and prostaglandin E2.</article-title>
+<source><italic>Exp Neurol.</italic></source>
+<year>2009</year>;<volume>216</volume>(<issue>1</issue>):<fpage>177</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.expneurol.2008.11.017</pub-id>
+<?supplied-pmid 19109951?><pub-id pub-id-type="pmid">19109951</pub-id></mixed-citation></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Okamura</surname><given-names>RM</given-names></name><name><surname>Lebkowski</surname><given-names>J</given-names></name><name><surname>Au</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Immunological properties of human embryonic stem cell-derived oligodendrocyte progenitor cells.</article-title>
+<source><italic>J Neuroimmunol.</italic></source>
+<year>2007</year>;<volume>192</volume>(<issue>1&#x02013;2</issue>):<fpage>134</fpage>&#x02013;<lpage>44</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jneuroim.2007.09.030</pub-id>
+<?supplied-pmid 17996308?><pub-id pub-id-type="pmid">17996308</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shi</surname><given-names>Y</given-names></name><name><surname>Desponts</surname><given-names>C</given-names></name><name><surname>Do</surname><given-names>JT</given-names></name><etal/></person-group>:
+<article-title>Induction of pluripotent stem cells from mouse embryonic fibroblasts by Oct4 and Klf4 with small-molecule compounds.</article-title>
+<source><italic>Cell Stem Cell.</italic></source>
+<year>2008</year>;<volume>3</volume>(<issue>5</issue>):<fpage>568</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.stem.2008.10.004</pub-id>
+<?supplied-pmid 18983970?><pub-id pub-id-type="pmid">18983970</pub-id></mixed-citation></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Medvedev</surname><given-names>SP</given-names></name><name><surname>Shevchenko</surname><given-names>AI</given-names></name><name><surname>Zakian</surname><given-names>SM</given-names></name></person-group>:
+<article-title>Induced Pluripotent Stem Cells: Problems and Advantages when Applying them in Regenerative Medicine.</article-title>
+<source><italic>Acta Naturae.</italic></source>
+<year>2010</year>;<volume>2</volume>(<issue>2</issue>):<fpage>18</fpage>&#x02013;<lpage>28</lpage>.
+<!--<pub-id pub-id-type="pmcid">3347549</pub-id>-->
+<?supplied-pmid 22649638?><pub-id pub-id-type="pmid">22649638</pub-id></mixed-citation></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iwasaki</surname><given-names>M</given-names></name><name><surname>Wilcox</surname><given-names>JT</given-names></name><name><surname>Nishimura</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Synergistic effects of self-assembling peptide and neural stem/progenitor cells to promote tissue repair and forelimb functional recovery in cervical spinal cord injury.</article-title>
+<source><italic>Biomaterials.</italic></source>
+<year>2014</year>;<volume>35</volume>(<issue>9</issue>):<fpage>2617</fpage>&#x02013;<lpage>29</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2013.12.019</pub-id>
+<?supplied-pmid 24406216?><pub-id pub-id-type="pmid">24406216</pub-id></mixed-citation></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Karimi-Abdolrezaee</surname><given-names>S</given-names></name><name><surname>Eftekharpour</surname><given-names>E</given-names></name><name><surname>Wang</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Delayed transplantation of adult neural precursor cells promotes remyelination and functional neurological recovery after spinal cord injury.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>2006</year>;<volume>26</volume>(<issue>13</issue>):<fpage>3377</fpage>&#x02013;<lpage>89</lpage>.
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.4184-05.2006</pub-id>
+<?supplied-pmid 16571744?><pub-id pub-id-type="pmid">16571744</pub-id></mixed-citation></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blesch</surname><given-names>A</given-names></name><name><surname>Tuszynski</surname><given-names>MH</given-names></name></person-group>:
+<article-title>Cellular GDNF delivery promotes growth of motor and dorsal column sensory axons after partial and complete spinal cord transections and induces remyelination.</article-title>
+<source><italic>J Comp Neurol.</italic></source>
+<year>2003</year>;<volume>467</volume>(<issue>3</issue>):<fpage>403</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="doi">10.1002/cne.10934</pub-id>
+<?supplied-pmid 14608602?><pub-id pub-id-type="pmid">14608602</pub-id></mixed-citation></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Najm</surname><given-names>FJ</given-names></name><name><surname>Madhavan</surname><given-names>M</given-names></name><name><surname>Zaremba</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Drug-based modulation of endogenous stem cells promotes functional remyelination
+<italic>in vivo</italic>.</article-title>
+<source><italic>Nature.</italic></source>
+<year>2015</year>;<volume>522</volume>(<issue>7555</issue>):<fpage>216</fpage>&#x02013;<lpage>20</lpage>.
+<pub-id pub-id-type="doi">10.1038/nature14335</pub-id>
+<!--<pub-id pub-id-type="pmcid">4528969</pub-id>-->
+<?supplied-pmid 25896324?><pub-id pub-id-type="pmid">25896324</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>YJ</given-names></name><name><surname>Zhang</surname><given-names>W</given-names></name><name><surname>Lin</surname><given-names>CG</given-names></name><etal/></person-group>:
+<article-title>Neurotrophin-3 gene modified mesenchymal stem cells promote remyelination and functional recovery in the demyelinated spinal cord of rats.</article-title>
+<source><italic>J Neurol Sci.</italic></source>
+<year>2012</year>;<volume>313</volume>(<issue>1&#x02013;2</issue>):<fpage>64</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jns.2011.09.027</pub-id>
+<?supplied-pmid 21996274?><pub-id pub-id-type="pmid">21996274</pub-id></mixed-citation></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Salewski</surname><given-names>RP</given-names></name><name><surname>Eftekharpour</surname><given-names>E</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name></person-group>:
+<article-title>Are induced pluripotent stem cells the future of cell-based regenerative therapies for spinal cord injury?</article-title>
+<source><italic>J Cell Physiol.</italic></source>
+<year>2010</year>;<volume>222</volume>(<issue>3</issue>):<fpage>515</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1002/jcp.21995</pub-id>
+<?supplied-pmid 20020443?><pub-id pub-id-type="pmid">20020443</pub-id></mixed-citation></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Curt</surname><given-names>A</given-names></name><name><surname>Casha</surname><given-names>S</given-names></name><name><surname>Fehlings</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Phase I/II clinical trial of HuCNS-SC cells in chronic thoracic spinal cord injury - interim analysis</article-title>.<year>2014</year>; Accessed October 15, 2015.
+<ext-link ext-link-type="uri" xlink:href="http://www.stemcellsinc.com/Presentations/ASIA_FINAL.pdf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wiliams</surname><given-names>RR</given-names></name><name><surname>Bunge</surname><given-names>MB</given-names></name></person-group>:
+<article-title>Schwann cell transplantation: a repair strategy for spinal cord injury?</article-title>
+<source><italic>Prog Brain Res.</italic></source>
+<year>2012</year>;<volume>201</volume>:<fpage>295</fpage>&#x02013;<lpage>312</lpage>.
+<pub-id pub-id-type="doi">10.1016/B978-0-444-59544-7.00014-7</pub-id>
+<?supplied-pmid 23186720?><pub-id pub-id-type="pmid">23186720</pub-id></mixed-citation></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Windus</surname><given-names>LC</given-names></name><name><surname>Lineburg</surname><given-names>KE</given-names></name><name><surname>Scott</surname><given-names>SE</given-names></name><etal/></person-group>:
+<article-title>Lamellipodia mediate the heterogeneity of central olfactory ensheathing cell interactions.</article-title>
+<source><italic>Cell Mol Life Sci.</italic></source>
+<year>2010</year>;<volume>67</volume>(<issue>10</issue>):<fpage>1735</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00018-010-0280-3</pub-id>
+<?supplied-pmid 20143249?><pub-id pub-id-type="pmid">20143249</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Silva</surname><given-names>NA</given-names></name><name><surname>Cooke</surname><given-names>MJ</given-names></name><name><surname>Tam</surname><given-names>RY</given-names></name><etal/></person-group>:
+<article-title>The effects of peptide modified gellan gum and olfactory ensheathing glia cells on neural stem/progenitor cell fate.</article-title>
+<source><italic>Biomaterials.</italic></source>
+<year>2012</year>;<volume>33</volume>(<issue>27</issue>):<fpage>6345</fpage>&#x02013;<lpage>54</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2012.05.050</pub-id>
+<?supplied-pmid 22698724?><pub-id pub-id-type="pmid">22698724</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>H</given-names></name><name><surname>Duan</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>The Effects of Co-transplantation of Olfactory Ensheathing Cells and Schwann Cells on Local Inflammation Environment in the Contused Spinal Cord of Rats.</article-title>
+<source><italic>Mol Neurobiol.</italic></source>
+<year>2016</year>.
+<pub-id pub-id-type="doi">10.1007/s12035-016-9709-5</pub-id>
+<?supplied-pmid 26790672?><pub-id pub-id-type="pmid">26790672</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ekberg</surname><given-names>JA</given-names></name><name><surname>St John</surname><given-names>JA</given-names></name></person-group>:
+<article-title>Olfactory ensheathing cells for spinal cord repair: crucial differences between subpopulations of the glia.</article-title>
+<source><italic>Neural Regen Res.</italic></source>
+<year>2015</year>;<volume>10</volume>(<issue>9</issue>):<fpage>1395</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.4103/1673-5374.165504</pub-id>
+<!--<pub-id pub-id-type="pmcid">4625497</pub-id>-->
+<?supplied-pmid 26604892?><pub-id pub-id-type="pmid">26604892</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>J</given-names></name><name><surname>Chen</surname><given-names>P</given-names></name><name><surname>Wang</surname><given-names>Q</given-names></name><etal/></person-group>:
+<article-title>Meta analysis of olfactory ensheathing cell transplantation promoting functional recovery of motor nerves in rats with complete spinal cord transection.</article-title>
+<source><italic>Neural Regen Res.</italic></source>
+<year>2014</year>;<volume>9</volume>(<issue>20</issue>):<fpage>1850</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.4103/1673-5374.143434</pub-id>
+<!--<pub-id pub-id-type="pmcid">4239777</pub-id>-->
+<?supplied-pmid 25422649?><pub-id pub-id-type="pmid">25422649</pub-id></mixed-citation></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Li</surname><given-names>L</given-names></name><name><surname>Adnan</surname><given-names>H</given-names></name><name><surname>Xu</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Effects of transplantation of olfactory ensheathing cells in chronic spinal cord injury: a systematic review and meta-analysis.</article-title>
+<source><italic>Eur Spine J.</italic></source>
+<year>2015</year>;<volume>24</volume>(<issue>5</issue>):<fpage>919</fpage>&#x02013;<lpage>30</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00586-014-3416-6</pub-id>
+<?supplied-pmid 25001890?><pub-id pub-id-type="pmid">25001890</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dasari</surname><given-names>VR</given-names></name><name><surname>Veeravalli</surname><given-names>KK</given-names></name><name><surname>Dinh</surname><given-names>DH</given-names></name></person-group>:
+<article-title>Mesenchymal stem cells in the treatment of spinal cord injuries: A review.</article-title>
+<source><italic>World J Stem Cells.</italic></source>
+<year>2014</year>;<volume>6</volume>(<issue>2</issue>):<fpage>120</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.4252/wjsc.v6.i2.120</pub-id>
+<!--<pub-id pub-id-type="pmcid">3999770</pub-id>-->
+<?supplied-pmid 24772239?><pub-id pub-id-type="pmid">24772239</pub-id></mixed-citation></ref><ref id="ref-83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swartzlander</surname><given-names>MD</given-names></name><name><surname>Blakney</surname><given-names>AK</given-names></name><name><surname>Amer</surname><given-names>LD</given-names></name><etal/></person-group>:
+<article-title>Immunomodulation by mesenchymal stem cells combats the foreign body response to cell-laden synthetic hydrogels.</article-title>
+<source><italic>Biomaterials.</italic></source>
+<year>2015</year>;<volume>41</volume>:<fpage>79</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2014.11.020</pub-id>
+<?supplied-pmid 25522967?><pub-id pub-id-type="pmid">25522967</pub-id></mixed-citation></ref><ref id="ref-84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bessout</surname><given-names>R</given-names></name><name><surname>S&#x000e9;mont</surname><given-names>A</given-names></name><name><surname>Demarquay</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Mesenchymal stem cell therapy induces glucocorticoid synthesis in colonic mucosa and suppresses radiation-activated T cells: new insights into MSC immunomodulation.</article-title>
+<source><italic>Mucosal Immunol.</italic></source>
+<year>2014</year>;<volume>7</volume>(<issue>3</issue>):<fpage>656</fpage>&#x02013;<lpage>69</lpage>.
+<pub-id pub-id-type="doi">10.1038/mi.2013.85</pub-id>
+<?supplied-pmid 24172849?><pub-id pub-id-type="pmid">24172849</pub-id></mixed-citation></ref><ref id="ref-85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lim</surname><given-names>JH</given-names></name><name><surname>Kim</surname><given-names>JS</given-names></name><name><surname>Yoon</surname><given-names>IH</given-names></name><etal/></person-group>:
+<article-title>Immunomodulation of delayed-type hypersensitivity responses by mesenchymal stem cells is associated with bystander T cell apoptosis in the draining lymph node.</article-title>
+<source><italic>J Immunol.</italic></source>
+<year>2010</year>;<volume>185</volume>(<issue>7</issue>):<fpage>4022</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.4049/jimmunol.0902723</pub-id>
+<?supplied-pmid 20802154?><pub-id pub-id-type="pmid">20802154</pub-id></mixed-citation></ref><ref id="ref-86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quertainmont</surname><given-names>R</given-names></name><name><surname>Cantinieaux</surname><given-names>D</given-names></name><name><surname>Botman</surname><given-names>O</given-names></name><etal/></person-group>:
+<article-title>Mesenchymal stem cell graft improves recovery after spinal cord injury in adult rats through neurotrophic and pro-angiogenic actions.</article-title>
+<source><italic>PLoS One.</italic></source>
+<year>2012</year>;<volume>7</volume>(<issue>6</issue>):<fpage>e39500</fpage>.
+<pub-id pub-id-type="doi">10.1371/journal.pone.0039500</pub-id>
+<!--<pub-id pub-id-type="pmcid">3380009</pub-id>-->
+<?supplied-pmid 22745769?><pub-id pub-id-type="pmid">22745769</pub-id></mixed-citation></ref><ref id="ref-87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kim</surname><given-names>JW</given-names></name><name><surname>Ha</surname><given-names>KY</given-names></name><name><surname>Molon</surname><given-names>JN</given-names></name><etal/></person-group>:
+<article-title>Bone marrow-derived mesenchymal stem cell transplantation for chronic spinal cord injury in rats: comparative study between intralesional and intravenous transplantation.</article-title>
+<source><italic>Spine (Phila Pa 1976).</italic></source>
+<year>2013</year>;<volume>38</volume>(<issue>17</issue>):<fpage>E1065</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="doi">10.1097/BRS.0b013e31829839fa</pub-id>
+<?supplied-pmid 23629485?><pub-id pub-id-type="pmid">23629485</pub-id></mixed-citation></ref><ref id="ref-88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gu</surname><given-names>W</given-names></name><name><surname>Zhang</surname><given-names>F</given-names></name><name><surname>Xue</surname><given-names>Q</given-names></name><etal/></person-group>:
+<article-title>Transplantation of bone marrow mesenchymal stem cells reduces lesion volume and induces axonal regrowth of injured spinal cord.</article-title>
+<source><italic>Neuropathology.</italic></source>
+<year>2010</year>;<volume>30</volume>(<issue>3</issue>):<fpage>205</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1440-1789.2009.01063.x</pub-id>
+<?supplied-pmid 19845866?><pub-id pub-id-type="pmid">19845866</pub-id></mixed-citation></ref><ref id="ref-89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sasaki</surname><given-names>M</given-names></name><name><surname>Honmou</surname><given-names>O</given-names></name><name><surname>Akiyama</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Transplantation of an acutely isolated bone marrow fraction repairs demyelinated adult rat spinal cord axons.</article-title>
+<source><italic>Glia.</italic></source>
+<year>2001</year>;<volume>35</volume>(<issue>1</issue>):<fpage>26</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="doi">10.1002/glia.1067</pub-id>
+<!--<pub-id pub-id-type="pmcid">2605363</pub-id>-->
+<?supplied-pmid 11424189?><pub-id pub-id-type="pmid">11424189</pub-id></mixed-citation></ref><ref id="ref-90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chhabra</surname><given-names>HS</given-names></name><name><surname>Sarda</surname><given-names>K</given-names></name><name><surname>Arora</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Autologous bone marrow cell transplantation in acute spinal cord injury--an Indian pilot study.</article-title>
+<source><italic>Spinal Cord.</italic></source>
+<year>2016</year>;<volume>54</volume>(<issue>1</issue>):<fpage>57</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="doi">10.1038/sc.2015.134</pub-id>
+<?supplied-pmid 26282492?><pub-id pub-id-type="pmid">26282492</pub-id></mixed-citation></ref><ref id="ref-91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jarocha</surname><given-names>D</given-names></name><name><surname>Milczarek</surname><given-names>O</given-names></name><name><surname>Kawecki</surname><given-names>Z</given-names></name><etal/></person-group>:
+<article-title>Preliminary study of autologous bone marrow nucleated cells transplantation in children with spinal cord injury.</article-title>
+<source><italic>Stem Cells Transl Med.</italic></source>
+<year>2014</year>;<volume>3</volume>(<issue>3</issue>):<fpage>395</fpage>&#x02013;<lpage>404</lpage>.
+<pub-id pub-id-type="doi">10.5966/sctm.2013-0141</pub-id>
+<!--<pub-id pub-id-type="pmcid">3952933</pub-id>-->
+<?supplied-pmid 24493853?><pub-id pub-id-type="pmid">24493853</pub-id></mixed-citation></ref><ref id="ref-92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caicco</surname><given-names>MJ</given-names></name><name><surname>Zahir</surname><given-names>T</given-names></name><name><surname>Mothe</surname><given-names>AJ</given-names></name><etal/></person-group>:
+<article-title>Characterization of hyaluronan-methylcellulose hydrogels for cell delivery to the injured spinal cord.</article-title>
+<source><italic>J Biomed Mater Res A.</italic></source>
+<year>2013</year>;<volume>101</volume>(<issue>5</issue>):<fpage>1472</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1002/jbm.a.34454</pub-id>
+<?supplied-pmid 23129254?><pub-id pub-id-type="pmid">23129254</pub-id></mixed-citation></ref><ref id="ref-93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mothe</surname><given-names>AJ</given-names></name><name><surname>Tam</surname><given-names>RY</given-names></name><name><surname>Zahir</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Repair of the injured spinal cord by transplantation of neural stem cells in a hyaluronan-based hydrogel.</article-title>
+<source><italic>Biomaterials.</italic></source>
+<year>2013</year>;<volume>34</volume>(<issue>15</issue>):<fpage>3775</fpage>&#x02013;<lpage>83</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.biomaterials.2013.02.002</pub-id>
+<?supplied-pmid 23465486?><pub-id pub-id-type="pmid">23465486</pub-id></mixed-citation></ref><ref id="ref-94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tam</surname><given-names>RY</given-names></name><name><surname>Cooke</surname><given-names>MJ</given-names></name><name><surname>Shoichet</surname><given-names>MS</given-names></name></person-group>:
+<article-title>A covalently modified hydrogel blend of hyaluronan&#x02013;methyl cellulose with peptides and growth factors influences neural stem/progenitor cell fate.</article-title>
+<source><italic>J Mater Chem.</italic></source>
+<year>2012</year>;<volume>22</volume>(<issue>37</issue>):<fpage>19402</fpage>&#x02013;<lpage>19411</lpage>.
+<pub-id pub-id-type="doi">10.1039/c2jm33680d</pub-id>
+</mixed-citation></ref><ref id="ref-95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ansorena</surname><given-names>E</given-names></name><name><surname>De Berdt</surname><given-names>P</given-names></name><name><surname>Ucakar</surname><given-names>B</given-names></name><etal/></person-group>:
+<article-title>Injectable alginate hydrogel loaded with GDNF promotes functional recovery in a hemisection model of spinal cord injury.</article-title>
+<source><italic>Int J Pharm.</italic></source>
+<year>2013</year>;<volume>455</volume>(<issue>1&#x02013;2</issue>):<fpage>148</fpage>&#x02013;<lpage>58</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ijpharm.2013.07.045</pub-id>
+<?supplied-pmid 23916821?><pub-id pub-id-type="pmid">23916821</pub-id></mixed-citation></ref><ref id="ref-96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Itosaka</surname><given-names>H</given-names></name><name><surname>Kuroda</surname><given-names>S</given-names></name><name><surname>Shichinohe</surname><given-names>H</given-names></name><etal/></person-group>:
+<article-title>Fibrin matrix provides a suitable scaffold for bone marrow stromal cells transplanted into injured spinal cord: a novel material for CNS tissue engineering.</article-title>
+<source><italic>Neuropathology.</italic></source>
+<year>2009</year>;<volume>29</volume>(<issue>3</issue>):<fpage>248</fpage>&#x02013;<lpage>57</lpage>.
+<pub-id pub-id-type="doi">10.1111/j.1440-1789.2008.00971.x</pub-id>
+<?supplied-pmid 18992011?><pub-id pub-id-type="pmid">18992011</pub-id></mixed-citation></ref><ref id="ref-97"><label>97</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor</surname><given-names>SJ</given-names></name><name><surname>McDonald</surname><given-names>JW</given-names><suffix>3rd</suffix></name><name><surname>Sakiyama-Elbert</surname><given-names>SE</given-names></name></person-group>:
+<article-title>Controlled release of neurotrophin-3 from fibrin gels for spinal cord injury.</article-title>
+<source><italic>J Control Release.</italic></source>
+<year>2004</year>;<volume>98</volume>(<issue>2</issue>):<fpage>281</fpage>&#x02013;<lpage>94</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jconrel.2004.05.003</pub-id>
+<?supplied-pmid 15262419?><pub-id pub-id-type="pmid">15262419</pub-id></mixed-citation></ref><ref id="ref-98"><label>98</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vulic</surname><given-names>K</given-names></name><name><surname>Shoichet</surname><given-names>MS</given-names></name></person-group>:
+<article-title>Tunable growth factor delivery from injectable hydrogels for tissue engineering.</article-title>
+<source><italic>J Am Chem Soc.</italic></source>
+<year>2012</year>;<volume>134</volume>(<issue>2</issue>):<fpage>882</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1021/ja210638x</pub-id>
+<!--<pub-id pub-id-type="pmcid">3260740</pub-id>-->
+<?supplied-pmid 22201513?><pub-id pub-id-type="pmid">22201513</pub-id></mixed-citation></ref><ref id="ref-99"><label>99</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>Y</given-names></name><name><surname>Ye</surname><given-names>H</given-names></name><name><surname>Satkunendrarajah</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>A self-assembling peptide reduces glial scarring, attenuates post-traumatic inflammation and promotes neurological recovery following spinal cord injury.</article-title>
+<source><italic>Acta Biomater.</italic></source>
+<year>2013</year>;<volume>9</volume>(<issue>9</issue>):<fpage>8075</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.actbio.2013.06.001</pub-id>
+<?supplied-pmid 23770224?><pub-id pub-id-type="pmid">23770224</pub-id></mixed-citation></ref><ref id="ref-100"><label>100</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martin</surname><given-names>R</given-names></name><name><surname>Sadowsky</surname><given-names>C</given-names></name><name><surname>Obst</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Functional electrical stimulation in spinal cord injury:: from theory to practice.</article-title>
+<source><italic>Top Spinal Cord Inj Rehabil.</italic></source>
+<year>2012</year>;<volume>18</volume>(<issue>1</issue>):<fpage>28</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="doi">10.1310/sci1801-28</pub-id>
+<?supplied-pmid 23459150?><pub-id pub-id-type="pmid">23459150</pub-id></mixed-citation></ref><ref id="ref-101"><label>101</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lavrov</surname><given-names>I</given-names></name><name><surname>Gerasimenko</surname><given-names>YP</given-names></name><name><surname>Ichiyama</surname><given-names>RM</given-names></name><etal/></person-group>:
+<article-title>Plasticity of spinal cord reflexes after a complete transection in adult rats: relationship to stepping ability.</article-title>
+<source><italic>J Neurophysiol.</italic></source>
+<year>2006</year>;<volume>96</volume>(<issue>4</issue>):<fpage>1699</fpage>&#x02013;<lpage>710</lpage>.
+<pub-id pub-id-type="doi">10.1152/jn.00325.2006</pub-id>
+<?supplied-pmid 16823028?><pub-id pub-id-type="pmid">16823028</pub-id></mixed-citation></ref><ref id="ref-102"><label>102</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Courtine</surname><given-names>G</given-names></name><name><surname>Gerasimenko</surname><given-names>Y</given-names></name><name><surname>van den Brand</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Transformation of nonfunctional spinal circuits into functional states after the loss of brain input.</article-title>
+<source><italic>Nat Neurosci.</italic></source>
+<year>2009</year>;<volume>12</volume>(<issue>10</issue>):<fpage>1333</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="doi">10.1038/nn.2401</pub-id>
+<!--<pub-id pub-id-type="pmcid">2828944</pub-id>-->
+<?supplied-pmid 19767747?><pub-id pub-id-type="pmid">19767747</pub-id></mixed-citation></ref><ref id="ref-103"><label>103</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dietz</surname><given-names>V</given-names></name><name><surname>Harkema</surname><given-names>SJ</given-names></name></person-group>:
+<article-title>Locomotor activity in spinal cord-injured persons.</article-title>
+<source><italic>J Appl Physiol (1985).</italic></source>
+<year>2004</year>;<volume>96</volume>(<issue>5</issue>):<fpage>1954</fpage>&#x02013;<lpage>60</lpage>.
+<pub-id pub-id-type="doi">10.1152/japplphysiol.00942.2003</pub-id>
+<?supplied-pmid 15075315?><pub-id pub-id-type="pmid">15075315</pub-id></mixed-citation></ref><ref id="ref-104"><label>104</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bhambhani</surname><given-names>Y</given-names></name><name><surname>Tuchak</surname><given-names>C</given-names></name><name><surname>Burnham</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Quadriceps muscle deoxygenation during functional electrical stimulation in adults with spinal cord injury.</article-title>
+<source><italic>Spinal Cord.</italic></source>
+<year>2000</year>;<volume>38</volume>(<issue>10</issue>):<fpage>630</fpage>&#x02013;<lpage>8</lpage>.
+<?supplied-pmid 11093325?><pub-id pub-id-type="pmid">11093325</pub-id></mixed-citation></ref><ref id="ref-105"><label>105</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kakebeeke</surname><given-names>TH</given-names></name><name><surname>Hofer</surname><given-names>PJ</given-names></name><name><surname>Frotzler</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Training and detraining of a tetraplegic subject: high-volume FES cycle training.</article-title>
+<source><italic>Am J Phys Med Rehabil.</italic></source>
+<year>2008</year>;<volume>87</volume>(<issue>1</issue>):<fpage>56</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="doi">10.1097/PHM.0b013e31815b2738</pub-id>
+<?supplied-pmid 17993986?><pub-id pub-id-type="pmid">17993986</pub-id></mixed-citation></ref><ref id="ref-106"><label>106</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harkema</surname><given-names>S</given-names></name><name><surname>Gerasimenko</surname><given-names>Y</given-names></name><name><surname>Hodes</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Effect of epidural stimulation of the lumbosacral spinal cord on voluntary movement, standing, and assisted stepping after motor complete paraplegia: a case study.</article-title>
+<source><italic>Lancet.</italic></source>
+<year>2009</year>;<volume>377</volume>(<issue>9781</issue>):<fpage>1938</fpage>&#x02013;<lpage>47</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0140-6736(11)60547-3</pub-id>
+<!--<pub-id pub-id-type="pmcid">3154251</pub-id>-->
+<?supplied-pmid 21601270?><pub-id pub-id-type="pmid">21601270</pub-id></mixed-citation></ref><ref id="ref-107"><label>107</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pouw</surname><given-names>MH</given-names></name><name><surname>Hosman</surname><given-names>AJ</given-names></name><name><surname>van Middendorp</surname><given-names>JJ</given-names></name><etal/></person-group>:
+<article-title>Biomarkers in spinal cord injury.</article-title>
+<source><italic>Spinal Cord.</italic></source>
+<year>2009</year>;<volume>47</volume>(<issue>7</issue>):<fpage>519</fpage>&#x02013;<lpage>25</lpage>.
+<pub-id pub-id-type="doi">10.1038/sc.2008.176</pub-id>
+<?supplied-pmid 19153591?><pub-id pub-id-type="pmid">19153591</pub-id></mixed-citation></ref><ref id="ref-108"><label>108</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cadotte</surname><given-names>DW</given-names></name><name><surname>Fehlings</surname><given-names>MG</given-names></name></person-group>:
+<article-title>Will imaging biomarkers transform spinal cord injury trials?</article-title>
+<source><italic>Lancet Neurol.</italic></source>
+<year>2013</year>;<volume>12</volume>(<issue>9</issue>):<fpage>843</fpage>&#x02013;<lpage>4</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1474-4422(13)70157-1</pub-id>
+<?supplied-pmid 23827393?><pub-id pub-id-type="pmid">23827393</pub-id></mixed-citation></ref></ref-list></back></article>

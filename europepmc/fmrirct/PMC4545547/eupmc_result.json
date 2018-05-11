@@ -1,0 +1,530 @@
+{
+  "id": [
+    "26286548"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26286548"
+  ],
+  "pmcid": [
+    "PMC4545547"
+  ],
+  "doi": [
+    "10.1186/s12883-015-0397-y"
+  ],
+  "title": [
+    "The effect of computer-based cognitive flexibility training on recovery of executive function after stroke: rationale, design and methods of the TAPASS study."
+  ],
+  "authorString": [
+    "van de Ven RM, Schmand B, Groet E, Veltman DJ, Murre JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van de Ven RM"
+          ],
+          "firstName": [
+            "Renate M"
+          ],
+          "lastName": [
+            "van de Ven"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Amsterdam, Weesperplein 4, 1018, XA, Amsterdam, The Netherlands. r.m.vandeven@uva.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmand B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Schmand"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Amsterdam, Weesperplein 4, 1018, XA, Amsterdam, The Netherlands. b.schmand@uva.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Groet E"
+          ],
+          "firstName": [
+            "Erny"
+          ],
+          "lastName": [
+            "Groet"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Heliomare Research and Development, Relweg 51, 1949, EC, Wijk aan Zee, The Netherlands. e.groet@heliomare.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Veltman DJ"
+          ],
+          "firstName": [
+            "Dick J"
+          ],
+          "lastName": [
+            "Veltman"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, VU University medical center, De Boelelaan 1117, 1081, HZ, Amsterdam, The Netherlands. dj.veltman@vumc.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Murre JM"
+          ],
+          "firstName": [
+            "Jaap M J"
+          ],
+          "lastName": [
+            "Murre"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Amsterdam, Weesperplein 4, 1018, XA, Amsterdam, The Netherlands. jaap@murre.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2476424"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "144"
+  ],
+  "abstractText": [
+    "Stroke survivors frequently suffer from executive impairments even in the chronic phase after stroke, and there is a need for improved rehabilitation of these functions. One way of improving current rehabilitation treatment may be by online cognitive training. Based on a review of the effectiveness of computer-based cognitive training in healthy elderly, we concluded that cognitive flexibility may be a key element for an effective training, which results in improvements not merely on trained tasks but also in untrained tasks (i.e., far transfer). The aim of the current study was to track the behavioral and neural effects of computer-based cognitive flexibility training after stroke. We expected that executive functioning would improve after the cognitive flexibility training, and that neural activity and connectivity would normalize towards what is seen in healthy elderly.The design was a multicenter, double blind, randomized controlled trial (RCT) with three groups: an experimental intervention group, an active control group who did a mock training, and a waiting list control group. Stroke patients (3 months to 5 years post-stroke) with cognitive complaints were included. Training consisted of 58 half-hour sessions spread over 12 weeks. The primary study outcome was objective executive function. Secondary measures were improvement on training tasks, cognitive flexibility, objective cognitive functioning in other domains than the executive domain, subjective cognitive and everyday life functioning, and neural correlates assessed by both structural and resting-state functional Magnetic Resonance Imaging. The three groups were compared at baseline, after six and twelve weeks of training, and four weeks after the end of the training. Furthermore, they were compared to healthy elderly who received the same training.The cognitive flexibility training consisted of several factors deemed important for effects that go beyond improvement on merely the training task themselves. Due to the presence of two control groups, the effects of the training could be compared with spontaneous recovery and with the effects of a mock training. This study provides insight into the potential of online cognitive flexibility training after stroke. We also compared its results with the effectiveness of the same training in healthy elderly.The Netherlands National Trial Register NTR5174. Registered 22 May 2015."
+  ],
+  "affiliation": [
+    "Department of Psychology, University of Amsterdam, Weesperplein 4, 1018, XA, Amsterdam, The Netherlands. r.m.vandeven@uva.nl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Survivors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Waiting Lists"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Netherlands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Executive Function"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Telerehabilitation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurological Rehabilitation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4545547?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4545547"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-015-0397-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-14"
+  ],
+  "dateOfCreation": [
+    "2015-08-19"
+  ],
+  "dateOfRevision": [
+    "2016-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-20"
+  ],
+  "firstPublicationDate": [
+    "2015-08-20"
+  ]
+}

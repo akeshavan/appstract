@@ -1,0 +1,451 @@
+{
+  "id": [
+    "26530712"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26530712"
+  ],
+  "pmcid": [
+    "PMC4709370"
+  ],
+  "doi": [
+    "10.1007/s11695-015-1945-7"
+  ],
+  "title": [
+    "Mechanism Underlying the Weight Loss and Complications of Roux-en-Y Gastric Bypass. Review."
+  ],
+  "authorString": [
+    "Abdeen G, le Roux CW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Abdeen G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Abdeen"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Investigative Science, Imperial College London, London, UK. Ghaliana@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "le Roux CW"
+          ],
+          "firstName": [
+            "C W"
+          ],
+          "lastName": [
+            "le Roux"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "affiliation": [
+            "Gastrosurgical Laboratory, University of Gothenburg, Gothenburg, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2362082"
+      ],
+      "dateOfPublication": [
+        "2016 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Obesity surgery"
+          ],
+          "ISOAbbreviation": [
+            "Obes Surg"
+          ],
+          "medlineAbbreviation": [
+            "Obes Surg"
+          ],
+          "NLMid": [
+            "9106714"
+          ],
+          "ISSN": [
+            "0960-8923"
+          ],
+          "ESSN": [
+            "1708-0428"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "410-421"
+  ],
+  "abstractText": [
+    "Various bariatric surgical procedures are effective at improving health in patients with obesity associated co-morbidities, but the aim of this review is to specifically describe the mechanisms through which Roux-en-Y gastric bypass (RYGB) surgery enables weight loss for obese patients using observations from both human and animal studies. Perhaps most but not all clinicians would agree that the beneficial effects outweigh the harm of RYGB; however, the mechanisms for both the beneficial and deleterious (for example postprandial hypoglycaemia, vitamin deficiency and bone loss) effects are ill understood. The exaggerated release of the satiety gut hormones, such as GLP-1 and PYY, with their central and peripheral effects on food intake has given new insight into the physiological changes that happen after surgery. The initial enthusiasm after the discovery of the role of the gut hormones following RYGB may need to be tempered as the magnitude of the effects of these hormonal responses on weight loss may have been overestimated. The physiological changes after RYGB are unlikely to be due to a single hormone, or single mechanism, but most likely involve complex gut-brain signalling. Understanding the mechanisms involved with the beneficial and deleterious effects of RYGB will speed up the development of effective, cheaper and safer surgical and non-surgical treatments for obesity."
+  ],
+  "affiliation": [
+    "Investigative Science, Imperial College London, London, UK. Ghaliana@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "SU"
+                  ],
+                  "qualifierName": [
+                    "surgery"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weight Loss"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Hormones"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Gastric Bypass"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Eating"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mechanism",
+        "Weight loss",
+        "Complications",
+        "Food Preferences",
+        "Rygb"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Gastrointestinal Hormones"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4709370?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4709370"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11695-015-1945-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "21"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-02"
+  ],
+  "dateOfCreation": [
+    "2016-01-12"
+  ],
+  "dateOfRevision": [
+    "2016-01-23"
+  ],
+  "firstPublicationDate": [
+    "2016-02-01"
+  ]
+}

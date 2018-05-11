@@ -1,0 +1,296 @@
+{
+  "id": [
+    "28337432"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28337432"
+  ],
+  "pmcid": [
+    "PMC5340770"
+  ],
+  "doi": [
+    "10.3389/fpubh.2017.00040"
+  ],
+  "title": [
+    "The Current and Future Role of Heart Rate Variability for Assessing and Training Compassion."
+  ],
+  "authorString": [
+    "Kirby JN, Doty JR, Petrocchi N, Gilbert P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kirby JN"
+          ],
+          "firstName": [
+            "James N"
+          ],
+          "lastName": [
+            "Kirby"
+          ],
+          "initials": [
+            "JN"
+          ],
+          "affiliation": [
+            "The Center for Compassion and Altruism Research and Education, Stanford University, Palo Alto, CA, USA; School of Psychology, The University of Queensland, Brisbane, QLD, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Doty JR"
+          ],
+          "firstName": [
+            "James R"
+          ],
+          "lastName": [
+            "Doty"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "The Center for Compassion and Altruism Research and Education, Stanford University , Palo Alto, CA , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Petrocchi N"
+          ],
+          "firstName": [
+            "Nicola"
+          ],
+          "lastName": [
+            "Petrocchi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "John Cabot University , Rome , Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gilbert P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Gilbert"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Centre for Compassion Research and Training, University of Derby , Derby , UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2524938"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in public health"
+          ],
+          "ISOAbbreviation": [
+            "Front Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Front Public Health"
+          ],
+          "NLMid": [
+            "101616579"
+          ],
+          "ISSN": [
+            "2296-2565"
+          ],
+          "ESSN": [
+            "2296-2565"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "40"
+  ],
+  "abstractText": [
+    "The evolution of mammalian caregiving involving hormones, such as oxytocin, vasopressin, and the myelinated vagal nerve as part of the ventral parasympathetic system, enables humans to connect, co-regulate each other's emotions and create prosociality. Compassion-based interventions draw upon a number of specific exercises and strategies to stimulate these physiological processes and create conditions of \"interpersonal safeness,\" thereby helping people engage with, alleviate, and prevent suffering. Hence, compassion-based approaches are connected with our evolved caring motivation and attachment and our general affiliative systems that help regulate distress. Physiologically, they are connected to activity of the vagus nerve and corresponding adaptive heart rate variability (HRV). HRV is an important physiological marker for overall health, and the body-mind connection. Therefore, there is significant value of training compassion to increase HRV and training HRV to facilitate compassion. Despite the significance of compassion in alleviating and preventing suffering, there remain difficulties in its precise assessment. HRV offers a useful form of measurement to assess and train compassion. Specific examples of what exercises can facilitate HRV and how to measure HRV will be described. This paper argues that the field of compassion science needs to move toward including HRV as a primary outcome measure in its future assessment and training, due to its connection to vagal regulatory activity, and its link to overall health and well-being."
+  ],
+  "affiliation": [
+    "The Center for Compassion and Altruism Research and Education, Stanford University, Palo Alto, CA, USA; School of Psychology, The University of Queensland, Brisbane, QLD, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "brief-report",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Evolution",
+        "heart rate variability",
+        "Compassion",
+        "Compassion-focused Therapy",
+        "Compassion Interventions",
+        "Vagal Break"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5340770?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5340770"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpubh.2017.00040"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-24"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-08"
+  ],
+  "firstPublicationDate": [
+    "2017-03-08"
+  ]
+}

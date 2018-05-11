@@ -1,0 +1,354 @@
+{
+  "id": [
+    "23304215"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23304215"
+  ],
+  "pmcid": [
+    "PMC3523683"
+  ],
+  "doi": [
+    "10.1155/2012/786839"
+  ],
+  "title": [
+    "Auricular acupuncture and vagal regulation."
+  ],
+  "authorString": [
+    "He W, Wang X, Shi H, Shang H, Li L, Jing X, Zhu B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "He W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute of Acupuncture and Moxibustion, China Academy of Chinese Medical Sciences, Beijing 100700, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang X"
+          ],
+          "firstName": [
+            "Xiaoyu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Shi H"
+          ],
+          "firstName": [
+            "Hong"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Shang H"
+          ],
+          "firstName": [
+            "Hongyan"
+          ],
+          "lastName": [
+            "Shang"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Li L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Jing X"
+          ],
+          "firstName": [
+            "Xianghong"
+          ],
+          "lastName": [
+            "Jing"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu B"
+          ],
+          "firstName": [
+            "Bing"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "B"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1844213"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "786839"
+  ],
+  "abstractText": [
+    "Auricular acupuncture has been utilized in the treatment of diseases for thousands of years. Dr. Paul Nogier firstly originated the concept of an inverted fetus map on the external ear. In the present study, the relationship between the auricular acupuncture and the vagal regulation has been reviewed. It has been shown that auricular acupuncture plays a role in vagal activity of autonomic functions of cardiovascular, respiratory, and gastrointestinal systems. Mechanism studies suggested that afferent projections from especially the auricular branch of the vagus nerve (ABVN) to the nucleus of the solitary tract (NTS) form the anatomical basis for the vagal regulation of auricular acupuncture. Therefore, we proposed the \"auriculovagal afferent pathway\" (AVAP): both the autonomic and the central nervous system could be modified by auricular vagal stimulation via projections from the ABVN to the NTS. Auricular acupuncture is also proposed to prevent neurodegenerative diseases via vagal regulation. There is a controversy on the specificity and the efficacy of auricular acupoints for treating diseases. More clinical RCT trials on auricular acupuncture and experimental studies on the mechanism of auricular acupuncture should be further investigated."
+  ],
+  "affiliation": [
+    "Institute of Acupuncture and Moxibustion, China Academy of Chinese Medical Sciences, Beijing 100700, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3523683?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3523683"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23304215/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23304215/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/786839"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "17"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-03-14"
+  ],
+  "dateOfCreation": [
+    "2013-01-10"
+  ],
+  "dateOfRevision": [
+    "2017-06-01"
+  ],
+  "electronicPublicationDate": [
+    "2012-11-27"
+  ],
+  "firstPublicationDate": [
+    "2012-11-27"
+  ]
+}

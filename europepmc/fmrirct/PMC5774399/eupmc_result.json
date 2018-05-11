@@ -1,0 +1,277 @@
+{
+  "id": [
+    "29372007"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29372007"
+  ],
+  "pmcid": [
+    "PMC5774399"
+  ],
+  "doi": [
+    "10.1080/20008198.2017.1414560"
+  ],
+  "title": [
+    "Clinical Virtual Reality tools to advance the prevention, assessment, and treatment of PTSD."
+  ],
+  "authorString": [
+    "Rizzo A', Shilling R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rizzo A'"
+          ],
+          "firstName": [
+            "Albert 'Skip'"
+          ],
+          "lastName": [
+            "Rizzo"
+          ],
+          "initials": [
+            "A'"
+          ],
+          "affiliation": [
+            "Institute for Creative Technologies, University of Southern California, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shilling R"
+          ],
+          "firstName": [
+            "Russell"
+          ],
+          "lastName": [
+            "Shilling"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Digital Promise Global, Washington, DC, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "sup5"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2611698"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of psychotraumatology"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "NLMid": [
+            "101559025"
+          ],
+          "ISSN": [
+            "2000-8066"
+          ],
+          "ESSN": [
+            "2000-8066"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1414560"
+  ],
+  "abstractText": [
+    "Numerous reports indicate that the incidence of posttraumatic stress disorder (PTSD) in Operation Enduring Freedom/Operation Iraqi Freedom/Operation New Dawn (OEF/OIF/OND) military personnel has created a significant behavioural healthcare challenge. These findings have served to motivate research on how to better develop and disseminate evidence-based treatments for PTSD. The current article presents the use of Virtual Reality (VR) as a clinical tool to address the assessment, prevention, and treatment of PTSD, based on the VR projects that were evolved at the University of Southern California Institute for Creative Technologies since 2004. A brief discussion of the definition and rationale for the clinical use of VR is followed by a description of a VR application designed for the delivery of prolonged exposure (PE) for treating Service Members (SMs) and Veterans with combat- and sexual assault-related PTSD. The expansion of the virtual treatment simulations of Iraq and Afghanistan for PTSD assessment and prevention is then presented. This is followed by a forward-looking discussion that details early efforts to develop virtual human agent systems that serve the role of virtual patients for training the next generation of clinical providers, as healthcare guides that can be used to support anonymous access to trauma-relevant behavioural healthcare information, and as clinical interviewers capable of automated behaviour analysis of users to infer psychological state. The paper will conclude with a discussion of VR as a tool for breaking down barriers to care in addition to its direct application in assessment and intervention."
+  ],
+  "affiliation": [
+    "Institute for Creative Technologies, University of Southern California, Los Angeles, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Virtual reality",
+        "Resilience",
+        "Veterans",
+        "Ptsd",
+        "Virtual Patients",
+        "Exposure Therapy",
+        "Service Members",
+        "Virtual Humans",
+        "Bravemind",
+        "Simcoach"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5774399?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5774399"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/20008198.2017.1414560"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-01-27"
+  ],
+  "dateOfRevision": [
+    "2018-01-28"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-16"
+  ],
+  "firstPublicationDate": [
+    "2017-01-16"
+  ]
+}

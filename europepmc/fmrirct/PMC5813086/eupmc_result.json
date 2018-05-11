@@ -1,0 +1,568 @@
+{
+  "id": [
+    "29119217"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29119217"
+  ],
+  "pmcid": [
+    "PMC5813086"
+  ],
+  "doi": [
+    "10.1007/s00213-017-4771-x"
+  ],
+  "title": [
+    "Psilocybin with psychological support for treatment-resistant depression: six-month follow-up."
+  ],
+  "authorString": [
+    "Carhart-Harris RL, Bolstridge M, Day CMJ, Rucker J, Watts R, Erritzoe DE, Kaelen M, Giribaldi B, Bloomfield M, Pilling S, Rickard JA, Forbes B, Feilding A, Taylor D, Curran HV, Nutt DJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Carhart-Harris RL"
+          ],
+          "firstName": [
+            "R L"
+          ],
+          "lastName": [
+            "Carhart-Harris"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK. r.carhart-harris@imperial.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Bolstridge M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Bolstridge"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Day CMJ"
+          ],
+          "firstName": [
+            "C M J"
+          ],
+          "lastName": [
+            "Day"
+          ],
+          "initials": [
+            "CMJ"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rucker J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Rucker"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4647-8088",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Watts R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Watts"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Erritzoe DE"
+          ],
+          "firstName": [
+            "D E"
+          ],
+          "lastName": [
+            "Erritzoe"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaelen M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Kaelen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Giribaldi B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Giribaldi"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloomfield M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Bloomfield"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, University College London and Clinical Psychopharmacology Unit, University College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Pilling S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Pilling"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Clinical Psychology and Clinical Effectiveness, University College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Rickard JA"
+          ],
+          "firstName": [
+            "J A"
+          ],
+          "lastName": [
+            "Rickard"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Barts Health Pharmaceuticals, Barts Health NHS Trust, the Royal London Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Forbes B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Forbes"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Institute of Pharmaceutical Science, King's College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Feilding A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Feilding"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "The Beckley Foundation, Beckley Park, Oxford, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Taylor D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2557-1710",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Pharmacy and Pathology, South London and Maudsley NHS Foundation Trust, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Curran HV"
+          ],
+          "firstName": [
+            "H V"
+          ],
+          "lastName": [
+            "Curran"
+          ],
+          "initials": [
+            "HV"
+          ],
+          "affiliation": [
+            "Clinical Psychology and Clinical Effectiveness, University College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Nutt DJ"
+          ],
+          "firstName": [
+            "D J"
+          ],
+          "lastName": [
+            "Nutt"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4647-8088",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2557-1710",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "235"
+      ],
+      "journalIssueId": [
+        "2652072"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Psychopharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Psychopharmacology (Berl.)"
+          ],
+          "medlineAbbreviation": [
+            "Psychopharmacology (Berl)"
+          ],
+          "NLMid": [
+            "7608025"
+          ],
+          "ISSN": [
+            "0033-3158"
+          ],
+          "ESSN": [
+            "1432-2072"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "399-408"
+  ],
+  "abstractText": [
+    "Recent clinical trials are reporting marked improvements in mental health outcomes with psychedelic drug-assisted psychotherapy.Here, we report on safety and efficacy outcomes for up to 6 months in an open-label trial of psilocybin for treatment-resistant depression.Twenty patients (six females) with (mostly) severe, unipolar, treatment-resistant major depression received two oral doses of psilocybin (10 and 25 mg, 7 days apart) in a supportive setting. Depressive symptoms were assessed from 1 week to 6 months post-treatment, with the self-rated QIDS-SR16 as the primary outcome measure.Treatment was generally well tolerated. Relative to baseline, marked reductions in depressive symptoms were observed for the first 5 weeks post-treatment (Cohen's d = 2.2 at week 1 and 2.3 at week 5, both p < 0.001); nine and four patients met the criteria for response and remission at week 5. Results remained positive at 3 and 6 months (Cohen's d = 1.5 and 1.4, respectively, both p < 0.001). No patients sought conventional antidepressant treatment within 5 weeks of psilocybin. Reductions in depressive symptoms at 5 weeks were predicted by the quality of the acute psychedelic experience.Although limited conclusions can be drawn about treatment efficacy from open-label trials, tolerability was good, effect sizes large and symptom improvements appeared rapidly after just two psilocybin treatment sessions and remained significant 6 months post-treatment in a treatment-resistant cohort. Psilocybin represents a promising paradigm for unresponsive depression that warrants further research in double-blind randomised control trials."
+  ],
+  "affiliation": [
+    "Psychedelic Research Group, Centre for Neuropsychopharmacology, Division of Brain Sciences, Faculty of Medicine, Imperial College London, London, UK. r.carhart-harris@imperial.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MR/J00460X/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CL-2015-18-005"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Serotonin",
+        "Depression",
+        "Mood",
+        "Treatment-resistant Depression",
+        "psychotherapy",
+        "Hallucinogen",
+        "Psilocybin",
+        "5-Ht2ar",
+        "Psychedelic"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5813086?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5813086"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00213-017-4771-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-11-10"
+  ],
+  "dateOfRevision": [
+    "2018-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-08"
+  ],
+  "firstPublicationDate": [
+    "2017-11-08"
+  ]
+}

@@ -1,0 +1,2373 @@
+<?xml version="1.0"?>
+Hum Brain MappHum Brain Mapp10.1002/(ISSN)1097-0193HBMHuman Brain Mapping1065-94711097-0193John Wiley and Sons Inc.Hoboken543482810.1002/hbm.23584HBM23584Research ArticleResearch ArticlesReal‐time fMRI neurofeedback in adolescents with attention deficit hyperactivity disorderReal‐Time fMRI‐NF in Adolescents with ADHDAlegria et al.AlegriaAnalucia A.
+1
+
+†
+WulffMelanie
+1
+
+†
+BrinsonHelen
+1
+BarkerGareth J.
+2
+NormanLuke J.
+1
+BrandeisDaniel
+3
+
+4
+
+5
+StahlDaniel
+6
+DavidAnthony S.
+7
+TaylorEric
+1
+GiampietroVincent
+2
+
+‡
+RubiaKatyahttp://orcid.org/0000-0002-1410-7701katya.rubia@kcl.ac.uk
+1
+
+‡
+1Department of Child and Adolescent PsychiatryInstitute of Psychiatry, Psychology and Neuroscience, King's College LondonLondonUnited Kingdom2Centre for Neuroimaging Science, Institute of Psychiatry, Psychology and Neuroscience, King's College LondonLondonUnited Kingdom3Department of Child and Adolescent Psychiatry and PsychotherapyCentral Institute of Mental Health, Medical Faculty Mannheim/Heidelberg UniversityMannheimGermany4Department of Child and Adolescent Psychiatry and Psychotherapy, Psychiatric HospitalUniversity of ZurichZurichSwitzerland5Center for Integrative Human Physiology, and Neuroscience Center Zurich, University of ZurichZurichSwitzerland6Department of BiostatisticsKing's College LondonLondonUnited Kingdom7Department of Psychosis StudiesInstitute of Psychiatry, Psychology and Neuroscience King's College LondonLondonUnited Kingdom*Correspondence to: Prof Katya Rubia; Department of Child and Adolescent Psychiatry/MRC Social, Genetic and Developmental Psychiatry (SGDP) Centre, PO46, Institute of Psychiatry, Psychology and Neuroscience, King's College London, 16 DeCrespigny Park, London, SE5 8AF, UK. E‐mail: katya.rubia@kcl.ac.uk†Mrs. Alegria and Dr. Wulff have contributed equally to first authorship.‡Prof Rubia and Dr. Giampietro have contributed equally to last authorship.25320176201738610.1002/hbm.v38.6319032091612201606320171332017© 2017 The Authors Human Brain Mapping Published by Wiley Periodicals, Inc.This is an open access article under the terms of the Creative Commons Attribution‐NonCommercial‐NoDerivs License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.AbstractAttention Deficit Hyperactivity Disorder (ADHD) is associated with poor self‐control, underpinned by inferior fronto‐striatal deficits. Real‐time functional magnetic resonance neurofeedback (rtfMRI‐NF) allows participants to gain self‐control over dysregulated brain regions. Despite evidence for beneficial effects of electrophysiological‐NF on ADHD symptoms, no study has applied the spatially superior rtfMRI‐NF neurotherapy to ADHD. A randomized controlled trial tested the efficacy of rtfMRI‐NF of right inferior prefrontal cortex (rIFG), a key region that is compromised in ADHD and upregulated with psychostimulants, on improvement of ADHD symptoms, cognition, and inhibitory fMRI activation. To control for region‐specificity, an active control group received rtfMRI‐NF of the left parahippocampal gyrus (lPHG). Thirty‐one ADHD boys were randomly allocated and had to learn to upregulate their target brain region in an average of 11 rtfMRI‐NF runs over 2 weeks. Feedback was provided through a video‐clip of a rocket that had to be moved up into space. A transfer session without feedback tested learning retention as a proximal measure of transfer to everyday life. Both NF groups showed significant linear activation increases with increasing number of runs in their respective target regions and significant reduction in ADHD symptoms after neurotherapy and at 11‐month follow‐up. Only the group targeting rIFG, however, showed a transfer effect, which correlated with ADHD symptom reductions, improved at trend level in sustained attention, and showed increased IFG activation during an inhibitory fMRI task. This proof‐of‐concept study demonstrates for the first time feasibility, safety, and shorter‐ and longer‐term efficacy of rtfMRI‐NF of rIFG in adolescents with ADHD. Hum Brain Mapp 38:3190–3209, 2017. © 2017 The Authors Human Brain Mapping Published by Wiley Periodicals, Inc.
+ADHDfMRIfMRI‐neurofeedbackreal‐time fMRI neurofeedbackstop taskAction Medial Research
+1890 (KR)
+National Institute for Health Research (NIHR) Biomedical Research Centre at South London and the Maudsley NHS Foundation Trust and King's College London to KR. AA and LN were supported by PhD studentships from the Institute of Psychiatry, Psychology and Neuroscience, King's College London.
+source-schema-version-number2.0component-idhbm23584cover-dateJune 2017details-of-publishers-convertorConverter:WILEY_ML3GV2_TO_NLMPMC version:5.0.9 mode:remove_FC converted:17.05.2017INTRODUCTIONAttention Deficit Hyperactivity Disorder (ADHD) is a male‐predominant (4:1) childhood disorder of age‐inappropriate problems with inattention, impulsiveness, and hyperactivity that persists into adulthood in most cases and has a prevalence of around 7% [Thomas et al., 2015]. Psychostimulants improve ADHD symptoms in about 70% of patients with effect sizes of 0.6 for parent and up to 0.8 for teacher ratings [Stevens et al., 2013]. Although superior to behavioral treatments in the short‐term, longer‐term efficacy has not been demonstrated [Cunill et al., 2016; Molina et al., 2009], which may be related to evidence from positron emission tomography studies for dopaminergic brain adaptation to psychostimulant medication [Fusar‐Poli et al., 2012; Wang et al., 2013]. Moreover, because of their potential for abuse and diversion, adverse effects, and unknown longer‐term brain effects, non‐pharmacological treatments are preferred, but have limited efficacy [Sonuga‐Barke et al., 2013].Neurotherapies like neurofeedback (NF) that target the key underlying neurobiological mechanisms are promising. NF is an operant conditioning procedure that, by trial and error, teaches participants to volitionally self‐regulate specific regions/networks through real‐time audio/visual feedback of their brain activation which can be represented on a PC and gamified in an attractive way for children. Given that ADHD is typified by poor self‐control [Schachar et al., 1993], and enhancing brain‐self‐control is the target of NF, ADHD is the psychiatric disorder where NF has been most applied, using electrophysiological neurofeedback (EEG‐NF) targeting abnormal EEG biomarkers. Meta‐analyses of randomized controlled trials (RCT) of EEG‐NF show medium effect sizes for symptom improvements [Arns et al., 2009], reduced to trends when only “probably” blinded raters are included [Holtmann et al., 2014; Sonuga‐Barke et al., 2013]. Crucially, unlike psychostimulant treatment, NF effects seem stable and longer‐lasting (up to 2 years), with no side effects [Arns and Kenemans, 2014; Gani et al., 2008; Gevensleben et al., 2010; Leins et al., 2007; Mayer et al., 2016; Steiner et al., 2014; Strehl et al., 2006].Brain regulation with EEG‐NF requires typically dozens of sessions [Thibault et al., 2016], in ADHD studies 30–40 hourly runs are commonly used [Arns et al., 2009]. Real‐time functional magnetic resonance imaging‐NF (rtfMRI‐NF) teaches subjects to self‐regulate blood‐oxygen level‐dependent (BOLD) response in specific brain regions based on real‐time feedback of this response. The BOLD self‐regulation can be achieved in less than 40 min [Thibault et al., 2016] in healthy adults. While more sessions may be needed to achieve clinical efficacy in patient groups like ADHD, the ability to learn to self‐regulate brain activation appears to be much faster with rtfMRI‐NF than EEG‐NF [Thibault et al., 2016]. The faster learning may be due to brain baroreceptors informing on blood flow but not on electrical activity [Dworkin, 1988; Thibault et al., 2016], and/or superior signal/contrast to noise ratio and superior spatial localization specificity of the fMRI signal. Furthermore, EEG‐NF cannot modulate activation in key underfunctioning regions in ADHD found in fMRI meta‐analyses, such as right inferior frontal gyrus (rIFG) or basal ganglia [Hart et al., 2013; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 1999, 2005, 2008, 2014a]. rIFG in particular is a key hub region mediating functions that are compromised in ADHD like attention, inhibition, and timing [Hugdahl et al., 2015; Kim, 2014; Radua et al., 2014], and its activation correlates with behavioral impulsiveness [Rubia et al., 1999, 2005]. rIFG underactivation in ADHD is furthermore disorder‐specific relative to other childhood disorders such as conduct, obsessive‐compulsive and autism spectrum disorder [Chantiluke et al., 2015; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 2008, 2009b] and is the region most consistently upregulated with single and chronic stimulant medication doses [Norman et al., 2016; Rubia et al., 2014b].Healthy adults can upregulate rIFG in rtfMRI‐NF within 4 runs of 8 minutes [Rota et al., 2009]. Studies in psychiatric/neurological disorders highlight the clinical potential of rtfMRI‐NF [Thibault et al., 2015, 2016], showing generalization to NF‐free transfer runs and longer‐term beneficial effects of up to several months [Zilverstand et al., 2015]. Importantly, by learning to self‐upregulate isolated regions, participants learn to co‐regulate other areas interconnected with the target region, suggesting modulation of entire networks [Emmert et al., 2016; Thibault et al., 2016]. rtfMRI‐NF of rIFG may hence be an attractive neurotherapy for ADHD children who typically have IFG‐striatal mediated self‐regulatory problems [Cortese et al., 2012; Hart et al., 2013; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 1999, 2005, 2014a]. However, no study has investigated rtfMRI‐NF in ADHD children. Only one recently published feasibility pilot study tested rtfMRI‐NF of dorsal anterior cingulate cortex (dACC) over 4 hourly MRI sessions in combination with performance on a mental calculation task expected to increase dACC activation in seven adults with ADHD compared with six adults with ADHD who performed the same training task in the MRI scanner but did not receive rtfMRI‐NF. The study found that although both groups showed similar dACC activation increases during training and transfer runs, ADHD symptoms were not improved in either group. Only the active, but not the control group, however, showed performance improvements in sustained attention and working memory, suggesting some superior effects of rtfMRI‐NF on cognitive performance. While the study was underpowered to test potential clinical benefits, it showed feasibility of rtfMRI‐NF in ADHD adults [Zilverstand et al., 2017].We hence conducted the first proof‐of‐concept rtfMRI‐NF RCT in adolescents with ADHD to test whether patients can learn to self‐upregulate rIFG activation in 14 rtfMRI‐NF runs. Given that rIFG underactivation is a consistent, disorder‐specific neurofunctional biomarker for ADHD children and adults [Cortese et al., 2012; Hart et al., 2013; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 1999, 2005, 2014a] and the main target of psychostimulant medication [Norman et al., 2016; Rubia et al., 2014b], we hypothesized that rtfMRI‐NF of rIFG would reduce ADHD symptoms and improve attention, inhibition, and timing functions mediated by this region as well as enhance typically reduced rIFG activation [Cortese et al., 2012; Hart et al., 2013; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 1999, 2005, 2014a] during an fMRI inhibition task, with no side effects and longer‐term efficacy 6 months after treatment. To control for region‐specificity and learning, rather than a sham‐NF control condition, we used an active rtfMRI‐NF control group, who was trained to self‐upregulate another region not impaired in ADHD.MATERIALS AND METHODSParticipantsThirty‐one right‐handed [Oldfield, 1971], 12–17 year‐old boys, with a clinical DSM‐5 ADHD diagnosis, combined hyperactive/impulsive and inattentive (N = 27) or inattentive subtypes (N = 4), as assessed by an experienced child psychiatrist and confirmed with the Schedule of Affective Disorders and Schizophrenia for School‐Age Children‐Present and Lifetime version (K‐SADS‐PL) [Kaufman et al., 1996], were recruited from South London clinics. They also scored above clinical ADHD threshold on the Conners’ Parent Rating Scale (CPRS‐R), a parent rated index of ADHD severity [Conners et al., 1998]. The Social Communication Questionnaire (SCQ) [Rutter et al., 2003] screened for autism spectrum disorders. Six boys met/exceeded the cut‐off score of 15 (2 active, 4 controls), but a possible autism spectrum condition was ruled out by clinical interview. General functioning and symptom severity were assessed with the Children's Global Assessment Scale (CGAS) [Shaffer et al., 1983].Exclusion criteria were IQ &lt; 80 [Wechsler, 2011], alcohol or substance abuse, neurological or comorbid psychiatric disorders, except for disruptive behavior disorder, and MRI contraindications. Twenty‐four boys received stable psychostimulant administration throughout the rtfMRI‐NF period. Baseline testing started at least 7 days after titration (methylphenidate: N
+Active = 13, N
+Control = 9, dexamphetamine: N
+Active = 2). One control boy was medication‐naïve, and 3 boys of the active and 3 boys of the control group ceased taking medication for at least 7 days before baseline testing. The study was approved by the local ethics committee and conducted in accordance with the Declaration of Helsinki. Written informed assent/consent was obtained from each participant/legal guardian. Participants received £20 for each of the 1–1.5 hr rtfMRI‐NF scan visit, and up to £10 for best performance during the session, as well as £30 for the post‐training neuropsychological assessment, in total up to £150. They were also reimbursed for travel expenses.Experimental DesignA single‐blind RCT (ISRCTN: 12800253) with an active control group compared the effects of rtfMRI‐NF of the rIFG (active group) and of the left middle parahippocampal gyrus (lPHG; control group), thought to mediate visual‐spatial processing and episodic memory, and be crucial for spatio‐temporal context association [Aminoff et al., 2013]. A random permuted block design was used for randomization of participants in a 4‐to‐3 ratio with randomly varying block size [Matts and Lachin, 1988]. Children and parents were blinded to group allocation; for practical reasons, this was not possible for researchers.rtfMRI ProtocolBoys were offered 14 rtfMRI‐NF runs (8.5min each) in four 1–1.5 hr scan visits over 2 weeks. Each rtfMRI‐NF run consisted of seven rest (30 s) and six activation (50 s) blocks, starting with a rest block showing an underwater dolphin image, while activation blocks showed a video‐clip of a rocket (Fig. 1). Boys were asked to move the rocket toward space by any means they found helpful. Instructions were minimal (i.e., “you can try to concentrate on the rocket” or “try any other method that works for you”) as this has been shown to be more effective than explicit instructions [Sulzer et al., 2013], and instruction‐free approaches are common in EEG‐NF for ADHD children [Gevensleben et al., 2014; Strehl et al., 2006]. However, in rtfMRI‐NF it has been shown that for some regions it appears to make no difference whether instructions are given (e.g., motor regions [Sepulveda et al., 2016]), while explicit instructions may be beneficial for the self‐regulation of specific brain areas (e.g., limbic system [Zilverstand et al., 2015]. They received continuous feedback (every repetition time (TR), i.e., 2 s), about their brain activation in their target region of interest (ROI) via the rocket video‐clip, with the direction and distance travelled in space proportional to their BOLD response. To enhance motivation, a score (0–10), reflecting the percentage of distance travelled through space during each run, appeared on the screen (e.g., 6 for 60%) and a monetary incentive (e.g., £6 for 6/60%) corresponding to the best performance in the session was given after the scan. Between runs (a few minutes’ break), researchers briefly acknowledged the effort in not moving the head, reminded participants to keep doing so, and congratulated the participants for the score they obtained.Figure 1Schematic overview of the design of the rtfMRI‐NF study. ADHD‐RS, Attention Deficit Hyperactivity Disorder‐Rating Scale; CGAS, Children's Global Assessment Scale; CIS, Columbia Impairment Scale; CPRS‐R, Conners’ Parent Rating Scale‐Revised; K‐SADS‐PL, Kiddie‐SADS‐Present and Lifetime Version; MARS, Maudsley Attention and Response Suppression task battery; NF, Neurofeedback; SCQ, Social Communication Questionnaire (Lifetime); Wechsler Abbreviated Scale of Intelligence, 2nd Edition (WASI‐II); WREMB‐R, Weekly Rating of Evening and Morning Behavior‐Revised. [Color figure can be viewed at wileyonlinelibrary.com]Between visits, boys had to practice daily brain self‐regulation using a cue card depicting the video‐clip rocket. After the last rtfMRI‐NF run, a 5‐minute fMRI transfer run was conducted, which was identical to the NF training runs, using the same stimuli, but without the feedback (the rocket did not move), consisting of four rest and three activation blocks. Transfer runs measure retention of learning and are considered a proximal measure of successful transfer of training strategies to everyday life [Drechsler et al., 2007].Outcome MeasuresClinical measuresThe primary outcome measure was the ADHD Rating Scale (ADHD‐RS‐IV), a standard tool to assess ADHD symptoms according to DSM‐IV‐TR and to monitor treatment effects [Dupaul et al., 1998], the secondary outcome measure was the CPRS‐R ADHD index [Conners et al., 1998], both rated by parents. ADHD‐related difficulties and functional impairments were assessed with the Weekly Parent Ratings of Evening and Morning Behavior‐Revised scale (WREMB‐R) [Wehmeier et al., 2009] and the Columbia Impairment Scale‐Parent version (CIS) [Bird et al., 1993], respectively.Neurocognitive measuresPerformance on tasks of inhibition, sustained attention, time estimation and temporal discounting were measured using the Maudsley Attention and Response Suppression task battery (MARS) [Rubia et al., 2007a] (see Supporting Information), including a Go/No‐Go Task (main dependent variable: probability of inhibition), a Continuous Performance Task (CPT; omission and commission errors), a Time Discrimination Task (TD; errors), and an individually adjusted Delay Discounting Task (DD) (impulsiveness factor k) [Kekic et al., 2014; Rubia et al., 2009a].fMRI stop taskAn fMRI version of an individually adjusted visual tracking Stop task [Chantiluke et al., 2015; Rubia et al., 2003, 2005, 2007b, 2011, 2014b], measuring motor response inhibition, was administered immediately before and after the rtfMRI‐NF training. The contrast of successful Stop‐Go trials assessed inhibitory activation. The dependent behavioral variable is the Stop Signal Reaction Time (SSRT) which is calculated by subtracting the mean delay time from the mean reaction time to go trials [Logan et al., 1997] (see Supporting Information for details of the task and fMRI acquisition protocol).Safety and feasibility measuresParents completed safety [Hill and Taylor, 2001] and adverse effects scales (adapted from [Döpfner et al., 2006] and rated their child's frequency of self‐regulation practice and ability to apply the learned strategies in daily life using a scale from 0 (not at all/never) to 4 (definitely/always) [Maurizio et al., 2014]. Boys rated their learning, self‐regulation practice, transfer to daily life, mood, motivation, and overall impression of the rtfMRI‐NF training [Maurizio et al., 2014].The ADHD‐RS, CPRS‐R, WREMB‐R, CIS, MARS Task battery, and side effects were completed approximately 1 month before the rtfMRI‐NF (pre) and 1 week after the last rtfMRI‐NF run (post). Parents and children rated the rtfMRI‐NF training experience and treatment allocation guess after post‐assessment. Follow‐up (FU) measures were obtained for ADHD‐RS a minimum of 6 months after the last rtfMRI‐NF run (Fig. 1).rtfMRI‐NF Data Acquisition and ProcessingFunctional and structural images were acquired on a 3T General Electric MR750 scanner with a 12‐channel head coil at the Centre for Neuroimaging Sciences, King's College London. A T1‐weighted structural scan, used as structural localizer, was acquired before the fMRI runs (see Supporting Information for further details).A custom rtfMRI‐NF interface system [Bodurka and Bandettini, 2008] and the AFNI software [Cox, 1996] were used for real‐time transfer and analysis of the fMRI data. The rtfMRI‐NF interface system ran on the scanner hardware to access the fMRI scans as they were reconstructed. The images were then transferred to an external Linux workstation where they were pre‐processed using AFNI, a software with built‐in real‐time capacities. The effects of head motion were corrected in real‐time by the AFNI software, displaying graphs of the motion parameters in real‐time on the screen. We used the CA_N27_ML/TT_N template to define the target ROIs (ROITAR) in AFNI structurally for each adolescent before each rtfMRI‐NF session. The ROITAR for the active group was the rIFG comprising of the pars triangularis (14,138 voxels in the Talairach space of the template and 385 voxels when mapped to fMRI space) and the pars orbitalis (11,484 voxels in the Talairach space of the template and 308 voxels when mapped to fMRI space). For the control group the ROITAR was the lPHG (5,976 voxels in the Talairach space of the template and 149 voxels when mapped to fMRI space). A customized AFNI script automatically created a native‐space image mask of the ROITAR and the white matter (used as reference region, ROIREF, to cancel out non‐specific global brain effects) based on the T1‐weighted structural image and a two‐volume EPI localizer image matched to the fMRI sequence for the geometric distortion inherent in EPI acquisitions.The image mask of the pre‐selected ROIs was applied to the pre‐processed fMRI images to extract in real‐time the mean BOLD signal from each ROI. For each newly acquired brain volume, AFNI calculated a new set of values for each ROI, which were fed to a locally written program that generated a dynamic visual feedback display by means of the moving rocket. The threshold required for the rocket to move up was continuously updated based on past performance ((ROITAR − ROIREF) − (ROITARPrevious − ROIREFPrevious)), where ROIREFPrevious and ROITARPrevious are the average activation of ROIREF and ROITAR in the previous rest block. Boys were informed of the NF delay (∼6 s), caused by hemodynamic delay and data processing time.Data AnalysisBehavioral dataSome participants did not complete all cognitive tasks due to time constraints, while some parents did not fill in all questionnaires. Missing data (&lt;5%) were assumed to be completely at random; missing pre‐treatment values were replaced by group means [White and Thompson, 2005]. Multiple (i.e., 20) imputations were used for missing post‐treatment data. The individual estimates from the multiply imputed datasets were then used to calculate a combined estimate by applying Rubin's Rules [Little and Rubin, 2002]. Repeated‐measures mixed ANOVAs tested within‐ and between‐group effects. Effect size (Cohen's d) was calculated as the difference between the means (pre‐post, pre‐FU) divided by the corresponding pooled standard deviation. One‐tailed Pearson correlation analyses tested correlations between rtfMRI‐NF induced brain activation changes and primary and secondary clinical outcome changes.rtfMRI‐NF DataAll 31 participants (N
+Active = 18; N
+Control = 13) were included in the rtfMRI‐NF data analyses. Mostly due to technical difficulties and consequent time constraints, only 11 participants completed all 14 rtfMRI‐NF runs (N
+Active = 5; N
+Control = 6). Due to the relative novelty of installing rtfMRI‐NF on one of our new 3T scanners, several technical problems occurred such as the scanner did not reconstruct images, issues with creating the mask, or communication problems between the various components of the NF pipeline, for example, no data transfer from the scanner to the processing server, or ROI information was not transferred to the paradigm presentation software, resulting in lack of feedback for the participants, all of which caused loss of rtfMRI‐NF runs. The average number of rtfMRI‐NF runs was 11 (see Table 1d). Therefore, only runs completed by at least 65% of the participants were included, resulting in only the first 11 (or earlier) rtfMRI‐NF runs being analyzed (Table 1d).Table 1Demographic, clinical, and medication status characteristics and number of rtfMRI‐NF runs in active and control group
+Both groups combined (N
+=
+31)
+
+Active group (N
+=
+18)
+
+Control group (N
+=
+13)
+
+Between‐subject ANOVA
+
+Mean (SD) or n (%)
+
+Mean (SD) or n (%)
+
+Mean (SD) or n (%)
+
+F(1,29)/χ2
+
+P
+
+(a) Demographics
+Age in years13.90 (1.58)14.11 (1.53)13.62 (1.66)0.740.40IQ (WASI‐II)103.45 (14.28)103.83 (15.95)102.92 (12.20)0.030.86Years of education9.32 (1.51)9.50 (1.58)9.08 (1.44)0.580.45Age at onset of ADHD (years)6.68 (1.82)6.72 (2.19)6.62 (1.19)0.030.88Social communication questionnaire9.24 (5.91)8.97 (5.68)9.62 (6.44)0.090.77Children's global assessment scale49.77 (8.33)51.17 (7.68)47.85 (9.09)1.210.28Oppositional defiant disorder comorbidity14 (45.20%)7 (38.90%)7 (53.80%)0.680.41
+(b) Clinical measures
+
+ADHD‐Rating Scale
+a
+
+ADHD‐RS total score
+37.16 (10.13)36.72 (9.43)37.77 (11.39)0.080.78
+ADHD‐RS inattention
+20.29 (4.47)19.83 (4.46)20.92 (4.59)0.440.51
+ADHD‐RS hyperactivity/impulsivity
+16.87 (6.39)16.89 (5.71)16.85 (7.48)0.000.99
+Conner's Parent Rating Scale (T‐score)
+
+ADHD index
+b
+14.81 (4.29)13.61 (4.80)16.46 (2.88)3.620.07Global index85.42 (6.62)84.06 (6.81)87.31 (6.10)1.740.20Inattention83.06 (6.74)81.72 (7.20)84.92 (5.81)0.060.80Hyperactivity/impulsivity85.42 (9.29)85.06 (9.56)85.92 (9.28)1.870.18DSM‐5 attention81.16 (8.53)79.06 (8.98)84.08 (7.19)2.770.11DSM‐5 hyperactivity/impulsivity85.48 (9.13)85.56 (9.22)85.38 (9.39)0.000.96Kiddie‐SADS‐Present and Lifetime Version (ADHD module)Total number of ADHD symptoms14.19 (2.59)14.28 (2.30)14.08 (3.04)0.040.84Inattention symptoms7.74 (1.15)7.72 (1.18)7.77 (1.17)0.010.91Hyperactivity/impulsivity symptoms6.48 (1.93)6.56 (1.54)6.31 (2.46)0.120.73WREMB‐R Total score21.67 (6.45)21.17 (6.78)22.36 (6.16)0.250.62Columbia impairment scale23.87 (11.70)20.94 (10.93)27.91 (11.94)2.840.10Side effects16.87 (7.58)15.11 (6.74)19.30 (8.25)2.410.13
+(c) Medication status
+1.740.42Medication naïve1 (3.2%)0 (0%)1 (7.70%)On stimulant medication24 (77.40%)15 (83.30%)9 (69.20%)Off stimulant medication6 (19.40%)3 (16.70%)3 (23.10%)
+(d) real‐time fMRI Neurofeedback (rtfMRI‐NF) runs
+Number of rtfMRI‐NF runs (max 14)11.65 (2.50)11.11 (2.81)12.38 (1.85)2.030.17Completed 11+ rtfMRI‐NF runs21 (67.70%)11 (61.10%)10 (76.90%)0.860.35Completed all 14 rtfMRI‐NF runs10 (32.26%)4 (22.22%)6 (46.20%)1.980.16WREMB‐R, Weekly Rating of Evening and Morning Behavior‐Revised; WASI, Wechsler Abbreviated Score of Intelligence, second edition.aPrimary outcome measure.bSecondary outcome measure.The non‐parametric XBAM software (www.brainmap.co.uk) [Brammer et al., 1997] was used for post‐scanning analyses of the rtfMRI‐NF data as non‐parametric analyses overcome many of the issues of parametric analytical methods leading to high false positive rates [Eklund et al., 2016].rtfMRI‐NF brain activation was first analyzed for each subject for each of the up to 11 rtfMRI‐NF runsThe individual and group‐level analysis methods are described in detail elsewhere [Brammer et al., 1997; Bullmore et al., 1999a; Bullmore et al., 1999b] and in the Supporting Information.Briefly, fMRI data were realigned to minimize motion‐related artifacts and smoothed using a 7.8 mm full‐width‐at‐half‐maximum (FWHM) Gaussian filter. Time‐series analysis of individual activation was performed with a wavelet‐based resampling method [Bullmore et al., 2001]. The main experimental conditions [NF–baseline; i.e., the response size to the NF (active block) condition against the baseline (rest block) condition] were convolved with 2 Poisson model functions (peaking at 4 and 8 s). The weighted sum of these convolutions giving the best fit (least‐squares) to the time series at each voxel was calculated. A goodness‐of‐fit statistic (SSQ ratio) was then computed at each voxel consisting of the ratio of the sum of squares of deviations from the mean intensity value due to the model (fitted time series) divided by that of the squares due to the residuals (original minus model time series). This statistic, the SSQ ratio, was used in further analyses. Individual maps were then normalized to Talairach space [Talairach and Toumoux, 1988], and a group activation map was produced for each group (see Supporting Information for details).Repeated‐measures ANOVA comparing groups in activation changes to the last minus the first rtfMRI‐NF run in the two ROIsNext, repeated‐measures ANOVAs tested group differences in activation in the trained ROIs of rIFG and lPHG between the last (11th or earlier) and first rtfMRI‐NF run. For this purpose, a repeated‐measures ANOVA, with first and last (11th or earlier) rtfMRI‐NF run as repeated‐measures and group as independent measure, was applied to compare groups in their activation changes between the first and last rtfMRI‐NF run in the two ROIs. This allowed us to examine whether the active group would show increased activation in the last relative to the first rtfMRI‐NF run compared with the control group in their ROI‐rIFG, while the control group would show increased activation in the last versus first rtfMRI‐NF run compared with the active group in their ROI‐lPHG. For this purpose, randomization‐based tests for voxel‐ or cluster‐wise differences were again used as described above, and in detail elsewhere [Bullmore et al., 1999b, 2001]. For this analysis, less than one false positive cluster per map was obtained with voxel‐level P &lt; 0.05 and cluster‐level P &lt; 0.01.Group differences in linear correlation between brain activation in ROIs and number of rtfMRI‐NF runsTo test our hypothesis that each group would show a linear progressive activation increase in the trained ROI compared with the other group with increasing number of rtfMRI‐NF runs, we conducted a group comparison of the linear correlation between activation in the ROI and number of rtfMRI‐NF runs. To conduct this analysis, a summary statistical map for each rtfMRI‐NF run for each group was constructed by averaging the statistical maps of all participants who had data for that rtfMRI‐NF run, resulting in one set of 11 average maps per group.(a) To test for a linear correlation between ROI activation and number of rtfMRI‐NF runs for each group, the Pearson product‐moment correlation coefficient was first computed at each voxel in standard space between the number of rtfMRI‐NF runs and signal change within each group. Correlation coefficients were recalculated after randomly permuting the run numbers, but not the fMRI data. Multiply repeating the second step (50 times per voxel, then combining over all voxels) gives the distribution of correlation coefficients under the null hypothesis of no association between number of rtfMRI‐NF runs and specific BOLD ROI effects. This null distribution can then be used to assess the probability of any particular correlation coefficient under the null hypothesis. For this analysis, the thresholds were set at P &lt; 0.05 for voxel‐level and P &lt; 0.05 for cluster‐level to give less than one false positive cluster per map.(b) To test whether groups had differential effects on linear correlations between the number of rtfMRI‐NF runs and brain activation in the two trained ROIs, group differences were examined in the correlation coefficients of brain activation in the respective ROIs and number of rtfMRI‐NF runs. For each group independently, the average Pearson product‐moment correlation coefficient between number of rtfMRI‐NF runs and BOLD response in the two ROIs was computed (see above) and group differences in correlation calculated. To determine the significance of this difference, the appropriate null distribution was generated by randomly permuting subjects and rtfMRI‐NF run numbers between groups, thus scrambling any group differences. For each permutation, the correlation difference between scrambled groups was calculated and resulting values were combined over all voxels to produce a whole‐brain null distribution of differences in correlation. Testing was then extended to cluster‐level, with thresholds being set at P &lt; 0.05 for voxel‐level and P &lt; 0.05 for cluster‐level to give less than one false positive cluster per map.We used each trained ROI as mask and reported areas within the rIFG and lPHG ROIs in which either group showed significantly increased correlation between activation in ROIs and number of rtfMRI‐NF runs compared with the other group. We then determined the direction of group differences in correlations between BOLD response in ROIs and number of rtfMRI‐NF runs by conducting post‐hoc analyses on the statistical measures of the BOLD response extracted for each group in these regions and correlations with number of rtfMRI‐NF runs for all clusters within each group.Whole‐brain correlation analysesTo examine (a) common and (b) differential self‐regulation effects across the whole brain, (a) a whole‐brain correlation analysis tested for regions that showed a linear increase/decrease in activation with number of rtfMRI‐NF runs across both groups and (b), a group comparison tested regions that were differentially linearly increased/decreased in activation with number of rtfMRI‐NF runs.(a) Linear correlation between whole‐brain activation and number of rtfMRI‐NF runs across both groupsAn average statistical map for each rtfMRI‐NF run for the combined group was constructed by averaging the statistical maps of all participants that have data for that rtfMRI‐NF run, resulting in one set of 11 average maps across both groups. To test for a linear correlation between whole‐brain activation and number of rtfMRI‐NF runs, the Pearson product‐moment correlation coefficient was first computed at each voxel in standard space between the number of rtfMRI‐NF runs and signal change. The data were further analyzed identical to that described in section “Group Differences in Linear Correlation Between Brain Activation in ROIs and Number of rtfMRI‐NF Runs”) with the exception that no ROI mask was applied. For this analysis, the statistical thresholds were set at P &lt; 0.05 for voxel‐level and P &lt; 0.003 for cluster‐level to give less than one false positive cluster per map.(b) Group differences in correlation between whole‐brain activation and number of rtfMRI‐NF runsTo test for group differences between linear correlations between brain activation and number of rtfMRI‐NF runs across the whole brain, the same analysis was conducted as in the ROI group difference analysis described in “ Group Differences in Linear Correlation Between Brain Activation in ROIs and Number of rtfMRI‐NF Runs,” with the exception that no ROI mask was applied. The statistical thresholds were set at P &lt; 0.05 for voxel‐level and P &lt; 0.003 for cluster‐level to give less than one false positive cluster per map.fMRI Transfer SessionIndividual data were analyzed as in section “rtfMRI‐NF Brain Activation was First Analyzed for Each Subject for Each of the Up To 11 rtfMRI‐NF Runs.” Next, two mixed ANOVAs were conducted to compare groups in their activation changes between the transfer (no feedback) and baseline (rest) condition in the two ROIs (rIFG, lPHG). The statistical thresholds were set at P &lt; 0.05 for voxel‐level and P &lt; 0.05 for cluster‐level to give less than one false positive cluster per map.fMRI Stop TaskThe individual and group analysis was identical to the rtfMRI‐NF runs processing described in detail in section “rtfMRI‐NF Brain Activation was First Analyzed for Each Subject for Each of the Up To 11 rtfMRI‐NF Runs”), except for the experimental condition comparisons. Specifically, at individual subject‐level, the estimates of the response size to the stop task condition against an implicit baseline (successful stop‐go trials) condition were obtained by using the standard GLM approach.For between‐group comparisons between active and control group under either pre‐ and post‐rtfMRI‐NF training, a repeated‐measures ANOVA was conducted to test the interaction effect of time (pre, post) by group (active, control). For this analysis, thresholds were set at P &lt; 0.05 for voxel‐level and P &lt; 0.01 for cluster‐level to give less than one false positive cluster per map. Given that the main hypothesis was that the rIFG would show increased activation in the active compared with the control group post‐ relative to pre‐rtfMRI‐NF training, a more lenient exploratory cluster‐level threshold of P &lt; 0.03 was also applied to test for rIFG activation changes for the group by time interaction.RESULTSThere was no group imbalance in demographic, clinical or medication status measures (Table 1a‐c). Active and control groups did not differ in type of ADHD‐prescribed medication (χ
+1
+2 = 1.31, P = 0.3). Children's (χ
+2
+2 = 2.15, P = 0.34) and parents’ guess of treatment allocation was not above chance (χ
+2
+2 = 3.35, P = 0.19). No group differences were observed in mood, motivation, or overall (positive) impression of the rtfMRI‐NF training (Supporting Information Table 1). Groups did not differ in their rtfMRI‐NF performance score gain between last (11th or earlier) and first rtfMRI‐NF run (MeanActive = 2.22 [SD = 27.34]; MeanControl = 10.00 [SD = 25.17]; t
+29 = −0.81, P = 0.43). Children's and parents’ ratings of transfer, learning, and practice effects did not differ between groups (t &lt; 0.35, P &gt; 0.28).Participants were debriefed about the strategies used during training runs at the end of every NF session. Although five participants (all from the active group) could not describe any conscious strategies, those who did, reported up to seven different strategies used throughout their training sessions. Strategies most frequently reported were “Focusing” (e.g., looking at the screen, concentrating, and focusing on the rocket or a particular part of it) (N
+Active = 8; N
+Control = 7), “Music” (e.g., thinking about lyrics/music, singing internally) (N
+Active = 9; N
+Control = 6), “Instructing” (e.g., imagining the rocket going up or saying “go up,” “fly,” or “higher”) (N
+Active = 6; N
+Control = 4), “Relaxing” (including focusing on breathing, and thinking of nothing) (N
+Active = 3; N
+Control = 7), and “Number Processing” (e.g., counting and doing simple maths) (N
+Active = 4; N
+Control = 4). None of the participants were able to identify a strategy that worked consistently for them to achieve upregulation of their target ROI.Pre‐Post Comparisons of Outcome MeasuresWithin‐group comparisons showed that ADHD symptoms decreased significantly in both groups from pre‐ to post‐treatment, for all primary and secondary outcome measures, with only a trend‐wise significant reduction in ADHD‐RS hyperactivity/impulsivity subscale in the active group (Table 2). Between‐group comparisons showed a significant effect of time in primary (ADHD‐RS total scale, F
+1,29 = 20.41, P &lt; 0.001, d = 0.69; ADHD‐RS Inattention subscale, F
+1,29 = 19.85, P &lt; 0.001, d = 0.79; ADHD‐RS Hyperactivity/Impulsivity subscale, F
+1,29 = 12.33, P &lt; 0.001, d = 0.49) and secondary outcome measures (CPRS‐R ADHD‐Index, F
+1,29 = 18.25, P &lt; 0.001, d = 0.73), with medium effect sizes, but no group or group by time interaction effects (time by group interaction analyses: ADHD‐RS total score, F
+1,29 = 0.33, P = 0.6; ADHD‐RS inattention, F
+1,29 = 0.25, P = 0.6; ADHD‐RS hyperactivity/impulsivity, F
+1,29 = 0.26, P = 0.6; Conner's Parent Rating Scale ADHD index, F
+1,29 = 0.85, P = 0.4).Table 2Behavior ratings before and after real‐time fMRI neurofeedback training for each group
+Pre
+
+Post
+
+Pre
+
+FU
+
+Pre‐Post
+
+Pre‐FU
+
+Mean (SD)
+
+Mean (SD)
+
+Mean (SD)
+
+Mean (SD)
+
+F
+
+P
+
+ES d
+
+F
+
+P
+
+ES d
+
+(a) Active group
+
+N = 18
+N = 13a
+
+F(1,17)
+F(1,12)
+ADHD‐Rating Scale
+
+ADHD‐RS total score
+36.72 (9.43)30.15 (11.63)36.38 (9.85)26.77 (10.58)6.000.025b
+0.626.250.0280.94
+ADHD‐RS inattention
+19.83 (4.46)15.94 (6.78)19.54 (4.37)15.31 (5.31)6.380.0220.684.260.0610.87
+ADHD‐RS hyperactivity/impulsivity
+16.89 (5.71)14.21 (6.15)16.85 (5.90)11.46 (5.67)3.820.067b
+0.457.630.0170.93
+Conner's Parent Rating Scale (T‐score)
+
+ADHD index
+13.61 (4.80)10.67 (5.79)5.290.034c
+0.55Global index84.06 (6.81)76.42 (12.16)8.910.0080.78Inattention81.72 (7.20)74.30 (9.19)8.450.0100.90Hyperactivity/impulsivity85.06 (9.56)78.83 (14.42)9.150.0080.51DSM‐5 attention79.06 (8.98)72.20 (8.19)4.970.0400.80DSM‐5 hyperactivity/impulsivity85.56 (9.22)80.51 (13.66)7.070.0170.43WREMB‐R Total score21.17 (6.78)20.71 (7.39)0.160.6990.06Columbia impairment scale20.94 (10.93)20.12 (7.86)0.180.6770.09Side effects15.11 (6.74)15.17 (7.39)0.000.9740.01
+(b) Control group
+
+N = 13
+N = 10d
+
+ADHD‐Rating Scale
+
+F(1,12)
+F(1,9)
+ADHD‐RS total score
+37.77 (11.39)29.30 (10.95)36.80 (8.93)31.00 (12.45)49.42&lt;0.0010.765.020.0520.54
+ADHD‐RS inattention
+20.92 (4.59)16.04 (6.28)20.10 (4.18)17.00 (6.86)30.47&lt;0.0010.896.930.0270.45
+ADHD‐RS hyperactivity/impulsivity
+16.85 (7.48)13.26 (6.14)16.70 (5.44)14.00 (7.09)16.350.0020.522.580.1430.43
+Conner's Parent Rating Scale (T‐score)
+
+ADHD index
+16.46 (2.88)11.90 (5.20)18.630.0011.08Global index87.31 (6.10)80.64 (13.12)6.300.0270.65Inattention84.92 (5.81)76.61 (10.89)7.180.0200.95Hyperactivity/impulsivity85.92 (9.28)81.05 (13.04)3.610.0820.43DSM‐5 attention84.08 (7.19)71.68 (13.06)11.820.0051.18DSM‐5 hyperactivity/impulsivity85.38 (9.39)82.21 (12.46)2.680.1280.29WREMB‐R Total score22.36 (6.16)17.17 (6.91)12.380.0040.79Columbia impairment scale27.91 (11.94)23.52 (10.22)5.020.0450.40Side effects19.30 (8.25)15.72 (8.09)11.250.0060.44Primary outcome measure is printed in bold and the secondary outcome measure is printed in bold italic. FU, follow‐up; ES d, effect size (Cohen's d); WREMB‐R, Weekly Rating of Evening and Morning Behavior‐Revised.aFollow‐up rating scores for the ADHD‐RS could not be obtained for five boys of the active group.bTrend‐level correlation with brain activity in the last versus the first rtfMRI‐NF run in rIFG ROI and ADHD‐RS total score (P = 0.09) and ADHD‐RS hyperactivity/impulsivity score (P = 0.07).cSignificant correlation with brain activity in rIFG ROI during transfer relative to baseline (rest) condition (P = 0.02).dFollow‐up rating scores for the ADHD‐RS could not be obtained for three boys of the control group.No significant performance effects were observed within groups except for trend‐level reduced CPT commission errors in the active group post‐ relative to pre‐rtfMRI‐NF (Table 3). No group by time interaction effects were significant (F
+1,29&lt;1.99, P &gt; 0.17).Table 3Summary of performance measures at pre‐test and post‐test for each group
+Pre‐test
+
+Post‐test
+
+Within‐subject ANOVA
+
+Mean (SD)
+
+Mean (SD)
+
+F(df)
+
+P
+
+ES d
+
+(a) Active group (N
+=
+18)
+
+F(1,17)Go/No‐go TaskProbability of inhibition (%)61.28 (3.45)64.87 (3.99)0.080.38−0.96Time Discrimination TaskErrors (%)22.06 (4.49)23.39 (4.44)0.510.49−0.30Temporal Discounting Task
+k median0.01 (0.00)0.02 (0.00)2.350.140Continuous Performance TaskOmission errors (%)8.17 (1.86)7.89 (1.61)0.040.850.16Commission errors (%)1.44 (0.41)0.72 (0.20)3.840.072.23Stop taskStop signal reaction time (ms)110.17 (42.24)108.27 (49.05)0.000.960.04
+(b) Control group (N
+=
+13)
+
+F(1,12)Go/No‐go TaskProbability of inhibition (%)64.15 (6.77)62.52 (6.76)0.140.720.24Time Discrimination TaskErrors (%)24.00 (3.66)25.83 (3.60)0.570.47−0.50Temporal Discounting Task
+k median0.02 (0.01)0.02 (0.00)0.100.760Continuous Performance TaskOmission errors (%)8.46 (1.58)7.14 (1.18)0.480.500.94Commission errors (%)0.69 (0.18)0.68 (0.32)0.000.950.04Stop taskStop signal reaction time (ms)88.77 (42.67)155.08 (55.21)2.150.17−1.34ES d, effect size (Cohen's d).No significant correlations were observed between the number of rtfMRI‐NF runs and the ADHD‐RS total score or the CPRS‐R ADHD index score.Pre‐FU Comparison of ADHD‐RS ScoresEight parents did not provide ADHD‐RS measures at FU (N
+Active = 5, N
+Control = 3) and others only provided them some time after the 6 months request (time range: 6–20 months). Groups did not differ in the average time (in months) of FU assessment (MeanActive = 12.15 [SD = 5.38]; MeanControl = 9.90 [SD = 4.95], t21 = 1.03, P = 0.3), with an average FU of 11 months (Mean = 11.17 [SD = 5.21]. No participant changed type or medication dose or started any other treatment during the rtfMRI‐NF period. However, during the FU period, medication status/dose changed in seven participants, but no group differences were observed in medication status (χ
+2
+2 = 1.38, P = 0.5) or dose (χ
+4
+2 = 2.93 P = 0.6) (active group: one child discontinued stimulant medication treatment, one child changed type of stimulant medication, and one child increased dose of medication; control group: two children lowered and two children increased their dose of medication). Medication status was not reported for one boy in the active group.At FU relative to pre‐rtfMRI‐NF, ADHD‐RS total scores (F
+1,12 = 6.25, P = 0.03, d = 0.94) and ADHD‐RS hyperactive/impulsive scores (F
+1,12 = 7.63, P = 0.02, d = 0.93) significantly decreased in the active group with large effect sizes and ADHD‐RS inattentive scores in the control group with small effect size (F
+1,9 = 6.93, P = 0.03, d = 0.45; Table 2). Between‐group comparisons showed a significant effect of time in all ADHD‐RS scores (ADHD‐RS total score, F
+1,21 = 9.69, P = 0.005, d = 0.77; ADHD‐RS Inattention score, F
+1,21 = 8.17, P = 0.009, d = 0.74; ADHD‐RS Hyperactivity/impulsivity score, F
+1,21 = 9.16, P = 0.006, d = 0.71), but no group or group by time interaction effects (Time by group interaction analyses: ADHD‐RS total score, F
+1,21 = 0.59, P = 0.5; ADHD‐RS inattention, F
+1,21 = 0.19, P = 0.7; ADHD‐RS hyperactivity/impulsivity, F
+1,21 = 1.01, P = 0.3).rtfMRI‐NF ResultsRepeated‐measures between‐group ANOVAs in ROIs between brain activation of first and last rtfMRI‐NF runThe active relative to the control group showed significantly increased activation in the last (11th or earlier) versus first rtfMRI‐NF run within the rIFG‐ROI (P &lt; 0.05 for voxel‐, P &lt; 0.01 for cluster‐level) (BA 45; peak Talairach coordinates (x;y;z;);36;41;13; P &lt; 0.005; 16 voxels) (Fig. 2A). No group differences in activation were observed in the lPHG‐ROI.Figure 2Regional Brain Activation Changes in the Active Relative to the Control Group (left panel) and the Control Relative to the Active Group (right panel) in the two ROIs. (A) ANOVA results showing one region (in BA 45) within the right inferior frontal gyrus (rIFG) ROI that was significantly more activated in the last relative to the first rtfMRI‐NF run in the active compared with the control group; no significantly increased activation was observed in the control compared with the active group within their ROI (left parahippocampal gyrus, lPHG). The same region in BA 45 was also significantly more activated in the transfer relative to baseline (rest) condition in the active relative to the control group (A, D). (B–G) Shown are brain regions within each ROI that show significantly progressively increased activations with increasing number of rtfMRI‐NF runs for the active compared with the control group and for the control compared with the active group (E–G). (B) Two regions within rIFG ROI (in BA 45 and BA 44) were significantly more linearly activated across the 11 rtfMRI‐NF runs in the active relative to the control group. (C) For each cluster within the rIFG ROI that showed a significant increase in correlation of activation with number of rtfMRI‐NF runs in the active relative to the control group, the statistical blood oxygen level‐dependent (BOLD) response is shown for each group for each rtfMRI‐NF run. (D) Statistical BOLD response is shown for the 2 rIFG ROIs in the first and last rtfMRI‐NF run and in the transfer session in the active and the control groups. (E) Three regions within the lPHG ROI (in BA 30, BA 35, and BA 36) were significantly more linearly activated across the 11 rtfMRI‐NF runs in the control compared with the active group. (F) The statistical BOLD response for each group for each cluster within lPHG ROI that was significantly more correlated with number of rtfMRI‐NF runs in the control relative to the active group was plotted against the number of rtfMRI‐NF runs for each group. (G) Statistical BOLD response is shown within lPHG in the first and last rtfMRI‐NF run in the active and the control groups, but there was no transfer effect. The functional data are superimposed on a high‐resolution anatomical template using the MRIcron software [Rorden and Brett, 2000]. Peak Talairach z‐coordinates are indicated for slice distance (in mm) from the intercommissural line. The right side of the image corresponds to the right side of the brain. Note that “last” rtfMRI‐NF run refers to the 11th or earlier rtfMRI‐NF run, depending on whether the subject completed all 11rtfMRI‐NF runs. [Color figure can be viewed at wileyonlinelibrary.com]Group differences in linear correlation between brain activation and number of rtfMRI‐NF runs in ROIsWithin the rIFG‐ROI, brain activation in BA44 (peak Talairach coordinates (x;y;z), 36;14;29; P &lt; 0.005; 75 voxels) and BA45 [peak Talairach coordinates (x;y;z;);43;33;16; P &lt; 0.005; 47 voxels] were significantly linearly increased across the 11 rtfMRI‐NF runs in the active compared with the control group (P &lt; 0.05 for voxel‐level, P &lt; 0.05 for cluster‐level; Fig. 2B–D). Within the lPHG‐ROI, activation in BA36 [peak Talairach coordinates (x;y;z;);−22;−7;−26; P &lt; 0.01; 27 voxels], BA35 [peak Talairach coordinates (x;y;z;);−22;−7;−13; P &lt; 0.03; 18 voxels], and BA 30 [peak Talairach coordinates (x;y;z;);−14;−37;−10; P &lt; 0.04; 7 voxels] was significantly linearly increased across the 11 rtfMRI‐NF runs in the control compared with the active group (P &lt; 0.05 for voxel‐level, P &lt; 0.05 for cluster‐level) (Fig. 2E–G).rtfMRI‐NF Transfer SessionTwenty‐four participants completed the transfer session (N
+Active = 13, N
+Control = 11). Only the active but not the control group showed a significant transfer effect in their respective ROI compared with the other group. A cluster in rIFG‐ROI (BA45; peak Talairach coordinates (x;y;z;), 40;37;13; P &lt; 0.02; 6 voxels), was increased in activation in the active compared with the control group during the transfer session relative to baseline (P &lt; 0.05 for voxel‐level, P &lt; 0.01 for cluster‐level; Fig. 2A,D).Correlations Between ROI Brain Activation and Clinical Outcome ChangesBOLD response was extracted for each subject in regions that differed between groups in the rtfMRI‐NF data analyses. Exploratory correlations were performed with pre‐post primary and secondary outcome measure changes. In the active group only, BOLD changes in rIFG‐ROI (BA45) during the transfer session were significantly negatively correlated with reduced CPRS‐R ADHD index score (r = −0.6, P = 0.02) (Fig. 3A). Activation changes in rIFG‐ROI (BA45) in the last relative to the first rtfMRI‐NF run were trend‐wise negatively correlated with reduced ADHD‐RS total score (r = −0.3, P = 0.09) (Fig. 3B) and with reduced ADHD‐RS hyperactive/impulsive symptoms (r = −0.4, P = 0.07) (Fig. 3C).Figure 3Scatter plots showing Pearson's correlations between improvements in primary and secondary clinical outcome scores (post‐pre) and statistical BOLD changes in brain activation in rIFG‐ROI for the active group. (A) In the transfer runs, the BOLD response (increases) was significantly negatively correlated with (reduced) CPRS ADHD index score. (B) There was a trend for a negative correlation between an (increased) BOLD signal in the last (11th or earlier) relative to the first rtfMRI‐NF run and (reduced) ADHD‐RS Total score and (C) with (reduced) ADHD‐RS Hyperactivity/Impulsivity scores.fMRI Stop TaskTwo participants in each group did not complete the post‐rtfMRI‐NF Stop task. Repeated‐measures whole‐brain analyses showed that the active relative to the control group had significantly enhanced activation during the post‐relative to pre‐rtfMRI‐NF Stop task in precuneus/inferior/superior parietal lobule [BA7/40; peak Talairach coordinates (x;y;z); 0;−52;50; P &lt; 0.001; 126 voxels) (P &lt; 0.05 at voxel‐level, P &lt; 0.01 at cluster‐level). Given our hypothesis of brain activation changes in the rIFG‐ROI, a more lenient exploratory cluster‐level threshold of P &lt; 0.03 was also applied, showing increased activation in a rIFG‐ROI cluster (BA45; peak Talairach coordinates (x;y;z), 36;37;20; P = 0.03; 13 voxels) in the active relative to the control group at post‐ relative to pre‐rtfMRI‐NF (Fig. 4).Figure 4Brain regions that showed increased activation to successful Stop relative to successful Go trials post‐rtfMRI‐NF training compared with pre‐rtfMRI‐NF training in the active compared with the control group. Shown is increased activation in precuneus/inferior and superior parietal lobe (IPL/SPL) (P &lt; 0.05 at voxel, and P &lt; 0.05 at cluster‐level) and increased activation in the apriori hypothesized right inferior frontal gyrus (rIFG) at a more lenient cluster‐level threshold of P &lt; 0.03. On the lower panel, the statistical blood oxygen level‐dependent (BOLD) response pre‐ and post‐rtfMRI‐NF is plotted for the rIFG and the precuneus/IPL/SPL for each group. The functional data are superimposed on a high‐resolution anatomical template using the MRIcron software [Rorden and Brett, 2000]. Peak Talairach z‐coordinates are indicated for slice distance (in mm) from the intercommissural line. The right side of the image corresponds to the right side of the brain. [Color figure can be viewed at wileyonlinelibrary.com]Whole‐Brain Analyses of Commonly and Differentially Linearly Increased Activation in the Two GroupsAcross both groups, increased activation that correlated with number of rtfMRI‐NF runs were in left DLPFC, supplementary motor area (SMA), insula, striato‐thalamic, inferior parietal, posterior cingulate, and precuneus regions (P &lt; 0.05 for voxel‐level, P &lt; 0.05 for cluster‐level) (Fig. 5A, Table 4). Some of these activation changes correlated with clinical ADHD symptom changes (SMA/pre/postcentral gyrus with ADHD‐RS inattention: r = −0.4, P &lt; 0.03; PCC/precuneus with CPRS‐ADHD index, r = −0.3, P &lt; 0.03; left DLPFC with CPRS‐ADHD index; r = −0.4, P &lt; 0.02; left premotor cortex/IFG with ADHD‐RS inattention; r = −0.4, P &lt; 0.02). Activation in left IFG/insula was progressively decreased across rtfMRI‐NF runs in both groups, but did not correlate with symptom changes.Figure 5Whole‐brain analysis showing commonly and differentially linearly increased activation in the two groups. (A) Regions that show progressively increased (red)/decreased (blue) activation across both groups with number of rtfMRI‐NF runs (whole‐brain correlation between number of rtfMRI‐NF runs and brain activation across both groups; see Table 4). (B) Regions that were significantly more increased in activation across rtfMRI‐NF runs in the active relative to the control group (red) and in the control relative to the active group (blue) (group differences in whole‐brain correlation between brain activation and number of rtfMRI‐NF runs; see Table 5). The functional data are superimposed on a high‐resolution anatomical template using the MRIcron software [Rorden and Brett, 2000]. Peak Talairach z‐coordinates are indicated for slice distance (in mm) from the intercommissural line. The right side of the image corresponds to the right side of the brain. [Color figure can be viewed at wileyonlinelibrary.com]Table 4Brain areas that were progressively increased/decreased with increasing number of rtfMRI‐NF runs across both groups combined
+Brain regions of activation
+
+Brodmann's area (BA)
+
+Peak Talairach coordinates
+
+(x;y;z)
+
+Cluster size (voxels)
+
+Cluster P‐value
+
+Increased activation
+Right posterior insula/putamen/superior temporal/inferior parietal lobuleBA 42/22/4043;−19;10860.0013Left posterior cingulate/occipital/thalamusBA 23/29/31/17/18/19−7;−85;108700.0013Left premotor cortex/inferior frontal gyrusBA 6/44−54;−7;33500.0013Left superior/middle frontal gyrusBA 9/46−7;48;30640.0013Left superior/middle frontal gyrusBA 8−18;37;43660.0013Right inferior parietal lobuleBA 4036;−41;40700.0013Right pre/postcentral gyrus/inferior parietal lobuleBA 6/4/1/2/3/4058;−7;231020.0013Right posterior cingulate/precuneusBA 24/31/714;−30;465870.0013Left pre/postcentral gyrusBA 6/4/3/2/1−36;22;66660.0013Bilateral supplementary motor area/pre/postcentral gyrusBA 6/4/3/2/10;−33;731150.0013
+Decreased activation
+Left inferior frontal gyrus/insulaBA 47/44/45−43;15;01120.0018Analysis was conducted at voxel‐level P &lt; 0.05, cluster‐level P &lt; 0.003. See also Figure 5A.Areas in a cognitive control network comprising bilateral DLPFC and IFG‐insular‐striatal and cerebellar regions were progressively more increased in activation across the rtfMRI‐NF runs in the active relative to the control group, while predominantly posterior temporal, parahippocampal and occipital regions were more increased in activation in the control relative to the active group (P &lt; 0.05 for voxel‐level, P &lt; 0.05 for cluster‐level) (Fig. 5B, Table 5). No correlations with clinical symptom changes were significant.Table 5Brain areas that were differentially progressively increased with increasing number of rtfMRI‐NF runs in each group compared with the other group
+Brain regions of activation
+
+Brodmann's area (BA)
+
+Peak Talairach coordinates
+
+(x;y;z)
+
+Cluster size (voxels)
+
+Cluster P‐value
+
+(a) Active group
+Bilateral pons/cerebellum4;−22;−401580.0001Left inferior frontal gyrus/anterior insula/putamenBA 47/45−36;15;−7370.0027Right superior temporal gyrus/inferior frontal gyrus/insula/putamenBA 22/21/47/4547;−4;0960.0019Bilateral lingual gyrus/inferior/middle occipital gyrusBA 17/18/19−22;−96;−171740.0001Right superior/middle/inferior frontal gyrusBA 10/45/4633;96;−31120.0003Left superior/middle/inferior frontal gyrusBA 10/45/46−22;56;71110.0003Right inferior/frontal gyrus/pre/postcentral gyrusBA 44/9/636;15;304060.0001
+(b) Control group
+Right orbitofrontal/superior/middle/ inferior/temporal/(para)hippocampal gyrusBA 47/38/21/20/37/35/3651;15;−261920.0001Left orbitofrontal/superior/middle/inferior/temporal/(para)hippocampal gyrusBA 47/38/21/37/35/36−61;−41;−104600.0001Bilateral cerebellum/occipital/parahippocampal gyrusBA 18/19/30−14;−52;−7810.0015Left postcentral/superior temporal gyrusBA 43/42/22−61;−30;13700.0018Bilateral cuneusBA 1818; −100;131300.0005Left superior/middle frontal gyrusBA 8/9−29;22;53650.0020Left pre/postcentral gyrusBA 6/4/3/1−43;−19;46620.0017Right supplementary motor area/midcingulate cortexBA 6/24/324;−11;501660.0001Analysis was conducted at voxel‐level P &lt; 0.05, cluster‐level P &lt; 0.003. See also Figure 5B. Note that no brain regions were differentially progressively decreased in any group.DISCUSSIONThis is the first proof‐of‐concept rtfMRI‐NF study in ADHD children. It is also one of the few rtfMRI‐NF studies that used several sessions and tested for short and longer‐term clinical effects. The study shows that adolescents with ADHD were able to progressively self‐upregulate their allocated ROIs (i.e., rIFG, lPHG) across 11 rtfMRI‐NF runs without side effects. Both groups showed significant clinical symptom improvements with medium to large effect sizes (Cohen's d of 0.6 active, 0.8 control group), after relative to before the rtfMRI‐NF, which persisted at follow‐up at an average of 11 months. The study thus proves for the first time feasibility, short‐ and longer‐term efficacy, and safety of rtfMRI‐NF in a pediatric clinical population. Group effects, reflecting region‐specific effects on clinical symptoms were not demonstrated. Only the active (rIFG) group, however, showed significant transfer effects which correlated with CPRS‐R ADHD symptom improvements, brain changes in their target ROI in the last relative to first rtfMRI‐NF run, which correlated trend‐wise with ADHD‐RS symptom improvements, increased rIFG activation in the Stop task and trend‐level commission error reductions in the CPT. Most interestingly, the effect size of improvement for pre‐FU comparison was large for the active group (0.94), relative to a much smaller effect size of 0.5 for the control group, suggesting potentially larger persistent effects of the rtfMRI‐NF of rIFG over the control group and compared with pre‐post changes in the active group. These findings suggest stronger clinical, brain, cognitive, and brain–behavior association effects in the active group.The medium effect size for the pre‐post comparison in the active (and control) groups is comparable to typical parent‐rated effect size of 0.6 for stimulant medication based on recent meta‐analyses [Punja et al., 2016; Storebo et al., 2015], while the effect size for the pre‐FU contrast reached almost 1 in the active group but only half of the effect size for the control group. The findings of larger improvements for pre‐FU rather than for pre‐post in particular in the active group are in line with EEG‐NF findings showing larger longer‐term persistent over immediate effects of NF after 6 months and even after 2 years [Arns and Kenemans, 2014]. These longer‐term persistent effects were stronger for hyperactivity/impulsiveness than inattention symptoms in the previous studies and the current study, perhaps due to self‐regulation training being more beneficial to impulsiveness and self‐control deficits [Arns and Kenemans, 2014]. The stronger pre‐FU than pre‐post effects may reflect lasting effects of brain self‐regulation training on brain plasticity that may build up over time. The concept of a finite training providing longer‐term persistent changes is particularly attractive given that one of the key limitations of stimulant medication is that effects only last for 24 hours after administration and even with chronic administration longer‐term beneficial clinical effects beyond several years have not been demonstrated [Cunill et al., 2016; Molina et al., 2009], possibly due to evidence for brain dopaminergic adaptation to the medication [Fusar‐Poli et al., 2012; Wang et al., 2013].It has also been argued, however, that the short‐ and longer‐term benefits of NF are not exclusively due to improving specific neural mechanisms but may be mediated or moderated by (potentially compensatory) cognitive–behavioral (feelings of self‐efficacy, achievement motivation or the development of effective mental strategies) and social (social reinforcement) interacting mechanisms [Gevensleben et al., 2014; Thibault et al., 2016].The stronger effects on cognitive performance in the active than in the control group are in line with recent findings from a small rtfMRI‐NF study in 13 adults with ADHD which also found stronger performance effects in the NF relative to the control group (who did not receive NF) in a similar sustained attention task and in visual working memory [Zilverstand et al., 2017]. In line with our hypothesis, the trend for performance improvement in the CPT for the active group in our study was in commission errors, which are thought to reflect impulsiveness and inhibitory mistakes [Halperin et al., 1992], thought to be mediated by rIFG [Rae et al., 2014; Rubia et al., 2003].While these findings of improvements in short‐ and longer‐term clinical measures are promising, the study was relatively underpowered to test clinical and neuropsychological efficacy and findings will need to be replicated in larger patient groups.Furthermore, the clinical improvements pre‐post treatment in both rtfMRI‐NF groups could potentially be due to unspecific attention or self‐regulation effects, independent of the NF, such as focusing on a rocket for a substantial amount of time with the added bonus of a contingent visual aid to help focusing on the task, or having to sit still for four MRI scan hours. A placebo effect, which has been shown to be superior with cutting‐edge technology [Thibault et al., 2016], could also explain the lack of region‐specificity on symptom improvements. However, this is unlikely for the active group, given that the clinical improvements correlated with the trained brain activation changes in their ROI. While the active control condition controlled for region‐specificity, which is rarely addressed in rtfMRI‐NF [Thibault et al., 2015, 2016] or EEG‐NF [Holtmann et al., 2014] studies, the inclusion of a sham‐rtfMRI‐NF condition would have enabled us to rule out potential placebo effects (but not nonspecific learning effects [Baumeister et al., 2016]).The improvement of rIFG activation in the active group in the stop task concomitant with no brain activation changes in the control group is also interesting, given that rIFG activation enhancement has been shown to be the most consistent effect of stimulant medication on ADHD brain function [Rubia et al., 2014b], suggesting comparable neurofunctional effects of stimulant medication and rtfMRI‐NF of rIFG.Only the active, but not the control group, showed increased activation in their target region in the transfer run and in the last versus the first rtfMRI‐NF run, suggesting stronger brain effects. It is possible that self‐regulation of rIFG is easier than self‐regulation of lPHG, maybe due to the fact that rIFG is a self‐control region [Rae et al., 2014; Rubia et al., 2003] and rtfMRI‐NF self‐regulation per se, independently of the target region, has been shown to activate rIFG [Emmert et al., 2016]. In line with this, there is evidence that higher‐order association regions are easier to self‐regulate than lower‐level primary function regions; in the same subjects, the inferior parietal lobe and higher‐level visual areas were easier to self‐regulate than lower‐level visual areas such as V1 [Harmelech et al., 2015]. If the lPHG‐NF training is more challenging than the rIFG‐NF training, demanding superior self‐regulation skills, then this could potentially also explain the comparable clinical improvements of both groups, despite lPHG not being a key deficit region for ADHD.The common effects could also be due to implicitly trained, common brain activation changes related to both groups trying to self‐control their brain, independent of the region. A meta‐analysis of 11 rtfMRI‐NF studies using 9 different ROIs, showed that, besides the trained ROIs, participants co‐activated a cognitive control network of bilateral fronto‐insular, striato‐thalamic and parieto‐temporal regions presumably mediating self‐regulation per se, independently of the self‐regulated region [Emmert et al., 2016]. These are key areas of ADHD underactivation [Cortese et al., 2012; Hart et al., 2012, 2013; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 1999, 2005, 2014a] and overlap with regions of increased inhibition‐related activation after EEG‐ and EMG‐NF in ADHD [Baumeister et al., 2016], suggesting that fMRI‐NF induced neural self‐regulation may benefit ADHD children, independently of the target ROI. This would be in line with findings of comparable parent‐rated clinical ADHD improvements with different self‐regulation methods including near‐infrared spectroscopy (NIRS)‐NF, EMG‐NF, or EEG‐NF [Marx et al., 2014]. Our whole‐brain analysis across both groups in fact showed progressively increased activation throughout the 11 rtfMRI‐NF runs in DLPFC‐parietal self‐control regions, some of which were correlated with clinical changes, suggesting that they could have triggered the clinical improvements (Fig. 5A, Table 4). However, group‐dissociated linear activation increases were also observed, with bilateral DLPFC and rIFG‐striato‐insular cognitive control network activation increase in the active group and posterior temporo‐parahippocampal/occipital activation increase in the control group (Fig. 5B, Table 5). It is thus possible that the active group benefitted from trained rIFG‐striato‐insular activation increase, while the control group benefitted from trained activation increase in posterior visual‐spatial attention regions, which are connected to lPHG [Aminoff et al., 2013], and both of which are relevant to ADHD [Hart et al., 2012, 2013; Norman et al., 2016; Rubia, 2011, 2017; Rubia et al., 2014a]. Hence, both common and group‐specific underlying processes could have accounted for their clinical improvements. The activation of a bilateral DLPFC/IFG‐insular‐striato‐cerebellar cognitive control network, and not just of rIFG, in the active group, extends prior evidence for network activation in ROI based rtfMRI‐NF [Emmert et al., 2016; Thibault et al., 2015] and may have been underlying the transfer effects, the attentional performance and the inhibitory fMRI activation improvements that were specific to the rIFG group.Given that the control group learned to self‐regulate posterior attention regions, it is possible that the control group was “too active” and therefore improved in clinical symptoms. Future studies including a non‐active control condition such as sham‐NF condition will be necessary to assess rtfMRI‐NF effects of rIFG.A limitation of this proof‐of‐concept study is the small participant numbers, which have limited particularly the clinical efficacy and the brain‐behavior correlation analyses. Also, not all participants completed all runs. However, a bias is unlikely, given that incompletion was due to technical scanner difficulties rather than to dissatisfaction or lack of NF‐learning. Although we aimed to include both medication‐naïve and medicated patients, in practice, most patients in this age group are no longer medication‐naïve and hence the majority of patients were medicated. Future studies will need to test the efficacy of rtfMRI‐NF in medication‐naïve patients, which may well be stronger in more symptomatic patients. Another limitation is that the study was single‐blind as the same researchers conducted the rtfMRI‐NF and scored behavioral questionnaires. However, primary and secondary outcome measures were obtained from parent‐reported questionnaires and their blindness was effective. Also, follow‐up measures may have been confounded by other uncontrolled factors than changes in medication status, which did not differ between groups.Although rtfMRI‐NF is expensive, it could potentially achieve a high cost‐benefit ratio over long‐term pharmacotherapy for ADHD, which is costly, if it treats the underlying cause rather than symptoms of ADHD, reduces or eliminates medication treatment, and has longer‐term efficacy and no side effects [Klora et al., 2016]. If rtfMRI‐NF proves to be a successful treatment for ADHD, it could also be transferred to the cheaper NIRS‐NF which has already been piloted in ADHD [Marx et al., 2014] or to fMRI‐inspired EEG‐NF methods, which use concurrent fMRI‐EEG‐NF to establish the EEG correlates of localized fMRI BOLD activity for a better spatially informed EEG‐NF [Keynan et al., 2016; Meir‐Hasson et al., 2016].In conclusion, this first proof‐of‐concept study in adolescents with ADHD suggests that rtfMRI‐NF of rIFG is feasible, safe, transferrable and has short‐term and even longer‐term efficacy in reducing ADHD symptoms. Furthermore, it is associated with better inhibitory rIFG activation and trend‐level improvements in attention performance. However, replication in larger samples and a comparison with a sham‐NF placebo control condition to rule out placebo effects will be needed to establish clinical efficacy.ACKNOWLEDGMENTSWe thank Prof John Gruzelier for helpful discussions on the study design. We also thank South London and Maudsley NHS Trust clinicians for their help with patient recruitment and all parents and children for their participation in the study. Conflict of interest/financial disclosure: KR has received grant support and speaker's honoraria from Lilly Pharmaceuticals, and speaker's honoraria from Medice and Shire. GJB has received honoraria for teaching from General Electric Healthcare, and acts as a consultant for IXICO. All other authors report no financial interests or potential conflicts of interest.REFERENCES
+
+Aminoff
+EM
+, 
+
+Kveraga
+K
+, 
+
+Bar
+M
+ (2013): The role of the parahippocampal cortex in cognition. Trends Cogn Sci
+17:379–390.
+23850264
+
+Arns
+M
+, 
+
+Kenemans
+JL
+ (2014): Neurofeedback in ADHD and insomnia: Vigilance stabilization through sleep spindles and circadian networks. Neurosci Biobehav Rev
+44:183–194.
+23099283
+
+Arns
+M
+, 
+
+de Ridder
+S
+, 
+
+Strehl
+U
+, 
+
+Breteler
+M
+, 
+
+Coenen
+A
+ (2009): Efficacy of neurofeedback treatment in ADHD: The effects on inattention, impulsivity and hyperactivity: A meta‐analysis. Clin EEG Neurosci
+40:180–189.
+19715181
+
+Baumeister
+S
+, 
+
+Wolf
+I
+, 
+
+Holz
+N
+, 
+
+Boecker‐Schlier
+R
+, 
+
+Adamo
+N
+, 
+
+Holtmann
+M
+, 
+
+Ruf
+M
+, 
+
+Banaschewski
+T
+, 
+
+Hohmann
+S
+, 
+
+Brandeis
+D
+ (2016): Neurofeedback training effects on inhibitory brain activation in ADHD: A matter of learning?
+Neuroscience. doi: 10.1016/j.neuroscience.2016.09.025. [Epub ahead of print]
+
+
+Bird
+HR
+, 
+
+Shaffer
+D
+, 
+
+Fisher
+P
+, 
+
+Gould
+MS
+, 
+
+Staghezza
+B
+, 
+
+Chen
+JY
+, 
+
+Hoven
+C
+ (1993): The Columbia‐impairment‐scale (cis) ‐ pilot findings on a measure of global impairment for children and adolescents. Int J Methods Psychiatric Res
+3:167–176.
+
+
+Bodurka
+J
+, 
+
+Bandettini
+P
+ (2008): Real‐time software for monitoring MRI scanner operation. Proceedings of Human Brain Mapping Conference, Melbourne. Neuroimage
+41:S85.
+
+
+Brammer
+MJ
+, 
+
+Bullmore
+ET
+, 
+
+Simmons
+A
+, 
+
+Williams
+SCR
+, 
+
+Grasby
+PM
+, 
+
+Howard
+RJ
+, 
+
+Woodruff
+PWR
+, 
+
+Rabe‐Hesketh
+S
+ (1997): Generic brain activation mapping in functional magnetic resonance imaging: A nonparametric approach. Magn Reson Imaging
+15:763–770.
+9309607
+
+Bullmore
+ET
+, 
+
+Brammer
+MJ
+, 
+
+Rabe‐Hesketh
+S
+, 
+
+Curtis
+VA
+, 
+
+Morris
+RG
+, 
+
+Williams
+SCR
+, 
+
+Sharma
+T
+, 
+
+McGuire
+PK
+ (1999a): Methods for diagnosis and treatment of stimulus‐correlated motion in generic brain activation studies using fMRI. Hum Brain Mapp
+7:38–48.
+9882089
+
+Bullmore
+ET
+, 
+
+Suckling
+J
+, 
+
+Overmeyer
+S
+, 
+
+Rabe‐Hesketh
+S
+, 
+
+Taylor
+E
+, 
+
+Brammer
+MJ
+ (1999b): Global, voxel, and cluster tests, by theory and permutation, for a difference between two groups of structural MR images of the brain. IEEE Trans Med Imaging
+18:32–42.
+10193695
+
+Bullmore
+E
+, 
+
+Long
+C
+, 
+
+Suckling
+J
+, 
+
+Fadili
+J
+, 
+
+Calvert
+G
+, 
+
+Zelaya
+F
+, 
+
+Carpenter
+TA
+, 
+
+Brammer
+M
+ (2001): Colored noise and computational inference in neurophysiological (fMRI) time series analysis: Resampling methods in time and wavelet domains. Hum Brain Mapp
+12:61–78.
+11169871
+
+Chantiluke
+K
+, 
+
+Barrett
+N
+, 
+
+Giampietro
+V
+, 
+
+Santosh
+P
+, 
+
+Brammer
+M
+, 
+
+Simmons
+A
+, 
+
+Murphy
+DG
+, 
+
+Rubia
+K
+ (2015): Inverse fluoxetine effects on inhibitory brain activation in non‐comorbid boys with ADHD and with ASD. Psychopharmacology (Berl)
+232:2071–2082.
+25533997
+
+Conners
+CK
+, 
+
+Sitarenios
+G
+, 
+
+Parker
+JD
+, 
+
+Epstein
+JN
+ (1998): The revised Conners' Parent Rating Scale (CPRS‐R): factor structure, reliability, and criterion validity. J Abnorm Child Psychol
+26:257–268.
+9700518
+
+Cortese
+S
+, 
+
+Kelly
+C
+, 
+
+Chabernaud
+C
+, 
+
+Proal
+E
+, 
+
+Di Martino
+A
+, 
+
+Milham
+MP
+, 
+
+Castellanos
+FX
+ (2012): Toward systems neuroscience of ADHD: A meta‐analysis of 55 fMRI studies. Am J Psychiatry
+169:1038–1055.
+22983386
+
+Cox
+RW
+ (1996): AFNI: Software for analysis and visualization of functional magnetic resonance neuroimages. Comput Biomed Res
+29:162–173.
+8812068
+
+Cunill
+R
+, 
+
+Castells
+X
+, 
+
+Tobias
+A
+, 
+
+Capella
+D
+ (2016): Efficacy, safety and variability in pharmacotherapy for adults with attention deficit hyperactivity disorder: A meta‐analysis and meta‐regression in over 9000 patients. Psychopharmacology (Berl)
+233:187–197.
+26446868
+
+Döpfner
+M
+, 
+
+Lehmkuhl
+G
+, 
+
+Steinhausen
+HC
+ (2006): Kinder‐Diagnostik‐System (KIDS), Band 1: Aufmerksamkeitsdefizit‐ und Hyperaktivitätsstörungen (ADHS). Göttingen: Hogrefe.
+
+
+Drechsler
+R
+, 
+
+Straub
+M
+, 
+
+Doehnert
+M
+, 
+
+Heinrich
+H
+, 
+
+Steinhausen
+HC
+, 
+
+Brandeis
+D
+ (2007): 1Controlled evaluation of a neurofeedback training of slow cortical potentials in children with Attention Deficit/Hyperactivity Disorder (ADHD). Behav Brain Funct
+3:35.
+17655749
+
+Dupaul
+DG
+, 
+
+Power
+TJ
+, 
+
+Anastopoulos
+AD
+, 
+
+Reid
+R
+ (1998): ADHD Rating Scale‐IV: Checklists, Norms, and Clinical Interpretations. New York: Guilford.
+
+
+Dworkin
+BR
+ (1988): Hypertension as a learned response: The baroreceptor reinforcement hypothesis In: ElbertT, LangoschW, SteptoeA, VaitlD, editors. Behavioral Medicine in Cardiovascular Disorders. Chichester: Wiley pp 17–47.
+
+
+Eklund
+A
+, 
+
+Nichols
+TE
+, 
+
+Knutsson
+H
+ (2016): Cluster failure: Why fMRI inferences for spatial extent have inflated false‐positive rates. Proc Natl Acad Sci U S A
+113:7900–7905.
+27357684
+
+Emmert
+K
+, 
+
+Kopel
+R
+, 
+
+Sulzer
+J
+, 
+
+Bruhl
+AB
+, 
+
+Berman
+BD
+, 
+
+Linden
+DE
+, 
+
+Horovitz
+SG
+, 
+
+Breimhorst
+M
+, 
+
+Caria
+A
+, 
+
+Frank
+S
+, 
+
+Johnston
+S
+, 
+
+Long
+Z
+, 
+
+Paret
+C
+, 
+
+Robineau
+F
+, 
+
+Veit
+R
+, 
+
+Bartsch
+A
+, 
+
+Beckmann
+CF
+, 
+
+Van De Ville
+D
+, 
+
+Haller
+S
+ (2016): Meta‐analysis of real‐time fMRI neurofeedback studies using individual participant data: How is brain regulation mediated?. Neuroimage
+124:806–812. 
+26419389
+
+Fusar‐Poli
+P
+, 
+
+Rubia
+K
+, 
+
+Rossi
+G
+, 
+
+Sartori
+G
+, 
+
+Balottin
+U
+ (2012): Striatal dopamine transporter alterations in ADHD: Pathophysiology or adaptation to psychostimulants? A meta‐analysis. Am J Psychiatry
+169:264–272.
+22294258
+
+Gani
+C
+, 
+
+Birbaumer
+N
+, 
+
+Strehl
+U
+ (2008): Long term effects after feedback of slow cortical potentials and of theta‐beta‐amplitudes in children with attention‐deficit/hyperactivity disorder (ADHD). Int J Bioelectromagn
+10:2009–2232.
+
+
+Gevensleben
+H
+, 
+
+Holl
+B
+, 
+
+Albrecht
+B
+, 
+
+Schlamp
+D
+, 
+
+Kratz
+O
+, 
+
+Studer
+P
+, 
+
+Rothenberger
+A
+, 
+
+Moll
+GH
+, 
+
+Heinrich
+H
+ (2010): Neurofeedback training in children with ADHD: 6‐month follow‐up of a randomised controlled trial. Eur Child Adolesc Psychiatry
+19:715–724.
+20499120
+
+Gevensleben
+H
+, 
+
+Moll
+GH
+, 
+
+Rothenberger
+A
+, 
+
+Heinrich
+H
+ (2014): Neurofeedback in attention‐deficit/hyperactivity disorder ‐ different models, different ways of application. Front Hum Neurosci
+8:846.
+25374528
+
+Halperin
+JM
+, 
+
+Matier
+K
+, 
+
+Bedi
+G
+, 
+
+Sharma
+V
+, 
+
+Newcorn
+JH
+ (1992): Specificity of inattention, impulsivity, and hyperactivity to the diagnosis of Attentio‐Deficit Hyperactivity Disorder. J Am Acad Child Adolesc Psychiatry
+31:190–196.
+1564018
+
+Harmelech
+T
+, 
+
+Friedman
+D
+, 
+
+Malach
+R
+ (2015): Differential magnetic resonance neurofeedback modulations across extrinsic (visual) and intrinsic (default‐mode) nodes of the human cortex. J Neurosci
+35:2588–2595.
+25673851
+
+Hart
+H
+, 
+
+Radua
+J
+, 
+
+Mataix
+D
+, 
+
+Rubia
+K
+ (2012): Meta‐analysis of fMRI studies of timing functions in ADHD. Neurosci Biobehav Rev
+36:2248–2256.
+22922163
+
+Hart
+H
+, 
+
+Radua
+J
+, 
+
+Mataix
+D
+, 
+
+Rubia
+K
+ (2013): Meta‐analysis of fMRI studies of inhibition and attention in ADHD: Exploring task‐specific, stimulant medication and age effects. JAMA Psychiatry
+70:185–198.
+23247506
+
+Hill
+P
+, 
+
+Taylor
+E
+ (2001): An auditable protocol for treating attention deficit/hyperactivity disorder. Arch Dis Child
+84:404–409.
+11316683
+
+Holtmann
+M
+, 
+
+Sonuga‐Barke
+E
+, 
+
+Cortese
+S
+, 
+
+Brandeis
+D
+ (2014): Neurofeedback for ADHD: A review of current evidence. Child Adolesc Psychiatr Clin N Am
+23:789–806.
+25220087
+
+Hugdahl
+K
+, 
+
+Raichle
+ME
+, 
+
+Mitra
+A
+, 
+
+Specht
+K
+ (2015): On the existence of a generalized non‐specific task‐dependent network. Front Hum Neurosci
+9:430.
+26300757
+
+Kaufman
+J
+, 
+
+Birmaher
+B
+, 
+
+Brent
+D
+, 
+
+Rao
+U
+, 
+
+Ryan
+ND
+ (1996): Schedule for Affective Disorders and Schizophrenia for School‐age Children‐present and lifetime version (K‐SADS‐PL). Pittsburgh: University of Pittsburgh Press.
+
+
+Kekic
+M
+, 
+
+McClelland
+J
+, 
+
+Campbell
+I
+, 
+
+Nestler
+S
+, 
+
+Rubia
+K
+, 
+
+David
+AS
+, 
+
+Schmidt
+U
+ (2014): The effects of prefrontal cortex transcranial direct current stimulation (tDCS) on food craving and temporal discounting in women with frequent food cravings. Appetite
+78:55–62.
+24656950
+
+Keynan
+JN
+, 
+
+Meir‐Hasson
+Y
+, 
+
+Gilam
+G
+, 
+
+Cohen
+A
+, 
+
+Jackont
+G
+, 
+
+Kinreich
+S
+, 
+
+Ikar
+L
+, 
+
+Or‐Borichev
+A
+, 
+
+Etkin
+A
+, 
+
+Gyurak
+A
+, 
+
+Klovatch
+I
+, 
+
+Intrator
+N
+, 
+
+Hendler
+T
+ (2016): Limbic activity modulation guided by functional magnetic resonance imaging‐inspired electroencephalography improves implicit emotion regulation. Biol Psychiatry
+80:490–496.
+26996601
+
+Kim
+H
+ (2014): Involvement of the dorsal and ventral attention networks in oddball stimulus processing: A meta‐analysis. Hum Brain Mapp
+35:2265–2284.
+23900833
+
+Klora
+M
+, 
+
+Zeidler
+J
+, 
+
+Greiner
+W
+ (2016): Cost‐effectiveness of treatment options for ADHD: A systematic literature review. Austin J Psychiatry Behav Sci
+3:1048.
+
+
+Leins
+U
+, 
+
+Goth
+G
+, 
+
+Hinterberger
+T
+, 
+
+Klinger
+C
+, 
+
+Rumpf
+N
+, 
+
+Strehl
+U
+ (2007): Neurofeedback for children with ADHD: A comparison of SCP and Theta/Beta protocols. Appl Psychophysiol Biofeedback
+32:73–88.
+17356905
+
+Little
+RJA
+, 
+
+Rubin
+DB (
+
+2002): Statistical Analysis with Missing Data. New York: Wiley.
+
+
+Logan
+GD
+, 
+
+Schachar
+RJ
+, 
+
+Tannock
+R
+ (1997): Impulsivity and inhibitory control. Psychol Sci
+8:60–64.
+
+
+Marx
+AM
+, 
+
+Ehlis
+AC
+, 
+
+Furdea
+A
+, 
+
+Holtmann
+M
+, 
+
+Banaschewski
+T
+, 
+
+Brandeis
+D
+, 
+
+Rothenberger
+A
+, 
+
+Gevensleben
+H
+, 
+
+Freitag
+CM
+, 
+
+Fuchsenberger
+Y
+, 
+
+Fallgatter
+AJ
+, 
+
+Strehl
+U
+ (2014): Near‐infrared spectroscopy (NIRS) neurofeedback as a treatment for children with attention deficit hyperactivity disorder (ADHD)‐a pilot study. Front Hum Neurosci
+8:1038.
+25610390
+
+Matts
+JP
+, 
+
+Lachin
+JM
+ (1988): Properties of permuted‐block randomization in clinical trials. Control Clin Trials
+9:327–344.
+3203524
+
+Maurizio
+S
+, 
+
+Liechti
+MD
+, 
+
+Heinrich
+H
+, 
+
+Jancke
+L
+, 
+
+Steinhausen
+HC
+, 
+
+Walitza
+S
+, 
+
+Brandeis
+D
+, 
+
+Drechsler
+R
+ (2014): Comparing tomographic EEG neurofeedback and EMG biofeedback in children with attention‐deficit/hyperactivity disorder. Biol Psychol
+95:31–44.
+24211870
+
+Mayer
+K
+, 
+
+Blume
+F
+, 
+
+Wyckoff
+SN
+, 
+
+Brokmeier
+LL
+, 
+
+Strehl
+U
+ (2016): Neurofeedback of slow cortical potentials as a treatment for adults with Attention Deficit‐/Hyperactivity Disorder. Clin Neurophysiol
+127:1374–1386.
+26684900
+
+Meir‐Hasson
+Y
+, 
+
+Keynan
+JN
+, 
+
+Kinreich
+S
+, 
+
+Jackont
+G
+, 
+
+Cohen
+A
+, 
+
+Podlipsky‐Klovatch
+I
+, 
+
+Hendler
+T
+, 
+
+Intrator
+N
+ (2016): One‐class FMRI‐inspired EEG model for self‐regulation training. PLOS One
+11:e0154968.
+27163677
+
+Molina
+BS
+, 
+
+Hinshaw
+SP
+, 
+
+Swanson
+JM
+, 
+
+Arnold
+LE
+, 
+
+Vitiello
+B
+, 
+
+Jensen
+PS
+, 
+
+Epstein
+JN
+, 
+
+Hoza
+B
+, 
+
+Hechtman
+L
+, 
+
+Abikoff
+HB
+, 
+
+Elliott
+GR
+, 
+
+Greenhill
+LL
+, 
+
+Newcorn
+JH
+, 
+
+Wells
+KC
+, 
+
+Wigal
+T
+, 
+
+Gibbons
+RD
+, 
+
+Hur
+K
+, 
+
+Houck
+PR
+ (2009): The MTA at 8 years: Prospective follow‐up of children treated for combined‐type ADHD in a multisite study. J Am Acad Child Adolesc Psychiatry
+48:484–500.
+19318991
+
+Norman
+LJ
+, 
+
+Carlisi
+C
+, 
+
+Lukito
+S
+, 
+
+Hart
+H
+, 
+
+Mataix‐Cols
+D
+, 
+
+Radua
+J
+, 
+
+Rubia
+K
+ (2016): Structural and functional brain abnormalities in attention‐deficit/hyperactivity disorder and obsessive‐compulsive disorder: A comparative meta‐analysis. JAMA Psychiatry
+73:815–825.
+27276220
+
+Oldfield
+RC
+ (1971): The assessment and analysis of handedness: The edinburgh inventory. Neuropsychologia
+9:97–113.
+5146491
+
+Punja
+S
+, 
+
+Shamseer
+L
+, 
+
+Hartling
+L
+, 
+
+Urichuk
+L
+, 
+
+Vandermeer
+B
+, 
+
+Nikles
+J
+, 
+
+Vohra
+S
+ (2016): Amphetamines for attention deficit hyperactivity disorder (ADHD) in children and adolescents. Cochr Database Syst Rev
+2:CD00999.
+
+
+Radua
+J
+, 
+
+Del Pozo
+NO
+, 
+
+Gomez
+J
+, 
+
+Guillen‐Grima
+F
+, 
+
+Ortuno
+F
+ (2014): Meta‐analysis of functional neuroimaging studies indicates that an increase of cognitive difficulty during executive tasks engages brain regions associated with time perception. Neuropsychologia
+58:14–22.
+24709569
+
+Rae
+CL
+, 
+
+Hughes
+LE
+, 
+
+Weaver
+C
+, 
+
+Anderson
+MC
+, 
+
+Rowe
+JB
+ (2014): Selection and stopping in voluntary action: A meta‐analysis and combined fMRI study. Neuroimage
+86:381–391.
+24128740
+
+Rorden
+C
+, 
+
+Brett
+M
+ (2000): Stereotaxic display of brain lesions. Behav Neurol
+12:191–200.
+11568431
+
+Rota
+G
+, 
+
+Sitaram
+R
+, 
+
+Veit
+R
+, 
+
+Erb
+M
+, 
+
+Weiskopf
+N
+, 
+
+Dogil
+G
+, 
+
+Birbaumer
+N
+ (2009): Self‐regulation of regional cortical activity using real‐time fMRI: The right inferior frontal gyrus and linguistic processing. Hum Brain Mapp
+30:1605–1614.
+18661503
+
+Rubia
+K
+ (2011): “Cool” inferior frontostriatal dysfunction in attention‐deficit/hyperactivity disorder versus “hot” ventromedial orbitofrontal‐limbic dysfunction in conduct disorder: A review. Biol Psychiatry
+69:e69–e87.
+21094938
+
+Rubia
+K (
+
+2017): Brain function in ADHD In: BanaschewskiT, CoghillD, ZuddasA, editors. Oxford Handbook for ADHD. Oxford: Oxford University Press.
+
+
+Rubia
+K
+, 
+
+Overmeyer
+S
+, 
+
+Taylor
+E
+, 
+
+Brammer
+M
+, 
+
+Williams
+SC
+, 
+
+Simmons
+A
+, 
+
+Bullmore
+ET
+ (1999): Hypofrontality in attention deficit hyperactivity disorder during higher‐order motor control: A study with functional MRI. Am J Psychiatry
+156:891–896.
+10360128
+
+Rubia
+K
+, 
+
+Smith
+AB
+, 
+
+Brammer
+MJ
+, 
+
+Taylor
+E
+ (2003): Right inferior prefrontal cortex mediates response inhibition while mesial prefrontal cortex is responsible for error detection. Neuroimage
+20:351–358.
+14527595
+
+Rubia
+K
+, 
+
+Smith
+AB
+, 
+
+Brammer
+MJ
+, 
+
+Toone
+B
+, 
+
+Taylor
+E
+ (2005): Abnormal brain activation during inhibition and error detection in medication‐naive adolescents with ADHD. Am J Psychiatry
+162:1067–1075.
+15930054
+
+Rubia
+K
+, 
+
+Smith
+A
+, 
+
+Taylor
+E
+ (2007a): Performance of children with attention deficit hyperactivity disorder (ADHD) on a test battery of impulsiveness. Child Neuropsychol
+13:276–304.
+17453834
+
+Rubia
+K
+, 
+
+Smith
+AB
+, 
+
+Taylor
+E
+, 
+
+Brammer
+M
+ (2007b): Linear age‐correlated functional development of right inferior fronto‐striato‐cerebellar networks during response inhibition and anterior Cingulate during error‐related processes. Hum Brain Mapp
+28:1163–1177.
+17538951
+
+Rubia
+K
+, 
+
+Halari
+R
+, 
+
+Smith
+AB
+, 
+
+Mohammed
+M
+, 
+
+Scott
+S
+, 
+
+Giampietro
+V
+, 
+
+Taylor
+E
+, 
+
+Brammer
+MJ
+ (2008): Dissociated functional brain abnormalities of inhibition in boys with pure conduct disorder and in boys with pure attention deficit hyperactivity disorder. Am J Psychiatry
+165:889–897.
+18413706
+
+Rubia
+K
+, 
+
+Halari
+R
+, 
+
+Christakou
+A
+, 
+
+Taylor
+E
+ (2009a): Impulsiveness as a timing disturbance: Neurocognitive abnormalities in attention‐deficit hyperactivity disorder during temporal processes and normalization with methylphenidate. Philos Trans R Soc Lond B Biol Sci
+364:1919–1931.
+19487194
+
+Rubia
+K
+, 
+
+Halari
+R
+, 
+
+Smith
+AB
+, 
+
+Mohammad
+M
+, 
+
+Scott
+S
+, 
+
+Brammer
+MJ
+ (2009b): Shared and disorder‐specific prefrontal abnormalities in boys with pure attention‐deficit/hyperactivity disorder compared to boys with pure CD during interference inhibition and attention allocation. J Child Psychol Psychiatry
+50:669–678.
+19236528
+
+Rubia
+K
+, 
+
+Halari
+R
+, 
+
+Mohammad
+AM
+, 
+
+Taylor
+E
+, 
+
+Brammer
+M
+ (2011): Methylphenidate normalizes frontocingulate underactivation during error processing in attention‐deficit/hyperactivity disorder. Biol Psychiatry
+70:255–262.
+21664605
+
+Rubia
+K
+, 
+
+Alegria
+A
+, 
+
+Brinson
+H
+ (2014a): Imaging the ADHD brain: Disorder‐specificity, medication effects and clinical translation. Expert Rev Neurother
+14:519–538.
+24738703
+
+Rubia
+K
+, 
+
+Alzamora
+A
+, 
+
+Cubillo
+A
+, 
+
+Smith
+AB
+, 
+
+Radua
+J
+, 
+
+Brammer
+MJ
+ (2014b): Effects of stimulants on brain function in ADHD: A systematic review and meta‐analysis. Biol Psychiatry
+76:616–628.
+24314347
+
+Rutter
+M
+, 
+
+Bailey
+A
+, 
+
+Lord
+C (
+
+2003): Social Communication Questionnaire (SCQ). Los Angeles, CA: Western Psychological Services.
+
+
+Schachar
+RJ
+, 
+
+Tannock
+R
+, 
+
+Logan
+G
+ (1993): Inhibitory control, impulsiveness, and attention‐deficit hyperactivity disorder. Clin Psychol Rev
+13:721–739.
+
+
+Sepulveda
+P
+, 
+
+Sitaram
+R
+, 
+
+Rana
+M
+, 
+
+Montalba
+C
+, 
+
+Tejos
+C
+, 
+
+Ruiz
+S
+ (2016): How feedback, motor imagery, and reward influence brain self‐regulation using real‐time fMRI. Hum Brain Mapp
+37:3153–3171.
+27272616
+
+Shaffer
+D
+, 
+
+Gould
+MS
+, 
+
+Brasic
+J
+, 
+
+Ambrosini
+P
+, 
+
+Fisher
+P
+, 
+
+Bird
+H
+, 
+
+Aluwahlia
+S
+ (1983): A children's global assessment scale (CGAS). Arch Gen Psychiatry
+40:1228–1231.
+6639293
+
+Sonuga‐Barke
+EJ
+, 
+
+Brandeis
+D
+, 
+
+Cortese
+S
+, 
+
+Daley
+D
+, 
+
+Ferrin
+M
+, 
+
+Holtmann
+M
+, 
+
+Stevenson
+J
+, 
+
+Danckaerts
+M
+, 
+
+van der Oord
+S
+, 
+
+Dopfner
+M
+, 
+
+Dittmann
+RW
+, 
+
+Simonoff
+E
+, 
+
+Zuddas
+A
+, 
+
+Banaschewski
+T
+, 
+
+Buitelaar
+J
+, 
+
+Coghill
+D
+, 
+
+Hollis
+C
+, 
+
+Konofal
+E
+, 
+
+Lecendreux
+M
+, 
+
+Wong
+IC
+, 
+
+Sergeant
+J
+ (2013): Nonpharmacological interventions for ADHD: Systematic review and meta‐analyses of randomized controlled trials of dietary and psychological treatments. Am J Psychiatry
+170:275–289.
+23360949
+
+Steiner
+NJ
+, 
+
+Frenette
+EC
+, 
+
+Rene
+KM
+, 
+
+Brennan
+RT
+, 
+
+Perrin
+EC
+ (2014): In‐school neurofeedback training for ADHD: Sustained improvements from a randomized control trial. Pediatrics
+133:483–492.
+24534402
+
+Stevens
+JR
+, 
+
+Wilens
+TE
+, 
+
+Stern
+TA
+ (2013): Using stimulants for attention‐deficit/hyperactivity disorder: Clinical approaches and challenges. Prim Care Compan CNS Disord
+15:1–19.
+
+
+Storebo
+OJ
+, 
+
+Krogh
+HB
+, 
+
+Ramstad
+E
+, 
+
+Moreira‐Maia
+CR
+, 
+
+Holmskov
+M
+, 
+
+Skoog
+M
+, 
+
+Nilausen
+TD
+, 
+
+Magnusson
+FL
+, 
+
+Zwi
+M
+, 
+
+Gillies
+D
+, 
+
+Rosendal
+S
+, 
+
+Groth
+C
+, 
+
+Rasmussen
+KB
+, 
+
+Gauci
+D
+, 
+
+Kirubakaran
+R
+, 
+
+Forsbol
+B
+, 
+
+Simonsen
+E
+, 
+
+Gluud
+C
+ (2015): Methylphenidate for attention‐deficit/hyperactivity disorder in children and adolescents: Cochrane systematic review with meta‐analyses and trial sequential analyses of randomised clinical trials. Bmj‐Br Med J
+351:h5203.
+
+
+Strehl
+U
+, 
+
+Leins
+U
+, 
+
+Goth
+G
+, 
+
+Klinger
+C
+, 
+
+Hinterberger
+T
+, 
+
+Birbaumer
+N
+ (2006): Self‐regulation of slow cortical potentials: A new treatment for children with attention‐deficit/hyperactivity disorder. Pediatrics
+118:e1530–e1540.
+17060480
+
+Sulzer
+J
+, 
+
+Haller
+S
+, 
+
+Scharnowski
+F
+, 
+
+Weiskopf
+N
+, 
+
+Birbaumer
+N
+, 
+
+Blefari
+ML
+, 
+
+Bruehl
+AB
+, 
+
+Cohen
+LG
+, 
+
+DeCharms
+RC
+, 
+
+Gassert
+R
+, 
+
+Goebel
+R
+, 
+
+Herwig
+U
+, 
+
+LaConte
+S
+, 
+
+Linden
+D
+, 
+
+Luft
+A
+, 
+
+Seifritz
+E
+, 
+
+Sitaram
+R
+ (2013): Real‐time fMRI neurofeedback: Progress and challenges. Neuroimage
+76:386–399.
+23541800
+
+Talairach
+J
+, 
+
+Toumoux
+P (
+
+1988): Co‐Planar Sterotaxic Atlas of the human Brain: 3‐Dimensional Proportional System. Stuttgart: Thieme.
+
+
+Thibault
+RT
+, 
+
+Lifshitz
+M
+, 
+
+Birbaumer
+N
+, 
+
+Raz
+A
+ (2015): Neurofeedback, self‐regulation, and brain imaging: Clinical science and fad in the service of mental disorders. Psychother Psychosom
+84:193–207.
+26021883
+
+Thibault
+RT
+, 
+
+Lifshitz
+M
+, 
+
+Raz
+A
+ (2016): The self‐regulating brain and neurofeedback: Experimental science and clinical promise. Cortex
+74:247–261.
+26706052
+
+Thomas
+R
+, 
+
+Sanders
+S
+, 
+
+Doust
+J
+, 
+
+Beller
+E
+, 
+
+Glasziou
+P
+ (2015): Prevalence of attention‐deficit/hyperactivity disorder: A systematic review and meta‐analysis. Pediatrics
+135:e994–1001.
+25733754
+
+Wang
+GJ
+, 
+
+Volkow
+ND
+, 
+
+Wigal
+T
+, 
+
+Kollins
+SH
+, 
+
+Newcorn
+JH
+, 
+
+Telang
+F
+, 
+
+Logan
+J
+, 
+
+Jayne
+M
+, 
+
+Wong
+CT
+, 
+
+Han
+H
+, 
+
+Fowler
+JS
+, 
+
+Zhu
+W
+, 
+
+Swanson
+JM
+ (2013): Long‐term stimulant treatment affects brain dopamine transporter level in patients with attention deficit hyperactive disorder. PLOS One
+8:e63023.
+23696790
+
+Wechsler
+D (
+
+2011): Wechsler Abbreviated Scale of Intelligence–Second Edition (WASI‐II). San Antonio, Texas: NCS Pearson.
+
+
+Wehmeier
+PM
+, 
+
+Dittmann
+RW
+, 
+
+Schacht
+A
+, 
+
+Helsberg
+K
+, 
+
+Lehmkuhl
+G
+ (2009): Morning and evening behavior in children and adolescents treated with atomoxetine once daily for attention‐deficit/hyperactivity disorder (ADHD): findings from two 24‐week, open‐label studies. Child Adolesc Psychiatry Ment Health
+3:5.
+19203355
+
+White
+IR
+, 
+
+Thompson
+SG
+ (2005): Adjusting for partially missing baseline measurements in randomized trials. Stat Med
+24:993–1007.
+15570623
+
+Zilverstand
+A
+, 
+
+Sorger
+B
+, 
+
+Sarkheil
+P
+, 
+
+Goebel
+R
+ (2015): fMRI neurofeedback facilitates anxiety regulation in females with spider phobia. Front Behav Neurosci
+9:148.
+26106309
+
+Zilverstand
+A
+, 
+
+Sorger
+B
+, 
+
+Slaats‐Willemse
+D
+, 
+
+Kan
+CC
+, 
+
+Goebel
+R
+, 
+
+Buitelaar
+JK
+ (2017): fMRI neurofeedback training for increasing anterior cingulate cortex activation in adult attention deficit hyperactivity disorder. An exploratory randomized, single‐blinded study. PLoS One
+12:e0170795.
+28125735

@@ -1,0 +1,577 @@
+{
+  "id": [
+    "27622142"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27622142"
+  ],
+  "pmcid": [
+    "PMC5008046"
+  ],
+  "doi": [
+    "10.1016/j.nicl.2016.08.014"
+  ],
+  "title": [
+    "Resting-state fMRI study of acute migraine treatment with kinetic oscillation stimulation in nasal cavity."
+  ],
+  "authorString": [
+    "Li TQ, Wang Y, Hallin R, Juto JE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li TQ"
+          ],
+          "firstName": [
+            "Tie-Qiang"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "TQ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4866-5904",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Medical Physics, Karolinska University Hospital Huddinge, Sweden; Department of Clinical Science, Intervention and Technology, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanlu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Clinical Science, Intervention and Technology, Karolinska Institute, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hallin R"
+          ],
+          "firstName": [
+            "Rolf"
+          ],
+          "lastName": [
+            "Hallin"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Physiology and Pharmacology, Division of Clinical Neurophysiology, Karolinska University Hospital, Huddinge, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Juto JE"
+          ],
+          "firstName": [
+            "Jan-Erik"
+          ],
+          "lastName": [
+            "Juto"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Department of Clinical Science, Intervention and Technology, Karolinska Institute, Stockholm, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4866-5904",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2422008"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NeuroImage. Clinical"
+          ],
+          "ISOAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "medlineAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "NLMid": [
+            "101597070"
+          ],
+          "ISSN": [
+            "2213-1582"
+          ],
+          "ESSN": [
+            "2213-1582"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "451-459"
+  ],
+  "abstractText": [
+    "Kinetic oscillatory stimulation (KOS) in the nasal cavity is a non-invasive cranial nerve stimulation method with promising efficacy for acute migraine and other inflammatory disorders. For a better understanding of the underlying neurophysiological mechanisms of KOS treatment, we conducted a resting-state functional magnetic resonance imaging (fMRI) study of 10 acute migraine patients and 10 normal control subjects during KOS treatment in a 3 T clinical MRI scanner. The fMRI data were first processed using a group independent component analysis (ICA) method and then further analyzed with a voxel-wise 3-way ANOVA modeling and region of interest (ROI) of functional connectivity metrics. All migraine participants were relieved from their acute migraine symptoms after 10-20 min KOS treatment and remained migraine free for 3-6 months. The resting-state fMRI result indicates that migraine patients have altered intrinsic functional activity in the anterior cingulate, inferior frontal gyrus and middle/superior temporal gyrus. KOS treatment gave rise to up-regulated intrinsic functional activity for migraine patients in a number of brain regions involving the limbic and primary sensory systems, while down regulating temporally the activity for normal controls in a few brain areas, such as the right dorsal posterior insula and inferior frontal gyrus. The result of this study confirms the efficacy of KOS treatment for relieving acute migraine symptoms and reducing attack frequency. Resting-state fMRI measurements demonstrate that migraine is associated with aberrant intrinsic functional activity in the limbic and primary sensory systems. KOS in the nasal cavity gives rise to the adjustment of the intrinsic functional activity in the limbic and primary sensory networks and restores the physiological homeostasis in the autonomic nervous system."
+  ],
+  "affiliation": [
+    "Department of Medical Physics, Karolinska University Hospital Huddinge, Sweden; Department of Clinical Science, Intervention and Technology, Karolinska Institute, Stockholm, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nasal Cavity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxygen"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kinetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Principal Component Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Vibration"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Rest"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Visual Analog Scale"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Independent component analysis (ICA)",
+        "Resting-state Fmri",
+        "Autonomic Nervous System (Ans)",
+        "Kinetic Oscillatory Stimulation (Kos)",
+        "Intrinsic Functional Activity",
+        "3-Way Anova"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Oxygen"
+          ],
+          "registryNumber": [
+            "S88TT14065"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5008046?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5008046"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2016.08.014"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-11-02"
+  ],
+  "dateOfCreation": [
+    "2016-09-14"
+  ],
+  "dateOfRevision": [
+    "2017-12-22"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-15"
+  ],
+  "firstPublicationDate": [
+    "2016-08-15"
+  ]
+}

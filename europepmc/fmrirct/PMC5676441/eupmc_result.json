@@ -1,0 +1,322 @@
+{
+  "id": [
+    "29234385"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29234385"
+  ],
+  "pmcid": [
+    "PMC5676441"
+  ],
+  "doi": [
+    "10.1155/2017/3837194"
+  ],
+  "title": [
+    "The Immediate Analgesic Effect of Acupuncture for Pain: A Systematic Review and Meta-Analysis."
+  ],
+  "authorString": [
+    "Xiang A, Cheng K, Shen X, Xu P, Liu S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xiang A"
+          ],
+          "firstName": [
+            "Anfeng"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Shanghai University of Traditional Chinese Medicine, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng K"
+          ],
+          "firstName": [
+            "Ke"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Shanghai University of Traditional Chinese Medicine, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shen X"
+          ],
+          "firstName": [
+            "Xueyong"
+          ],
+          "lastName": [
+            "Shen"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shanghai University of Traditional Chinese Medicine, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu P"
+          ],
+          "firstName": [
+            "Ping"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Shanghai University of Traditional Chinese Medicine, Shanghai 200032, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu S"
+          ],
+          "firstName": [
+            "Sheng"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8203-9096",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Shanghai University of Traditional Chinese Medicine, Shanghai 200032, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8203-9096",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2017"
+      ],
+      "journalIssueId": [
+        "2517870"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "3837194"
+  ],
+  "abstractText": [
+    "Although acupuncture is gaining popularity for the treatment of nonspecific pain, the immediate analgesic effect of acupuncture has never been reviewed. We conducted a systematic review and meta-analysis of randomized controlled trials (RCTs) on disease-related pain to critically evaluate the immediate effect of acupuncture for pain relief. The PubMed and Cochrane Central Register of Controlled Trials databases as well as three Chinese databases including the China National Knowledge Infrastructure (CNKI), Wanfang, and VIP platforms were searched through November 2016. The outcome was the extent of pain relief from baseline within 30 min of the first acupuncture treatment. We evaluated all RCTs comparing acupuncture with other interventions for disease-related pain. Real acupuncture showed statistically significantly greater pain relief effect compared to sham acupuncture (SMD, -0.56; 95% confidence interval [CI], -1.00 to -0.12; 9 RCTs) and analgesic injection (SMD, -1.33; 95% CI, -1.94 to -0.72; 3 RCTs). No serious adverse events were documented. Acupuncture was associated with a greater immediate pain relief effect compared to sham acupuncture and analgesic injections. Further RCTs with stricter design and methodologies are warranted to evaluate the immediate pain relief effect of acupuncture for more disease-related pain."
+  ],
+  "affiliation": [
+    "Shanghai University of Traditional Chinese Medicine, Shanghai 200032, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5676441?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5676441"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2017/3837194"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-12-14"
+  ],
+  "dateOfRevision": [
+    "2017-12-20"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-25"
+  ],
+  "firstPublicationDate": [
+    "2017-10-25"
+  ]
+}

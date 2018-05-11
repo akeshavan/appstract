@@ -1,0 +1,509 @@
+{
+  "id": [
+    "25887550"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25887550"
+  ],
+  "pmcid": [
+    "PMC4413527"
+  ],
+  "doi": [
+    "10.1186/s12891-015-0533-2"
+  ],
+  "title": [
+    "Short-term effect on pain and function of neurophysiological education and sensorimotor retraining compared to usual physiotherapy in patients with chronic or recurrent non-specific low back pain, a pilot randomized controlled trial."
+  ],
+  "authorString": [
+    "Wälti P, Kool J, Luomajoki H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wälti P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Wälti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Physiotherapie am Kohlplatz, Heiden, Switzerland. phil.waelti@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Kool J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Kool"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Rehabilitation Centre, Valens, Switzerland. jan.kool@bluewin.ch."
+          ]
+        },
+        {
+          "fullName": [
+            "Luomajoki H"
+          ],
+          "firstName": [
+            "Hannu"
+          ],
+          "lastName": [
+            "Luomajoki"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Zurich University of Applied Sciences, School of Health Professions, Institute of Physiotherapy, Winterthur, Switzerland. luom@zhaw.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2267502"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC musculoskeletal disorders"
+          ],
+          "ISOAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "medlineAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "NLMid": [
+            "100968565"
+          ],
+          "ISSN": [
+            "1471-2474"
+          ],
+          "ESSN": [
+            "1471-2474"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "83"
+  ],
+  "abstractText": [
+    "Non-specific chronic low back pain (NSCLBP) is a major health problem. Identification of subgroups and appropriate treatment regimen was proposed as a key priority by the Cochrane Back Review Group. We developed a multimodal treatment (MMT) for patients with moderate to severe disability and medium risk of poor outcome. MMT includes a) neurophysiological education on the perception of pain to decrease self-limitation due to catastrophizing believes about the nature of NSCLBP, b) sensory training of the lower trunk because these patients predominantly show poor sensory acuity of the trunk, and c) motor training to regain definite movement control of the trunk. A pilot study was conducted to investigate the feasibility of MMT, prior to a larger RCT, with focus on patients' adherence and the evaluation of short-term effects on pain and disability of MMT when compared to usual physiotherapy.We conducted a randomised controlled trial (RCT) in a primary care physiotherapy centre in Switzerland. Outcome assessment was 12 weeks after baseline. Patients with NSCLBP, considerable disability (five or more points on the Roland and Morris Disability Questionnaire (RMDQ) and medium or high risk of poor outcome on the Keele Start Back Tool (KSBT) were randomly allocated to either MMT or usual physiotherapy treatment (UPT) by an independent research assistant. Treatment included up to 16 sessions over 8 to 12 weeks. Both groups were given additional home training of 10 to 30 minutes to be performed five times per week. Adherence to treatment was evaluated in order to assess the feasibility of the treatment. Assessments were conducted by an independent blinded person. The primary outcome was pain (NRS 0-10) and the secondary outcome was disability (RMDQ). Between-group effects with Student's t-test or the Mann-Whitney U test and the standardized mean difference of the primary outcome were calculated.Twenty-eight patients (46% male, mean age 41.5 years (SD 10.6)) were randomized to MMT (n = 14) or UPT (n = 14). Patients' adherence to treatment was >80% in both groups. Pain reduction (NRS; [95% CI]) was 2.14 [1.0 to 3.5] in the MMT and 0.69 [-2.0 to 2.5.] in the UPT. The between-group difference was 1.45 [0.0 to 4.0] (p = 0.03), representing a moderate effect size of 0.66 [-0.1 to 1.5]. Reduction in disability on the RMDQ was 6.71 [4.2 to 9.3] in MMT and 4.69 [1.9 to 7.4] in UPT, with a non-significant between-group difference of 2.02 [-1.5 to 5.6] (p = 0.25). The required sample size for a RCT with six months follow-up was estimated at 170 patients.MMT was found to be feasible and to significantly reduce pain in the short term when compared with UPT. A future RCT with a six-month follow-up would require approximately 170 patients.Current Controlled Trials ISRCTN66262199. Registered 8 January 2014."
+  ],
+  "affiliation": [
+    "Physiotherapie am Kohlplatz, Heiden, Switzerland. phil.waelti@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Low Back Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disability Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Incidence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Compliance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Therapy Modalities"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Patient Education as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feedback, Sensory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4413527?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4413527"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12891-015-0533-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-02-11"
+  ],
+  "dateOfCreation": [
+    "2015-04-30"
+  ],
+  "dateOfRevision": [
+    "2015-05-01"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-10"
+  ],
+  "firstPublicationDate": [
+    "2015-04-10"
+  ]
+}

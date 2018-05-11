@@ -1,0 +1,305 @@
+{
+  "id": [
+    "28975128"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28975128"
+  ],
+  "pmcid": [
+    "PMC5610685"
+  ],
+  "doi": [
+    "10.3389/fpubh.2017.00239"
+  ],
+  "title": [
+    "Specification of Change Mechanisms in Pregnant Smokers for Malleable Target Identification: A Novel Approach to a Tenacious Public Health Problem."
+  ],
+  "authorString": [
+    "Massey SH, Decety J, Wisner KL, Wakschlag LS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Massey SH"
+          ],
+          "firstName": [
+            "Suena H"
+          ],
+          "lastName": [
+            "Massey"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Institute for Innovations in Developmental Sciences, Northwestern University, Evanston, IL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Decety J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Decety"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Chicago, Chicago, IL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Wisner KL"
+          ],
+          "firstName": [
+            "Katherine L"
+          ],
+          "lastName": [
+            "Wisner"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Northwestern University Feinberg School of Medicine, Chicago, IL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Wakschlag LS"
+          ],
+          "firstName": [
+            "Lauren S"
+          ],
+          "lastName": [
+            "Wakschlag"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Department of Medical Social Sciences, Northwestern University Feinberg School of Medicine, Chicago, IL, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2524938"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in public health"
+          ],
+          "ISOAbbreviation": [
+            "Front Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Front Public Health"
+          ],
+          "NLMid": [
+            "101616579"
+          ],
+          "ISSN": [
+            "2296-2565"
+          ],
+          "ESSN": [
+            "2296-2565"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "239"
+  ],
+  "abstractText": [
+    "Maternal smoking during pregnancy (MSDP) continues to be a leading modifiable risk factor for perinatal complications and a range of neurodevelopmental and cardio-metabolic outcomes across the lifespan. Despite 40 years of intervention research less than one in five pregnant smokers who receive an intervention quit by delivery. Within this context, recognition of pregnancy is commonly associated with abrupt suspension or reduction of smoking in the absence of intervention, yet has not been investigated as a volitional target. The goal of this article is to provide the empirical foundation for a novel direction of research aimed at identifying malleable targets for intervention through the specification of behavior change mechanisms specific to pregnant women. To do so, we: (1) summarize progress on MSDP in the United States generated from conventional empirical approaches to health behavior change; (2) discuss the phenomenon of spontaneous change in the absence of intervention among pregnant smokers to illustrate the need for mechanistic specification of behavior change motivated by concern for fetal well-being; (3) summarize component processes in neurobiological models of parental and non-parental social behaviors as a conceptual framework for understanding change mechanisms during pregnancy; (4) discuss the evidence for the malleability of these processes to support their translational relevance for preventive interventions; and (5) propose a roadmap for validating the proposed change mechanism using an experimental medicine approach. A greater understanding of social and interpersonal processes that facilitate health behavior change among expectant mothers and how these processes differ interindividually could yield novel volitional targets for prenatal interventions. More broadly, explicating other-oriented mechanisms of behavior change during pregnancy could serve as a paradigm for understanding how social and interpersonal processes positively influence health behaviors across the lifespan."
+  ],
+  "affiliation": [
+    "Institute for Innovations in Developmental Sciences, Northwestern University, Evanston, IL, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pregnancy",
+        "Oxytocin",
+        "Attachment",
+        "Addiction",
+        "Empathy",
+        "Behavior Change",
+        "Oxtr",
+        "Smoking Cessation Interventions"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5610685?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5610685"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpubh.2017.00239"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-10-04"
+  ],
+  "dateOfRevision": [
+    "2017-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-19"
+  ],
+  "firstPublicationDate": [
+    "2017-09-19"
+  ]
+}

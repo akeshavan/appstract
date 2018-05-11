@@ -1,0 +1,288 @@
+{
+  "id": [
+    "29618967"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29618967"
+  ],
+  "pmcid": [
+    "PMC5871707"
+  ],
+  "doi": [
+    "10.3389/fnins.2018.00175"
+  ],
+  "title": [
+    "Closing the Loop on Deep Brain Stimulation for Treatment-Resistant Depression."
+  ],
+  "authorString": [
+    "Widge AS, Malone DA, Dougherty DD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Widge AS"
+          ],
+          "firstName": [
+            "Alik S"
+          ],
+          "lastName": [
+            "Widge"
+          ],
+          "initials": [
+            "AS"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Boston, MA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Malone DA Jr."
+          ],
+          "firstName": [
+            "Donald A"
+          ],
+          "lastName": [
+            "Malone"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Cleveland Clinic, Cleveland, OH, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Dougherty DD"
+          ],
+          "firstName": [
+            "Darin D"
+          ],
+          "lastName": [
+            "Dougherty"
+          ],
+          "initials": [
+            "DD"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Boston, MA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2647764"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "175"
+  ],
+  "abstractText": [
+    "Major depressive episodes are the largest cause of psychiatric disability, and can often resist treatment with medication and psychotherapy. Advances in the understanding of the neural circuit basis of depression, combined with the success of deep brain stimulation (DBS) in movement disorders, spurred several groups to test DBS for treatment-resistant depression. Multiple brain sites have now been stimulated in open-label and blinded studies. Initial open-label results were dramatic, but follow-on controlled/blinded clinical trials produced inconsistent results, with both successes and failures to meet endpoints. Data from follow-on studies suggest that this is because DBS in these trials was not targeted to achieve physiologic responses. We review these results within a technology-lifecycle framework, in which these early trial \"failures\" are a natural consequence of over-enthusiasm for an immature technology. That framework predicts that from this \"valley of disillusionment,\" DBS may be nearing a \"slope of enlightenment.\" Specifically, by combining recent mechanistic insights and the maturing technology of brain-computer interfaces (BCI), the next generation of trials will be better able to target pathophysiology. Key to that will be the development of closed-loop systems that semi-autonomously alter stimulation strategies based on a patient's individual phenotype. Such next-generation DBS approaches hold great promise for improving psychiatric care."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Massachusetts General Hospital and Harvard Medical School, Boston, MA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electrophysiology",
+        "Depression",
+        "Deep brain stimulation",
+        "Brain-computer Interfaces",
+        "Neuromodulation",
+        "Neuro-imaging",
+        "Brain Circuits"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5871707?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5871707"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2018.00175"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-04-06"
+  ],
+  "dateOfRevision": [
+    "2018-04-08"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-21"
+  ],
+  "firstPublicationDate": [
+    "2018-03-21"
+  ]
+}

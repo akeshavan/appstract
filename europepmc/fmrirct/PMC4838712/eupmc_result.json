@@ -1,0 +1,655 @@
+{
+  "id": [
+    "27067894"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27067894"
+  ],
+  "pmcid": [
+    "PMC4838712"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2015-010602"
+  ],
+  "title": [
+    "Effect of Baduanjin exercise on cognitive function in older adults with mild cognitive impairment: study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Zheng G, Huang M, Li S, Li M, Xia R, Zhou W, Tao J, Chen L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zheng G"
+          ],
+          "firstName": [
+            "Guohua"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang M"
+          ],
+          "firstName": [
+            "Maomao"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li S"
+          ],
+          "firstName": [
+            "Shuzhen"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li M"
+          ],
+          "firstName": [
+            "Moyi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou W"
+          ],
+          "firstName": [
+            "Wenji"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tao J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Tao"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9751-5294",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China Fujian Key Laboratory of Rehabilitation Technology and Rehabilitation Research Center for Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Lidian"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6454-7932",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9751-5294",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6454-7932",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2477459"
+      ],
+      "dateOfPublication": [
+        "2016 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e010602"
+  ],
+  "abstractText": [
+    "Mild cognitive impairment (MCI) is an intermediate stage between the cognitive changes of normal aging and dementia characterised by a reduction in memory and/or other cognitive processes. An increasing number of studies have indicated that regular physical activity/exercise may have beneficial association with cognitive function of older adults with or without cognitive impairment. As a traditional Chinese Qigong exercise, Baduanjin may be even more beneficial in promoting cognitive ability in older adults with MCI, but the evidence is still insufficient. The main purpose of this study is to investigate the effect of Baduanjin exercise on neuropsychological outcomes of community-dwelling older adults with MCI, and to explore its mechanism of action from neuroimaging based on functional MRI (fMRI) and cerebrovascular function.The design of this study is a randomised, controlled trial with three parallel groups in a 1:1:1 allocation ratio with allocation concealment and assessor blinding. A total of 135 participants will be enrolled and randomised to the 24-week Baduanjin exercise intervention, 24-week brisk walking intervention and 24-week usual physical activity control group. Global cognitive function and the specific domains of cognition (memory, processing speed, executive function, attention and verbal learning and memory) will be assessed at baseline and 9, 17, 25 and 37 weeks after randomisation, while the structure and function of brain regions related to cognitive function and haemodynamic variables of the brain will be measured by fMRI and transcranial Doppler, respectively, at baseline and 25 and 37 weeks after randomisation.Ethics approval was given by the Medical Ethics Committee of the Second People's Hospital of Fujian Province (approval number 2014-KL045-02). The findings will be disseminated through peer-reviewed publications and at scientific conferences.ChiCTR-ICR-15005795; Pre-results."
+  ],
+  "affiliation": [
+    "College of Rehabilitation Medicine, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Research Support, Non-U.S. Gov't",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Health"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Primary Prevention"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebrovascular Circulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Fitness"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Executive Function"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Randomized controlled trial",
+        "Mild Cognitive Impairment",
+        "Baduanjin Exercise"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4838712?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4838712"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2015-010602"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-02"
+  ],
+  "dateOfCreation": [
+    "2016-04-12"
+  ],
+  "dateOfRevision": [
+    "2017-01-04"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-11"
+  ],
+  "firstPublicationDate": [
+    "2016-04-11"
+  ]
+}

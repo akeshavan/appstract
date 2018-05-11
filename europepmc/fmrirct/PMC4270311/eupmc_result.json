@@ -1,0 +1,1004 @@
+{
+  "id": [
+    "25514753"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25514753"
+  ],
+  "pmcid": [
+    "PMC4270311"
+  ],
+  "doi": [
+    "10.1038/tp.2014.130"
+  ],
+  "title": [
+    "The functional -1019C/G HTR1A polymorphism and mechanisms of fear."
+  ],
+  "authorString": [
+    "Straube B, Reif A, Richter J, Lueken U, Weber H, Arolt V, Jansen A, Zwanzger P, Domschke K, Pauli P, Konrad C, Gerlach AL, Lang T, Fydrich T, Alpers GW, Ströhle A, Wittmann A, Pfleiderer B, Wittchen HU, Hamm A, Deckert J, Kircher T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Straube B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Straube"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9837-0944",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Philipps-University Marburg, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Reif A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Reif"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Psychosomatics and Psychotherapy, University of Würzburg, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Richter J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Richter"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biological and Clinical Psychology, University of Greifswald, Greifswald, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lueken U"
+          ],
+          "firstName": [
+            "U"
+          ],
+          "lastName": [
+            "Lueken"
+          ],
+          "initials": [
+            "U"
+          ],
+          "affiliation": [
+            "Institute of Clinical Psychology and Psychotherapy, Technische Universität Dresden, Dresden, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Weber H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Biological and Clinical Psychology, University of Greifswald, Greifswald, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Arolt V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Arolt"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Jansen A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Jansen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Philipps-University Marburg, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zwanzger P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Zwanzger"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Domschke K"
+          ],
+          "firstName": [
+            "K"
+          ],
+          "lastName": [
+            "Domschke"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Psychosomatics and Psychotherapy, University of Würzburg, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pauli P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Pauli"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0692-6720",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Würzburg, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Konrad C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Konrad"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "1] Department of Psychiatry and Psychotherapy, Philipps-University Marburg, Marburg, Germany [2] Department of Psychiatry, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gerlach AL"
+          ],
+          "firstName": [
+            "A L"
+          ],
+          "lastName": [
+            "Gerlach"
+          ],
+          "initials": [
+            "AL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6794-5349",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Cologne, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lang T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Lang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "1] Institute of Clinical Psychology and Psychotherapy, Technische Universität Dresden, Dresden, Germany [2] University of Bremen and Christoph-Dornier Foundation for Clinical Psychology, Bremen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Fydrich T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Fydrich"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Psychology, Humboldt University, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Alpers GW"
+          ],
+          "firstName": [
+            "G W"
+          ],
+          "lastName": [
+            "Alpers"
+          ],
+          "initials": [
+            "GW"
+          ],
+          "affiliation": [
+            "Department of Psychology, Clinical and Biological Psychology, School of Social Sciences, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ströhle A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Ströhle"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Charité-Universitätsmedizin Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wittmann A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Wittmann"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Charité-Universitätsmedizin Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pfleiderer B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Pfleiderer"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Clinical Radiology, University of Münster, Münster, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wittchen HU"
+          ],
+          "firstName": [
+            "H-U"
+          ],
+          "lastName": [
+            "Wittchen"
+          ],
+          "initials": [
+            "HU"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6311-7711",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Clinical Psychology and Psychotherapy, Technische Universität Dresden, Dresden, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamm A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Hamm"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Biological and Clinical Psychology, University of Greifswald, Greifswald, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Deckert J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Deckert"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Psychosomatics and Psychotherapy, University of Würzburg, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kircher T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Kircher"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2514-2625",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Philipps-University Marburg, Marburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9837-0944",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6794-5349",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6311-7711",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0692-6720",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2514-2625",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2111752"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Translational psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Transl Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Transl Psychiatry"
+          ],
+          "NLMid": [
+            "101562664"
+          ],
+          "ISSN": [
+            "2158-3188"
+          ],
+          "ESSN": [
+            "2158-3188"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e490"
+  ],
+  "abstractText": [
+    "Serotonin receptor 1A gene (HTR1A) knockout mice show pronounced defensive behaviour and increased fear conditioning to ambiguous conditioned stimuli. Such behaviour is a hallmark of pathological human anxiety, as observed in panic disorder with agoraphobia (PD/AG). Thus, variations in HTR1A might contribute to neurophysiological differences within subgroups of PD/AG patients. Here, we tested this hypothesis by combining genetic with behavioural techniques and neuroimaging. In a clinical multicentre trial, patients with PD/AG received 12 sessions of manualized cognitive-behavioural therapy (CBT) and were genotyped for HTR1A rs6295. In four subsamples of this multicentre trial, exposure behaviour (n=185), defensive reactivity measured using a behavioural avoidance test (BAT; before CBT: n=245; after CBT: n=171) and functional magnetic resonance imaging (fMRI) data during fear conditioning were acquired before and after CBT (n=39). HTR1A risk genotype (GG) carriers more often escaped during the BAT before treatment. Exploratory fMRI results suggest increased activation of the amygdala in response to threat as well as safety cues before and after treatment in GG carriers. Furthermore, GG carriers demonstrated reduced effects of CBT on differential conditioning in regions including the bilateral insulae and the anterior cingulate cortex. Finally, risk genotype carriers demonstrated reduced self-initiated exposure behaviour to aversive situations. This study demonstrates the effect of HTR1A variation on defensive behaviour, amygdala activity, CBT-induced neural plasticity and normalization of defence behaviour in PD/AG. Our results, therefore, translate evidence from animal studies to humans and suggest a central role for HTR1A in differentiating subgroups of patients with anxiety disorders."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Psychotherapy, Philipps-University Marburg, Marburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Clinical Trial",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Amygdala"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cerebral Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Receptor, Serotonin, 5-HT1A"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fear"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Agoraphobia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Panic Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Receptor, Serotonin, 5-HT1A"
+          ],
+          "registryNumber": [
+            "112692-38-3"
+          ]
+        },
+        {
+          "name": [
+            "HTR1A protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4270311?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4270311"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/tp.2014.130"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-17"
+  ],
+  "dateOfCreation": [
+    "2014-12-17"
+  ],
+  "dateOfRevision": [
+    "2014-12-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-12-16"
+  ],
+  "firstPublicationDate": [
+    "2014-12-16"
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "id": [
+    "23414529"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23414529"
+  ],
+  "pmcid": [
+    "PMC3577434"
+  ],
+  "doi": [
+    "10.1186/1749-8546-8-3"
+  ],
+  "title": [
+    "Key considerations for conducting Chinese medicine clinical trials in hospitals."
+  ],
+  "authorString": [
+    "Shergis JL, Parker S, Coyle ME, Zhang AL, Xue CC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shergis JL"
+          ],
+          "firstName": [
+            "Johannah L"
+          ],
+          "lastName": [
+            "Shergis"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Parker S"
+          ],
+          "firstName": [
+            "Shefton"
+          ],
+          "lastName": [
+            "Parker"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3132-0301",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Coyle ME"
+          ],
+          "firstName": [
+            "Meaghan E"
+          ],
+          "lastName": [
+            "Coyle"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9640-6854",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang AL"
+          ],
+          "firstName": [
+            "Anthony L"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "AL"
+          ]
+        },
+        {
+          "fullName": [
+            "Xue CC"
+          ],
+          "firstName": [
+            "Charlie C"
+          ],
+          "lastName": [
+            "Xue"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6937-9088",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9640-6854",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3132-0301",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6937-9088",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2003485"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Chinese medicine"
+          ],
+          "ISOAbbreviation": [
+            "Chin Med"
+          ],
+          "medlineAbbreviation": [
+            "Chin Med"
+          ],
+          "NLMid": [
+            "101265109"
+          ],
+          "ISSN": [
+            "1749-8546"
+          ],
+          "ESSN": [
+            "1749-8546"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "3"
+  ],
+  "abstractText": [
+    "Conducting clinical trials of Chinese medicines (CM) in hospitals presents challenges for researchers. The success of hospital-based CM clinical trials may be influenced by the protocol design, including the maintenance of CM theory in compliance with scientific rigour and hospital guidelines and justified treatment approaches with results that can translate into clinical practice. Other influences include personnel and resources such as a dedicated team open to CM with an established research culture and the ability to maximise participant recruitment. This article identifies the key challenges and limitations of conducting CM clinical trials in Australian hospitals."
+  ],
+  "affiliation": [
+    "Traditional and Complementary Medicine Research Program, School of Health Sciences and Health Innovations Research Institute (HIRi), RMIT University, PO Box 71, Bundoora, Victoria 3083, Australia. johannah.shergis@rmit.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Editorial"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3577434?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3577434"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23414529/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23414529/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1749-8546-8-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-02-22"
+  ],
+  "dateOfCreation": [
+    "2013-02-21"
+  ],
+  "dateOfRevision": [
+    "2013-04-18"
+  ],
+  "electronicPublicationDate": [
+    "2013-02-16"
+  ],
+  "firstPublicationDate": [
+    "2013-02-16"
+  ]
+}

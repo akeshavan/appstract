@@ -1,0 +1,398 @@
+{
+  "id": [
+    "21088707"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21088707"
+  ],
+  "pmcid": [
+    "PMC2982724"
+  ],
+  "doi": [
+    "10.3389/fnsys.2010.00150"
+  ],
+  "title": [
+    "Influences of Neural Pathway Integrity on Children's Response to Reading Instruction."
+  ],
+  "authorString": [
+    "Davis N, Fan Q, Compton DL, Fuchs D, Fuchs LS, Cutting LE, Gore JC, Anderson AW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Davis N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Vanderbilt University Kennedy Center for Research on Human Development Nashville, TN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fan Q"
+          ],
+          "firstName": [
+            "Qiuyun"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "Q"
+          ]
+        },
+        {
+          "fullName": [
+            "Compton DL"
+          ],
+          "firstName": [
+            "Donald L"
+          ],
+          "lastName": [
+            "Compton"
+          ],
+          "initials": [
+            "DL"
+          ]
+        },
+        {
+          "fullName": [
+            "Fuchs D"
+          ],
+          "firstName": [
+            "Doug"
+          ],
+          "lastName": [
+            "Fuchs"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Fuchs LS"
+          ],
+          "firstName": [
+            "Lynn S"
+          ],
+          "lastName": [
+            "Fuchs"
+          ],
+          "initials": [
+            "LS"
+          ]
+        },
+        {
+          "fullName": [
+            "Cutting LE"
+          ],
+          "firstName": [
+            "Laurie E"
+          ],
+          "lastName": [
+            "Cutting"
+          ],
+          "initials": [
+            "LE"
+          ]
+        },
+        {
+          "fullName": [
+            "Gore JC"
+          ],
+          "firstName": [
+            "John C"
+          ],
+          "lastName": [
+            "Gore"
+          ],
+          "initials": [
+            "JC"
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson AW"
+          ],
+          "firstName": [
+            "Adam W"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "AW"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "1699119"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in Systems Neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "NLMid": [
+            "101477946"
+          ],
+          "ISSN": [
+            "1662-5137"
+          ],
+          "ESSN": [
+            "1662-5137"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "150"
+  ],
+  "abstractText": [
+    "As the education field moves toward using responsiveness to intervention to identify students with disabilities, an important question is the degree to which this classification can be connected to a student's neurobiological characteristics. A few functional neuroimaging studies have reported a relationship between activation and response to instruction; however, whether a similar correlation exists with white matter (WM) is not clear. To investigate this issue, we acquired high angular resolution diffusion images from a group of first grade children who differed in their levels of responsiveness to a year-long reading intervention. Using probabilistic tractography, we calculated the strength of WM connections among nine cortical regions of interest and correlated these estimates with participants' scores on four standardized reading measures. We found eight significant correlations, four of which were connections between the insular cortex and angular gyrus. In each of the correlations, a relationship with children's response to intervention was evident."
+  ],
+  "affiliation": [
+    "Vanderbilt University Kennedy Center for Research on Human Development Nashville, TN, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "T32 EB001628"
+          ],
+          "agency": [
+            "NIBIB NIH HHS"
+          ],
+          "acronym": [
+            "EB"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Connectivity",
+        "Children",
+        "Magnetic Resonance Imaging",
+        "Reading Disability",
+        "Diffusion Tensor Imaging",
+        "Response To Intervention",
+        "Probabilistic Tractography"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2982724?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2982724"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21088707/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21088707/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnsys.2010.00150"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-07-14"
+  ],
+  "dateOfCreation": [
+    "2010-11-22"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2010-10-29"
+  ],
+  "firstPublicationDate": [
+    "2010-10-29"
+  ]
+}

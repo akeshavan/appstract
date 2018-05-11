@@ -1,0 +1,308 @@
+{
+  "id": [
+    "21772818"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21772818"
+  ],
+  "pmcid": [
+    "PMC3131797"
+  ],
+  "doi": [
+    "10.3389/fphar.2011.00017"
+  ],
+  "title": [
+    "Pharmacotherapy for fibromyalgia."
+  ],
+  "authorString": [
+    "Smith HS, Bracken D, Smith JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Smith HS"
+          ],
+          "firstName": [
+            "Howard S"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology, Albany Medical College Albany, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bracken D"
+          ],
+          "firstName": [
+            "Donna"
+          ],
+          "lastName": [
+            "Bracken"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Smith JM"
+          ],
+          "firstName": [
+            "Joshua M"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "JM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1841897"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "17"
+  ],
+  "abstractText": [
+    "Fibromyalgia (FM) is a chronic disorder characterized by multifocal pain and other associated somatic symptoms including fatigue, insomnia, cognitive/memory problems, and even psychological distress. It appears that 2-4% of the general population suffers from FM. FM negatively impacts the physical functioning of its patients, as evidenced by difficulties with multiple daily activities, as well as affecting emotional health, social functioning, and health related quality of life. This review will discuss the potential theories that possibly contribute to the pathogenesis of FM, although the precise mechanism is unknown. The evolution of the assessment of FM will also be examined, with the waning use of tender point examinations and the appearance of new simple, practical diagnostic criteria. Although non-pharmacologic therapeutic options (exercise, education, cognitive-behavioral therapy) have been shown to be extremely effective in FM, the focus of this article will be on pharmacologic strategies. Non-Food and Drug Administration (FDA) approved as well as FDA approved agents will be presented. Each agent's therapeutic \"niche\" in FM management will be discussed based on its pharmacologic profile, patient responsiveness, and tolerability. Finally a clinical algorithm will be presented for the step-wise management of pain and other associated symptoms of FM."
+  ],
+  "affiliation": [
+    "Department of Anesthesiology, Albany Medical College Albany, NY, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pain",
+        "efficacy",
+        "Fibromyalgia",
+        "Pharmacotherapy",
+        "Milnacipran",
+        "Duloxetine",
+        "Pregabalin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3131797?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3131797"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21772818/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21772818/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2011.00017"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-07-20"
+  ],
+  "dateOfRevision": [
+    "2016-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2011-03-31"
+  ],
+  "firstPublicationDate": [
+    "2011-03-31"
+  ]
+}

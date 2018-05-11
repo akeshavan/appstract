@@ -1,0 +1,662 @@
+{
+  "id": [
+    "27913559"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27913559"
+  ],
+  "pmcid": [
+    "PMC5168596"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2016-012951"
+  ],
+  "title": [
+    "Physical activity as intervention for age-related loss of muscle mass and function: protocol for a randomised controlled trial (the LISA study)."
+  ],
+  "authorString": [
+    "Eriksen CS, Garde E, Reislev NL, Wimmelmann CL, Bieler T, Ziegler AK, Gylling AT, Dideriksen KJ, Siebner HR, Mortensen EL, Kjaer M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Eriksen CS"
+          ],
+          "firstName": [
+            "Christian Skou"
+          ],
+          "lastName": [
+            "Eriksen"
+          ],
+          "initials": [
+            "CS"
+          ],
+          "affiliation": [
+            "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Garde E"
+          ],
+          "firstName": [
+            "Ellen"
+          ],
+          "lastName": [
+            "Garde"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Faculty of Health and Medical Sciences, Center for Healthy Aging, University of Copenhagen, Copenhagen, Demark."
+          ]
+        },
+        {
+          "fullName": [
+            "Reislev NL"
+          ],
+          "firstName": [
+            "Nina Linde"
+          ],
+          "lastName": [
+            "Reislev"
+          ],
+          "initials": [
+            "NL"
+          ],
+          "affiliation": [
+            "Faculty of Health and Medical Sciences, Center for Healthy Aging, University of Copenhagen, Copenhagen, Demark."
+          ]
+        },
+        {
+          "fullName": [
+            "Wimmelmann CL"
+          ],
+          "firstName": [
+            "Cathrine Lawaetz"
+          ],
+          "lastName": [
+            "Wimmelmann"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Faculty of Health and Medical Sciences, Center for Healthy Aging, University of Copenhagen, Copenhagen, Demark."
+          ]
+        },
+        {
+          "fullName": [
+            "Bieler T"
+          ],
+          "firstName": [
+            "Theresa"
+          ],
+          "lastName": [
+            "Bieler"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ziegler AK"
+          ],
+          "firstName": [
+            "Andreas Kraag"
+          ],
+          "lastName": [
+            "Ziegler"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Gylling AT"
+          ],
+          "firstName": [
+            "Anne Theil"
+          ],
+          "lastName": [
+            "Gylling"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "affiliation": [
+            "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Dideriksen KJ"
+          ],
+          "firstName": [
+            "Kasper Juel"
+          ],
+          "lastName": [
+            "Dideriksen"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Siebner HR"
+          ],
+          "firstName": [
+            "Hartwig Roman"
+          ],
+          "lastName": [
+            "Siebner"
+          ],
+          "initials": [
+            "HR"
+          ],
+          "affiliation": [
+            "Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital Hvidovre, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Mortensen EL"
+          ],
+          "firstName": [
+            "Erik Lykke"
+          ],
+          "lastName": [
+            "Mortensen"
+          ],
+          "initials": [
+            "EL"
+          ],
+          "affiliation": [
+            "Faculty of Health and Medical Sciences, Center for Healthy Aging, University of Copenhagen, Copenhagen, Demark."
+          ]
+        },
+        {
+          "fullName": [
+            "Kjaer M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Kjaer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2498562"
+      ],
+      "dateOfPublication": [
+        "2016 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e012951"
+  ],
+  "abstractText": [
+    "Physical and cognitive function decline with age, accelerating during the 6th decade. Loss of muscle power (force×velocity product) is a dominant physical determinant for loss of functional ability, especially if the lower extremities are affected. Muscle strength training is known to maintain or even improve muscle power as well as physical function in older adults, but the optimal type of training for beneficial long-term training effects over several years is unknown. Moreover, the impact of muscle strength training on cognitive function and brain structure remains speculative. The primary aim of this randomised controlled trial is to compare the efficacy of two different 1 year strength training regimens on immediate and long-lasting improvements in muscle power in retirement-age individuals. Secondary aims are to evaluate the effect on muscle strength, muscle mass, physical and cognitive function, mental well-being, health-related quality of life and brain morphology.The study includes 450 home-dwelling men and women (62-70 years). Participants are randomly allocated to (1) 1 year of supervised, centre-based heavy resistance training, (2) home-based moderate intensity resistance training or (3) habitual physical activity (control). Changes in primary (leg extensor power) and secondary outcomes are analysed according to the intention to treat principle and per protocol at 1, 2, 4, 7 and 10 years.The study is expected to generate new insights into training-induced promotion of functional ability and independency after retirement and will help to formulate national recommendations regarding physical activity schemes for the growing population of older individuals in western societies. Results will be published in scientific peer-reviewed journals, in PhD theses and at public meetings. The study is approved by the Regional Ethical Committee (Capital Region, Copenhagen, Denmark, number H-3-2014-017).NCT02123641."
+  ],
+  "affiliation": [
+    "Department of Orthopedic Surgery M, Institute of Sports Medicine Copenhagen, Bispebjerg and Frederiksberg University Hospitals, Copenhagen, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Research Support, Non-U.S. Gov't",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NNF14OC0012491"
+          ],
+          "agency": [
+            "Novo Nordisk Fonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Muscle, Skeletal"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Organ Size"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Denmark"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Muscle Strength"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Resistance Training"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sarcopenia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognitive function",
+        "Strength Training",
+        "Older Adults",
+        "Physical Function",
+        "Mental Well-being"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5168596?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5168596"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2016-012951"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-12-12"
+  ],
+  "dateOfCreation": [
+    "2016-12-04"
+  ],
+  "dateOfRevision": [
+    "2018-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2016-12-02"
+  ],
+  "firstPublicationDate": [
+    "2016-12-02"
+  ]
+}

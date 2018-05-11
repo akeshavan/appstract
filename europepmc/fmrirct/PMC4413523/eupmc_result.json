@@ -1,0 +1,556 @@
+{
+  "id": [
+    "25960755"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25960755"
+  ],
+  "pmcid": [
+    "PMC4413523"
+  ],
+  "doi": [
+    "10.1155/2015/684708"
+  ],
+  "title": [
+    "A survey of the practice and perspectives of chinese acupuncturists on deqi."
+  ],
+  "authorString": [
+    "Ren YL, Guo TP, Du HB, Zheng HB, Ma TT, Fang L, Gao YJ, Yang XG, Li XZ, Shi J, Chen L, Liu YW, Zhang RW, Zheng H, Li DH, Wu X, Liang FR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ren YL"
+          ],
+          "firstName": [
+            "Yu-Lan"
+          ],
+          "lastName": [
+            "Ren"
+          ],
+          "initials": [
+            "YL"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo TP"
+          ],
+          "firstName": [
+            "Tai-Pin"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5298-8132",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Du HB"
+          ],
+          "firstName": [
+            "Huai-Bin"
+          ],
+          "lastName": [
+            "Du"
+          ],
+          "initials": [
+            "HB"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng HB"
+          ],
+          "firstName": [
+            "Hua-Bin"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "HB"
+          ],
+          "affiliation": [
+            "The Affiliated Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Ma TT"
+          ],
+          "firstName": [
+            "Ting-Ting"
+          ],
+          "lastName": [
+            "Ma"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "affiliation": [
+            "The Affiliated Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "The Third Affiliated Hospital, Zhejiang University of Traditional Chinese Medicine, Hangzhou 310005, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao YJ"
+          ],
+          "firstName": [
+            "Yu-Jie"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "YJ"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Ningxia Medical University, Yinchuan 750004, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang XG"
+          ],
+          "firstName": [
+            "Xu-Guang"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "XG"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Henan University of Traditional Chinese Medicine, Zhengzhou 450008, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li XZ"
+          ],
+          "firstName": [
+            "Xue-Zhi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "XZ"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Chongqing Medical University, Chongqing 401331, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Shi J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Yunnan Province Hospital of Traditional Chinese Medicine, Kunming 650021, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Liang"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu YW"
+          ],
+          "firstName": [
+            "Yi-Wei"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "YW"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang RW"
+          ],
+          "firstName": [
+            "Ru-Wen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "RW"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1975-3307",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li DH"
+          ],
+          "firstName": [
+            "De-Hua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "DH"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu X"
+          ],
+          "firstName": [
+            "Xi"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang FR"
+          ],
+          "firstName": [
+            "Fan-Rong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2210-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1975-3307",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2210-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5298-8132",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2263831"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "684708"
+  ],
+  "abstractText": [
+    "Deqi refers to the special sensation and reaction sensed mainly by both acupuncturist and patient when a needle was inserted into the acupoints and is considered to be vital to achieve acupuncture effect. For acupuncturist, it is important to judge and control Deqi in clinical practice. However, enough attention is paid to patients' feelings rather than acupuncturists' nowadays. We thus conducted this survey to determine acupuncturists' perspectives about Deqi and to further find the proper way to induce Deqi. A total of 250 questionnaires were sent out to acupuncturists and 202 (80.8%) were returned. According to the results, most acupuncturists believe that Deqi is vital to obtain preferable clinical effects. The reliability of acupuncturists' Deqi sensation ranks as sinking> tightening> astringent. The reliability of patients' Deqi sensations ranks as sourness> numbness> distention> heaviness> pain. The reliability of influential factors ranks as manipulation> specificity of acupoint> TCM constitution> disease status> patient's psychological condition> acupuncturists' psychological guidance> clinical environment. This study is believed to provide additional evidence to the qualitative and quantitative research of Deqi in the future."
+  ],
+  "affiliation": [
+    "School of Acupuncture Moxibustion and Tuina, Chengdu University of Traditional Chinese Medicine, Chengdu 610075, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4413523?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4413523"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/684708"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-11"
+  ],
+  "dateOfCreation": [
+    "2015-05-11"
+  ],
+  "dateOfRevision": [
+    "2015-05-13"
+  ],
+  "electronicPublicationDate": [
+    "2015-04-15"
+  ],
+  "firstPublicationDate": [
+    "2015-04-15"
+  ]
+}

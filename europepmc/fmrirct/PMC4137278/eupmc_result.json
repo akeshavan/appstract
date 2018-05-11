@@ -1,0 +1,526 @@
+{
+  "id": [
+    "25191250"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25191250"
+  ],
+  "pmcid": [
+    "PMC4137278"
+  ],
+  "doi": [
+    "10.3389/fnhum.2014.00630"
+  ],
+  "title": [
+    "The development of an RDoC-based treatment program for adolescent depression: \"Training for Awareness, Resilience, and Action\" (TARA)."
+  ],
+  "authorString": [
+    "Henje Blom E, Duncan LG, Ho TC, Connolly CG, LeWinn KZ, Chesney M, Hecht FM, Yang TT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Henje Blom E"
+          ],
+          "firstName": [
+            "Eva"
+          ],
+          "lastName": [
+            "Henje Blom"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Clinical Neuroscience, Karolinska Institutet Stockholm, Sweden ; Department of Psychiatry, Division of Child and Adolescent Psychiatry, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Duncan LG"
+          ],
+          "firstName": [
+            "Larissa G"
+          ],
+          "lastName": [
+            "Duncan"
+          ],
+          "initials": [
+            "LG"
+          ],
+          "affiliation": [
+            "Department of Family and Community Medicine, University of California San Francisco San Francisco, CA, USA ; Osher Center for Integrative Medicine, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ho TC"
+          ],
+          "firstName": [
+            "Tiffany C"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Division of Child and Adolescent Psychiatry, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Connolly CG"
+          ],
+          "firstName": [
+            "Colm G"
+          ],
+          "lastName": [
+            "Connolly"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4051-3682",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Division of Child and Adolescent Psychiatry, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "LeWinn KZ"
+          ],
+          "firstName": [
+            "Kaja Z"
+          ],
+          "lastName": [
+            "LeWinn"
+          ],
+          "initials": [
+            "KZ"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Division of Child and Adolescent Psychiatry, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chesney M"
+          ],
+          "firstName": [
+            "Margaret"
+          ],
+          "lastName": [
+            "Chesney"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Osher Center for Integrative Medicine, University of California San Francisco San Francisco, CA, USA ; Department of Medicine, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hecht FM"
+          ],
+          "firstName": [
+            "Frederick M"
+          ],
+          "lastName": [
+            "Hecht"
+          ],
+          "initials": [
+            "FM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5782-1171",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Osher Center for Integrative Medicine, University of California San Francisco San Francisco, CA, USA ; Department of Medicine, University of California San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang TT"
+          ],
+          "firstName": [
+            "Tony T"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Division of Child and Adolescent Psychiatry, University of California San Francisco San Francisco, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4051-3682",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5782-1171",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120175"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "630"
+  ],
+  "abstractText": [
+    "Major depressive disorder (MDD) is one of the current leading causes of disability worldwide. Adolescence is a vulnerable period for the onset of depression, with MDD affecting 8-20% of all youth. Traditional treatment methods have not been sufficiently effective to slow the increasing prevalence of adolescent depression. We therefore propose a new model for the treatment of adolescent depression - Training for Awareness, Resilience, and Action (TARA) - that is based on current understanding of developmental and depression neurobiology. The TARA model is aligned with the Research Domain Criteria (RDoC) of the National Institute of Mental Health. In this article, we first address the relevance of RDoC to adolescent depression. Second, we identify the major RDoC domains of function involved in adolescent depression and organize them in a way that gives priority to domains thought to be driving the psychopathology. Third, we select therapeutic training strategies for TARA based on current scientific evidence of efficacy for the prioritized domains of function in a manner that maximizes time, resources, and feasibility. The TARA model takes into consideration the developmental limitation in top-down cognitive control in adolescence and promotes bottom-up strategies such as vagal afference to decrease limbic hyperactivation and its secondary effects. The program has been informed by mindfulness-based therapy and yoga, as well as modern psychotherapeutic techniques. The treatment program is semi-manualized, progressive, and applied in a module-based approach designed for a group setting that is to be conducted one session per week for 12 weeks. We hope that this work may form the basis for a novel and more effective treatment strategy for adolescent depression, as well as broaden the discussion on how to address this challenge."
+  ],
+  "affiliation": [
+    "Department of Clinical Neuroscience, Karolinska Institutet Stockholm, Sweden ; Department of Psychiatry, Division of Child and Adolescent Psychiatry, University of California San Francisco San Francisco, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 AT005270"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K01 MH097978"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH085734"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P01 AT005013"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT005820"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K24 AT007827"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Emotion Regulation",
+        "Mindfulness",
+        "Adolescent Depression",
+        "Rdoc",
+        "Treatment Development",
+        "Attention Training",
+        "Yoga-based Movement"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4137278?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4137278"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25191250/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25191250/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2014.00630"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-05"
+  ],
+  "dateOfCreation": [
+    "2014-09-05"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-19"
+  ],
+  "firstPublicationDate": [
+    "2014-08-19"
+  ]
+}

@@ -1,0 +1,547 @@
+{
+  "id": [
+    "26728979"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26728979"
+  ],
+  "pmcid": [
+    "PMC4700619"
+  ],
+  "doi": [
+    "10.1186/s12874-015-0105-z"
+  ],
+  "title": [
+    "Creating a literature database of low-calorie sweeteners and health studies: evidence mapping."
+  ],
+  "authorString": [
+    "Wang DD, Shams-White M, Bright OJ, Parrott JS, Chung M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang DD"
+          ],
+          "firstName": [
+            "Ding Ding"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "DD"
+          ],
+          "affiliation": [
+            "Department of Public Health and Community Medicine, Tufts University School of Medicine, Boston, MA, USA. deenawang@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Shams-White M"
+          ],
+          "firstName": [
+            "Marissa"
+          ],
+          "lastName": [
+            "Shams-White"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Public Health and Community Medicine, Tufts University School of Medicine, Boston, MA, USA. Marissa.Shams_White@tufts.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Bright OJ"
+          ],
+          "firstName": [
+            "Oliver John M"
+          ],
+          "lastName": [
+            "Bright"
+          ],
+          "initials": [
+            "OJ"
+          ],
+          "affiliation": [
+            "Department of Public Health and Community Medicine, Tufts University School of Medicine, Boston, MA, USA. oliver-john.bright@tufts.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Parrott JS"
+          ],
+          "firstName": [
+            "J Scott"
+          ],
+          "lastName": [
+            "Parrott"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2712-4359",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Interdisciplinary Studies, Rutgers University School of Health Related Professions, Newark, NJ, USA. parrotja@shrp.rutgers.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Chung M"
+          ],
+          "firstName": [
+            "Mei"
+          ],
+          "lastName": [
+            "Chung"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Public Health and Community Medicine, Tufts University School of Medicine, Boston, MA, USA. Mei_Chun.Chung@tufts.edu."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2712-4359",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2464112"
+      ],
+      "dateOfPublication": [
+        "2016 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medical research methodology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med Res Methodol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med Res Methodol"
+          ],
+          "NLMid": [
+            "100968545"
+          ],
+          "ISSN": [
+            "1471-2288"
+          ],
+          "ESSN": [
+            "1471-2288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1"
+  ],
+  "abstractText": [
+    "Evidence mapping is an emerging tool used to systematically identify, organize and summarize the quantity and focus of scientific evidence on a broad topic, but there are currently no methodological standards. Using the topic of low-calorie sweeteners (LCS) and selected health outcomes, we describe the process of creating an evidence-map database and demonstrate several example descriptive analyses using this database.The process of creating an evidence-map database is described in detail. The steps include: developing a comprehensive literature search strategy, establishing study eligibility criteria and a systematic study selection process, extracting data, developing outcome groups with input from expert stakeholders and tabulating data using descriptive analyses. The database was uploaded onto SRDR™ (Systematic Review Data Repository), an open public data repository.Our final LCS evidence-map database included 225 studies, of which 208 were interventional studies and 17 were cohort studies. An example bubble plot was produced to display the evidence-map data and visualize research gaps according to four parameters: comparison types, population baseline health status, outcome groups, and study sample size. This plot indicated a lack of studies assessing appetite and dietary intake related outcomes using LCS with a sugar intake comparison in people with diabetes.Evidence mapping is an important tool for the contextualization of in-depth systematic reviews within broader literature and identifies gaps in the evidence base, which can be used to inform future research. An open evidence-map database has the potential to promote knowledge translation from nutrition science to policy."
+  ],
+  "affiliation": [
+    "Department of Public Health and Community Medicine, Tufts University School of Medicine, Boston, MA, USA. deenawang@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reproducibility of Results"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Publications"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Outcome Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Review Literature as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evidence-Based Practice"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Non-Nutritive Sweeteners"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Non-Nutritive Sweeteners"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4700619?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4700619"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12874-015-0105-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-17"
+  ],
+  "dateOfCreation": [
+    "2016-01-05"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-01-05"
+  ],
+  "firstPublicationDate": [
+    "2016-01-05"
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "id": [
+    "22570257"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22570257"
+  ],
+  "pmcid": [
+    "PMC3496473"
+  ],
+  "doi": [
+    "10.1007/s00127-012-0513-x"
+  ],
+  "title": [
+    "Callous-unemotional traits as a cross-disorders construct."
+  ],
+  "authorString": [
+    "Herpers PC, Rommelse NN, Bons DM, Buitelaar JK, Scheepers FE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Herpers PC"
+          ],
+          "firstName": [
+            "Pierre C M"
+          ],
+          "lastName": [
+            "Herpers"
+          ],
+          "initials": [
+            "PC"
+          ]
+        },
+        {
+          "fullName": [
+            "Rommelse NN"
+          ],
+          "firstName": [
+            "Nanda N J"
+          ],
+          "lastName": [
+            "Rommelse"
+          ],
+          "initials": [
+            "NN"
+          ]
+        },
+        {
+          "fullName": [
+            "Bons DM"
+          ],
+          "firstName": [
+            "Daniëlle M A"
+          ],
+          "lastName": [
+            "Bons"
+          ],
+          "initials": [
+            "DM"
+          ]
+        },
+        {
+          "fullName": [
+            "Buitelaar JK"
+          ],
+          "firstName": [
+            "Jan K"
+          ],
+          "lastName": [
+            "Buitelaar"
+          ],
+          "initials": [
+            "JK"
+          ]
+        },
+        {
+          "fullName": [
+            "Scheepers FE"
+          ],
+          "firstName": [
+            "Floor E"
+          ],
+          "lastName": [
+            "Scheepers"
+          ],
+          "initials": [
+            "FE"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "47"
+      ],
+      "journalIssueId": [
+        "1983945"
+      ],
+      "dateOfPublication": [
+        "2012 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Social psychiatry and psychiatric epidemiology"
+          ],
+          "ISOAbbreviation": [
+            "Soc Psychiatry Psychiatr Epidemiol"
+          ],
+          "medlineAbbreviation": [
+            "Soc Psychiatry Psychiatr Epidemiol"
+          ],
+          "NLMid": [
+            "8804358"
+          ],
+          "ISSN": [
+            "0933-7954"
+          ],
+          "ESSN": [
+            "1433-9285"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "2045-2064"
+  ],
+  "abstractText": [
+    "PURPOSE: Callous-unemotional (CU) traits are currently viewed as the defining signs and symptoms of juvenile psychopathy. It is unclear, however, whether CU traits have validity only in the context of conduct disorder (CD) as proposed by Frick and Moffitt (A proposal to the DSM-V childhood disorders and the ADHD and disruptive behavior disorders work groups to include a specifier to the diagnosis of conduct disorder based on the presence of callous-unemotional traits, American Psychiatric Association, Washington, DC, 2010), or also outside CD, either in combination with other forms of psychopathology or as a stand-alone construct. METHODS: The current review systematically studied the existent literature on CU traits in juveniles to examine their validity inside and outside CD according to the framework regarding the validity of a psychiatric diagnosis provided by Robins and Guze (Am J Psychiatry 126:983-987, 1970). RESULTS: Inside youth with conduct problems, and CD specifically, it seems that CU traits meet the Robins and Guze criteria. As many of the reviewed studies included youth with ODD and ADHD as well, there are indications the same might be true for ODD and ADHD, although probably to a lesser extent. In other disorders, CU traits may be present as well, but their role is not firmly established. As stand-alone construct, data are lacking or are scarce on all of the above-mentioned criteria. CONCLUSIONS: CU traits are a useful specifier in CD, and possibly also in disruptive behaviour disorders (DBDs) more generally. High CU traits outside DBDs exist but it is as yet unknown if there is a clinical need for defining CU traits as a stand-alone construct."
+  ],
+  "affiliation": [
+    "Karakter Child and Adolescent Psychiatry University Centre, Radboud University Nijmegen Medical Centre, Reinier Postlaan 12, 6525 GC, Nijmegen, The Netherlands. p.herpers@karakter.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Emotions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Conduct Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antisocial Personality Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CL"
+                  ],
+                  "qualifierName": [
+                    "classification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3496473?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3496473"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22570257/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22570257/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00127-012-0513-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "24"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-03-05"
+  ],
+  "dateOfCreation": [
+    "2012-11-15"
+  ],
+  "dateOfRevision": [
+    "2013-06-25"
+  ],
+  "electronicPublicationDate": [
+    "2012-05-09"
+  ],
+  "firstPublicationDate": [
+    "2012-05-09"
+  ]
+}

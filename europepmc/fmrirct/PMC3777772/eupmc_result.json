@@ -1,0 +1,368 @@
+{
+  "id": [
+    "24179755"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24179755"
+  ],
+  "pmcid": [
+    "PMC3777772"
+  ],
+  "doi": [
+    "10.1016/j.nicl.2012.11.004"
+  ],
+  "title": [
+    "Thalamic medial dorsal nucleus atrophy in medial temporal lobe epilepsy: A VBM meta-analysis."
+  ],
+  "authorString": [
+    "Barron DS, Fox PM, Laird AR, Robinson JL, Fox PT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barron DS"
+          ],
+          "firstName": [
+            "Daniel S"
+          ],
+          "lastName": [
+            "Barron"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "Research Imaging Institute, UT Health Science Center, San Antonio, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fox PM"
+          ],
+          "firstName": [
+            "P Mickle"
+          ],
+          "lastName": [
+            "Fox"
+          ],
+          "initials": [
+            "PM"
+          ]
+        },
+        {
+          "fullName": [
+            "Laird AR"
+          ],
+          "firstName": [
+            "Angela R"
+          ],
+          "lastName": [
+            "Laird"
+          ],
+          "initials": [
+            "AR"
+          ]
+        },
+        {
+          "fullName": [
+            "Robinson JL"
+          ],
+          "firstName": [
+            "Jennifer L"
+          ],
+          "lastName": [
+            "Robinson"
+          ],
+          "initials": [
+            "JL"
+          ]
+        },
+        {
+          "fullName": [
+            "Fox PT"
+          ],
+          "firstName": [
+            "Peter T"
+          ],
+          "lastName": [
+            "Fox"
+          ],
+          "initials": [
+            "PT"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0465-2028",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2088856"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NeuroImage. Clinical"
+          ],
+          "ISOAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "medlineAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "NLMid": [
+            "101597070"
+          ],
+          "ISSN": [
+            "2213-1582"
+          ],
+          "ESSN": [
+            "2213-1582"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "25-32"
+  ],
+  "abstractText": [
+    "Medial temporal lobe epilepsy (MTLE) is associated with MTLE network pathology within and beyond the hippocampus. The purpose of this meta-analysis was to identify consistent MTLE structural change to guide subsequent targeted analyses of these areas.We performed an anatomic likelihood estimation (ALE) meta-analysis of 22 whole-brain voxel-based morphometry experiments from 11 published studies. We grouped these experiments in three ways. We then constructed a meta-analytic connectivity model (MACM) for regions of consistent MTLE structural change as reported by the ALE analysis.ALE reported spatially consistent structural change across VBM studies only in the epileptogenic hippocampus and the bilateral thalamus; within the thalamus, the medial dorsal nucleus of the thalamus (MDN thalamus) represented the greatest convergence (P < 0.05 corrected for multiple comparisons). The subsequent MACM for the hippocampus and ipsilateral MDN thalamus demonstrated that the hippocampus and ipsilateral MDN thalamus functionally co-activate and are nodes within the same network, suggesting that MDN thalamic damage could result from MTLE network excitotoxicity.Notwithstanding our large sample of studies, these findings are more restrictive than previous reports and demonstrate the utility of our inclusion filters and of recently modified meta-analytic methods in approximating clinical relevance. Thalamic pathology is commonly observed in animal and human studies, suggesting it could be a clinically useful indicator. Thalamus-specific research as a clinical marker awaits further investigation."
+  ],
+  "affiliation": [
+    "Research Imaging Institute, UT Health Science Center, San Antonio, TX, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 MH074457"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hippocampal sclerosis",
+        "Volumetric Mri",
+        "Cortical Localization",
+        "All Epilepsy/seizures"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3777772?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3777772"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24179755/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24179755/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2012.11.004"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-11-01"
+  ],
+  "dateOfCreation": [
+    "2013-11-01"
+  ],
+  "dateOfRevision": [
+    "2016-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2012-11-16"
+  ],
+  "firstPublicationDate": [
+    "2012-11-16"
+  ]
+}

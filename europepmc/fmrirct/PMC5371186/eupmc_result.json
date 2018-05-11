@@ -1,0 +1,285 @@
+{
+  "id": [
+    "28360996"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28360996"
+  ],
+  "pmcid": [
+    "PMC5371186"
+  ],
+  "doi": [
+    "10.1186/s40035-017-0078-4"
+  ],
+  "title": [
+    "The role of cognitive activity in cognition protection: from Bedside to Bench."
+  ],
+  "authorString": [
+    "Li BY, Wang Y, Tang HD, Chen SD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li BY"
+          ],
+          "firstName": [
+            "Bin-Yin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "BY"
+          ],
+          "affiliation": [
+            "Department of Neurology, Institute of Neurology and the Collaborative Innovation Center for Brain Science, Rui Jin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200025 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Neurology, Institute of Neurology and the Collaborative Innovation Center for Brain Science, Rui Jin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200025 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang HD"
+          ],
+          "firstName": [
+            "Hui-Dong"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "HD"
+          ],
+          "affiliation": [
+            "Department of Neurology, Institute of Neurology and the Collaborative Innovation Center for Brain Science, Rui Jin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200025 China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen SD"
+          ],
+          "firstName": [
+            "Sheng-Di"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Department of Neurology, Institute of Neurology and the Collaborative Innovation Center for Brain Science, Rui Jin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200025 China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2517095"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Translational neurodegeneration"
+          ],
+          "ISOAbbreviation": [
+            "Transl Neurodegener"
+          ],
+          "medlineAbbreviation": [
+            "Transl Neurodegener"
+          ],
+          "NLMid": [
+            "101591861"
+          ],
+          "ISSN": [
+            "2047-9158"
+          ],
+          "ESSN": [
+            "2047-9158"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "7"
+  ],
+  "abstractText": [
+    "Cognitive decline poses a great concern to elderly people and their families. In addition to pharmacological therapies, several varieties of nonpharmacological intervention have been developed. Most training trials proved that a well-organized task is clinically effective in cognition improvement.We will first review clinical trials of cognitive training for healthy elders, MCI and AD patients, respectively. Besides, potential neuroprotective and compensatory mechanisms in animal models of AD are discussed. Despite controversy, cognitive training has promising effect on cognitive ability. In animal model of AD, environmental enrichment showed beneficial effect for cognitive ability, as well as neuronal plasticity. Neurotrophin, neurotransmitter and neuromodulator signaling pathway were also involved in the process. Well-designed cognitive activity could benefit cognitive function, and thus life quality of patients and their families.The positive effects of cognitive activity is closely related with neural plasticity, neurotrophin, neurotransmitter and neuromodulator signaling pathway changes."
+  ],
+  "affiliation": [
+    "Department of Neurology, Institute of Neurology and the Collaborative Innovation Center for Brain Science, Rui Jin Hospital affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, 200025 China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5371186?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5371186"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40035-017-0078-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-03-31"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-28"
+  ],
+  "firstPublicationDate": [
+    "2017-03-28"
+  ]
+}

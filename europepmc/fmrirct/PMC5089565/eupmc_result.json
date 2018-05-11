@@ -1,0 +1,842 @@
+{
+  "id": [
+    "27226262"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27226262"
+  ],
+  "pmcid": [
+    "PMC5089565"
+  ],
+  "doi": [
+    "10.1111/bdi.12390"
+  ],
+  "title": [
+    "Blue-blocking glasses as additive treatment for mania: a randomized placebo-controlled trial."
+  ],
+  "authorString": [
+    "Henriksen TE, Skrede S, Fasmer OB, Schoeyen H, Leskauskaite I, Bjørke-Bertheussen J, Assmus J, Hamre B, Grønli J, Lund A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Henriksen TE"
+          ],
+          "firstName": [
+            "Tone Eg"
+          ],
+          "lastName": [
+            "Henriksen"
+          ],
+          "initials": [
+            "TE"
+          ],
+          "affiliation": [
+            "Section for Psychiatry, Department of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Skrede S"
+          ],
+          "firstName": [
+            "Silje"
+          ],
+          "lastName": [
+            "Skrede"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Dr. Einar Martens Research Group for Biological Psychiatry, Center for Medical Genetics and Molecular Medicine, Haukeland University Hospital, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Fasmer OB"
+          ],
+          "firstName": [
+            "Ole B"
+          ],
+          "lastName": [
+            "Fasmer"
+          ],
+          "initials": [
+            "OB"
+          ],
+          "affiliation": [
+            "Section for Psychiatry, Department of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Schoeyen H"
+          ],
+          "firstName": [
+            "Helle"
+          ],
+          "lastName": [
+            "Schoeyen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Section for Psychiatry, Department of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Leskauskaite I"
+          ],
+          "firstName": [
+            "Ieva"
+          ],
+          "lastName": [
+            "Leskauskaite"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Division of Mental Health Care, Haugesund Hospital, Fonna Local Health Authority, Valen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Bjørke-Bertheussen J"
+          ],
+          "firstName": [
+            "Jeanette"
+          ],
+          "lastName": [
+            "Bjørke-Bertheussen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Division of Psychiatry, Stavanger University Hospital, Stavanger, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Assmus J"
+          ],
+          "firstName": [
+            "Jörg"
+          ],
+          "lastName": [
+            "Assmus"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Centre for Clinical Research, Haukeland University Hospital, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamre B"
+          ],
+          "firstName": [
+            "Børge"
+          ],
+          "lastName": [
+            "Hamre"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Physics and Technology, University of Bergen, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Grønli J"
+          ],
+          "firstName": [
+            "Janne"
+          ],
+          "lastName": [
+            "Grønli"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Biological and Medical Psychology, Faculty of Psychology, University of Bergen, Bergen, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Lund A"
+          ],
+          "firstName": [
+            "Anders"
+          ],
+          "lastName": [
+            "Lund"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Section for Psychiatry, Department of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2412150"
+      ],
+      "dateOfPublication": [
+        "2016 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bipolar disorders"
+          ],
+          "ISOAbbreviation": [
+            "Bipolar Disord"
+          ],
+          "medlineAbbreviation": [
+            "Bipolar Disord"
+          ],
+          "NLMid": [
+            "100883596"
+          ],
+          "ISSN": [
+            "1398-5647"
+          ],
+          "ESSN": [
+            "1399-5618"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "221-232"
+  ],
+  "abstractText": [
+    "The discovery of the blue lightsensitive retinal photoreceptor responsible for signaling daytime to the brain suggested that light to the circadian system could be inhibited by using blue-blocking orange tinted glasses. Blue-blocking (BB) glasses are a potential treatment option for bipolar mania. We examined the effectiveness of BB glasses in hospitalized patients with bipolar disorder in a manic state.In a single-blinded, randomized, placebo-controlled trial (RCT), eligible patients (with bipolar mania; age 18-70 years) were recruited from five clinics in Norway. Patients were assigned to BB glasses or placebo (clear glasses) from 6 p.m. to 8 a.m. for 7 days, in addition to treatment as usual. Symptoms were assessed daily by use of the Young Mania Rating Scale (YMRS). Motor activity was assessed by actigraphy, and compared to data from a healthy control group. Wearing glasses for one evening/night qualified for inclusion in the intention-to-treat analysis.From February 2012 to February 2015, 32 patients were enrolled. Eight patients dropped out and one was excluded, resulting in 12 patients in the BB group and 11 patients in the placebo group. The mean decline in YMRS score was 14.1 [95% confidence interval (CI): 9.7-18.5] in the BB group, and 1.7 (95% CI: -4.0 to 7.4) in the placebo group, yielding an effect size of 1.86 (Cohen's d). In the BB group, one patient reported headache and two patients experienced easily reversible depressive symptoms.This RCT shows that BB glasses are effective and feasible as add-on treatment for bipolar mania."
+  ],
+  "affiliation": [
+    "Section for Psychiatry, Department of Clinical Medicine, Faculty of Medicine and Dentistry, University of Bergen, Bergen, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antimanic Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Combined Modality Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hospitalization"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feasibility Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Eyeglasses"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Color Perception"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bipolar Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatric Status Rating Scales"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychometrics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Circadian Rhythm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photoreceptor Cells, Vertebrate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Activation",
+        "Bipolar disorder",
+        "Mania",
+        "Rct",
+        "Chronotherapy",
+        "Actigraph",
+        "Blue-blockers",
+        "Virtual Darkness",
+        "Dark Therapy"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antimanic Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5089565?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5089565"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/bdi.12390"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "27218661"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Bipolar Disord. 2016 Jun;18(4):379-82"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "33"
+          ]
+        },
+        {
+          "id": [
+            "27233225"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Bipolar Disord. 2016 Jun;18(4):383-4"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "34"
+          ]
+        },
+        {
+          "id": [
+            "27933696"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Bipolar Disord. 2016 Dec;18(8):708-709"
+          ],
+          "type": [
+            "Comment in"
+          ],
+          "orderIn": [
+            "35"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-22"
+  ],
+  "dateOfCreation": [
+    "2016-05-27"
+  ],
+  "dateOfRevision": [
+    "2018-01-25"
+  ],
+  "firstPublicationDate": [
+    "2016-05-01"
+  ]
+}

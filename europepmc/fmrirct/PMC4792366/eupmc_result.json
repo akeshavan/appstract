@@ -1,0 +1,247 @@
+{
+  "id": [
+    "27069287"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27069287"
+  ],
+  "pmcid": [
+    "PMC4792366"
+  ],
+  "doi": [
+    "10.1007/s10608-015-9731-3"
+  ],
+  "title": [
+    "An Interpersonal CBT Framework for Involving Relatives in Interventions for Psychosis: Evidence Base and Clinical Implications."
+  ],
+  "authorString": [
+    "Lobban F, Barrowclough C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lobban F"
+          ],
+          "firstName": [
+            "Fiona"
+          ],
+          "lastName": [
+            "Lobban"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Division of Health Research, Faculty of Health and Medicine, Spectrum Centre for Mental Health Research, Lancaster University, Lancaster, LA14YT UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Barrowclough C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Barrowclough"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "School of Psychological Sciences, University of Manchester, Manchester, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "40"
+      ],
+      "journalIssueId": [
+        "2373178"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cognitive therapy and research"
+          ],
+          "ISOAbbreviation": [
+            "Cognit Ther Res"
+          ],
+          "medlineAbbreviation": [
+            "Cognit Ther Res"
+          ],
+          "NLMid": [
+            "7707273"
+          ],
+          "ISSN": [
+            "0147-5916"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "198-215"
+  ],
+  "abstractText": [
+    "Working with families in psychosis improves outcomes and is cost effective. However, implementation is poor, partly due to lack of a clear theoretical framework. This paper presents an interpersonal framework for extending the more familiar cognitive behavioral therapy model of psychosis to include the role of relatives' behavior in the process of recovery. A summary of the framework is presented, and the evidence to support each link is reviewed in detail. Limitations of the framework are discussed and further research opportunities highlighted. Clinical implications and a case example are described to show how the framework can be used flexibly to facilitate clinical practice. Our aim is to shift the focus of psychosocial interventions from an individualistic approach to treatment, towards greater involvement of relatives and recognition of the importance of the social environment on mental health."
+  ],
+  "affiliation": [
+    "Division of Health Research, Faculty of Health and Medicine, Spectrum Centre for Mental Health Research, Lancaster University, Lancaster, LA14YT UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4792366?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4792366"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10608-015-9731-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-04-12"
+  ],
+  "dateOfRevision": [
+    "2016-04-12"
+  ],
+  "electronicPublicationDate": [
+    "2015-12-11"
+  ],
+  "firstPublicationDate": [
+    "2015-12-11"
+  ]
+}

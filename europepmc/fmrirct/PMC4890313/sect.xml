@@ -1,0 +1,798 @@
+<?xml version="1.0"?>
+F1000ResF1000ResF1000ResearchF1000Research2046-1402F1000ResearchLondon, UK489031310.12688/f1000research.7586.1ReviewArticlesDevelopmental &amp; Pediatric NeurologyMotor SystemsNeurobiology of Disease &amp; RegenerationNeurological Problems in Critical CareNeurorehabilitation &amp; CNS TraumaStem Cells &amp; RegenerationRecent advances in managing a spinal cord injury secondary to trauma[version 1; referees: 2 approved]AhujaChristopher S.12MartinAllan R.12FehlingsMichaela123456
+1Division of Neurosurgery, Department of Surgery, University of Toronto, Toronto, Ontario, Canada
+2Institute of Medical Science, University of Toronto, Toronto, Ontario, Canada
+3McEwen Centre for Regenerative Medicine, UHN, University of Toronto, Toronto, Ontario, Canada
+4Department of Surgery, University of Toronto, Toronto, Ontario, Canada
+5Spine Program, University of Toronto, Toronto, Ontario, Canada
+6McLaughlin Center in Molecular Medicine, University of Toronto, Toronto, Ontario, Canadaamichael.fehlings@uhn.on.ca
+Competing interests: Michael Fehlings is an investigator in the Stem Cells Inc. trial mentioned in this article. The authors have no other conflicts or potential conflicts to disclose.275201620165F1000 Faculty Rev-10172352016Copyright: © 2016 Ahuja CS et al.2016This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.Traumatic spinal cord injuries (SCIs) affect 1.3 million North Americans, producing devastating physical, social, and vocational impairment. Pathophysiologically, the initial mechanical trauma is followed by a significant secondary injury which includes local ischemia, pro-apoptotic signaling, release of cytotoxic factors, and inflammatory cell infiltration. Expedient delivery of medical and surgical care during this critical period can improve long-term functional outcomes, engendering the concept of “Time is Spine”. We emphasize the importance of expeditious care while outlining the initial clinical and radiographic assessment of patients. Key evidence-based early interventions (surgical decompression, blood pressure augmentation, and methylprednisolone) are also reviewed, including findings of the landmark Surgical Timing in Acute Spinal Cord Injury Study (STASCIS). We then describe other neuroprotective approaches on the edge of translation such as the sodium-channel blocker riluzole, the anti-inflammatory minocycline, and therapeutic hypothermia. We also review promising neuroregenerative therapies that are likely to influence management practices over the next decade including chondroitinase, Rho-ROCK pathway inhibition, and bioengineered strategies. The importance of emerging neural stem cell therapies to remyelinate denuded axons and regenerate neural circuits is also discussed. Finally, we outline future directions for research and patient care.Spinal cord injurytraumaMRIimagingstem cellneuroprotectionneuroregenerationThe author(s) declared that no grants were involved in supporting this work.PathophysiologyThe initial primary trauma results in mechanical injury to cells, damages the sensitive microvasculature of the cord, and causes hemorrhage. Pro-apoptotic signaling is initiated and progressive edema contributes to ongoing ischemia
+5,
+6. Furthermore, the blood-spinal cord barrier is disrupted, permitting an influx of vasoactive peptides, cytokines, and inflammatory cells
+7,
+8. Over the ensuing hours to days, by-products of cellular necrosis are released (ATP, DNA, and K
++), creating a cytotoxic post-injury milieu and activating microglia to further recruit phagocytes. Macrophages and polymorphonuclear leukocytes infiltrate and generate oxygen free radicals and other cytotoxic by-products. Excess glutamate release and failure of reuptake by astrocytes results in excitotoxicity for adjacent neurons
+9,
+10. Please see
+Figure 1.Figure 1. “(
+A) Primary and secondary mechanisms of injury determining the final extent of spinal cord damage. The primary injury event starts a pathobiological cascade of secondary injury mechanisms that unfold in different phases within seconds of the primary trauma and continuing for several weeks thereafter. (
+B) Longitudinal section of the spinal cord after injury. The epicenter of the injury progressively expands after the primary trauma as a consequence of secondary injury events. This expansion causes an increased region of tissue cavitation and, ultimately, worsened long-term outcomes. Within and adjacent to the injury epicenter are severed and demyelinated axons. The neuroprotective agents listed act to subvert specific secondary injuries and prevent neural damage, while the neuroregenerative agents act to promote axonal regrowth once damage has occurred. ATP = adenosine triphosphate.” Reprinted with permission from Wilson J, Forgione N, Fehlings MG. Emerging therapies for acute traumatic spinal cord injury.
+CMAJ. 2012; 185(6): 485
+4.As the parenchymal volume is lost, cystic cavities coalesce, creating a physical barrier to cell migration
+11. Furthermore, the lack of structural framework impedes regenerative attempts. Over time, astrocytes proliferate and surround the perilesional zone, creating an irregular mesh-like barrier of interwoven cell processes
+12. This is accompanied by fibroblast deposition of chondroitin sulfate proteoglycans (CSPGs) including neural/glial antigen 2 (NG2) and tenascin
+13–
+16. CSPGs and myelin glycoproteins act via the Rho-ROCK (rho-associated protein kinase) pathway to inhibit neurite outgrowth by signaling growth cone collapse through effector kinases
+17. Together, these mechanisms severely restrict endogenous neural circuit regeneration and oligodendrocyte remyelination at a cellular level.Systemically, cervical and thoracic cord injuries can interrupt the sympathetic output of the intermediolateral column, causing neurogenic shock with loss of peripheral vascular tone and bradycardia
+18. The result can be profound hypotension, which further exacerbates cord ischemia
+19. Paralysis of the intercostal and abdominal muscles restricts the inspiratory phase of ventilation, leading to hypercarbia and/or hypoxia. Furthermore, a weakened cough, poor mobilization, and secondary immunodeficiency (immune paralysis) after SCI make patients highly susceptible to life-threatening infections
+20,
+21.There is currently a lack of consensus on the optimal approach to several areas of SCI diagnosis and treatment, in part owing to heterogeneity in injuries (cervical versus thoracic, complete versus incomplete) but also owing to conflicting interpretations of the literature. As discussed below, early recognition and appropriate triage of patients are critical first-line components of care; however, the choice of imaging modalities for diagnosis and prognostication remains unclear
+22. Care is largely supportive, but the long-term importance of early surgical decompression (&lt;24 hours)
+3,
+23,
+24, blood pressure augmentation (mean arterial pressure [MAP] ≥85 mmHg)
+4, and selective use of methylprednisolone (MPSS)
+25–
+28 is increasingly being recognized. Even under ideal circumstances, recovery of lost function is patient dependent and largely determined by their clinical status at 1–2 years post-injury. Below we summarize the current standards of care and discuss recent advances in the diagnosis, neuroprotection, prognostication, and regeneration for patients with SCI.Current careThe first-line care of a patient with SCI involves securing the airway, breathing, and circulation followed by appropriate spinal immobilization in the field to limit further insult of the highly susceptible cord during transport
+22. Recognition and appropriate triage of SCI patients is critical in the early period to ensure timely delivery of interventions at specialized centers
+22. While maintaining spinal immobilization, airway and breathing management can range from supplemental oxygen to intubation and ventilation. At any point during the acute injury, systemic hypotension (systolic blood pressure [SBP] &lt;90 mmHg) is associated with worse neurologic outcomes
+22. With a profound loss of vascular tone and potential bradycardia, patients can rapidly fall into neurogenic shock. Large-volume intravenous (IV) fluid therapy (most often crystalloids) is the mainstay of treatment; however, adjunctive alpha-adrenergic vasopressors (e.g. norepinephrine and phenylephrine) may also be used to temporize patients. As soon as the patient is resuscitated, an American Spinal Injury Association (ASIA) International Standards for Neurological Classification of SCI (ISNCSCI) examination should be completed to establish the level of injury and baseline function
+22.Early imaging to localize and classify the injury is critical to expeditiously manage patients and provide the outcome-altering early interventions discussed below
+3,
+4,
+23,
+24. CT is recommended in all patients, as plain radiographs can miss 6% of injuries
+29. In those with cervical injuries and high-energy mechanisms, imaging of the thoracolumbar spine is also recommended to detect concomitant injuries
+30. Magnetic resonance imaging (MRI) can be useful to assess ligamentous injury, critical disc herniations, and epidural hematomas and enhance prognostication of outcomes
+31; however, its role in the initial workup of patients with SCI remains unclear given resource constraints at many centers. Urgent MRI is recommended by the authors in cases with unexplained neurological deficits to ensure that ongoing cord compression or ligamentous injuries are not missed.While establishing the diagnosis and classifying the injury pattern, secondary injuries should be avoided by transferring the patient to an intensive care unit (ICU) setting with respiratory, hemodynamic, and cardiac monitoring
+22. Polytrauma patients should continue to have acute life- or limb-threatening injuries managed while maintaining appropriate spinal immobilization and recognizing early therapeutic windows for SCI interventions. This requires a concerted interdisciplinary effort including modified surgical positioning for orthopedic/general surgery procedures, fiberoptic tracheal intubation, and clear communication between teams.Early surgical decompressionProgressive edema and hemorrhage contribute to ongoing mechanical pressure on the sensitive microvascular circulation. Surgical decompression aims to relieve this pressure to reduce secondary ischemic-hypoxic injury. The Surgical Timing in Acute Spinal Cord Injury Study (STASCIS) was a prospective, observational study of 313 patients with cervical SCI. Patients undergoing early decompression (&lt;24 hours from injury; mean = 14 hours) were more than twice as likely to have a two-grade ASIA Impairment Scale (AIS) improvement at 6-month follow-up than those undergoing late surgery (≥24 hours from injury; mean = 48.3 hours)
+23. No difference in complication rates between early (24%) and late (30%) surgery was found (p = 0.21). These findings were further confirmed in a prospective Canadian cohort study
+24. Another observational study reported shorter hospital lengths of stay (LOS) for ASIA grade A (complete) or grade B (incomplete sensory injury; complete motor injury) patients undergoing early decompression
+3. An additional multi-center, European (SCI-POEM) study is currently underway
+31. The main critique of these studies is their cohort design, which was chosen for both practical reasons and ethical concerns surrounding randomizing patients where true clinical equipoise does not exist. However, these studies represent the most robust, large-scale data on surgery for SCI and provide support for a well-studied intervention in a field where few treatment options exist for patients. Given this data, the concept of “Time is Spine” has emerged, emphasizing the critical importance of early therapies to improve long-term functional outcomes
+4. Furthermore, early surgical decompression (&lt;24 hours) is recommended in current American Association of Neurological Surgeons (AANS) and Congress of Neurological Surgeons (CNS) guidelines
+22.Mean arterial pressureTo further mitigate ischemia of the injured cord, blood pressure augmentation has emerged as a viable strategy. Maintaining MAP ≥85–90 mmHg post-injury has been shown to improve AIS grade outcomes for patients
+4. Current AANS/CNS guidelines provide level III recommendations to maintain MAP for 7 days post-injury. This requires maintenance of a euvolemic or slightly hypervolemic state using IV crystalloid in addition to an infusion of vasopressors and invasive blood pressure monitoring (e.g. arterial line). These significant requirements have led to a non-inferiority trial of MAP ≥65 mmHg versus MAP ≥85 mmHg called MAPS, which is expected to be completed in 2017
+31.Maintaining these MAP parameters can also be a barrier to mobilization, which is critical in the early post-injury period to prevent complications. Safely elevating patients and engaging muscle activity requires a collaborative, multidisciplinary effort along with adjuncts such as prophylactic vasopressors and peripheral/abdominal binding. The ideal time to begin mobilization should be evaluated on an individual basis according to the patient’s hemodynamics, underlying comorbidities, and the expertise of the healthcare team.Early intravenous methylprednisoloneMPSS is a synthetic corticosteroid which upregulates anti-inflammatory factors and decreases oxidative stress to enhance endogenous cell survival in animal models of SCI. A series of key clinical trials entitled National Spinal Cord Injury Study (NASCIS) I (1984)
+25, II (1990)
+26, and III (1997)
+27 demonstrated serious adverse events with a high-dose MPSS protocol (e.g. sepsis), which outweighed the potential benefit for neurologic recovery. However, when a low-dose protocol was given to patients within 8 hours of injury, no adverse events and a potential improvement were seen. The study methodology and subgroup analyses from this series have been extensively debated over the last several decades. To settle this debate, a comprehensive Cochrane review was published in 2012 encompassing six randomized controlled trials (RCTs) and several key observational studies. The analysis demonstrated a four-point ASIA motor score improvement for patients receiving MPSS within 8 hours of injury
+33. While this appears to be a small improvement in relative terms, a four-point improvement in key myotomes such as grip, triceps, and deltoid function can represent a significant functional gain for patients. The 2016 AOSpine guidelines, developed by an international and interdisciplinary committee of experts, will suggest IV MPSS (administered over 24 hours) as a treatment option when feasible to patients within 8 hours of injury.Frontiers of imagingConventional MRI, producing T1- and T2-weighted images, has been shown to be of modest value in helping to predict neurological and functional outcomes, particularly the prognostic factors of length of hemorrhage and degree of cord compression
+31. However, conventional MRI fails to yield information about the health of the spinal cord tissue as signal changes are non-specific and can reflect a range of physiological processes such as hemorrhage (macroscopic or microscopic), edema, gliosis, cell loss, and cavitation
+31. A number of emerging MRI techniques have the potential to substantially improve our ability for prognostication by quantifying the degree of tissue injury and measuring functional changes within the spinal cord
+34. Techniques that can quantify aspects of tissue microstructure include diffusion tensor imaging (DTI), reflecting axonal integrity, magnetization transfer (MT) and myelin water fraction (MWF), correlating with myelin quantity, and MR spectroscopy (MRS), measuring the concentration of key molecules that reflect cell loss (
+N-acetylaspartate), gliosis (myo-inositol), and ischemia (lactate). Functional MRI (fMRI) can visualize neuronal activity and connectivity. All of these techniques are under intense investigation, with DTI in particular showing strong correlation with tissue injury, which may lead to clinical translation in the near future
+35.Frontiers of neuroprotectionNeuroprotective interventions to preserve injured tissue and reduce secondary insult are key approaches in SCI. Multiple therapies targeting components of the pathophysiologic cascade are currently under investigation and in trial.Hypothermia decreases the basal metabolic rate of central nervous system tissue and reduces inflammation
+36. Therapeutic hypothermia (32–34°C) has been applied in the neuroprotection of patients after cardiac arrest
+37 and neonatal hypoxic-ischemic encephalopathy
+38,
+39. Animal models of SCI have demonstrated significant improvements with systemic intravascular cooling
+40, leading to a pilot study of 14 AIS grade A patients in which a trend towards neurologic improvement (43% versus 21%) was reported with no difference in complication rates
+41. The pending Acute Rapid Cooling Therapy for Injuries of the Spinal Cord (ARCTIC) phase II/III trial looks to further assess the efficacy of this therapy
+42.Riluzole is a benzothiazole, voltage-gated sodium-channel blocker which indirectly decreases glutamate release and enhances reuptake
+43. It has been used successfully to slow the progression of motor neuron loss and improve survival in patients with amyotrophic lateral sclerosis
+44. A phase I/II clinical trial of 36 patients with SCI demonstrated 15.5-point improvements in ISNCSCI motor scores for riluzole-treated patients with a cervical level injury
+45. A phase II/III RCT entitled “Riluzole in Spinal Cord Injury Study” (RISCIS), sponsored by AOSpine, the North American Clinical Trials Network (NACTN), the Rick Hansen Institute, and the Ontario Neurotrauma Foundation, is now underway to further assess efficacy for patients with C4-8 level injuries. The trial is expected to complete in 2018
+32. Minocycline is a tetracycline-class antibiotic with anti-inflammatory properties including inhibition of tumor necrosis factor-α (TNF-α), interleukin-1β (IL-1β), cyclooxygenase-2 (COX-2), nitric oxide synthase (NOS), and microglial activation. Preclinical models of SCI showed dramatically decreased lesion sizes and neuron loss with acute minocycline treatment
+46,
+47. In a mixed-level phase II study, cervical SCI patients (N = 25) had a 14-point ASIA motor score improvement with minocycline treatment versus placebo (p = 0.05)
+48. This has led to a phase III trial (N = 248) of IV minocycline x 7 days versus placebo entitled “Minocycline in Acute Spinal Cord Injury” (MASC) to be completed by 2018
+32.Fibroblast growth factor (FGF) is part of the family of heparin-binding proteins. It has been shown to protect against excitotoxic cell death and mitigate oxygen free radical production in animal models of SCI
+49. SUN13837 (Asubio Pharmaceuticals Inc.) is an FGF analogue trialed in a phase I/II study which completed in 2015. Results are expected to be reported in the near future
+32. Similarly, cytokine granulocyte-colony stimulating factor (G-CSF) has been shown to be neuroprotective in SCI by directly promoting cell survival and inhibiting TNF-α and IL-1β
+50. Two non-randomized studies demonstrated improvements in AIS scores for patients receiving IV G-CSF
+51,
+52. A larger randomized trial is anticipated.Finally, magnesium is a non-competitive NMDA receptor antagonist. It has been applied in the neuroprotection of multiple central nervous system disorders to decrease excitotoxicity and inhibit inflammation. When delivered with an excipient, such as polyethylene glycol (PEG), it generates stable cerebrospinal fluid levels in the therapeutic range
+53–
+55. AC105 (Acorda Therapeutics) is a Mg-PEG compound that was studied in a phase I trial concluding in February 2015
+32. Results are pending report.Frontiers of neuroregenerationThe majority of patients living with impairments from SCI are in the chronic phase of injury. Neuroregenerative strategies aiming to help these millions of patients are being developed by countless researchers worldwide. Significant therapeutic opportunities exist using endogenous and exogenous repair mechanisms with adjuncts to address barriers to recovery such as the loss of structural framework, cystic cavitation, astroglial/CSPG scarring, and inhibitory molecular signaling.CSPGs, myelin-associated glycoproteins (MAGs), oligodendrocyte-myelin glycoprotein (OMgp), and neurite outgrowth inhibitor-A (NOGO-A) all act on receptors associated with the Rho-ROCK pathway to inhibit neurite outgrowth, thereby stemming attempts at recovery. Multiple types of drugs directed at disrupting this signaling cascade have been developed. Bioengineered monoclonal NOGO-A antibodies, given by intrathecal injection, have been shown to improve regeneration of rat and primate spinal cords
+56,
+57. A phase I study (N = 51) of ATI355 (anti-Nogo-A antibody) has been completed with results pending dissemination
+32. Direct Rho inhibition has also been developed in the form of an intraoperatively applied epidural paste (Cethrin/VX-210; Vertex Pharmaceuticals)
+17. A mixed cervicothoracic-level phase I/IIa study (N = 48) demonstrated significant motor improvement (18.5 ASIA motor score points) for cervical patients receiving Cethrin without any increase in complications
+58. A further phase IIb trial is planned.Instead of inhibiting the Rho-ROCK pathway, chondroitinase ABC (ChABC) is an enzyme which degrades CSPGs in the glial scar to effectively remove initiators of the cascade. In rodent models of SCI, intrathecal and intraparenchymal treatments with ChABC have been shown to reduce CSPGs, scar volume, and cavity volume. Electrophysiologic and behavioral improvements in motor and sensory function after ChABC treatment have also been demonstrated by a number of groups including seminal work by Bradbury
+et al.
+59–
+61. This exciting approach is being further developed with novel delivery methods and in combination with other regenerative techniques such as cell-based therapy
+49,
+60,
+62. Furthermore, a humanized form of chondroitinase is being studied with a more central nervous system-specific motif.Cell-based therapies are a rapidly evolving field of regenerative medicine. Embryonic stem cells (ESCs) and induced pluripotent stem cells (iPSCs), and their differentiated progeny, are capable of regenerating lost neural circuits, remyelinating denuded axons, modulating the inflammatory response, and modifying the microenvironment
+63–
+65. ESCs have been studied the longest but are in limited supply and their use raises complex ethical issues. The discovery of four factors capable of generating a pluripotent cell from adult somatic cells provided a limitless source of cells with the possibility of developing autologous therapies in the future
+66. While previously unknown issues with iPSCs, such as epigenetic memory and early senescence, are being studied, these cells remain a key therapeutic strategy
+67. Multiple studies of oligodendrocyte precursor cells, neural precursor cells, and cells to modify the microenvironment have produced recovery of function in preclinical models over the past three decades
+68–
+73. An international phase I/II trial of human central nervous system stem cell injections for cervical SCI is being conducted by Stem Cells Inc. with results expected in 2017
+32. A parallel thoracic injury phase I/II study, currently completing follow-ups, has shown improvements in sensation with no increase in complication rates
+74. Another phase I trial of NSI-566 neural stem cells for thoracic injury is expected to conclude in 2016
+32. Ongoing studies will continue to address safety concerns and establish efficacy of this exciting therapy.Several important parallel cell-based strategies are under investigation. Schwann cells (SCs) are able to remyelinate both peripheral nervous system (PNS) and central nervous system axons and are a key component of effective PNS regeneration. In animal models, SCs have been shown to reduce cystic cavitation, enhance tissue sparing, and promote behavioral recovery
+75. The Miami Project to Cure Paralysis is currently recruiting patients with chronic ASIA grade A, B, and C cervical and thoracic injuries for a phase I (N = 10; NCT02354625), open-label trial of autologous SCs transplanted into the injury epicenter
+32. The study is expected to conclude in 2018. The same team is also running a phase I study (N = 10; NCT01739023) of autologous SCs for subacute thoracic ASIA grade A SCI expected to report in 2016
+32.Olfactory ensheathing cells (OECs) cover olfactory neurons in a manner similar to SCs. They are potent phagocytes capable of continuously clearing microbes and debris from the nasal mucosa while also secreting neurotrophic support factors
+76–
+79. OECs harvested from the nasal mucosa or olfactory bulb have been shown to enhance axonal regeneration and remyelination and significantly improve behavioral outcomes in animal models
+80. Several chronic SCI trials of OECs have been completed and compiled in a recent meta-analysis (cumulative N = 1193) which demonstrated no significant increase in serious adverse events. Higher-quality studies are required moving forward to definitively establish efficacy
+81.Mesenchymal stem cells (MSCs) are multipotent stromal cells with the capacity to repair damaged tissues by differentiating along connective tissue lineages (e.g. chondrocytes, myocytes, osteoblasts, and adipocytes)
+82. Furthermore, they are uniquely capable of modulating the inflammatory response both at a systemic level and within their local environment
+83–
+85. In animal models, MSCs have been shown to decrease peripheral inflammatory cell infiltration, enhance pro-survival trophic factor levels, and promote neural tissue sparing
+86,
+87. Numerous phase I and II trials studying autologous MSCs are ongoing worldwide. Pharmicell Co. is conducting a phase II/III trial (N = 32; NCT01676441) of autologous MSCs transplanted into the parenchyma and intrathecal space of patients with ASIA grade B injuries. The study is expected to conclude in 2016
+32. A similar class of support cells is bone marrow cells (BMCs) which, in preclinical testing, have been shown to facilitate directed axonal regrowth by producing extracellular matrix
+88 and promoting remyelination
+89. A phase I/II RCT (N = 21) of ASIA grade A patients administered autologous BMCs intraparenchymally or intrathecally was published in 2015. No serious adverse events were reported
+90. A similar recent study in children with chronic SCI also showed no significant adverse events
+91. Bioengineered strategies form an important complementary avenue of research for regeneration of the traumatically injured cord. Multiple biomaterials have been developed to fill cavitation defects and recreate the structural architecture required to promote endogenous and exogenous cell migration and survival
+92–
+96. These materials are being engineered to have a specified porosity and density, be immunologically inert, and biodegrade over time. Furthermore, many have been modified to release growth factors or immunomodulatory drugs to enhance regeneration
+95,
+97,
+98. A unique class of biomaterial, self-assembling peptide hydrogels, has been designed to be injectable and assemble into nanofibrils resembling extracellular matrix when exposed to ionic or temperature changes
+68,
+99. As biochemical manufacturing and our transplant techniques are refined, biomaterials are likely to be important components of a successful regenerative therapy for SCI.Frontiers of rehabilitationA critical part of any treatment for SCI is an effective rehabilitation strategy. This requires the integration of SCI-specific physiotherapy (e.g. stretching, strength training, and transferring), occupational therapy (e.g. modified activities for self-care), nursing (e.g. wound care and bowel/bladder care), psychology, speech-language pathology, and medicine. Conventional physical rehabilitation aims to reduce chronic complications (e.g. ulcers, deformity, and cardiorespiratory deconditioning) while enhancing residual function for maximal gain. Several technological adjuncts are actively being researched and integrated into long-term rehabilitation to achieve these goals including functional electrical stimulation (FES) and epidural stimulation (EDS). FES applies microcurrents to nerves and muscles to enhance motor function during rehabilitation or daily activities. Patterned FES has shown success in restoring both upper extremity (e.g. writing, eating, and self-care) and lower extremity (e.g. supported ambulation and stationary bicycle riding) function. FES has also been used to significantly improve volitional control of the bowel and bladder
+100. In addition to immediate gains, FES may also produce long-term improvements similar to activity-based restorative therapy (ABRT) via mechanisms of neuroplasticity. Both ABRT and FES repeatedly activate preserved circuits to maintain existing connections while promoting synaptogenesis, myelination, and neurite sprouting
+100–
+103. Furthermore, during physical rehabilitation, FES augmentation can dramatically increase patients’ oxygen uptake and respiratory rate and improve their fat to muscle ratio
+104,
+105. A phase III trial (N = 84; NCT01292811) of FES for the restoration of upper limb function in tetraplegic patients with subacute cervical injuries is currently recruiting patients. This study is expected to conclude in 2018. EDS is a parallel approach using microcurrents delivered by epidural electrodes to stimulate the spinal cord and/or conus medullaris
+106. It has been successfully used in the treatment of refractory neuropathic pain for numerous conditions (e.g. amputation, stroke, and SCI). The concept behind EDS-induced motor recovery is the enhancement of neuroplasticity by activating central circuits including the central pattern generator for locomotion (T11-L1) and cardiorespiratory circuits. Several phase I and II studies (NCT02592668, NCT02339233, and NCT02313194) are underway to explore the potential of EDS with results expected over the next 5 years
+32.Looking forwardThe landscape of SCI management is quickly changing as the heterogeneity of patients and long-term importance of key early interventions are increasingly being recognized. Combinatorial neuroprotective and neuroregenerative strategies are most likely to be effective moving forward given the multifaceted nature of the injury; however, this approach may require tailoring to specific patient subgroups. This necessitates a deeper understanding of SCI pathophysiology, clinical presentation, and relevant imaging, serum, and cerebrospinal fluid biomarkers
+107,
+108. While landmark studies of the past have enrolled varied groups of patients for logistical reasons, we foresee future studies stratifying patients by well-defined diagnostic criteria to elucidate subtle but prognostically important differences. The results of the above trials may become catalysts for critical changes in the current standard of care. Even small improvements in sensory or motor outcomes can have profound functional effects on patients’ vocational abilities and independence.AbbreviationsAANS, American Association of Neurological Surgeons; ABRT, activity-based restorative therapy; AIS, American Spinal Injury Association Impairment Scale; ASIA, American Spinal Injury Association; BMC, bone marrow cell; ChABC, chondroitinase ABC; CNS, Congress of Neurological Surgeons; CSPG, chondroitin sulfate proteoglycan; DTI, detrusor tensor imaging; EDS, epidural stimulation; ESC, embryonic stem cell; FES, functional electrical stimulation; FGF, fibroblast growth factor; G-CSF, granulocyte-colony stimulating factor; IL-1β, interleukin-1β; iPSC, induced pluripotent stem cell; ISNCSCI, International Standards for Neurological Classification of Spinal Cord Injury; IV, intravenous; MAP, mean arterial pressure; MPSS, methylprednisolone; MRI, magnetic resonance imaging; MSC, mesenchymal stem cell; NOGO-A, neurite outgrowth inhibitor-A; OEC, olfactory ensheathing cell; PEG, polyethylene glycol; PNS, peripheral nervous system; RCT, randomized controlled trial; ROCK, rho-associated protein kinase; SBP, systolic blood pressure; SC, Schwann cell; SCI, spinal cord injury; STASCIS, Surgical Timing in Acute Spinal Cord Injury Study; TNF-α, tumor necrosis factor-α.AcknowledgementsThank you to Madeleine O’Higgins for manuscript copyediting.1
+National Spinal Cord Injury Statistical Center:
+Spinal cord injury facts and figures at a glance.
+J Spinal Cord Med.
+2014;37(1):117–8.
+10.1179/1079026813Z.000000000249
+
+244564862
+Foundation CaDR:
+One degree of separation: paralysis and spinal cord injury in the United States.2010
+Reference Source
+3
+DvorakMFNoonanVKFallahN:
+The influence of time from injury to surgery on motor recovery and length of hospital stay in acute traumatic spinal cord injury: an observational Canadian cohort study.
+J Neurotrauma.
+2015;32(9):645–54.
+10.1089/neu.2014.3632
+
+253331954
+WilsonJRForgioneNFehlingsMG:
+Emerging therapies for acute traumatic spinal cord injury.
+CMAJ.
+2013;185(6):485–92.
+10.1503/cmaj.121206
+
+232289955
+LaPlacaMCSimonCMPradoGR:
+CNS injury biomechanics and experimental models.
+Prog Brain Res.
+2007;161:13–26.
+10.1016/S0079-6123(06)61002-9
+176189676
+ChooAMLiuJLamCK:
+Contusion, dislocation, and distraction: primary hemorrhage and membrane permeability in distinct mechanisms of spinal cord injury.
+J Neurosurg Spine.
+2007;6(3):255–66.
+10.3171/spi.2007.6.3.255
+173550257
+WhetstoneWDHsuJYEisenbergM:
+Blood-spinal cord barrier after spinal cord injury: relation to revascularization and wound healing.
+J Neurosci Res.
+2003;74(2):227–39.
+10.1002/jnr.10759
+
+145153528
+MautesAEWeinzierlMRDonovanF:
+Vascular events after spinal cord injury: contribution to secondary pathogenesis.
+Phys Ther.
+2000;80(7):673–87.
+108691309
+LiSMealingGAMorleyP:
+Novel injury mechanism in anoxia and trauma of spinal cord white matter: glutamate release via reverse Na+-dependent glutamate transport.
+J Neurosci.
+1999;19(14):RC16.
+1040705810
+LiSStysPK:
+Mechanisms of ionotropic glutamate receptor-mediated excitotoxicity in isolated spinal cord white matter.
+J Neurosci.
+2000;20(3):1190–8.
+1064872311
+MilhoratTHCapocelliALJrAnzilAP:
+Pathological basis of spinal cord cavitation in syringomyelia: analysis of 105 autopsy cases.
+J Neurosurg.
+1995;82(5):802–12.
+10.3171/jns.1995.82.5.0802
+771460612
+YuanYMHeC:
+The glial scar in spinal cord injury and repair.
+Neurosci Bull.
+2013;29(4):421–35.
+10.1007/s12264-013-1358-3
+2386109013
+SnowDMLemmonVCarrinoDA:
+Sulfated proteoglycans in astroglial barriers inhibit neurite outgrowth
+in vitro.
+Exp Neurol.
+1990;109(1):111–30.
+10.1016/S0014-4886(05)80013-5
+214157414
+HökeASilverJ:
+Proteoglycans and other repulsive molecules in glial boundaries during development and regeneration of the nervous system.
+Prog Brain Res.
+1996;108:149–63.
+10.1016/S0079-6123(08)62538-8
+897980015
+ButtAMDuncanAHornbyMF:
+Cells expressing the NG2 antigen contact nodes of Ranvier in adult CNS white matter.
+Glia.
+1999;26(1):84–91.
+10.1002/(SICI)1098-1136(199903)26:1&lt;84::AID-GLIA9&gt;3.0.CO;2-L
+1008867516
+SilverJ:
+Inhibitory molecules in development and regeneration.
+J Neurol.
+1994;242(1 Suppl 1):S22–4.
+10.1007/BF00939236
+753534517
+ForgioneNFehlingsMG:
+Rho-ROCK inhibition in the treatment of spinal cord injury.
+World Neurosurg.
+2014;82(3–4):e535–9.
+10.1016/j.wneu.2013.01.009
+2329867518
+PopaCPopaFGrigoreanVT:
+Vascular dysfunctions following spinal cord injury.
+J Med Life.
+2010;3(3):275–85.
+
+2094581819
+GuhaATatorCHRochonJ:
+Spinal cord blood flow and systemic blood pressure after experimental spinal cord injury in rats.
+Stroke.
+1989;20(3):372–7.
+10.1161/01.STR.20.3.372
+292277620
+RieggerTConradSSchluesenerHJ:
+Immune depression syndrome following human spinal cord injury (SCI): a pilot study.
+Neuroscience.
+2009;158(3):1194–9.
+10.1016/j.neuroscience.2008.08.021
+1879001321
+BerllyMShemK:
+Respiratory management during the first five days after spinal cord injury.
+J Spinal Cord Med.
+2007;30(4):309–18.
+
+1785365222
+ResnickDK:
+Updated Guidelines for the Management of Acute Cervical Spine and Spinal Cord Injury.
+Neurosurgery.
+2013;72(Suppl 2):1.
+10.1227/NEU.0b013e318276ee7e
+2341717123
+FehlingsMGVaccaroAWilsonJR:
+Early versus delayed decompression for traumatic cervical spinal cord injury: results of the Surgical Timing in Acute Spinal Cord Injury Study (STASCIS).
+PLoS One.
+2012;7(2):e32037.
+10.1371/journal.pone.0032037
+
+2238413224
+WilsonJRSinghACravenC:
+Early versus late surgery for traumatic spinal cord injury: the results of a prospective Canadian cohort study.
+Spinal Cord.
+2012;50(11):840–3.
+10.1038/sc.2012.59
+2256555025
+BrackenMBCollinsWFFreemanDF:
+Efficacy of methylprednisolone in acute spinal cord injury.
+JAMA.
+1984;251(1):45–52.
+10.1001/jama.1984.03340250025015
+636128726
+BrackenMBShepardMJCollinsWF:
+A randomized, controlled trial of methylprednisolone or naloxone in the treatment of acute spinal-cord injury. Results of the Second National Acute Spinal Cord Injury Study.
+N Engl J Med.
+1990;322(20):1405–11.
+10.1056/NEJM199005173222001
+227854527
+BrackenMBShepardMJHolfordTR:
+Administration of methylprednisolone for 24 or 48 hours or tirilazad mesylate for 48 hours in the treatment of acute spinal cord injury. Results of the Third National Acute Spinal Cord Injury Randomized Controlled Trial. National Acute Spinal Cord Injury Study.
+JAMA.
+1997;277(20):1597–604.
+10.1001/jama.1997.03540440031029
+916828928
+FehlingsMGWilsonJRChoN:
+Methylprednisolone for the treatment of acute spinal cord injury: counterpoint.
+Neurosurgery.
+2014;61(Suppl 1):36–42.
+10.1227/NEU.0000000000000412
+2503252929
+RykenTCHadleyMNWaltersBC:
+Radiographic assessment.
+Neurosurgery.
+2013;72(Suppl 2):54–72.
+10.1227/NEU.0b013e318276edee
+2341717930
+SixtaSMooreFODitilloMF:
+Screening for thoracolumbar spinal injuries in blunt trauma: an Eastern Association for the Surgery of Trauma practice management guideline.
+J Trauma Acute Care Surg.
+2012;73(5 Suppl 4):S326–32.
+10.1097/TA.0b013e31827559b8
+2311448931
+BozzoAMarcouxJRadhakrishnaM:
+The role of magnetic resonance imaging in the management of acute spinal cord injury.
+J Neurotrauma.
+2011;28(8):1401–11.
+10.1089/neu.2009.1236
+
+2038800632
+Clinical Trials.gov.2015; Accessed December 21, 2015.
+Reference Source
+33
+BrackenMB:
+Steroids for acute spinal cord injury.
+Cochrane Database Syst Rev.John Wiley &amp; Sons, Ltd;2012;1: CD001046.
+10.1002/14651858.CD001046.pub2
+2225894334
+StromanPWWheeler-KingshottCBaconM:
+The current state-of-the-art of spinal cord imaging: methods.
+Neuroimage.
+2014;84:1070–81.
+10.1016/j.neuroimage.2013.04.124
+
+2368515935
+MartinARAleksanderekICohen-AdadJ:
+Translating state-of-the-art spinal cord MRI techniques to clinical use: A systematic review of clinical studies utilizing DTI, MT, MWF, MRS, and fMRI.
+Neuroimage Clin.
+2016;10:192–238.
+10.1016/j.nicl.2015.11.019
+
+2686247836
+KwonBKMannCSohnHM:
+Hypothermia for spinal cord injury.
+Spine J.
+2008;8(6):859–74.
+10.1016/j.spinee.2007.12.006
+1832995937
+Hypothermia after Cardiac Arrest Study Group:
+Mild therapeutic hypothermia to improve the neurologic outcome after cardiac arrest.
+N Engl J Med.
+2002;346(8):549–56.
+10.1056/NEJMoa012689
+1185679338
+DehaesMAggarwalALinPY:
+Cerebral oxygen metabolism in neonatal hypoxic ischemic encephalopathy during and after therapeutic hypothermia.
+J Cereb Blood Flow Metab.
+2014;34(1):87–94.
+10.1038/jcbfm.2013.165
+
+2406449239
+DingleyJTooleyJLiuX:
+Xenon ventilation during therapeutic hypothermia in neonatal encephalopathy: a feasibility study.
+Pediatrics.
+2014;133(5):809–18.
+10.1542/peds.2013-0787
+2477721940
+LoTPJrChoKSGargMS:
+Systemic hypothermia improves histological and functional outcome after cervical spinal cord contusion in rats.
+J Comp Neurol.
+2009;514(5):433–48.
+10.1002/cne.22014
+1935064441
+LeviADGreenBAWangMY:
+Clinical application of modest hypothermia after spinal cord injury.
+J Neurotrauma.
+2009;26(3):407–15.
+10.1089/neu.2008.0745
+1927196442
+Paralysis TMPtC:
+Neuroprotection - therapeutic hypothermia.2014; Accessed October 15, 2015.
+Reference Source
+43
+SchwartzGFehlingsMG:
+Evaluation of the neuroprotective effects of sodium channel blockers after spinal cord injury: improved behavioral and neuroanatomical recovery with riluzole.
+J Neurosurg.
+2001;94(2 Suppl):245–56.
+10.3171/spi.2001.94.2.0245
+1130262744
+BensimonGLacomblezLMeiningerV:
+A controlled trial of riluzole in amyotrophic lateral sclerosis. ALS/Riluzole Study Group.
+N Engl J Med.
+1994;330(9):585–91.
+10.1056/NEJM199403033300901
+830234045
+GrossmanRGFehlingsMGFrankowskiRF:
+A prospective, multicenter, phase I matched-comparison group trial of safety, pharmacokinetics, and preliminary efficacy of riluzole in patients with traumatic spinal cord injury.
+J Neurotrauma.
+2014;31(3):239–55.
+10.1089/neu.2013.2969
+
+2385943546
+WellsJEHurlbertRJFehlingsMG:
+Neuroprotection by minocycline facilitates significant recovery from spinal cord injury in mice.
+Brain.
+2003;126(Pt 7):1628–37.
+10.1093/brain/awg178
+1280510347
+FestoffBWAmeenuddinSArnoldPM:
+Minocycline neuroprotects, reduces microgliosis, and inhibits caspase protease expression early after spinal cord injury.
+J Neurochem.
+2006;97(5):1314–26.
+10.1111/j.1471-4159.2006.03799.x
+1663802148
+CashaSZygunDMcGowanMD:
+Results of a phase II placebo-controlled randomized trial of minocycline in acute spinal cord injury.
+Brain.
+2012;135(Pt 4):1224–36.
+10.1093/brain/aws072
+2250563249
+SiddiquiAMKhazaeiMFehlingsMG:
+Translating mechanisms of neuroprotection, regeneration, and repair to treatment of spinal cord injury.
+Prog Brain Res.
+2015;218:15–54.
+10.1016/bs.pbr.2014.12.007
+2589013150
+KawabeJKodaMHashimotoM:
+Neuroprotective effects of granulocyte colony-stimulating factor and relationship to promotion of angiogenesis after spinal cord injury in rats: laboratory investigation.
+J Neurosurg Spine.
+2011;15(4):414–21.
+10.3171/2011.5.SPINE10421
+2172187351
+KamiyaKKodaMFuruyaT:
+Neuroprotective therapy with granulocyte colony-stimulating factor in acute spinal cord injury: a comparison with high-dose methylprednisolone as a historical control.
+Eur Spine J.
+2015;24(5):963–7.
+10.1007/s00586-014-3373-0
+2496122252
+TakahashiHYamazakiMOkawaA:
+Neuroprotective therapy using granulocyte colony-stimulating factor for acute spinal cord injury: a phase I/IIa clinical trial.
+Eur Spine J.
+2012;21(12):2580–7.
+10.1007/s00586-012-2213-3
+
+2239186753
+KwonBKRoyJLeeJH:
+Magnesium chloride in a polyethylene glycol formulation as a neuroprotective therapy for acute spinal cord injury: preclinical refinement and optimization.
+J Neurotrauma.
+2009;26(8):1379–93.
+10.1089/neu.2009.0884
+1931759254
+LuoJBorgensRShiR:
+Polyethylene glycol immediately repairs neuronal membranes and inhibits free radical production after acute spinal cord injury.
+J Neurochem.
+2002;83(2):471–80.
+10.1046/j.1471-4159.2002.01160.x
+1242325755
+KaptanogluEBeskonakliESolarogluI:
+Magnesium sulfate treatment in experimental spinal cord injury: emphasis on vascular changes and early clinical results.
+Neurosurg Rev.
+2003;26(4):283–7.
+10.1007/s10143-003-0272-y
+1278327356
+LiebscherTSchnellLSchnellD:
+Nogo-A antibody improves regeneration and locomotion of spinal cord-injured rats.
+Ann Neurol.
+2005;58(5):706–19.
+10.1002/ana.20627
+1617307357
+FreundPSchmidlinEWannierT:
+Nogo-A-specific antibody treatment enhances sprouting and functional recovery after cervical lesion in adult primates.
+Nat Med.
+2006;12(7):790–2.
+10.1038/nm1436
+1681955158
+FehlingsMGTheodoreNHarropJ:
+A phase I/IIa clinical trial of a recombinant Rho protein antagonist in acute spinal cord injury.
+J Neurotrauma.
+2011;28(5):787–96.
+10.1089/neu.2011.1765
+2138198459
+BradburyEJMoonLDPopatRJ:
+Chondroitinase ABC promotes functional recovery after spinal cord injury.
+Nature.
+2002;416(6881):636–40.
+10.1038/416636a
+1194835260
+Karimi-AbdolrezaeeSEftekharpourEWangJ:
+Synergistic effects of transplanted adult neural stem/progenitor cells, chondroitinase, and growth factors promote functional repair and plasticity of the chronically injured spinal cord.
+J Neurosci.
+2010;30(5):1657–76.
+10.1523/JNEUROSCI.3111-09.2010
+2013017661
+ZhangTShenYLuL:
+[Effect of chondroitinase ABC on axonal myelination and glial scar after spinal cord injury in rats].
+Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi.
+2013;27(2):145–50.
+2359667862
+IkegamiTNakamuraMYamaneJ:
+Chondroitinase ABC combined with neural stem/progenitor cell transplantation enhances graft cell migration and outgrowth of growth-associated protein-43-positive fibers after rat spinal cord injury.
+Eur J Neurosci.
+2005;22(12):3036–46.
+10.1111/j.1460-9568.2005.04492.x
+1636777063
+ArriolaAKielMEShiY:
+Adjunctive MSCs enhance myelin formation by xenogenic oligodendrocyte precursors transplanted in the retina.
+Cell Res.
+2010;20(6):728–31.
+10.1038/cr.2010.63
+2044030364
+WangLShiJvan GinkelFW:
+Neural stem/progenitor cells modulate immune responses by suppressing T lymphocytes with nitric oxide and prostaglandin E2.
+Exp Neurol.
+2009;216(1):177–83.
+10.1016/j.expneurol.2008.11.017
+1910995165
+OkamuraRMLebkowskiJAuM:
+Immunological properties of human embryonic stem cell-derived oligodendrocyte progenitor cells.
+J Neuroimmunol.
+2007;192(1–2):134–44.
+10.1016/j.jneuroim.2007.09.030
+1799630866
+ShiYDespontsCDoJT:
+Induction of pluripotent stem cells from mouse embryonic fibroblasts by Oct4 and Klf4 with small-molecule compounds.
+Cell Stem Cell.
+2008;3(5):568–74.
+10.1016/j.stem.2008.10.004
+1898397067
+MedvedevSPShevchenkoAIZakianSM:
+Induced Pluripotent Stem Cells: Problems and Advantages when Applying them in Regenerative Medicine.
+Acta Naturae.
+2010;2(2):18–28.
+
+2264963868
+IwasakiMWilcoxJTNishimuraY:
+Synergistic effects of self-assembling peptide and neural stem/progenitor cells to promote tissue repair and forelimb functional recovery in cervical spinal cord injury.
+Biomaterials.
+2014;35(9):2617–29.
+10.1016/j.biomaterials.2013.12.019
+2440621669
+Karimi-AbdolrezaeeSEftekharpourEWangJ:
+Delayed transplantation of adult neural precursor cells promotes remyelination and functional neurological recovery after spinal cord injury.
+J Neurosci.
+2006;26(13):3377–89.
+10.1523/JNEUROSCI.4184-05.2006
+1657174470
+BleschATuszynskiMH:
+Cellular GDNF delivery promotes growth of motor and dorsal column sensory axons after partial and complete spinal cord transections and induces remyelination.
+J Comp Neurol.
+2003;467(3):403–17.
+10.1002/cne.10934
+1460860271
+NajmFJMadhavanMZarembaA:
+Drug-based modulation of endogenous stem cells promotes functional remyelination
+in vivo.
+Nature.
+2015;522(7555):216–20.
+10.1038/nature14335
+
+2589632472
+ZhangYJZhangWLinCG:
+Neurotrophin-3 gene modified mesenchymal stem cells promote remyelination and functional recovery in the demyelinated spinal cord of rats.
+J Neurol Sci.
+2012;313(1–2):64–74.
+10.1016/j.jns.2011.09.027
+2199627473
+SalewskiRPEftekharpourEFehlingsMG:
+Are induced pluripotent stem cells the future of cell-based regenerative therapies for spinal cord injury?
+J Cell Physiol.
+2010;222(3):515–21.
+10.1002/jcp.21995
+2002044374
+CurtACashaSFehlingsM:
+Phase I/II clinical trial of HuCNS-SC cells in chronic thoracic spinal cord injury - interim analysis.2014; Accessed October 15, 2015.
+Reference Source
+75
+WiliamsRRBungeMB:
+Schwann cell transplantation: a repair strategy for spinal cord injury?
+Prog Brain Res.
+2012;201:295–312.
+10.1016/B978-0-444-59544-7.00014-7
+2318672076
+WindusLCLineburgKEScottSE:
+Lamellipodia mediate the heterogeneity of central olfactory ensheathing cell interactions.
+Cell Mol Life Sci.
+2010;67(10):1735–50.
+10.1007/s00018-010-0280-3
+2014324977
+SilvaNACookeMJTamRY:
+The effects of peptide modified gellan gum and olfactory ensheathing glia cells on neural stem/progenitor cell fate.
+Biomaterials.
+2012;33(27):6345–54.
+10.1016/j.biomaterials.2012.05.050
+2269872478
+ZhangJChenHDuanZ:
+The Effects of Co-transplantation of Olfactory Ensheathing Cells and Schwann Cells on Local Inflammation Environment in the Contused Spinal Cord of Rats.
+Mol Neurobiol.
+2016.
+10.1007/s12035-016-9709-5
+2679067279
+EkbergJASt JohnJA:
+Olfactory ensheathing cells for spinal cord repair: crucial differences between subpopulations of the glia.
+Neural Regen Res.
+2015;10(9):1395–6.
+10.4103/1673-5374.165504
+
+2660489280
+LiuJChenPWangQ:
+Meta analysis of olfactory ensheathing cell transplantation promoting functional recovery of motor nerves in rats with complete spinal cord transection.
+Neural Regen Res.
+2014;9(20):1850–8.
+10.4103/1673-5374.143434
+
+2542264981
+LiLAdnanHXuB:
+Effects of transplantation of olfactory ensheathing cells in chronic spinal cord injury: a systematic review and meta-analysis.
+Eur Spine J.
+2015;24(5):919–30.
+10.1007/s00586-014-3416-6
+2500189082
+DasariVRVeeravalliKKDinhDH:
+Mesenchymal stem cells in the treatment of spinal cord injuries: A review.
+World J Stem Cells.
+2014;6(2):120–33.
+10.4252/wjsc.v6.i2.120
+
+2477223983
+SwartzlanderMDBlakneyAKAmerLD:
+Immunomodulation by mesenchymal stem cells combats the foreign body response to cell-laden synthetic hydrogels.
+Biomaterials.
+2015;41:79–88.
+10.1016/j.biomaterials.2014.11.020
+2552296784
+BessoutRSémontADemarquayC:
+Mesenchymal stem cell therapy induces glucocorticoid synthesis in colonic mucosa and suppresses radiation-activated T cells: new insights into MSC immunomodulation.
+Mucosal Immunol.
+2014;7(3):656–69.
+10.1038/mi.2013.85
+2417284985
+LimJHKimJSYoonIH:
+Immunomodulation of delayed-type hypersensitivity responses by mesenchymal stem cells is associated with bystander T cell apoptosis in the draining lymph node.
+J Immunol.
+2010;185(7):4022–9.
+10.4049/jimmunol.0902723
+2080215486
+QuertainmontRCantinieauxDBotmanO:
+Mesenchymal stem cell graft improves recovery after spinal cord injury in adult rats through neurotrophic and pro-angiogenic actions.
+PLoS One.
+2012;7(6):e39500.
+10.1371/journal.pone.0039500
+
+2274576987
+KimJWHaKYMolonJN:
+Bone marrow-derived mesenchymal stem cell transplantation for chronic spinal cord injury in rats: comparative study between intralesional and intravenous transplantation.
+Spine (Phila Pa 1976).
+2013;38(17):E1065–74.
+10.1097/BRS.0b013e31829839fa
+2362948588
+GuWZhangFXueQ:
+Transplantation of bone marrow mesenchymal stem cells reduces lesion volume and induces axonal regrowth of injured spinal cord.
+Neuropathology.
+2010;30(3):205–17.
+10.1111/j.1440-1789.2009.01063.x
+1984586689
+SasakiMHonmouOAkiyamaY:
+Transplantation of an acutely isolated bone marrow fraction repairs demyelinated adult rat spinal cord axons.
+Glia.
+2001;35(1):26–34.
+10.1002/glia.1067
+
+1142418990
+ChhabraHSSardaKAroraM:
+Autologous bone marrow cell transplantation in acute spinal cord injury--an Indian pilot study.
+Spinal Cord.
+2016;54(1):57–64.
+10.1038/sc.2015.134
+2628249291
+JarochaDMilczarekOKaweckiZ:
+Preliminary study of autologous bone marrow nucleated cells transplantation in children with spinal cord injury.
+Stem Cells Transl Med.
+2014;3(3):395–404.
+10.5966/sctm.2013-0141
+
+2449385392
+CaiccoMJZahirTMotheAJ:
+Characterization of hyaluronan-methylcellulose hydrogels for cell delivery to the injured spinal cord.
+J Biomed Mater Res A.
+2013;101(5):1472–7.
+10.1002/jbm.a.34454
+2312925493
+MotheAJTamRYZahirT:
+Repair of the injured spinal cord by transplantation of neural stem cells in a hyaluronan-based hydrogel.
+Biomaterials.
+2013;34(15):3775–83.
+10.1016/j.biomaterials.2013.02.002
+2346548694
+TamRYCookeMJShoichetMS:
+A covalently modified hydrogel blend of hyaluronan–methyl cellulose with peptides and growth factors influences neural stem/progenitor cell fate.
+J Mater Chem.
+2012;22(37):19402–19411.
+10.1039/c2jm33680d
+95
+AnsorenaEDe BerdtPUcakarB:
+Injectable alginate hydrogel loaded with GDNF promotes functional recovery in a hemisection model of spinal cord injury.
+Int J Pharm.
+2013;455(1–2):148–58.
+10.1016/j.ijpharm.2013.07.045
+2391682196
+ItosakaHKurodaSShichinoheH:
+Fibrin matrix provides a suitable scaffold for bone marrow stromal cells transplanted into injured spinal cord: a novel material for CNS tissue engineering.
+Neuropathology.
+2009;29(3):248–57.
+10.1111/j.1440-1789.2008.00971.x
+1899201197
+TaylorSJMcDonaldJW3rdSakiyama-ElbertSE:
+Controlled release of neurotrophin-3 from fibrin gels for spinal cord injury.
+J Control Release.
+2004;98(2):281–94.
+10.1016/j.jconrel.2004.05.003
+1526241998
+VulicKShoichetMS:
+Tunable growth factor delivery from injectable hydrogels for tissue engineering.
+J Am Chem Soc.
+2012;134(2):882–5.
+10.1021/ja210638x
+
+2220151399
+LiuYYeHSatkunendrarajahK:
+A self-assembling peptide reduces glial scarring, attenuates post-traumatic inflammation and promotes neurological recovery following spinal cord injury.
+Acta Biomater.
+2013;9(9):8075–88.
+10.1016/j.actbio.2013.06.001
+23770224100
+MartinRSadowskyCObstK:
+Functional electrical stimulation in spinal cord injury:: from theory to practice.
+Top Spinal Cord Inj Rehabil.
+2012;18(1):28–33.
+10.1310/sci1801-28
+23459150101
+LavrovIGerasimenkoYPIchiyamaRM:
+Plasticity of spinal cord reflexes after a complete transection in adult rats: relationship to stepping ability.
+J Neurophysiol.
+2006;96(4):1699–710.
+10.1152/jn.00325.2006
+16823028102
+CourtineGGerasimenkoYvan den BrandR:
+Transformation of nonfunctional spinal circuits into functional states after the loss of brain input.
+Nat Neurosci.
+2009;12(10):1333–42.
+10.1038/nn.2401
+
+19767747103
+DietzVHarkemaSJ:
+Locomotor activity in spinal cord-injured persons.
+J Appl Physiol (1985).
+2004;96(5):1954–60.
+10.1152/japplphysiol.00942.2003
+15075315104
+BhambhaniYTuchakCBurnhamR:
+Quadriceps muscle deoxygenation during functional electrical stimulation in adults with spinal cord injury.
+Spinal Cord.
+2000;38(10):630–8.
+11093325105
+KakebeekeTHHoferPJFrotzlerA:
+Training and detraining of a tetraplegic subject: high-volume FES cycle training.
+Am J Phys Med Rehabil.
+2008;87(1):56–64.
+10.1097/PHM.0b013e31815b2738
+17993986106
+HarkemaSGerasimenkoYHodesJ:
+Effect of epidural stimulation of the lumbosacral spinal cord on voluntary movement, standing, and assisted stepping after motor complete paraplegia: a case study.
+Lancet.
+2009;377(9781):1938–47.
+10.1016/S0140-6736(11)60547-3
+
+21601270107
+PouwMHHosmanAJvan MiddendorpJJ:
+Biomarkers in spinal cord injury.
+Spinal Cord.
+2009;47(7):519–25.
+10.1038/sc.2008.176
+19153591108
+CadotteDWFehlingsMG:
+Will imaging biomarkers transform spinal cord injury trials?
+Lancet Neurol.
+2013;12(9):843–4.
+10.1016/S1474-4422(13)70157-1
+23827393

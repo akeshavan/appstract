@@ -1,0 +1,399 @@
+{
+  "id": [
+    "23243454"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23243454"
+  ],
+  "pmcid": [
+    "PMC3518822"
+  ],
+  "doi": [
+    "10.1155/2012/543943"
+  ],
+  "title": [
+    "A review of acupoint specificity research in china: status quo and prospects."
+  ],
+  "authorString": [
+    "Zhao L, Chen J, Liu CZ, Li Y, Cai DJ, Tang Y, Yang J, Liang FR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Ji"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Liu CZ"
+          ],
+          "firstName": [
+            "Cun-Zhi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "CZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8031-5667",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Cai DJ"
+          ],
+          "firstName": [
+            "Ding-Jun"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "DJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Liang FR"
+          ],
+          "firstName": [
+            "Fan-Rong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "FR"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2210-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8031-5667",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2210-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1844213"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "543943"
+  ],
+  "abstractText": [
+    "The theory of acupoint specificity is the basis for elucidating the actions of acupoints as employed in clinical practice. Acupoint specificity has become a focus of attention in international research efforts by scholars in the areas of acupuncture and moxibustion. In 2006, the Chinese Ministry of Science approved and initiated the National Basic Research Program (973 Program), one area of which was entitled Basic Research on Acupoint Specificity Based on Clinical Efficacy. Using such approaches as data mining, evidence-based medicine, clinical epidemiology, neuroimaging, molecular biology, neurophysiology, and metabolomics, fruitful research has been conducted in the form of literature research, clinical assessments, and biological studies. Acupoint specificity has been proved to exist, and it features meridian-propagated, relative, persistent, and conditional effects. Preliminarily investigations have been made into the biological basis for acupoint specificity."
+  ],
+  "affiliation": [
+    "Chengdu University of Traditional Chinese Medicine, Sichuan, Chengdu 610075, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3518822?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3518822"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23243454/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23243454/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/543943"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-12-18"
+  ],
+  "dateOfCreation": [
+    "2012-12-17"
+  ],
+  "dateOfRevision": [
+    "2013-04-18"
+  ],
+  "electronicPublicationDate": [
+    "2012-10-30"
+  ],
+  "firstPublicationDate": [
+    "2012-10-30"
+  ]
+}

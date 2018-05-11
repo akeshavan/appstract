@@ -1,0 +1,387 @@
+{
+  "id": [
+    "27342225"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27342225"
+  ],
+  "pmcid": [
+    "PMC5560481"
+  ],
+  "doi": [
+    "10.1177/0333102416656118"
+  ],
+  "title": [
+    "Cerebral metabolism before and after external trigeminal nerve stimulation in episodic migraine."
+  ],
+  "authorString": [
+    "Magis D, D'Ostilio K, Thibaut A, De Pasqua V, Gerard P, Hustinx R, Laureys S, Schoenen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Magis D"
+          ],
+          "firstName": [
+            "Delphine"
+          ],
+          "lastName": [
+            "Magis"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4392-9413",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Ostilio K"
+          ],
+          "firstName": [
+            "Kevin"
+          ],
+          "lastName": [
+            "D'Ostilio"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Thibaut A"
+          ],
+          "firstName": [
+            "Aurore"
+          ],
+          "lastName": [
+            "Thibaut"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "De Pasqua V"
+          ],
+          "firstName": [
+            "Victor"
+          ],
+          "lastName": [
+            "De Pasqua"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Gerard P"
+          ],
+          "firstName": [
+            "Pascale"
+          ],
+          "lastName": [
+            "Gerard"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Hustinx R"
+          ],
+          "firstName": [
+            "Roland"
+          ],
+          "lastName": [
+            "Hustinx"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Laureys S"
+          ],
+          "firstName": [
+            "Steven"
+          ],
+          "lastName": [
+            "Laureys"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Schoenen J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Schoenen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "University of Liège, Liège, Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4392-9413",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "37"
+      ],
+      "journalIssueId": [
+        "2587635"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cephalalgia : an international journal of headache"
+          ],
+          "ISOAbbreviation": [
+            "Cephalalgia"
+          ],
+          "medlineAbbreviation": [
+            "Cephalalgia"
+          ],
+          "NLMid": [
+            "8200710"
+          ],
+          "ISSN": [
+            "0333-1024"
+          ],
+          "ESSN": [
+            "1468-2982"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "881-891"
+  ],
+  "abstractText": [
+    "Background and aim A recent sham-controlled trial showed that external trigeminal nerve stimulation (eTNS) is effective in episodic migraine (MO) prevention. However, its mechanism of action remains unknown. We performed 18-fluorodeoxyglucose positron emission tomography (FDG-PET) to evaluate brain metabolic changes before and after eTNS in episodic migraineurs. Methods Twenty-eight individuals were recruited: 14 with MO and 20 healthy volunteers (HVs). HVs underwent a single FDG-PET, whereas patients were scanned at baseline, directly after a first prolonged session of eTNS (Cefaly®) and after three months of treatment (uncontrolled study). Results The frequency of migraine attacks significantly decreased in compliant patients ( N = 10). Baseline FDG-PET revealed a significant hypometabolism in fronto-temporal areas, especially in the orbitofrontal (OFC) and rostral anterior cingulate cortices (rACC) in MO patients. This hypometabolism was reduced after three months of eTNS treatment. Conclusion Our study shows that metabolic activity of OFC and rACC, which are pivotal areas in central pain and behaviour control, is decreased in migraine. This hypometabolism is reduced after three months of eTNS. eTNS might thus exert its beneficial effects via slow neuromodulation of central pain-controlling areas, a mechanism also previously reported in chronic migraine and cluster headache after percutaneous occipital nerve stimulation. However, this finding needs to be confirmed by further studies using a sham condition."
+  ],
+  "affiliation": [
+    "University of Liège, Liège, Belgium."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Treatment",
+        "Migraine",
+        "Imaging",
+        "Orbitofrontal Cortex",
+        "Brain Metabolism",
+        "External Trigeminal Nerve Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5560481?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5560481"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1177/0333102416656118"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-06-25"
+  ],
+  "dateOfRevision": [
+    "2017-09-02"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-23"
+  ],
+  "firstPublicationDate": [
+    "2016-06-23"
+  ]
+}

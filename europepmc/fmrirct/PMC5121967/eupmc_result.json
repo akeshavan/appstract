@@ -1,0 +1,322 @@
+{
+  "id": [
+    "27904656"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27904656"
+  ],
+  "pmcid": [
+    "PMC5121967"
+  ],
+  "doi": [
+    "10.1186/s13167-016-0073-3"
+  ],
+  "title": [
+    "The Berlin Treatment Algorithm: recommendations for tailored innovative therapeutic strategies for multiple sclerosis-related fatigue."
+  ],
+  "authorString": [
+    "Veauthier C, Hasselmann H, Gold SM, Paul F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Veauthier C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Veauthier"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8164-6393",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Interdisciplinary Center for Sleep Medicine, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany ; NeuroCure Clinical Research Center, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hasselmann H"
+          ],
+          "firstName": [
+            "Helge"
+          ],
+          "lastName": [
+            "Hasselmann"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "NeuroCure Clinical Research Center, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany ; Department of Psychiatry and Psychotherapy, Charité - Universitätsmedizin Berlin, Hindenburgdamm 30, 12203 Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gold SM"
+          ],
+          "firstName": [
+            "Stefan M"
+          ],
+          "lastName": [
+            "Gold"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Charité - Universitätsmedizin Berlin, Hindenburgdamm 30, 12203 Berlin, Germany ; Institute of Neuroimmunology and Multiple Sclerosis (INIMS), Center for Molecular Neurobiology (ZMNH), University Medical Center Hamburg-Eppendorf, 20251 Hamburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Paul F"
+          ],
+          "firstName": [
+            "Friedemann"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "NeuroCure Clinical Research Center, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany ; Clinical and Experimental Multiple Sclerosis Research Center, Department of Neurology, Charité - Universitätsmedizin Berlin, 10117 Berlin, Germany ; Experimental and Clinical Research Center, Max Delbrück Center for Molecular Medicine and Charité - Universitätsmedizin Berlin, Berlin, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8164-6393",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2431957"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The EPMA journal"
+          ],
+          "ISOAbbreviation": [
+            "EPMA J"
+          ],
+          "medlineAbbreviation": [
+            "EPMA J"
+          ],
+          "NLMid": [
+            "101517307"
+          ],
+          "ISSN": [
+            "1878-5077"
+          ],
+          "ESSN": [
+            "1878-5085"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "25"
+  ],
+  "abstractText": [
+    "More than 80% of multiple sclerosis (MS) patients suffer from fatigue. Despite this, there are few therapeutic options and evidence-based pharmacological treatments are lacking. The associated societal burden is substantial (MS fatigue is a major reason for part-time employment or early retirement), and at least one out of four MS patients view fatigue as the most burdensome symptom of their disease. The mechanisms underlying MS-related fatigue are poorly understood, and objective criteria for distinguishing and evaluating levels of fatigue and tiredness have not yet been developed. A further complication is that both symptoms may also be unspecific indicators of many other diseases (including depression, sleep disorders, anemia, renal failure, liver diseases, chronic obstructive pulmonary disease, drug side effects, recent MS relapses, infections, nocturia, cancer, thyroid hypofunction, lack of physical exercise). This paper reviews current treatment options of MS-related fatigue in order to establish an individualized therapeutic strategy that factors in existing comorbid disorders. To ensure that such a strategy can also be easily and widely implemented, a comprehensive approach is needed, which ideally takes into account all other possible causes and which is moreover cost efficient. Using a diagnostic interview, depressive disorders, sleep disorders and side effects of the medication should be identified and addressed. All MS patients suffering from fatigue should fill out the Modified Fatigue Impact Scale, Epworth Sleepiness Scale, the Beck Depression Inventory (or a similar depression scale), and the Pittsburgh Sleep Quality Index (or the Insomnia Severity Index). In some patients, polygraphic or polysomnographic investigations should be performed. The treatment of underlying sleep disorders, drug therapy with alfacalcidol or fampridine, exercise therapy, and cognitive behavioral therapy-based interventions may be effective against MS-related fatigue. The objectives of this article are to identify the reasons for fatigue in patients suffering from multiple sclerosis and to introduce individually tailored treatment approaches. Moreover, this paper focuses on current knowledge about MS-related fatigue in relation to brain atrophy and lesions, cognition, disease course, and other findings in an attempt to identify future research directions."
+  ],
+  "affiliation": [
+    "Interdisciplinary Center for Sleep Medicine, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany ; NeuroCure Clinical Research Center, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Multiple sclerosis",
+        "Fatigue",
+        "tiredness",
+        "obstructive sleep apnea",
+        "Personalized Medicine",
+        "Resistance Training",
+        "Cognitive Behavioral Therapy",
+        "Restless Legs Syndrome",
+        "polysomnography",
+        "Patient Stratification"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5121967?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5121967"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13167-016-0073-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-12-01"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-24"
+  ],
+  "firstPublicationDate": [
+    "2016-11-24"
+  ]
+}

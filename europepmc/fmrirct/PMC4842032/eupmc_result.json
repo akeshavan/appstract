@@ -1,0 +1,594 @@
+{
+  "id": [
+    "27144158"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27144158"
+  ],
+  "pmcid": [
+    "PMC4842032"
+  ],
+  "doi": [
+    "10.1155/2016/1820954"
+  ],
+  "title": [
+    "Effects of Exercise Interventions and Physical Activity Behavior on Cancer Related Cognitive Impairments: A Systematic Review."
+  ],
+  "authorString": [
+    "Zimmer P, Baumann FT, Oberste M, Wright P, Garthe A, Schenk A, Elter T, Galvao DA, Bloch W, Hübner ST, Wolf F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zimmer P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Zimmer"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Baumann FT"
+          ],
+          "firstName": [
+            "Freerk T"
+          ],
+          "lastName": [
+            "Baumann"
+          ],
+          "initials": [
+            "FT"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Oberste M"
+          ],
+          "firstName": [
+            "Max"
+          ],
+          "lastName": [
+            "Oberste"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wright P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Wright"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Chair of Sports Medicine, Chemnitz University of Technology, Thüringer Weg 11, 09126 Chemnitz, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Garthe A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Garthe"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "German Center of Neurodegenerative Diseases, Arnoldstraße 18, 01307 Dresden, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schenk A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Schenk"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Elter T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Elter"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department I of Internal Medicine, Center for Integrated Oncology Köln Bonn, University of Cologne, Kerpener Straße 62, 50937 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Galvao DA"
+          ],
+          "firstName": [
+            "Daniel A"
+          ],
+          "lastName": [
+            "Galvao"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8209-2281",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Edith Cowan University Health and Wellness Institute, Joondalup, WA 6027, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloch W"
+          ],
+          "firstName": [
+            "Wilhelm"
+          ],
+          "lastName": [
+            "Bloch"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hübner ST"
+          ],
+          "firstName": [
+            "Sven T"
+          ],
+          "lastName": [
+            "Hübner"
+          ],
+          "initials": [
+            "ST"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wolf F"
+          ],
+          "firstName": [
+            "Florian"
+          ],
+          "lastName": [
+            "Wolf"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8209-2281",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2016"
+      ],
+      "journalIssueId": [
+        "2375656"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1820954"
+  ],
+  "abstractText": [
+    "This systematic review analyzes current data on effects of exercise interventions and physical activity behavior on objective and subjective cancer related cognitive impairments (CRCI). Out of the 19 studies which met all inclusion criteria, five RCTs investigated rodents, whereas the other 14 trials explored humans and these included six RCTs, one controlled trial, two prospective noncontrolled trials, one case series, one observational study, and three cross-sectional studies. The results from animal models revealed positive effects of exercise during and after chemotherapy or radiation on structural alterations of the central nervous system, physiological as well as neuropsychological outcomes. The overall study quality in patient studies was poor. The current data on intervention studies showed preliminary positive effects of Asian-influenced movement programs (e.g., Yoga) with benefits on self-perceived cognitive functions as well as a reduction of chronic inflammation for breast cancer patients in the aftercare. Exercise potentially contributes to the prevention and rehabilitation of CRCI. Additional RCTs with standardized neuropsychological assessments and controlling for potential confounders are needed to confirm and expand preliminary findings."
+  ],
+  "affiliation": [
+    "Department of Molecular and Cellular Sport Medicine, Institute of Cardiovascular Research and Sports Medicine, German Sport University Cologne, Am Sportpark Müngersdorf 6, 50933 Cologne, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Observational Studies as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4842032?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4842032"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/1820954"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-02-13"
+  ],
+  "dateOfCreation": [
+    "2016-05-04"
+  ],
+  "dateOfRevision": [
+    "2017-02-13"
+  ],
+  "electronicPublicationDate": [
+    "2016-04-10"
+  ],
+  "firstPublicationDate": [
+    "2016-04-10"
+  ]
+}

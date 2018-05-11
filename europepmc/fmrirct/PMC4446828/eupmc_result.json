@@ -1,0 +1,684 @@
+{
+  "id": [
+    "26012585"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26012585"
+  ],
+  "pmcid": [
+    "PMC4446828"
+  ],
+  "doi": [
+    "10.1186/s13063-015-0747-5"
+  ],
+  "title": [
+    "A mother-child intervention program in adolescent mothers and their children to improve maternal sensitivity, child responsiveness and child development (the TeeMo study): study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Firk C, Dahmen B, Lehmann C, Niessen A, Koslowski J, Rauch G, Schwarte R, Stich K, Konrad K, Herpertz-Dahlmann B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Firk C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Firk"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. cfirk@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Dahmen B"
+          ],
+          "firstName": [
+            "Brigitte"
+          ],
+          "lastName": [
+            "Dahmen"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. bdahmen@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Lehmann C"
+          ],
+          "firstName": [
+            "Christin"
+          ],
+          "lastName": [
+            "Lehmann"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. clehmann@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Niessen A"
+          ],
+          "firstName": [
+            "Anke"
+          ],
+          "lastName": [
+            "Niessen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. ankniessen@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Koslowski J"
+          ],
+          "firstName": [
+            "Julia"
+          ],
+          "lastName": [
+            "Koslowski"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. jkoslowski@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Rauch G"
+          ],
+          "firstName": [
+            "Geraldine"
+          ],
+          "lastName": [
+            "Rauch"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Institute of Medical Biometry and Informatics, University of Heidelberg, Im Neuenheimer Feld 305, 69120, Heidelberg, Germany. rauch@imbi.uni-heidelberg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwarte R"
+          ],
+          "firstName": [
+            "Reinhild"
+          ],
+          "lastName": [
+            "Schwarte"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. rschwarte@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Stich K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Stich"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. kstich@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Konrad K"
+          ],
+          "firstName": [
+            "Kerstin"
+          ],
+          "lastName": [
+            "Konrad"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Institute of Neuroscience and Medicine (INM-3), Forschungszentrum Jülich, Leo-Brandt-Straße, 52425, Jülich, Germany. kkonrad@ukaachen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Herpertz-Dahlmann B"
+          ],
+          "firstName": [
+            "Beate"
+          ],
+          "lastName": [
+            "Herpertz-Dahlmann"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. bherpertz@ukaachen.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2252428"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "230"
+  ],
+  "abstractText": [
+    "Children of adolescent mothers present a high-risk group for child neglect and maltreatment. Previous findings suggest that early interventions can reduce maltreatment by improving the quality of mother-child interaction, particularly maternal sensitivity. The aim of the current study is to evaluate the effects of a mother-child intervention program using home visits and video-feedback regarding mother-child interaction (STEEP-b) plus psychiatric treatment of the mother in cases where mental illness is present compared with TAU (treatment as usual, that is, standardized support by the child welfare system) on enhancing maternal sensitivity and child responsiveness in adolescent, high-risk mothers. The second aim of the current project is to investigate behavioral and neural differences between adolescent and adult mothers at baseline and postintervention.This is a randomized controlled trial (RCT) with 120 high-risk adolescent mothers (<21 years old) and their 3- to 6-month-old children. Half of the participants will be randomized to receive STEEP-b in addition to their standard treatment for up to 12 to 18 sessions over 9 months. The other half will continue with treatment as usual. For further comparisons, 40 adult mothers with positive and negative rearing experiences (>25 years) will additionally be recruited to investigate behavioral and neural differences between the adolescent and adult group. Blind assessments will take place at T1 (pre-intervention), at the end of the 9-month intervention (T2, postintervention) and 6 months postintervention (T3, follow-up). Moderators of treatment outcomes and sociodemographic data will be assessed at T1. The primary outcome hypothesis is that STEEP-b added to treatment as usual will improve maternal sensitivity and child responsiveness compared with treatment as usual alone in high-risk adolescent mothers. The primary hypothesis will be evaluated at the end of the 9-month follow-up assessment based on the intention-to-treat principle. The trial is funded by the German Ministry for Research and Education (BMBF). Data collection started in October 2012.This is a randomized controlled trial that evaluates the effects of an early intervention program (STEEP-b) on the quality of mother-child interaction and child development in adolescent, high-risk mothers.DRKS00004409 (27 September 2012)."
+  ],
+  "affiliation": [
+    "Department of Child and Adolescent Psychiatry, University Hospital RWTH Aachen, Neuenhofer Weg 21, 52074, Aachen, Germany. cfirk@ukaachen.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feedback, Psychological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Adolescent Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Child Development"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Maternal Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mother-Child Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parenting"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mothers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ED"
+                  ],
+                  "qualifierName": [
+                    "education"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pregnancy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pregnancy in Adolescence"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Abuse"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Socioeconomic Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Education, Nonprofessional"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Video Recording"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "House Calls"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4446828?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4446828"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-015-0747-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-02-04"
+  ],
+  "dateOfCreation": [
+    "2015-05-28"
+  ],
+  "dateOfRevision": [
+    "2015-05-29"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-27"
+  ],
+  "firstPublicationDate": [
+    "2015-05-27"
+  ]
+}

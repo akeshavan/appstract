@@ -1,0 +1,972 @@
+{
+  "id": [
+    "23914988"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23914988"
+  ],
+  "pmcid": [
+    "PMC3750720"
+  ],
+  "doi": [
+    "10.1186/1471-244x-13-205"
+  ],
+  "title": [
+    "Study protocol for the randomised controlled trial: antiglucocorticoid augmentation of anti-Depressants in Depression (The ADD Study)."
+  ],
+  "authorString": [
+    "McAllister-Williams RH, Smith E, Anderson IM, Barnes J, Gallagher P, Grunze HC, Haddad PM, House AO, Hughes T, Lloyd AJ, McColl EM, Pearce SH, Siddiqi N, Sinha B, Speed C, Steen IN, Wainright J, Watson S, Winter FH, Ferrier IN."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McAllister-Williams RH"
+          ],
+          "firstName": [
+            "R Hamish"
+          ],
+          "lastName": [
+            "McAllister-Williams"
+          ],
+          "initials": [
+            "RH"
+          ]
+        },
+        {
+          "fullName": [
+            "Smith E"
+          ],
+          "firstName": [
+            "Eleanor"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson IM"
+          ],
+          "firstName": [
+            "Ian M"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2205-9209",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Barnes J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Barnes"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Gallagher P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Gallagher"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9808-7460",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Grunze HC"
+          ],
+          "firstName": [
+            "Heinz C R"
+          ],
+          "lastName": [
+            "Grunze"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4712-8979",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Haddad PM"
+          ],
+          "firstName": [
+            "Peter M"
+          ],
+          "lastName": [
+            "Haddad"
+          ],
+          "initials": [
+            "PM"
+          ]
+        },
+        {
+          "fullName": [
+            "House AO"
+          ],
+          "firstName": [
+            "Allan O"
+          ],
+          "lastName": [
+            "House"
+          ],
+          "initials": [
+            "AO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8721-8026",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes T"
+          ],
+          "firstName": [
+            "Tom"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Lloyd AJ"
+          ],
+          "firstName": [
+            "Adrian J"
+          ],
+          "lastName": [
+            "Lloyd"
+          ],
+          "initials": [
+            "AJ"
+          ]
+        },
+        {
+          "fullName": [
+            "McColl EM"
+          ],
+          "firstName": [
+            "Elaine M M"
+          ],
+          "lastName": [
+            "McColl"
+          ],
+          "initials": [
+            "EM"
+          ]
+        },
+        {
+          "fullName": [
+            "Pearce SH"
+          ],
+          "firstName": [
+            "Simon H S"
+          ],
+          "lastName": [
+            "Pearce"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8384-8063",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Siddiqi N"
+          ],
+          "firstName": [
+            "Najma"
+          ],
+          "lastName": [
+            "Siddiqi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1794-2152",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sinha B"
+          ],
+          "firstName": [
+            "Baxi"
+          ],
+          "lastName": [
+            "Sinha"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Speed C"
+          ],
+          "firstName": [
+            "Chris"
+          ],
+          "lastName": [
+            "Speed"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Steen IN"
+          ],
+          "firstName": [
+            "I Nick"
+          ],
+          "lastName": [
+            "Steen"
+          ],
+          "initials": [
+            "IN"
+          ]
+        },
+        {
+          "fullName": [
+            "Wainright J"
+          ],
+          "firstName": [
+            "June"
+          ],
+          "lastName": [
+            "Wainright"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Watson S"
+          ],
+          "firstName": [
+            "Stuart"
+          ],
+          "lastName": [
+            "Watson"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2558-3367",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Winter FH"
+          ],
+          "firstName": [
+            "Fiona H"
+          ],
+          "lastName": [
+            "Winter"
+          ],
+          "initials": [
+            "FH"
+          ]
+        },
+        {
+          "fullName": [
+            "Ferrier IN"
+          ],
+          "firstName": [
+            "I Nicol"
+          ],
+          "lastName": [
+            "Ferrier"
+          ],
+          "initials": [
+            "IN"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9808-7460",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8721-8026",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2205-9209",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1794-2152",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4712-8979",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8384-8063",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2558-3367",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2472580"
+      ],
+      "dateOfPublication": [
+        "2013 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "205"
+  ],
+  "abstractText": [
+    "Some patients with depression do not respond to first and second line conventional antidepressants and are therefore characterised as suffering from treatment refractory depression (TRD). On-going psychosocial stress and dysfunction of the hypothalamic-pituitary-adrenal axis are both associated with an attenuated clinical response to antidepressants. Preclinical data shows that co-administration of corticosteroids leads to a reduction in the ability of selective serotonin reuptake inhibitors to increase forebrain 5-hydroxytryptamine, while co-administration of antiglucocorticoids has the opposite effect. A Cochrane review suggests that antiglucocorticoid augmentation of antidepressants may be effective in treating TRD and includes a pilot study of the cortisol synthesis inhibitor, metyrapone. The Antiglucocorticoid augmentation of anti-Depressants in Depression (The ADD Study) is a multicentre randomised placebo controlled trial of metyrapone augmentation of serotonergic antidepressants in a large population of patients with TRD in the UK National Health Service.Patients with moderate to severe treatment refractory Major Depression aged 18 to 65 will be randomised to metyrapone 500 mg twice daily or placebo for three weeks, in addition to on-going conventional serotonergic antidepressants. The primary outcome will be improvement in Montgomery-Åsberg Depression Rating Scale score five weeks after randomisation (i.e. two weeks after trial medication discontinuation). Secondary outcomes will include the degree of persistence of treatment effect for up to 6 months, improvements in quality of life and also safety and tolerability of metyrapone. The ADD Study will also include a range of sub-studies investigating the potential mechanism of action of metyrapone.Strengths of the ADD study include broad inclusion criteria meaning that the sample will be representative of patients with TRD treated within the UK National Health Service, longer follow up, which to our knowledge is longer than any previous study of antiglucocorticoid treatments in depression, and the range of mechanistic investigations being carried out. The data set acquired will be a rich resource for a range of research questions relating to both refractory depression and the use of antiglucocorticoid treatments.Current Controlled Trials: ISRCTN45338259; EudraCT Number: 2009-015165-31."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NF-SI-0510-10065"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_G1002454"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metyrapone"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serotonin Uptake Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antidepressive Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Therapy, Combination"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder, Major"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder, Treatment-Resistant"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antidepressive Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Serotonin Uptake Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Metyrapone"
+          ],
+          "registryNumber": [
+            "ZS9KD92H6V"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3750720?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3750720"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23914988/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23914988/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-244X-13-205"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "eudract"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-01-06"
+  ],
+  "dateOfCreation": [
+    "2014-07-22"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2013-08-03"
+  ],
+  "firstPublicationDate": [
+    "2013-08-03"
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "id": [
+    "21829286"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21829286"
+  ],
+  "pmcid": [
+    "PMC3144612"
+  ],
+  "doi": [
+    "10.4103/0973-6131.41033"
+  ],
+  "title": [
+    "Planning ability improves in a yogic education system compared to a modern."
+  ],
+  "authorString": [
+    "Rangan R, Nagendra HR, Bhat GR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rangan R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Rangan"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Nagendra HR"
+          ],
+          "firstName": [
+            "H R"
+          ],
+          "lastName": [
+            "Nagendra"
+          ],
+          "initials": [
+            "HR"
+          ]
+        },
+        {
+          "fullName": [
+            "Bhat GR"
+          ],
+          "firstName": [
+            "G Ramachandra"
+          ],
+          "lastName": [
+            "Bhat"
+          ],
+          "initials": [
+            "GR"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "1855742"
+      ],
+      "dateOfPublication": [
+        "2008 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of yoga"
+          ],
+          "ISOAbbreviation": [
+            "Int J Yoga"
+          ],
+          "medlineAbbreviation": [
+            "Int J Yoga"
+          ],
+          "NLMid": [
+            "101313247"
+          ],
+          "ISSN": [
+            "0973-6131"
+          ],
+          "ESSN": [
+            "2231-2714"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "60-65"
+  ],
+  "abstractText": [
+    "BACKGROUND: Planning skills play a key role in higher developmental processes. The Tower of London test not only measures planning skills, but also the ability to execute plans. Yoga practices aim to bring about higher development. Can a Yoga-based education system be shown to meet this challenge? AIM: This study was aimed at comparing a Modern Education System (MES) with the ancient Yoga-based system of education, the Gurukula Education System (GES), in developing planning skills. MATERIALS AND METHODS: Forty-nine boys with ages ranging from 11 to 13 years were selected from each of two residential schools, one MES and the other GES, providing similar ambience and daily routines. The boys were matched for age and socio-economic status. The GES educational program is based around integrated yoga modules while the MES provides a conventional modern education program. Planning and executive abilities were assessed using the Tower of London test at the start and the end of an academic year. RESULTS: Within groups, the pre-post test differences were significant for both groups. However, the between-groups results showed improvement in the GES group compared to the MES group at a P < 0.001 significance level. CONCLUSIONS: The study suggests that whereas both MES and GES Yoga-based education improve planning and execution skills in school boys, GES is more effective of the two systems."
+  ],
+  "affiliation": [
+    "Department of Yoga Research, Swami Vivekananda Yoga Anusandhana Samsthana, Bangalore, India."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Yoga",
+        "Gurukula Education System",
+        "Planning Ability",
+        "Tower Of London Test",
+        "Vedic Chanting"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3144612"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "http://www.pubmedcentral.nih.gov/articlerender.fcgi?tool=EBI&pubmedid=21829286"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/0973-6131.41033"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-08-10"
+  ],
+  "dateOfRevision": [
+    "2013-05-29"
+  ],
+  "firstPublicationDate": [
+    "2008-07-01"
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "id": [
+    "19091088"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19091088"
+  ],
+  "pmcid": [
+    "PMC2630975"
+  ],
+  "doi": [
+    "10.1186/1471-2377-8-49"
+  ],
+  "title": [
+    "Impact of early applied upper limb stimulation: the EXPLICIT-stroke programme design."
+  ],
+  "authorString": [
+    "Kwakkel G, Meskers CG, van Wegen EE, Lankhorst GJ, Geurts AC, van Kuijk AA, Lindeman E, Visser-Meily A, de Vlugt E, Arendzen JH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kwakkel G"
+          ],
+          "firstName": [
+            "Gert"
+          ],
+          "lastName": [
+            "Kwakkel"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Dept. Rehabilitation Medicine, VU University Medical Centre, Amsterdam, The Netherlands. g.kwakkel@vumc.nl"
+          ]
+        },
+        {
+          "fullName": [
+            "Meskers CG"
+          ],
+          "firstName": [
+            "Carel G M"
+          ],
+          "lastName": [
+            "Meskers"
+          ],
+          "initials": [
+            "CG"
+          ]
+        },
+        {
+          "fullName": [
+            "van Wegen EE"
+          ],
+          "firstName": [
+            "Erwin E"
+          ],
+          "lastName": [
+            "van Wegen"
+          ],
+          "initials": [
+            "EE"
+          ]
+        },
+        {
+          "fullName": [
+            "Lankhorst GJ"
+          ],
+          "firstName": [
+            "Guus J"
+          ],
+          "lastName": [
+            "Lankhorst"
+          ],
+          "initials": [
+            "GJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Geurts AC"
+          ],
+          "firstName": [
+            "Alexander C H"
+          ],
+          "lastName": [
+            "Geurts"
+          ],
+          "initials": [
+            "AC"
+          ]
+        },
+        {
+          "fullName": [
+            "van Kuijk AA"
+          ],
+          "firstName": [
+            "Annet A"
+          ],
+          "lastName": [
+            "van Kuijk"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3994-145X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lindeman E"
+          ],
+          "firstName": [
+            "Eline"
+          ],
+          "lastName": [
+            "Lindeman"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Visser-Meily A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Visser-Meily"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "de Vlugt E"
+          ],
+          "firstName": [
+            "Erwin"
+          ],
+          "lastName": [
+            "de Vlugt"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Arendzen JH"
+          ],
+          "firstName": [
+            "J Hans"
+          ],
+          "lastName": [
+            "Arendzen"
+          ],
+          "initials": [
+            "JH"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3994-145X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2494070"
+      ],
+      "dateOfPublication": [
+        "2008 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "49"
+  ],
+  "abstractText": [
+    "Main claims of the literature are that functional recovery of the paretic upper limb is mainly defined within the first month post stroke and that rehabilitation services should preferably be applied intensively and in a task-oriented way within this particular time window. EXplaining PLastICITy after stroke (acronym EXPLICIT-stroke) aims to explore the underlying mechanisms of post stroke upper limb recovery. Two randomized single blinded trials form the core of the programme, investigating the effects of early modified Constraint-Induced Movement Therapy (modified CIMT) and EMG-triggered Neuro-Muscular Stimulation (EMG-NMS) in patients with respectively a favourable or poor probability for recovery of dexterity.180 participants suffering from an acute, first-ever ischemic stroke will be recruited. Functional prognosis at the end of the first week post stroke is used to stratify patient into a poor prognosis group for upper limb recovery (N = 120, A2 project) and a group with a favourable prognosis (N = 60, A1 project). Both groups will be randomized to an experimental arm receiving respectively modified CIMT (favourable prognosis) or EMG-NMS (poor prognosis) for 3 weeks or to a control arm receiving usual care. Primary outcome variable will be the Action Research Arm Test (ARAT), assessed at 1,2,3,4,5, 8, 12 and 26 weeks post stroke. To study the impact of modified CIMT or EMG-NMS on stroke recovery mechanisms i.e. neuroplasticity, compensatory movements and upper limb neuromechanics, 60 patients randomly selected from projects A1 and A2 will undergo TMS, kinematical and haptic robotic measurements within a repeated measurement design. Additionally, 30 patients from the A1 project will undergo fMRI at baseline, 5 and 26 weeks post stroke.EXPLICIT stroke is a 5 year translational research programme which main aim is to investigate the effects of early applied intensive intervention for regaining dexterity and to explore the underlying mechanisms that are involved in regaining upper limb function after stroke. EXPLICIT-stroke will provide an answer to the key question whether therapy induced improvements are due to either a reduction of basic motor impairment by neural repair i.e. restitution of function and/or the use of behavioural compensation strategies i.e. substitution of function."
+  ],
+  "affiliation": [
+    "Dept. Rehabilitation Medicine, VU University Medical Centre, Amsterdam, The Netherlands. g.kwakkel@vumc.nl"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Upper Extremity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Restraint, Physical"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Musculoskeletal Manipulations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electric Stimulation Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adaptation, Physiological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recovery of Function"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nerve Regeneration"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Robotics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2630975?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2630975"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2377/8/49"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2377/8/49/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2377-8-49.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19091088/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19091088/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2377-8-49"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "23"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2009-02-27"
+  ],
+  "dateOfCreation": [
+    "2009-01-27"
+  ],
+  "dateOfRevision": [
+    "2016-11-24"
+  ],
+  "electronicPublicationDate": [
+    "2008-12-17"
+  ],
+  "firstPublicationDate": [
+    "2008-12-17"
+  ]
+}

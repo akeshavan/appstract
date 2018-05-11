@@ -1,0 +1,1251 @@
+{
+  "id": [
+    "25161891"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25161891"
+  ],
+  "pmcid": [
+    "PMC4141981"
+  ],
+  "doi": [
+    "10.1016/j.nicl.2014.07.002"
+  ],
+  "title": [
+    "Optimizing real time fMRI neurofeedback for therapeutic discovery and development."
+  ],
+  "authorString": [
+    "Stoeckel LE, Garrison KA, Ghosh S, Wighton P, Hanlon CA, Gilman JM, Greer S, Turk-Browne NB, deBettencourt MT, Scheinost D, Craddock C, Thompson T, Calderon V, Bauer CC, George M, Breiter HC, Whitfield-Gabrieli S, Gabrieli JD, LaConte SM, Hirshberg L, Brewer JA, Hampson M, Van Der Kouwe A, Mackey S, Evins AE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stoeckel LE"
+          ],
+          "firstName": [
+            "L E"
+          ],
+          "lastName": [
+            "Stoeckel"
+          ],
+          "initials": [
+            "LE"
+          ],
+          "affiliation": [
+            "Massachusetts General Hospital, Department of Psychiatry, USA ; Harvard Medical School, USA ; Athinoula A. Martinos Center, USA ; McGovern Institute for Brain Research, Massachusetts Institute of Technology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Garrison KA"
+          ],
+          "firstName": [
+            "K A"
+          ],
+          "lastName": [
+            "Garrison"
+          ],
+          "initials": [
+            "KA"
+          ],
+          "affiliation": [
+            "Yale University School of Medicine, Department of Psychiatry, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ghosh S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Ghosh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "McGovern Institute for Brain Research, Massachusetts Institute of Technology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Wighton P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Wighton"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Athinoula A. Martinos Center, USA ; Massachusetts General Hospital, Department of Radiology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hanlon CA"
+          ],
+          "firstName": [
+            "C A"
+          ],
+          "lastName": [
+            "Hanlon"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Medical University of South Carolina, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gilman JM"
+          ],
+          "firstName": [
+            "J M"
+          ],
+          "lastName": [
+            "Gilman"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Massachusetts General Hospital, Department of Psychiatry, USA ; Harvard Medical School, USA ; Athinoula A. Martinos Center, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Greer S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Greer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, University of California, Berkeley, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Turk-Browne NB"
+          ],
+          "firstName": [
+            "N B"
+          ],
+          "lastName": [
+            "Turk-Browne"
+          ],
+          "initials": [
+            "NB"
+          ],
+          "affiliation": [
+            "Department of Psychology, Princeton University, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "deBettencourt MT"
+          ],
+          "firstName": [
+            "M T"
+          ],
+          "lastName": [
+            "deBettencourt"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "affiliation": [
+            "Princeton Neuroscience Institute, Princeton University, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Scheinost D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Scheinost"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Diagnostic Radiology, Yale University School of Medicine, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Craddock C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Craddock"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4950-1303",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Child Mind Institute, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson T"
+          ],
+          "firstName": [
+            "T"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "McGovern Institute for Brain Research, Massachusetts Institute of Technology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Calderon V"
+          ],
+          "firstName": [
+            "V"
+          ],
+          "lastName": [
+            "Calderon"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Massachusetts General Hospital, Department of Psychiatry, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bauer CC"
+          ],
+          "firstName": [
+            "C C"
+          ],
+          "lastName": [
+            "Bauer"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Universidad Nacional Autonoma de Mexico, Instituto de Neurobiologia, Mexico."
+          ]
+        },
+        {
+          "fullName": [
+            "George M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "George"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Medical University of South Carolina, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Breiter HC"
+          ],
+          "firstName": [
+            "H C"
+          ],
+          "lastName": [
+            "Breiter"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "Massachusetts General Hospital, Department of Psychiatry, USA ; Northwestern University Feinberg School of Medicine, Department of Psychiatry and Behavioral Sciences, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Whitfield-Gabrieli S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Whitfield-Gabrieli"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "McGovern Institute for Brain Research, Massachusetts Institute of Technology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gabrieli JD"
+          ],
+          "firstName": [
+            "J D"
+          ],
+          "lastName": [
+            "Gabrieli"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "McGovern Institute for Brain Research, Massachusetts Institute of Technology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "LaConte SM"
+          ],
+          "firstName": [
+            "S M"
+          ],
+          "lastName": [
+            "LaConte"
+          ],
+          "initials": [
+            "SM"
+          ],
+          "affiliation": [
+            "School of Biomedical Engineering and Sciences, Virginia Tech, USA ; Virginia Tech Carilion Research Institute, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirshberg L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Hirshberg"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Human Behavior, Alpert Medical School of Brown University, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brewer JA"
+          ],
+          "firstName": [
+            "J A"
+          ],
+          "lastName": [
+            "Brewer"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Yale University School of Medicine, Department of Psychiatry, USA ; Department of Medicine and Psychiatry, University of Massachusetts Medical School, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hampson M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Hampson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3173-4210",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Diagnostic Radiology, Yale University School of Medicine, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Der Kouwe A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Van Der Kouwe"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Athinoula A. Martinos Center, USA ; Massachusetts General Hospital, Department of Radiology, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mackey S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Mackey"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Anesthesia, Stanford University School of Medicine, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Evins AE"
+          ],
+          "firstName": [
+            "A E"
+          ],
+          "lastName": [
+            "Evins"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Massachusetts General Hospital, Department of Psychiatry, USA ; Harvard Medical School, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4950-1303",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3173-4210",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2169968"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "NeuroImage. Clinical"
+          ],
+          "ISOAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "medlineAbbreviation": [
+            "Neuroimage Clin"
+          ],
+          "NLMid": [
+            "101597070"
+          ],
+          "ISSN": [
+            "2213-1582"
+          ],
+          "ESSN": [
+            "2213-1582"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "245-255"
+  ],
+  "abstractText": [
+    "While reducing the burden of brain disorders remains a top priority of organizations like the World Health Organization and National Institutes of Health, the development of novel, safe and effective treatments for brain disorders has been slow. In this paper, we describe the state of the science for an emerging technology, real time functional magnetic resonance imaging (rtfMRI) neurofeedback, in clinical neurotherapeutics. We review the scientific potential of rtfMRI and outline research strategies to optimize the development and application of rtfMRI neurofeedback as a next generation therapeutic tool. We propose that rtfMRI can be used to address a broad range of clinical problems by improving our understanding of brain-behavior relationships in order to develop more specific and effective interventions for individuals with brain disorders. We focus on the use of rtfMRI neurofeedback as a clinical neurotherapeutic tool to drive plasticity in brain function, cognition, and behavior. Our overall goal is for rtfMRI to advance personalized assessment and intervention approaches to enhance resilience and reduce morbidity by correcting maladaptive patterns of brain function in those with brain disorders."
+  ],
+  "affiliation": [
+    "Massachusetts General Hospital, Department of Psychiatry, USA ; Harvard Medical School, USA ; Athinoula A. Martinos Center, USA ; McGovern Institute for Brain Research, Massachusetts Institute of Technology, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "5R21DA026085"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R33 DA026104"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K01 DA034093"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K12 DA000167"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K12 DA00167"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K23 DA032612"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K23DA032612"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K24 DA029262"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K24 DA030443"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K24DA029262"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K24DA030443"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "L30 DA030089"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P41 RR014075"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P41RR14075"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P50 DA009241"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "P50 DA09241"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AA02152901A1"
+          ],
+          "agency": [
+            "NIAAA NIH HHS"
+          ],
+          "acronym": [
+            "AA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT007922"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT007922-01"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH095789"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R03 DA029163"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R03 DA029163-01A1"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 DA026085"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 DA030523"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21/33DA026104"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21DA030523"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R33 DA026085"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K01 DA027756"
+          ],
+          "agency": [
+            "NIDA NIH HHS"
+          ],
+          "acronym": [
+            "DA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurofeedback"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain-computer interface",
+        "Neurofeedback",
+        "Real Time Fmri",
+        "Neurotherapeutic"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4141981?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4141981"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25161891/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25161891/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.nicl.2014.07.002"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "46"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-03-31"
+  ],
+  "dateOfCreation": [
+    "2014-08-27"
+  ],
+  "dateOfRevision": [
+    "2016-12-07"
+  ],
+  "electronicPublicationDate": [
+    "2014-07-10"
+  ],
+  "firstPublicationDate": [
+    "2014-07-10"
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "id": [
+    "29021765"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29021765"
+  ],
+  "pmcid": [
+    "PMC5623668"
+  ],
+  "doi": [
+    "10.3389/fpsyt.2017.00191"
+  ],
+  "title": [
+    "Enhancing Neuroplasticity to Augment Cognitive Remediation in Schizophrenia."
+  ],
+  "authorString": [
+    "Jahshan C, Rassovsky Y, Green MF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jahshan C"
+          ],
+          "firstName": [
+            "Carol"
+          ],
+          "lastName": [
+            "Jahshan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Biobehavioral Sciences, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Rassovsky Y"
+          ],
+          "firstName": [
+            "Yuri"
+          ],
+          "lastName": [
+            "Rassovsky"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Psychology, Gonda Multidisciplinary Brain Research Center, Bar-Ilan University, Ramat-Gan, Israel."
+          ]
+        },
+        {
+          "fullName": [
+            "Green MF"
+          ],
+          "firstName": [
+            "Michael F"
+          ],
+          "lastName": [
+            "Green"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Biobehavioral Sciences, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2550607"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "NLMid": [
+            "101545006"
+          ],
+          "ISSN": [
+            "1664-0640"
+          ],
+          "ESSN": [
+            "1664-0640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "191"
+  ],
+  "abstractText": [
+    "There is a burgeoning need for innovative treatment strategies to improve the cognitive deficits in schizophrenia. Cognitive remediation (CR) is effective at the group level, but the variability in treatment response is large. Given that CR may depend on intact neuroplasticity to produce cognitive gains, it is reasonable to combine it with strategies that harness patients' neuroplastic potential. In this review, we discuss two non-pharmacological approaches that can enhance neuroplasticity and possibly augment the effects of CR in schizophrenia: physical exercise and transcranial direct current stimulation (tDCS). Substantial body of evidence supports the beneficial effect of physical exercise on cognition, and a handful of studies in schizophrenia have shown that physical exercise in conjunction with CR has a larger impact on cognition than CR alone. Physical exercise is thought to stimulate neuroplasticity through the regulation of central growth factors, and current evidence points to brain-derived neurotrophic factor as the potential underlying mechanism through which physical exercise might enhance the effectiveness of CR. tDCS has emerged as a potential tool for cognitive enhancement and seems to affect the cellular mechanisms involved in long-term potentiation (LTP). A few reports have demonstrated the feasibility of integrating tDCS with CR in schizophrenia, but there are insufficient data to determine if this multimodal approach leads to incremental performance gain in patients. Larger randomized controlled trials are necessary to understand the mechanisms of the combined tDCS-CR intervention. Future research should take advantage of new developments in neuroplasticity paradigms to examine the effects of these interventions on LTP."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Biobehavioral Sciences, David Geffen School of Medicine, University of California, Los Angeles, Los Angeles, CA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Schizophrenia",
+        "Brain-derived neurotrophic factor",
+        "Neuroplasticity",
+        "remediation",
+        "Physical Exercise",
+        "Cognitive Training",
+        "Neuromodulation",
+        "Transcranial Direct Current Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5623668?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5623668"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyt.2017.00191"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-13"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-27"
+  ],
+  "firstPublicationDate": [
+    "2017-09-27"
+  ]
+}

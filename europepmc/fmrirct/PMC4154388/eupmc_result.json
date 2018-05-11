@@ -1,0 +1,333 @@
+{
+  "id": [
+    "25237299"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25237299"
+  ],
+  "pmcid": [
+    "PMC4154388"
+  ],
+  "doi": [
+    "10.3389/fnsys.2014.00159"
+  ],
+  "title": [
+    "Transcranial direct current stimulation for memory enhancement: from clinical research to animal models."
+  ],
+  "authorString": [
+    "Bennabi D, Pedron S, Haffen E, Monnin J, Peterschmitt Y, Van Waes V."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bennabi D"
+          ],
+          "firstName": [
+            "Djamila"
+          ],
+          "lastName": [
+            "Bennabi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Pedron S"
+          ],
+          "firstName": [
+            "Solène"
+          ],
+          "lastName": [
+            "Pedron"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Haffen E"
+          ],
+          "firstName": [
+            "Emmanuel"
+          ],
+          "lastName": [
+            "Haffen"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France ; INSERM CIC-IT 808 Clinical Investigation Centre for Innovative Technology, University Hospital of Besançon Besançon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Monnin J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Monnin"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France ; INSERM CIC-IT 808 Clinical Investigation Centre for Innovative Technology, University Hospital of Besançon Besançon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Peterschmitt Y"
+          ],
+          "firstName": [
+            "Yvan"
+          ],
+          "lastName": [
+            "Peterschmitt"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Waes V"
+          ],
+          "firstName": [
+            "Vincent"
+          ],
+          "lastName": [
+            "Van Waes"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120438"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in systems neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Syst Neurosci"
+          ],
+          "NLMid": [
+            "101477946"
+          ],
+          "ISSN": [
+            "1662-5137"
+          ],
+          "ESSN": [
+            "1662-5137"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "159"
+  ],
+  "abstractText": [
+    "There is a growing demand for new brain-enhancing technologies to improve mental performance, both for patients with cognitive disorders and for healthy individuals. Transcranial direct current stimulation (tDCS) is a non-invasive, painless, and easy to use neuromodulatory technique that can improve performance on a variety of cognitive tasks in humans despite its exact mode of action remains unclear. We have conducted a mini-review of the literature to first briefly summarize the growing amount of data from clinical trials assessing the efficacy of tDCS, focusing exclusively on learning and memory performances in healthy human subjects and in patients with depression, schizophrenia, and other neurological disorders. We then discuss these findings in the context of the strikingly few studies resulting from animal research. Finally, we highlight future directions and limitations in this field and emphasize the need to develop translational studies to better understand how tDCS improves memory, a necessary condition before it can be used as a therapeutic tool."
+  ],
+  "affiliation": [
+    "EA 481 Laboratory of Integrative and Clinical Neuroscience, University of Franche-Comté/SFR FED 4234 Besançon, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Memory",
+        "prefrontal cortex",
+        "Neuromodulation",
+        "Cognitive Enhancement",
+        "Tdcs"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4154388?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4154388"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnsys.2014.00159"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "18"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-09-19"
+  ],
+  "dateOfCreation": [
+    "2014-09-19"
+  ],
+  "dateOfRevision": [
+    "2014-09-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-09-04"
+  ],
+  "firstPublicationDate": [
+    "2014-09-04"
+  ]
+}

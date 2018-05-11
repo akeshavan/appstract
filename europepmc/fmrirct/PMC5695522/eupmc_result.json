@@ -1,0 +1,664 @@
+{
+  "id": [
+    "29146657"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29146657"
+  ],
+  "pmcid": [
+    "PMC5695522"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2017-018598"
+  ],
+  "title": [
+    "A randomised controlled trial of a duodenal-jejunal bypass sleeve device (EndoBarrier) compared with standard medical therapy for the management of obese subjects with type 2 diabetes mellitus."
+  ],
+  "authorString": [
+    "Glaysher MA, Mohanaruban A, Prechtl CG, Goldstone AP, Miras AD, Lord J, Chhina N, Falaschetti E, Johnson NA, Al-Najim W, Smith C, Li JV, Patel M, Ahmed AR, Moore M, Poulter N, Bloom S, Darzi A, Le Roux C, Byrne JP, Teare JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Glaysher MA"
+          ],
+          "firstName": [
+            "Michael Alan"
+          ],
+          "lastName": [
+            "Glaysher"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Southampton Biomedical Research Centre, University Hospital Southampton, Southampton, Hampshire, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Mohanaruban A"
+          ],
+          "firstName": [
+            "Aruchuna"
+          ],
+          "lastName": [
+            "Mohanaruban"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9105-4025",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Imperial College Healthcare NHS Trust, St Mary's Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Prechtl CG"
+          ],
+          "firstName": [
+            "Christina Gabriele"
+          ],
+          "lastName": [
+            "Prechtl"
+          ],
+          "initials": [
+            "CG"
+          ],
+          "affiliation": [
+            "Department of Public Health, Imperial College London, Imperial Clinical Trials Unit, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Goldstone AP"
+          ],
+          "firstName": [
+            "Anthony P"
+          ],
+          "lastName": [
+            "Goldstone"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "PsychoNeuroEndocrinology Research Group, Neuropsychopharmacology Unit, Centre for Psychiatry and Computational, Cognitive and Clinical Neuroimaging Laboratory, Division of Brain Sciences, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Miras AD"
+          ],
+          "firstName": [
+            "Alexander Dimitri"
+          ],
+          "lastName": [
+            "Miras"
+          ],
+          "initials": [
+            "AD"
+          ],
+          "affiliation": [
+            "Division of Diabetes, Endocrinology and Metabolic Medicine, Hammersmith Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Lord J"
+          ],
+          "firstName": [
+            "Joanne"
+          ],
+          "lastName": [
+            "Lord"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Southampton HTA Centre, University of Southampton, University of Southampton Science Park, Southampton, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Chhina N"
+          ],
+          "firstName": [
+            "Navpreet"
+          ],
+          "lastName": [
+            "Chhina"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Computational Cognitive and Clinical Neuroimaging Group, Hammersmith Hospital, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Falaschetti E"
+          ],
+          "firstName": [
+            "Emanuela"
+          ],
+          "lastName": [
+            "Falaschetti"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Imperial Clinical Trials Unit, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Johnson NA"
+          ],
+          "firstName": [
+            "Nicholas Andrew"
+          ],
+          "lastName": [
+            "Johnson"
+          ],
+          "initials": [
+            "NA"
+          ],
+          "affiliation": [
+            "School of Public Health, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Al-Najim W"
+          ],
+          "firstName": [
+            "Werd"
+          ],
+          "lastName": [
+            "Al-Najim"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Investigative Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Imperial Clinical Trials Unit, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Li JV"
+          ],
+          "firstName": [
+            "Jia V"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "JV"
+          ],
+          "affiliation": [
+            "Division of Computational and Systems Medicine, Department of Surgery and Cancer, Faculty of Medicine, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Patel M"
+          ],
+          "firstName": [
+            "Mayank"
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Diabetes and Endocrinology, Southampton General Hospital, Southampton, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Ahmed AR"
+          ],
+          "firstName": [
+            "Ahmed R"
+          ],
+          "lastName": [
+            "Ahmed"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Imperial College Healthcare NHS Trust, St Mary's Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Moore M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Moore"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5127-4509",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Primary Care Medical Group, University of Southampton Medical School, Southampton, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Poulter N"
+          ],
+          "firstName": [
+            "Neil"
+          ],
+          "lastName": [
+            "Poulter"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Imperial Clinical Trials Unit, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Bloom S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Bloom"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "North West London Pathology, Head of Division of Diabetes, Endocrinology and Metabolism, Imperial College London, Hammersmith Hospital, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Darzi A"
+          ],
+          "firstName": [
+            "Ara"
+          ],
+          "lastName": [
+            "Darzi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Division of Surgery, Imperial College London, London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Le Roux C"
+          ],
+          "firstName": [
+            "Carel"
+          ],
+          "lastName": [
+            "Le Roux"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Head of Pathology, University College Dublin, Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Byrne JP"
+          ],
+          "firstName": [
+            "James P"
+          ],
+          "lastName": [
+            "Byrne"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Division of Surgery, University Hospital Southampton NHS Foundation Trust, Southampton, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Teare JP"
+          ],
+          "firstName": [
+            "Julian P"
+          ],
+          "lastName": [
+            "Teare"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Department of Gastroenterology, Imperial College Healthcare NHS Trust, St Mary's Hospital, London, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9105-4025",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5127-4509",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2614799"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e018598"
+  ],
+  "abstractText": [
+    "The prevalence of obesity and obesity-related diseases, including type 2 diabetes mellitus (T2DM), is increasing. Exclusion of the foregut, as occurs in Roux-en-Y gastric bypass, has a key role in the metabolic improvements that occur following bariatric surgery, which are independent of weight loss. Endoscopically placed duodenal-jejunal bypass sleeve devices, such as the EndoBarrier (GI Dynamics, Lexington, Massachusetts, USA), have been designed to create an impermeable barrier between chyme exiting the stomach and the mucosa of the duodenum and proximal jejunum. The non-surgical and reversible nature of these devices represents an attractive therapeutic option for patients with obesity and T2DM by potentially improving glycaemic control and reducing their weight.In this multicentre, randomised, controlled, non-blinded trial, male and female patients aged 18-65 years with a body mass index 30-50 kg/m2 and inadequately controlled T2DM on oral antihyperglycaemic medications (glycosylated haemoglobin (HbA1c) 58-97 mmol/mol) will be randomised in a 1:1 ratio to receive either the EndoBarrier device (n=80) for 12 months or conventional medical therapy, diet and exercise (n=80). The primary outcome measure will be a reduction in HbA1c by 20% at 12 months. Secondary outcome measures will include percentage weight loss, change in cardiovascular risk factors and medications, quality of life, cost, quality-adjusted life years accrued and adverse events. Three additional subgroups will investigate the mechanisms behind the effect of the EndoBarrier device, looking at changes in gut hormones, metabolites, bile acids, microbiome, food hedonics and preferences, taste, brain reward system responses to food, eating and addictive behaviours, body fat content, insulin sensitivity, and intestinal tissue gene expression.ISRCTN30845205, ClinicalTrials.gov Identifier NCT02459561."
+  ],
+  "affiliation": [
+    "Southampton Biomedical Research Centre, University Hospital Southampton, Southampton, Hampshire, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CL-2013-21-002"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MC_PC_14139"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Obesity",
+        "Type 2 diabetes mellitus",
+        "Duodenal-jejunal Bypass Liner",
+        "Endobarrier",
+        "Duodenal-jejunal Bypass Sleeve"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5695522?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5695522"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2017-018598"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-11-18"
+  ],
+  "dateOfRevision": [
+    "2018-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-15"
+  ],
+  "firstPublicationDate": [
+    "2017-11-15"
+  ]
+}

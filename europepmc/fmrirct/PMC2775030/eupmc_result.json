@@ -1,0 +1,536 @@
+{
+  "id": [
+    "19849835"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19849835"
+  ],
+  "pmcid": [
+    "PMC2775030"
+  ],
+  "doi": [
+    "10.1186/1745-6215-10-97"
+  ],
+  "title": [
+    "Comparison of embedded and added motor imagery training in patients after stroke: study protocol of a randomised controlled pilot trial using a mixed methods approach."
+  ],
+  "authorString": [
+    "Schuster C, Butler J, Andrews B, Kischka U, Ettlin T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schuster C"
+          ],
+          "firstName": [
+            "Corina"
+          ],
+          "lastName": [
+            "Schuster"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Reha Rheinfelden, Rheinfelden, Switzerland. c.schuster@reha-rhf.ch"
+          ]
+        },
+        {
+          "fullName": [
+            "Butler J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Butler"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Andrews B"
+          ],
+          "firstName": [
+            "Brian"
+          ],
+          "lastName": [
+            "Andrews"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Kischka U"
+          ],
+          "firstName": [
+            "Udo"
+          ],
+          "lastName": [
+            "Kischka"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Ettlin T"
+          ],
+          "firstName": [
+            "Thierry"
+          ],
+          "lastName": [
+            "Ettlin"
+          ],
+          "initials": [
+            "T"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2480116"
+      ],
+      "dateOfPublication": [
+        "2009 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2009"
+      ],
+      "printPublicationDate": [
+        "2009-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2009"
+  ],
+  "pageInfo": [
+    "97"
+  ],
+  "abstractText": [
+    "Two different approaches have been adopted when applying motor imagery (MI) to stroke patients. MI can be conducted either added to conventional physiotherapy or integrated within therapy sessions. The proposed study aims to compare the efficacy of embedded MI to an added MI intervention. Evidence from pilot studies reported in the literature suggests that both approaches can improve performance of a complex motor skill involving whole body movements, however, it remains to be demonstrated, which is the more effective one.A single blinded, randomised controlled trial (RCT) with a pre-post intervention design will be carried out. The study design includes two experimental groups and a control group (CG). Both experimental groups (EG1, EG2) will receive physical practice of a clinical relevant motor task ('Going down, laying on the floor, and getting up again') over a two week intervention period: EG1 with embedded MI training, EG2 with MI training added after physiotherapy. The CG will receive standard physiotherapy intervention and an additional control intervention not related to MI. The primary study outcome is the time difference to perform the task from pre to post-intervention. Secondary outcomes include level of help needed, stages of motor task completion, degree of motor impairment, balance ability, fear of falling measure, motivation score, and motor imagery ability score. Four data collection points are proposed: twice during baseline phase, once following the intervention period, and once after a two week follow up. A nested qualitative part should add an important insight into patients' experience and attitudes towards MI. Semi-structured interviews of six to ten patients, who participate in the RCT, will be conducted to investigate patients' previous experience with MI and their expectations towards the MI intervention in the study. Patients will be interviewed prior and after the intervention period.Results will determine whether embedded MI is superior to added MI. Findings of the semi-structured interviews will help to integrate patient's expectations of MI interventions in the design of research studies to improve practical applicability using MI as an adjunct therapy technique."
+  ],
+  "affiliation": [
+    "Reha Rheinfelden, Rheinfelden, Switzerland. c.schuster@reha-rhf.ch"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Imagery (Psychotherapy)"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Selection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Outcome Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Therapy Modalities"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Statistics as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Postural Balance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2775030?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2775030"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1745-6215-10-97.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1745-6215/10/97/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1745-6215/10/97"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19849835/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19849835/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1745-6215-10-97"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2010-01-07"
+  ],
+  "dateOfCreation": [
+    "2009-11-10"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2009-10-22"
+  ],
+  "firstPublicationDate": [
+    "2009-10-22"
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "id": [
+    "29033138"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29033138"
+  ],
+  "pmcid": [
+    "PMC5652281"
+  ],
+  "doi": [
+    "10.1016/j.ebiom.2017.09.031"
+  ],
+  "title": [
+    "Do You Believe It? Verbal Suggestions Influence the Clinical and Neural Effects of Escitalopram in Social Anxiety Disorder: A Randomized Trial."
+  ],
+  "authorString": [
+    "Faria V, Gingnell M, Hoppe JM, Hjorth O, Alaie I, Frick A, Hultberg S, Wahlstedt K, Engman J, Månsson KNT, Carlbring P, Andersson G, Reis M, Larsson EM, Fredrikson M, Furmark T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Faria V"
+          ],
+          "firstName": [
+            "Vanda"
+          ],
+          "lastName": [
+            "Faria"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden; Center for Pain and the Brain, Department of Anesthesiology, Perioperative and Pain Medicine, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA. Electronic address: vanda.faria@psyk.uu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Gingnell M"
+          ],
+          "firstName": [
+            "Malin"
+          ],
+          "lastName": [
+            "Gingnell"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoppe JM"
+          ],
+          "firstName": [
+            "Johanna M"
+          ],
+          "lastName": [
+            "Hoppe"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hjorth O"
+          ],
+          "firstName": [
+            "Olof"
+          ],
+          "lastName": [
+            "Hjorth"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Alaie I"
+          ],
+          "firstName": [
+            "Iman"
+          ],
+          "lastName": [
+            "Alaie"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden; Department of Neuroscience, Child and Adolescent Psychiatry, Uppsala University, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Frick A"
+          ],
+          "firstName": [
+            "Andreas"
+          ],
+          "lastName": [
+            "Frick"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden; Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hultberg S"
+          ],
+          "firstName": [
+            "Sara"
+          ],
+          "lastName": [
+            "Hultberg"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Wahlstedt K"
+          ],
+          "firstName": [
+            "Kurt"
+          ],
+          "lastName": [
+            "Wahlstedt"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Engman J"
+          ],
+          "firstName": [
+            "Jonas"
+          ],
+          "lastName": [
+            "Engman"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Månsson KNT"
+          ],
+          "firstName": [
+            "Kristoffer N T"
+          ],
+          "lastName": [
+            "Månsson"
+          ],
+          "initials": [
+            "KNT"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden; Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden; Department of Psychology, Stockholm University, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Carlbring P"
+          ],
+          "firstName": [
+            "Per"
+          ],
+          "lastName": [
+            "Carlbring"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychology, Stockholm University, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Andersson G"
+          ],
+          "firstName": [
+            "Gerhard"
+          ],
+          "lastName": [
+            "Andersson"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Behavioural Sciences and Learning, Linköping University, Linköping, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Reis M"
+          ],
+          "firstName": [
+            "Margareta"
+          ],
+          "lastName": [
+            "Reis"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Medical and Health Sciences, Division of Drug Research, Linköping University, Linköping, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Larsson EM"
+          ],
+          "firstName": [
+            "Elna-Marie"
+          ],
+          "lastName": [
+            "Larsson"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "Department of Surgical Sciences, Radiology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Fredrikson M"
+          ],
+          "firstName": [
+            "Mats"
+          ],
+          "lastName": [
+            "Fredrikson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden; Department of Clinical Neuroscience, Karolinska Institutet, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Furmark T"
+          ],
+          "firstName": [
+            "Tomas"
+          ],
+          "lastName": [
+            "Furmark"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Psychology, Uppsala University, Uppsala, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "24"
+      ],
+      "journalIssueId": [
+        "2610043"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "EBioMedicine"
+          ],
+          "ISOAbbreviation": [
+            "EBioMedicine"
+          ],
+          "medlineAbbreviation": [
+            "EBioMedicine"
+          ],
+          "NLMid": [
+            "101647039"
+          ],
+          "ISSN": [
+            "2352-3964"
+          ],
+          "ESSN": [
+            "2352-3964"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "179-188"
+  ],
+  "abstractText": [
+    "Selective serotonin reuptake inhibitors (SSRIs) are commonly prescribed for depression and anxiety, but their efficacy relative to placebo has been questioned. We aimed to test how manipulation of verbally induced expectancies, central for placebo, influences SSRI treatment outcome and brain activity in patients with social anxiety disorder (SAD).We did a randomized clinical trial, within an academic medical center (Uppsala, Sweden), of individuals fulfilling the DSM-IV criteria for SAD, recruited through media advertising. Participants were 18years or older and randomized in blocks, through a computer-generated sequence by an independent party, to nine weeks of overt or covert treatment with escitalopram (20mg daily). The overt group received correct treatment information whereas the covert group was treated deceptively with the SSRI described, by the psychiatrist, as active placebo. The treating psychiatrist was necessarily unmasked while the research staff was masked from intervention assignment. Treatment efficacy was assessed primarily with the self-rated Liebowitz Social Anxiety Scale (LSAS-SR), administered at week 0, 1, 3, 6 and 9, also yielding a dichotomous estimate of responder status (clinically significant improvement). Before and at the last week of treatment, brain activity during an emotional face-matching task was assessed with functional magnetic resonance imaging (fMRI) and during fMRI sessions, anticipatory speech anxiety was also assessed with the Spielberger State-Trait Anxiety Inventory - State version (STAI-S). Analyses included all randomized patients with outcome data at posttreatment. This study is registered at ISRCTN, number 98890605.Between March 17th 2014 and May 22nd 2015, 47 patients were recruited. One patient in the covert group dropped out after a few days of treatment and did not provide fMRI data, leaving 46 patients with complete outcome data. After nine weeks of treatment, overt (n=24) as compared to covert (n=22) SSRI administration yielded significantly better outcome on the LSAS-SR (adjusted difference 21.17, 95% CI 10.69-31.65, p<0.0001) with more than three times higher response rate (50% vs. 14%; χ2(1)=6.91, p=0.009) and twice the effect size (d=2.24 vs. d=1.13) from pre-to posttreatment. There was no significant between-group difference on anticipatory speech anxiety (STAI-S), both groups improving with treatment. No serious adverse reactions were recorded. On fMRI outcomes, there was suggestive evidence for a differential neural response to treatment between groups in the posterior cingulate, superior temporal and inferior frontal gyri (all z thresholds exceeding 3.68, p≤0.001). Reduced social anxiety with treatment correlated significantly with enhanced posterior cingulate (z threshold 3.24, p=0.0006) and attenuated amygdala (z threshold 2.70, p=0.003) activity.The clinical and neural effects of escitalopram were markedly influenced by verbal suggestions. This points to a pronounced placebo component in SSRI-treatment of SAD and favors a biopsychosocial over a biomedical explanatory model for SSRI efficacy.The Swedish Research Council for Working Life and Social Research (grant 2011-1368), the Swedish Research Council (grant 421-2013-1366), Riksbankens Jubileumsfond - the Swedish Foundation for Humanities and Social Sciences (grant P13-1270:1)."
+  ],
+  "affiliation": [
+    "Department of Psychology, Uppsala University, Uppsala, Sweden; Center for Pain and the Brain, Department of Anesthesiology, Perioperative and Pain Medicine, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA. Electronic address: vanda.faria@psyk.uu.se."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "fMRI",
+        "Placebo Effect",
+        "Ssri",
+        "Social Anxiety Disorder",
+        "Neuroimaging",
+        "Expectancies"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5652281?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5652281"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.ebiom.2017.09.031"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-17"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-27"
+  ],
+  "firstPublicationDate": [
+    "2017-09-27"
+  ]
+}

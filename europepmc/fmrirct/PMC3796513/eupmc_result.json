@@ -1,0 +1,443 @@
+{
+  "id": [
+    "24155873"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24155873"
+  ],
+  "pmcid": [
+    "PMC3796513"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0075859"
+  ],
+  "title": [
+    "PET-scan shows peripherally increased neurokinin 1 receptor availability in chronic tennis elbow: visualizing neurogenic inflammation?"
+  ],
+  "authorString": [
+    "Peterson M, Svärdsudd K, Appel L, Engler H, Aarnio M, Gordh T, Långström B, Sörensen J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Peterson M"
+          ],
+          "firstName": [
+            "Magnus"
+          ],
+          "lastName": [
+            "Peterson"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Public Health and Caring Sciences, Family Medicine and Clinical Epidemiology, Uppsala University, Uppsala, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Svärdsudd K"
+          ],
+          "firstName": [
+            "Kurt"
+          ],
+          "lastName": [
+            "Svärdsudd"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Appel L"
+          ],
+          "firstName": [
+            "Lieuwe"
+          ],
+          "lastName": [
+            "Appel"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Engler H"
+          ],
+          "firstName": [
+            "Henry"
+          ],
+          "lastName": [
+            "Engler"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Aarnio M"
+          ],
+          "firstName": [
+            "Mikko"
+          ],
+          "lastName": [
+            "Aarnio"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Gordh T"
+          ],
+          "firstName": [
+            "Torsten"
+          ],
+          "lastName": [
+            "Gordh"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1454-3148",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Långström B"
+          ],
+          "firstName": [
+            "Bengt"
+          ],
+          "lastName": [
+            "Långström"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Sörensen J"
+          ],
+          "firstName": [
+            "Jens"
+          ],
+          "lastName": [
+            "Sörensen"
+          ],
+          "initials": [
+            "J"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1454-3148",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2082438"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "e75859"
+  ],
+  "abstractText": [
+    "In response to pain, neurokinin 1 (NK1) receptor availability is altered in the central nervous system. The NK1 receptor and its primary agonist, substance P, also play a crucial role in peripheral tissue in response to pain, as part of neurogenic inflammation. However, little is known about alterations in NK1 receptor availability in peripheral tissue in chronic pain conditions and very few studies have been performed on human beings. Ten subjects with chronic tennis elbow were therefore examined by positron emission tomography (PET) with the NK1 specific radioligand [(11)C]GR205171 before and after treatment with graded exercise. The radioligand signal intensity was higher in the affected arm as compared with the unaffected arm, measured as differences between the arms in volume of voxels and signal intensity of this volume above a reference threshold set as 2.5 SD above mean signal intensity of the unaffected arm before treatment. In the eight subjects examined after treatment, pain ratings decreased in all subjects but signal intensity decreased in five and increased in three. In conclusion, NK1 receptors may be activated, or up-regulated in the peripheral, painful tissue of a chronic pain condition. This up-regulation does, however, have moderate correlation to pain ratings. The increased NK1 receptor availability is interpreted as part of ongoing neurogenic inflammation and may have correlation to the pathogenesis of chronic tennis elbow.ClinicalTrials.gov NCT00888225 http://clinicaltrials.gov/"
+  ],
+  "affiliation": [
+    "Department of Public Health and Caring Sciences, Family Medicine and Clinical Epidemiology, Uppsala University, Uppsala, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Carbon Radioisotopes"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Receptors, Neurokinin-1"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3796513?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3796513"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24155873/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24155873/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0075859"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "UNIPROT"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-06-17"
+  ],
+  "dateOfCreation": [
+    "2013-10-24"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-14"
+  ],
+  "firstPublicationDate": [
+    "2013-10-14"
+  ]
+}

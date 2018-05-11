@@ -1,0 +1,298 @@
+{
+  "id": [
+    "23717355"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23717355"
+  ],
+  "pmcid": [
+    "PMC3661895"
+  ],
+  "doi": [
+    "10.2478/hukin-2013-0006"
+  ],
+  "title": [
+    "Cardiorespiratory fitness and motor skills in relation to cognition and academic performance in children - a review."
+  ],
+  "authorString": [
+    "Haapala EA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Haapala EA"
+          ],
+          "firstName": [
+            "Eero A"
+          ],
+          "lastName": [
+            "Haapala"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5096-851X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5096-851X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "36"
+      ],
+      "journalIssueId": [
+        "2042195"
+      ],
+      "dateOfPublication": [
+        "2013 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of human kinetics"
+          ],
+          "ISOAbbreviation": [
+            "J Hum Kinet"
+          ],
+          "medlineAbbreviation": [
+            "J Hum Kinet"
+          ],
+          "NLMid": [
+            "101513031"
+          ],
+          "ISSN": [
+            "1640-5544"
+          ],
+          "ESSN": [
+            "1899-7562"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "55-68"
+  ],
+  "abstractText": [
+    "Different elements of physical fitness in children have shown a declining trend during the past few decades. Cardiorespiratory fitness and motor skills have been associated with cognition, but the magnitude of this association remains unknown. The purpose of this review is to provide an overview of the relationship of cardiorespiratory fitness and motor skills with cognitive functions and academic performance in children up to 13 years of age. Cross-sectional studies suggest that children with higher cardiorespiratory fitness have more efficient cognitive processing at the neuroelectric level, as well as larger hippocampal and basal ganglia volumes, compared to children with lower cardiorespiratory fitness. Higher cardiorespiratory fitness has been associated with better inhibitory control in tasks requiring rigorous attention allocation. Better motor skills have been related to more efficient cognitive functions including inhibitory control and working memory. Higher cardiorespiratory fitness and better motor skills have also been associated with better academic performance. Furthermore, none of the studies on cardiorespiratory fitness have revealed independent associations with cognitive functions by controlling for motor skills. Studies concerning the relationship between motor skills and cognitive functions also did not consider cardiorespiratory fitness in the analyses. The results of this review suggest that high levels of cardiorespiratory fitness and motor skills may be beneficial for cognitive development and academic performance but the evidence relies mainly on cross-sectional studies."
+  ],
+  "affiliation": [
+    "Department of Physiology, Institute of Biomedicine, University of Eastern Finland, Campus of Kuopio, Finland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Children",
+        "Physical fitness",
+        "Physical Activity",
+        "Scholastic Achievement",
+        "Movement Skills"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3661895?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3661895"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23717355/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23717355/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2478/hukin-2013-0006"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "22"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-30"
+  ],
+  "dateOfCreation": [
+    "2013-05-29"
+  ],
+  "dateOfRevision": [
+    "2013-05-31"
+  ],
+  "electronicPublicationDate": [
+    "2013-03-28"
+  ],
+  "firstPublicationDate": [
+    "2013-03-28"
+  ]
+}

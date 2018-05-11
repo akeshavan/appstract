@@ -1,0 +1,266 @@
+{
+  "id": [
+    "28861491"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28861491"
+  ],
+  "pmcid": [
+    "PMC5576607"
+  ],
+  "doi": [
+    "10.1089/can.2016.0009"
+  ],
+  "title": [
+    "Clinical Endocannabinoid Deficiency Reconsidered: Current Research Supports the Theory in Migraine, Fibromyalgia, Irritable Bowel, and Other Treatment-Resistant Syndromes."
+  ],
+  "authorString": [
+    "Russo EB."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Russo EB"
+          ],
+          "firstName": [
+            "Ethan B"
+          ],
+          "lastName": [
+            "Russo"
+          ],
+          "initials": [
+            "EB"
+          ],
+          "affiliation": [
+            "PHYTECS, Vashon Island, Washington."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "1"
+      ],
+      "journalIssueId": [
+        "2454883"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Cannabis and cannabinoid research"
+          ],
+          "ISOAbbreviation": [
+            "Cannabis Cannabinoid Res"
+          ],
+          "medlineAbbreviation": [
+            "Cannabis Cannabinoid Res"
+          ],
+          "NLMid": [
+            "101684827"
+          ],
+          "ISSN": [
+            "2378-8763"
+          ],
+          "ESSN": [
+            "2378-8763"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "154-165"
+  ],
+  "abstractText": [
+    "Medicine continues to struggle in its approaches to numerous common subjective pain syndromes that lack objective signs and remain treatment resistant. Foremost among these are migraine, fibromyalgia, and irritable bowel syndrome, disorders that may overlap in their affected populations and whose sufferers have all endured the stigma of a psychosomatic label, as well as the failure of endless pharmacotherapeutic interventions with substandard benefit. The commonality in symptomatology in these conditions displaying hyperalgesia and central sensitization with possible common underlying pathophysiology suggests that a clinical endocannabinoid deficiency might characterize their origin. Its base hypothesis is that all humans have an underlying endocannabinoid tone that is a reflection of levels of the endocannabinoids, anandamide (arachidonylethanolamide), and 2-arachidonoylglycerol, their production, metabolism, and the relative abundance and state of cannabinoid receptors. Its theory is that in certain conditions, whether congenital or acquired, endocannabinoid tone becomes deficient and productive of pathophysiological syndromes. When first proposed in 2001 and subsequently, this theory was based on genetic overlap and comorbidity, patterns of symptomatology that could be mediated by the endocannabinoid system (ECS), and the fact that exogenous cannabinoid treatment frequently provided symptomatic benefit. However, objective proof and formal clinical trial data were lacking. Currently, however, statistically significant differences in cerebrospinal fluid anandamide levels have been documented in migraineurs, and advanced imaging studies have demonstrated ECS hypofunction in post-traumatic stress disorder. Additional studies have provided a firmer foundation for the theory, while clinical data have also produced evidence for decreased pain, improved sleep, and other benefits to cannabinoid treatment and adjunctive lifestyle approaches affecting the ECS."
+  ],
+  "affiliation": [
+    "PHYTECS, Vashon Island, Washington."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Parkinson disease",
+        "Multiple sclerosis",
+        "Migraine",
+        "Motion sickness",
+        "anandamide",
+        "irritable bowel syndrome",
+        "Prebiotics",
+        "Anorexia Nervosa",
+        "Post-traumatic Stress Disorder",
+        "Fibromyalgia",
+        "Cannabinoids",
+        "Endocannabinoids",
+        "Cannabidiol",
+        "Thc",
+        "Huntington Disease"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5576607?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5576607"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1089/can.2016.0009"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-09-01"
+  ],
+  "dateOfRevision": [
+    "2017-09-05"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-01"
+  ],
+  "firstPublicationDate": [
+    "2016-07-01"
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "id": [
+    "29713339"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29713339"
+  ],
+  "pmcid": [
+    "PMC5866875"
+  ],
+  "doi": [
+    "10.1155/2018/9234105"
+  ],
+  "title": [
+    "Exercise Intervention Associated with Cognitive Improvement in Alzheimer's Disease."
+  ],
+  "authorString": [
+    "Cui MY, Lin Y, Sheng JY, Zhang X, Cui RJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cui MY"
+          ],
+          "firstName": [
+            "Meng Ying"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "MY"
+          ],
+          "affiliation": [
+            "Jilin Provincial Key Laboratory on Molecular and Chemical Genetic, The Second Hospital of Jilin University, 218 Ziqiang Street, Changchun 130041, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lin Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Jilin Provincial Key Laboratory on Molecular and Chemical Genetic, The Second Hospital of Jilin University, 218 Ziqiang Street, Changchun 130041, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sheng JY"
+          ],
+          "firstName": [
+            "Ji Yao"
+          ],
+          "lastName": [
+            "Sheng"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0341-743X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jilin Provincial Key Laboratory on Molecular and Chemical Genetic, The Second Hospital of Jilin University, 218 Ziqiang Street, Changchun 130041, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang X"
+          ],
+          "firstName": [
+            "Xuewen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3619-2222",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jilin Provincial Key Laboratory on Molecular and Chemical Genetic, The Second Hospital of Jilin University, 218 Ziqiang Street, Changchun 130041, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Cui RJ"
+          ],
+          "firstName": [
+            "Ran Ji"
+          ],
+          "lastName": [
+            "Cui"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1129-3772",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Jilin Provincial Key Laboratory on Molecular and Chemical Genetic, The Second Hospital of Jilin University, 218 Ziqiang Street, Changchun 130041, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1129-3772",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3619-2222",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0341-743X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2018"
+      ],
+      "journalIssueId": [
+        "2661340"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural plasticity"
+          ],
+          "ISOAbbreviation": [
+            "Neural Plast."
+          ],
+          "medlineAbbreviation": [
+            "Neural Plast"
+          ],
+          "NLMid": [
+            "100883417"
+          ],
+          "ISSN": [
+            "2090-5904"
+          ],
+          "ESSN": [
+            "1687-5443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "9234105"
+  ],
+  "abstractText": [
+    "Alzheimer's disease (AD) is a progressive neurodegenerative disease with the syndrome of cognitive and functional decline. Pharmacotherapy has always been in a dominant position for the treatment of AD. However, in most cases, drug therapy is accompanied with clinical delays when older adults have suffered from cognitive decline in episodic memory, working memory, and executive function. On the other hand, accumulating evidence suggests that exercise intervention may ameliorate the progression of cognitive impairment in aging ones while the standard strategy is lacking based on different levels of cognitive decline especially in mild cognitive impairment (MCI) and AD. MCI is the preclinical stage of AD in which neurodegeneration may be reversed via neuroplasticity. Therefore, taking exercise intervention in the early stage of MCI and healthy aging at the risk of AD could slow down the process of cognitive impairment and provide a promising cost-effective nonpharmacological therapy to dementia."
+  ],
+  "affiliation": [
+    "Jilin Provincial Key Laboratory on Molecular and Chemical Genetic, The Second Hospital of Jilin University, 218 Ziqiang Street, Changchun 130041, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5866875?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5866875"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2018/9234105"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-02"
+  ],
+  "dateOfRevision": [
+    "2018-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-11"
+  ],
+  "firstPublicationDate": [
+    "2018-03-11"
+  ]
+}

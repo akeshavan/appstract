@@ -1,0 +1,305 @@
+{
+  "id": [
+    "29163118"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29163118"
+  ],
+  "pmcid": [
+    "PMC5671481"
+  ],
+  "doi": [
+    "10.3389/fninf.2017.00062"
+  ],
+  "title": [
+    "Semi-automated Anatomical Labeling and Inter-subject Warping of High-Density Intracranial Recording Electrodes in Electrocorticography."
+  ],
+  "authorString": [
+    "Hamilton LS, Chang DL, Lee MB, Chang EF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hamilton LS"
+          ],
+          "firstName": [
+            "Liberty S"
+          ],
+          "lastName": [
+            "Hamilton"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Center for Integrative Neuroscience, University of California, San Francisco, San Francisco, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang DL"
+          ],
+          "firstName": [
+            "David L"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "DL"
+          ],
+          "affiliation": [
+            "Center for Integrative Neuroscience, University of California, San Francisco, San Francisco, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee MB"
+          ],
+          "firstName": [
+            "Morgan B"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "MB"
+          ],
+          "affiliation": [
+            "Center for Integrative Neuroscience, University of California, San Francisco, San Francisco, CA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang EF"
+          ],
+          "firstName": [
+            "Edward F"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "EF"
+          ],
+          "affiliation": [
+            "Center for Integrative Neuroscience, University of California, San Francisco, San Francisco, CA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2550605"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroinformatics"
+          ],
+          "ISOAbbreviation": [
+            "Front Neuroinform"
+          ],
+          "medlineAbbreviation": [
+            "Front Neuroinform"
+          ],
+          "NLMid": [
+            "101477957"
+          ],
+          "ISSN": [
+            "1662-5196"
+          ],
+          "ESSN": [
+            "1662-5196"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "62"
+  ],
+  "abstractText": [
+    "In this article, we introduce img_pipe, our open source python package for preprocessing of imaging data for use in intracranial electrocorticography (ECoG) and intracranial stereo-EEG analyses. The process of electrode localization, labeling, and warping for use in ECoG currently varies widely across laboratories, and it is usually performed with custom, lab-specific code. This python package aims to provide a standardized interface for these procedures, as well as code to plot and display results on 3D cortical surface meshes. It gives the user an easy interface to create anatomically labeled electrodes that can also be warped to an atlas brain, starting with only a preoperative T1 MRI scan and a postoperative CT scan. We describe the full capabilities of our imaging pipeline and present a step-by-step protocol for users."
+  ],
+  "affiliation": [
+    "Center for Integrative Neuroscience, University of California, San Francisco, San Francisco, CA, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "methods-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Epilepsy",
+        "Surgery",
+        "Electrocorticography",
+        "Intracranial Recordings",
+        "Electrode Localization",
+        "Open Science",
+        "Image Coregistration",
+        "Subdural Electrodes"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5671481?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5671481"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fninf.2017.00062"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-11-23"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-31"
+  ],
+  "firstPublicationDate": [
+    "2017-10-31"
+  ]
+}

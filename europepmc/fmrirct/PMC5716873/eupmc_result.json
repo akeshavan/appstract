@@ -1,0 +1,656 @@
+{
+  "id": [
+    "28944987"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28944987"
+  ],
+  "pmcid": [
+    "PMC5716873"
+  ],
+  "doi": [
+    "10.1111/bdi.12556"
+  ],
+  "title": [
+    "The International Society for Bipolar Disorders Task Force report on pediatric bipolar disorder: Knowledge to date and directions for future research."
+  ],
+  "authorString": [
+    "Goldstein BI, Birmaher B, Carlson GA, DelBello MP, Findling RL, Fristad M, Kowatch RA, Miklowitz DJ, Nery FG, Perez-Algorta G, Van Meter A, Zeni CP, Correll CU, Kim HW, Wozniak J, Chang KD, Hillegers M, Youngstrom EA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goldstein BI"
+          ],
+          "firstName": [
+            "Benjamin I"
+          ],
+          "lastName": [
+            "Goldstein"
+          ],
+          "initials": [
+            "BI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0340-349X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Pharmacology, University of Toronto, Toronto, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Birmaher B"
+          ],
+          "firstName": [
+            "Boris"
+          ],
+          "lastName": [
+            "Birmaher"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Carlson GA"
+          ],
+          "firstName": [
+            "Gabrielle A"
+          ],
+          "lastName": [
+            "Carlson"
+          ],
+          "initials": [
+            "GA"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Stony Brook University School of Medicine, Stony Brook, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "DelBello MP"
+          ],
+          "firstName": [
+            "Melissa P"
+          ],
+          "lastName": [
+            "DelBello"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Department of Psychiatry & Behavioral Neuroscience, University of Cincinnati, Cincinnati, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Findling RL"
+          ],
+          "firstName": [
+            "Robert L"
+          ],
+          "lastName": [
+            "Findling"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Department of Psychiatry & Behavioral Sciences, The Johns Hopkins University, Baltimore, MD, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fristad M"
+          ],
+          "firstName": [
+            "Mary"
+          ],
+          "lastName": [
+            "Fristad"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Ohio State University Wexner Medical Center/Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kowatch RA"
+          ],
+          "firstName": [
+            "Robert A"
+          ],
+          "lastName": [
+            "Kowatch"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Ohio State University Wexner Medical Center/Nationwide Children's Hospital, Columbus, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Miklowitz DJ"
+          ],
+          "firstName": [
+            "David J"
+          ],
+          "lastName": [
+            "Miklowitz"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, UCLA, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Nery FG"
+          ],
+          "firstName": [
+            "Fabiano G"
+          ],
+          "lastName": [
+            "Nery"
+          ],
+          "initials": [
+            "FG"
+          ],
+          "affiliation": [
+            "Department of Psychiatry & Behavioral Neuroscience, University of Cincinnati, Cincinnati, OH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Perez-Algorta G"
+          ],
+          "firstName": [
+            "Guillermo"
+          ],
+          "lastName": [
+            "Perez-Algorta"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6610-4951",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Health Research, Lancaster University, Lancaster, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Meter A"
+          ],
+          "firstName": [
+            "Anna"
+          ],
+          "lastName": [
+            "Van Meter"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0012-206X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Ferkauf Graduate School of Psychology, Yeshiva University, Bronx, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeni CP"
+          ],
+          "firstName": [
+            "Cristian P"
+          ],
+          "lastName": [
+            "Zeni"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9810-3929",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Texas, Houston, TX, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Correll CU"
+          ],
+          "firstName": [
+            "Christoph U"
+          ],
+          "lastName": [
+            "Correll"
+          ],
+          "initials": [
+            "CU"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Molecular Medicine, Hofstra Northwell School of Medicine, Hempstead, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HW"
+          ],
+          "firstName": [
+            "Hyo-Won"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HW"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Wozniak J"
+          ],
+          "firstName": [
+            "Janet"
+          ],
+          "lastName": [
+            "Wozniak"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Clinical and Research Program in Pediatric Psychopharmacology, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chang KD"
+          ],
+          "firstName": [
+            "Kiki D"
+          ],
+          "lastName": [
+            "Chang"
+          ],
+          "initials": [
+            "KD"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Stanford University, Palo Alto, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hillegers M"
+          ],
+          "firstName": [
+            "Manon"
+          ],
+          "lastName": [
+            "Hillegers"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry and Psychology, Erasmus Medical Center-Sophia, Rotterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Youngstrom EA"
+          ],
+          "firstName": [
+            "Eric A"
+          ],
+          "lastName": [
+            "Youngstrom"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2251-6860",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychology and Neuroscience, University of North Carolina, Chapel Hill, NC, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6610-4951",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0012-206X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9810-3929",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2251-6860",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0340-349X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2624965"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Bipolar disorders"
+          ],
+          "ISOAbbreviation": [
+            "Bipolar Disord"
+          ],
+          "medlineAbbreviation": [
+            "Bipolar Disord"
+          ],
+          "NLMid": [
+            "100883596"
+          ],
+          "ISSN": [
+            "1398-5647"
+          ],
+          "ESSN": [
+            "1399-5618"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "524-543"
+  ],
+  "abstractText": [
+    "Over the past two decades, there has been tremendous growth in research regarding bipolar disorder (BD) among children and adolescents (ie, pediatric BD [PBD]). The primary purpose of this article is to distill the extant literature, dispel myths or exaggerated assertions in the field, and disseminate clinically relevant findings.An international group of experts completed a selective review of the literature, emphasizing areas of consensus, identifying limitations and gaps in the literature, and highlighting future directions to mitigate these gaps.Substantial, and increasingly international, research has accumulated regarding the phenomenology, differential diagnosis, course, treatment, and neurobiology of PBD. Prior division around the role of irritability and of screening tools in diagnosis has largely abated. Gold-standard pharmacologic trials inform treatment of manic/mixed episodes, whereas fewer data address bipolar depression and maintenance/continuation treatment. Adjunctive psychosocial treatment provides a forum for psychoeducation and targets primarily depressive symptoms. Numerous neurocognitive and neuroimaging studies, and increasing peripheral biomarker studies, largely converge with prior findings from adults with BD.As data have accumulated and controversy has dissipated, the field has moved past existential questions about PBD toward defining and pursuing pressing clinical and scientific priorities that remain. The overall body of evidence supports the position that perceptions about marked international (US vs elsewhere) and developmental (pediatric vs adult) differences have been overstated, although additional research on these topics is warranted. Traction toward improved outcomes will be supported by continued emphasis on pathophysiology and novel therapeutics."
+  ],
+  "affiliation": [
+    "Departments of Psychiatry and Pharmacology, University of Toronto, Toronto, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R21 MH097007"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH093676"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Child",
+        "Youth",
+        "Adolescent",
+        "Pediatric",
+        "Bipolar disorder"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5716873?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5716873"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/bdi.12556"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS913958"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-09-26"
+  ],
+  "dateOfRevision": [
+    "2017-12-13"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-25"
+  ],
+  "firstPublicationDate": [
+    "2017-09-25"
+  ]
+}

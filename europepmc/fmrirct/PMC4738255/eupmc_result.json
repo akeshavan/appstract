@@ -1,0 +1,892 @@
+{
+  "id": [
+    "26839078"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26839078"
+  ],
+  "pmcid": [
+    "PMC4738255"
+  ],
+  "doi": [
+    "10.1038/srep20298"
+  ],
+  "title": [
+    "Altered periaqueductal gray resting state functional connectivity in migraine and the modulation effect of treatment."
+  ],
+  "authorString": [
+    "Li Z, Liu M, Lan L, Zeng F, Makris N, Liang Y, Guo T, Wu F, Gao Y, Dong M, Yang J, Li Y, Gong Q, Liang F, Kong J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Li Z"
+          ],
+          "firstName": [
+            "Zhengjie"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Traditional Chinese Medicine, Medical College of Xiamen University, Xiamen, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu M"
+          ],
+          "firstName": [
+            "Mailan"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Acupuncture &Tuina School, Hunan University of Chinese Medicine, Changsha, Hunan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lan L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Lan"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zeng F"
+          ],
+          "firstName": [
+            "Fang"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Makris N"
+          ],
+          "firstName": [
+            "Nikos"
+          ],
+          "lastName": [
+            "Makris"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang Y"
+          ],
+          "firstName": [
+            "Yilin"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Neuroscience Program, Wellesley College, Wellesley, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo T"
+          ],
+          "firstName": [
+            "Taipin"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5298-8132",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu F"
+          ],
+          "firstName": [
+            "Feng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gao Y"
+          ],
+          "firstName": [
+            "Yujie"
+          ],
+          "lastName": [
+            "Gao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong M"
+          ],
+          "firstName": [
+            "Mingkai"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jie"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Q"
+          ],
+          "firstName": [
+            "Qiyong"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Huaxi MR Research Center, West China Hospital of Sichuan University, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang F"
+          ],
+          "firstName": [
+            "Fanrong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "The 3rd Teaching Hospital, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Kong J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Kong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2210-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5298-8132",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2460748"
+      ],
+      "dateOfPublication": [
+        "2016 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "20298"
+  ],
+  "abstractText": [
+    "The aims of this study were to 1) compare resting state functional connectivity (rs-fc) of the periaqueductal gray (PAG), a key region in the descending pain modulatory system (DPMS) between migraine without aura (MwoA) patients and healthy controls (HC), and 2) investigate how an effective treatment can influence the PAG rs-fc in MwoA patients. One hundred MwoA patients and forty-six matched HC were recruited. Patients were randomized to verum acupuncture, sham acupuncture, and waiting list groups. Resting state fMRI data were collected and seed based functional connectivity analysis was applied. Compared with HC, MwoA patients showed reduced rs-fc between the PAG and rostral anterior cingulate cortex/medial prefrontal cortex (rACC/mPFC), key regions in the DPMS and other pain related brain regions. The reduced rs-fc between the PAG and rACC/mPFC was associated with increased migraine headache intensity at the baseline. After treatments, rs-fc between the PAG and the rACC in MwoA patients significantly increased. The changes of rs-fc among the PAG, rACC and ventral striatum were significantly associated with headache intensity improvement. Impairment of the DPMS is involved in the neural pathophysiology of migraines. Impaired DPMS in migraine patients can be normalized after effective treatment."
+  ],
+  "affiliation": [
+    "Department of Traditional Chinese Medicine, Medical College of Xiamen University, Xiamen, Fujian, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P01 AT006663"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT006364"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT008563"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21AT008707"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01AT008563"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 AT008707"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01AT006364"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Periaqueductal Gray"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gyrus Cinguli"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prefrontal Cortex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Random Allocation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Threshold"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine without Aura"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4738255?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4738255"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep20298"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "16"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-01-16"
+  ],
+  "dateOfCreation": [
+    "2016-02-03"
+  ],
+  "dateOfRevision": [
+    "2017-01-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-03"
+  ],
+  "firstPublicationDate": [
+    "2016-02-03"
+  ]
+}

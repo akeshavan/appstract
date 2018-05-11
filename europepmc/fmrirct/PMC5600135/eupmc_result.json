@@ -1,0 +1,773 @@
+{
+  "id": [
+    "28247479"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28247479"
+  ],
+  "pmcid": [
+    "PMC5600135"
+  ],
+  "doi": [
+    "10.1111/hiv.12503"
+  ],
+  "title": [
+    "Does efavirenz replacement improve neurological function in treated HIV infection?"
+  ],
+  "authorString": [
+    "Payne B, Chadwick TJ, Blamire A, Anderson KN, Parikh J, Qian J, Hynes AM, Wilkinson J, Price DA, Efficacy of Switch to Lopinavir/Ritonavir in Improving Cognitive Function in Efavirenz-treated Patients (SLICE) study team."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Payne B"
+          ],
+          "firstName": [
+            "B"
+          ],
+          "lastName": [
+            "Payne"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3101-3512",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Infection and Tropical Medicine, The Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Chadwick TJ"
+          ],
+          "firstName": [
+            "T J"
+          ],
+          "lastName": [
+            "Chadwick"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "Institute of Health and Society, Newcastle University, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Blamire A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Blamire"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8749-1257",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for In Vivo Imaging, Newcastle University, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson KN"
+          ],
+          "firstName": [
+            "K N"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "KN"
+          ],
+          "affiliation": [
+            "Regional Sleep Service, The Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Parikh J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Parikh"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Centre for In Vivo Imaging, Newcastle University, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Qian J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Newcastle Clinical Trials Unit, Newcastle University, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hynes AM"
+          ],
+          "firstName": [
+            "A M"
+          ],
+          "lastName": [
+            "Hynes"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Newcastle Clinical Trials Unit, Newcastle University, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilkinson J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Wilkinson"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Newcastle Clinical Trials Unit, Newcastle University, Newcastle, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Price DA"
+          ],
+          "firstName": [
+            "D A"
+          ],
+          "lastName": [
+            "Price"
+          ],
+          "initials": [
+            "DA"
+          ],
+          "affiliation": [
+            "Department of Infection and Tropical Medicine, The Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK."
+          ]
+        },
+        {
+          "collectiveName": [
+            "Efficacy of Switch to Lopinavir/Ritonavir in Improving Cognitive Function in Efavirenz-treated Patients (SLICE) study team"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3101-3512",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8749-1257",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2592397"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "HIV medicine"
+          ],
+          "ISOAbbreviation": [
+            "HIV Med."
+          ],
+          "medlineAbbreviation": [
+            "HIV Med"
+          ],
+          "NLMid": [
+            "100897392"
+          ],
+          "ISSN": [
+            "1464-2662"
+          ],
+          "ESSN": [
+            "1468-1293"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "690-695"
+  ],
+  "abstractText": [
+    "The contribution of specific antiretroviral drugs to cognitive function in HIV-infected people remains poorly understood. Efavirenz (EFV) may plausibly cause cognitive impairment. The objective of this study was therefore to determine whether chronic EFV therapy is a modifier of neurocognitive and neurometabolic function in the setting of suppressive highly active antiretroviral therapy.We performed an open-label phase IV controlled trial. Adult subjects who were stable on suppressive EFV therapy for at least 6 months were switched to ritonavir-boosted lopinavir (LPV/r) with no change in the nucleoside reverse transcriptase inhibitor (NRTI) backbone. The following parameters were assessed before and 10 weeks after therapy switch: cognitive function (by CogState® computerized battery); brain metabolites (by proton magnetic resonance spectroscopy); brain activity [by attentional processing task-based functional magnetic resonance imaging]; and sleep quantity and quality [by sleep diary, Pittsburgh Sleep Quality Index (PSQI) and Epworth Sleepiness Scale].Sixteen subjects completed the study. Despite most subjects (81%) self-reporting memory problems at baseline, cognitive function, brain metabolites, and brain activity showed no change at 10 weeks after switch. Sleep quality improved on switch off EFV [mean PSQI (standard deviation): EFV, 8.5 (6.5); LPV/r, 5.8 (5.5); mean difference -0.4; 95% confidence interval -6.0 to -0.7].This is the first study to assess the effects of chronic EFV therapy on neurological function in a controlled setting. We conclude that EFV withdrawal is unlikely to result in significant modification of neurocognitive function in otherwise stable HIV-infected people."
+  ],
+  "affiliation": [
+    "Department of Infection and Tropical Medicine, The Newcastle Upon Tyne Hospitals NHS Foundation Trust, Newcastle, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Controlled Clinical Trial",
+        "brief-report",
+        "Journal Article",
+        "Clinical Trial, Phase IV"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "CL-2013-01-004"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "HIV Infections"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Benzoxazines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ritonavir"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drug Therapy, Combination"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Chemistry"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Lopinavir"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proton Magnetic Resonance Spectroscopy"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "HIV",
+        "Functional magnetic resonance imaging",
+        "Cognitive impairment",
+        "magnetic resonance spectroscopy",
+        "Efavirenz"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Benzoxazines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ritonavir"
+          ],
+          "registryNumber": [
+            "O3J8G9O825"
+          ]
+        },
+        {
+          "name": [
+            "Lopinavir"
+          ],
+          "registryNumber": [
+            "2494G1JF75"
+          ]
+        },
+        {
+          "name": [
+            "efavirenz"
+          ],
+          "registryNumber": [
+            "JE6H2O27P8"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5600135?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5600135"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1111/hiv.12503"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-05-09"
+  ],
+  "dateOfCreation": [
+    "2017-03-02"
+  ],
+  "dateOfRevision": [
+    "2018-05-09"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-01"
+  ],
+  "firstPublicationDate": [
+    "2017-03-01"
+  ]
+}

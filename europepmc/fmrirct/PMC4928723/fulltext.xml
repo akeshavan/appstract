@@ -1,0 +1,647 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Children (Basel)</journal-id><journal-id journal-id-type="iso-abbrev">Children (Basel)</journal-id><journal-id journal-id-type="publisher-id">children</journal-id><journal-title-group><journal-title>Children</journal-title></journal-title-group><issn pub-type="epub">2227-9067</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4928723</article-id><article-id pub-id-type="doi">10.3390/children1020134</article-id><article-id pub-id-type="publisher-id">children-01-00134</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Acupuncture for Pediatric Pain</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Golianu</surname><given-names>Brenda</given-names></name><xref ref-type="aff" rid="af1-children-01-00134">1</xref><xref rid="c1-children-01-00134" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Yeh</surname><given-names>Ann Ming</given-names></name><xref ref-type="aff" rid="af2-children-01-00134">2</xref></contrib><contrib contrib-type="author"><name><surname>Brooks</surname><given-names>Meredith</given-names></name><xref ref-type="aff" rid="af3-children-01-00134">3</xref></contrib></contrib-group><aff id="af1-children-01-00134"><label>1</label>Department of Anesthesiology and Pain Medicine, Pediatric Anesthesiology, Stanford University, 300 Pasteur Dr. Stanford, CA 94304, USA</aff><aff id="af2-children-01-00134"><label>2</label>Pediatric Gastroenterology, Stanford University, 750 Welch Road, Suite 116, Palo Alto CA 94304, USA; E-Mail: <email>annming@stanford.edu</email></aff><aff id="af3-children-01-00134"><label>3</label>Department of Anesthesiology and Pain Medicine, Pediatric Anesthesiology, Stanford University, 300 Pasteur Dr. Stanford, CA 94304, USA; E-Mail: <email>mrbrooks@stanford.edu</email></aff><author-notes><corresp id="c1-children-01-00134"><label>*</label>Author to whom correspondence should be addressed; E-Mail: <email>bgolianu@stanford.edu</email>; Tel.: +1-650-725-5847; Fax: +1-650-725-8544.</corresp></author-notes><pub-date pub-type="epub"><day>21</day><month>8</month><year>2014</year></pub-date><pub-date pub-type="collection"><month>9</month><year>2014</year></pub-date><volume>1</volume><issue>2</issue><fpage>134</fpage><lpage>148</lpage><history><date date-type="received"><day>07</day><month>6</month><year>2014</year></date><date date-type="rev-recd"><day>14</day><month>7</month><year>2014</year></date><date date-type="accepted"><day>07</day><month>8</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; 2014 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2014</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link>).</license-p></license></permissions><abstract><p>Chronic pain is a growing problem in children, with prevalence as high as 30.8%. Acupuncture has been found to be useful in many chronic pain conditions, and may be of clinical value in a multidisciplinary treatment program. The basic principles of acupuncture are reviewed, as well as studies exploring basic mechanisms of acupuncture and clinical efficacy. Conditions commonly treated in the pediatric pain clinic, including headache, abdominal pain, fibromyalgia, juvenile arthritis, complex regional pain syndrome, cancer pain, as well as perioperative pain studies are reviewed and discussed. Areas in need of further research are identified, and procedural aspects of acupuncture practice and safety studies are reviewed. Acupuncture can be an effective adjuvant in the care of pediatric patients with painful conditions, both in a chronic and an acute setting. Further studies, including randomized controlled trials, as well as trials of comparative effectiveness are needed.</p></abstract><kwd-group><kwd>acupuncture</kwd><kwd>pediatric</kwd><kwd>pain</kwd><kwd>integrative medicine</kwd><kwd>review</kwd><kwd>acupressure</kwd><kwd>laser acupuncture</kwd></kwd-group></article-meta></front><body><sec><title>1. Introduction</title><p>Chronic pain is a growing problem in children with prevalence as high as 30.8% in some epidemiological studies [<xref rid="B1-children-01-00134" ref-type="bibr">1</xref>]. The predominant types of pain include headache (60.8%), abdominal pain (43.3%), limb (33.6%), and back (30.2%), and pain symptoms have been found to be associated with many lifestyle restrictions including sleep problems, inability to pursue hobbies, school absences, and inability to meet with friends. Pediatric pain clinics offer many integrative and complementary services including biofeedback (33%), acupuncture (24%), massage (20%), gratitude journals (16%), yoga and tai chi (8%) [<xref rid="B2-children-01-00134" ref-type="bibr">2</xref>]. In other studies of pediatric headache conducted in Italy and Germany, Complementary Alternative Medicine (CAM) therapies were utilized by 76% and 75.7% of patients respectively [<xref rid="B3-children-01-00134" ref-type="bibr">3</xref>,<xref rid="B4-children-01-00134" ref-type="bibr">4</xref>]. Thus, a thorough understanding of the basis and efficacy of these therapies is warranted to help our patients better navigate the extensive selection of therapies, as well as integrate them with conventional medical treatment strategies.</p></sec><sec><title>2. Physiology of Chronic Pain</title><p>The physiology of chronic pain has evolved from a direct stimulus response model to one of an integrated complex neural network response. Following tissue injury, there is an immediate release of local inflammatory mediators, including prostaglandins, histamine, bradykinin and other factors, which lead to a localized tissue response, consisting of localized swelling, pain, and edema. Furthermore, they sensitize the primary neurons such that a subsequent stimulus is perceived as even more painful. The development of chronic pain involves long term potentiation of peripheral nerves, molecular changes in the spinal cord and central nervous system, [<xref rid="B5-children-01-00134" ref-type="bibr">5</xref>] as well as alteration in how various areas of the mid brain and limbic system, including structures such as insula, prefrontal cortex, anterior cingulate, thalamus, often termed the &#x0201c;pain matrix&#x0201d;, connect to one another. These changes can be observed using functional MRI studies. Improvement in pain is often correlated with the return of normalized connectivity in these areas [<xref rid="B6-children-01-00134" ref-type="bibr">6</xref>,<xref rid="B7-children-01-00134" ref-type="bibr">7</xref>].</p></sec><sec><title>3. Acupuncture: Introduction, Mechanisms of Action, and Clinical Research</title><sec><title>3.1. Introduction</title><p>Acupuncture has been practiced in China for at least 3000 years. The basic principles of acupuncture revolve around the concept of &#x0201c;Qi&#x0201d;, or energy of the body. When this energy is not flowing correctly, it is believed to lead to illness and disease. In the traditional setting acupuncture is frequently utilized as a preventative therapy or an intervention early in the course of illness.</p><p>In the pediatric population,, standard medical therapies for chronic pain conditions often carry a significant side effect profile. Side effects of frequently used pharmacological agents for chronic pain include sedation, dizziness, tolerance, nausea, constipation, as well as depression and suicidal ideation. As a result, many parents and children are especially interested in trying acupuncture and other CAM therapies due to their relatively low risk profile.</p></sec><sec><title>3.2. Acupuncture Mechanisms of Action</title><p>A challenging area of research has involved understanding the mechanisms of acupuncture action and how it relates to pain. Although much research has been performed in the last several decades and many basic scientific studies have outlined various physiologic pathways which are activated by acupuncture, a complete synthesis of the mechanism of action of acupuncture is still elusive [<xref rid="B8-children-01-00134" ref-type="bibr">8</xref>]. Many areas of active research can be identified, and within each hundreds of studies are found, however we will mention three theories that are particularly noteworthy regarding the mechanisms of action of acupuncture: molecular mechanisms, physiologic changes found at acupuncture point locations, and central nervous system changes in brain connectivity. Principal among the molecular studies is the work of JS Han and colleagues, who over several decades explored how acupuncture stimulated the release of endogenous endorphins [<xref rid="B9-children-01-00134" ref-type="bibr">9</xref>]. One of their most significant findings is that low frequency (2&#x02013;10 Hz) electrical stimulation of acupuncture points leads to increased endorphin release, while high frequency stimulation (100 Hz) leads to increased dynorphin release. Other studies describe the local changes found at acupuncture points, including connective tissue changes, and changes in electrical resistance at acupoints. For example, Langevin identified changes in connective tissue that occur with the physical act of needle placement [<xref rid="B10-children-01-00134" ref-type="bibr">10</xref>], while Anh <italic>et al.</italic> explored the changes in skin resistance at distal acupuncture points and found that changes in these responses correlated with clinical response in adolescent girls with pelvic pain [<xref rid="B11-children-01-00134" ref-type="bibr">11</xref>].</p><p>A number of fMRI studies have shown changes in brain blood flow following acupuncture treatment, and normalization of activity in areas of the limbic system, as well as areas of the &#x0201c;pain matrix&#x0201d; [<xref rid="B12-children-01-00134" ref-type="bibr">12</xref>,<xref rid="B13-children-01-00134" ref-type="bibr">13</xref>,<xref rid="B14-children-01-00134" ref-type="bibr">14</xref>]. An excellent review of acupuncture basic mechanisms was performed by Wang <italic>et al.</italic> [<xref rid="B15-children-01-00134" ref-type="bibr">15</xref>].</p></sec><sec><title>3.3. Challenges in Acupuncture Clinical Research</title><p>In 1997, the NIH conducted a Consensus meeting, where it was determined that sufficient evidence was present to conclude that acupuncture is effective for a number of conditions including nausea and vomiting related to chemotherapy, adult postoperative pain and postoperative dental pain. Additional promising indications included tennis elbow, dysmenorrhea, stroke rehabilitation, and the treatment of addiction [<xref rid="B16-children-01-00134" ref-type="bibr">16</xref>]. Since that time many additional studies have supported the use of acupuncture in a number of types of painful conditions [<xref rid="B17-children-01-00134" ref-type="bibr">17</xref>,<xref rid="B18-children-01-00134" ref-type="bibr">18</xref>].</p><p>Some studies, such as the back pain trial in Germany, showed an improvement in both the active and the sham acupuncture arms as compared to standard care, suggesting that some of the acupuncture effect may not depend on the specificity of the points utilized [<xref rid="B19-children-01-00134" ref-type="bibr">19</xref>]. There is significant controversy in the acupuncture literature about how this matter should be interpreted, as the sham controls in many studies have shown clinical efficacy. One explanation is that since we do not know the exact mechanisms of pain relief of acupuncture, the sham controls, which involve active needle placement in alternate locations, are themselves having a therapeutic benefit. Secondly, the active acupuncture treatment that is performed as part of an RCT may have limitations, as it does not allow individualization of treatment, a necessary ingredient of acupuncture therapy. Thus the finding in many studies that active acupuncture and sham acupuncture appear to both be efficacious remains an interpretive challenge in current acupuncture research, and until this phenomenon is better understood and an appropriate, therapeutically inactive but believable sham treatment can be designed, there has been a call for different types of studies, such as comparative effectiveness trials, which compare the acupuncture therapy against standard therapies, to continue to inform clinical practice [<xref rid="B20-children-01-00134" ref-type="bibr">20</xref>]. MacPherson <italic>et al</italic>., in a meta-analysis of published studies, determined that positive trials were associated with more needles and more frequent treatments, suggesting that dosing of acupuncture may also be important [<xref rid="B21-children-01-00134" ref-type="bibr">21</xref>].</p></sec></sec><sec><title>4. Pediatric Pain</title><p>Acupuncture can be a useful adjuvant in the care of pediatric patients with painful conditions, both in the chronic and acute setting. In a study on the feasibility of acupuncture/hypnosis intervention, 33 children were offered acupuncture together with a hypnosis session while needles were in place. Treatments were highly acceptable (only 2 patients refused). Both parents and children reported decrease in pain (4.38 (<italic>p</italic> &#x0003c; 0.0001)), and improvement in function (2.62 (<italic>p</italic> = 0.014)) [<xref rid="B22-children-01-00134" ref-type="bibr">22</xref>]. Lin <italic>et al.</italic> investigated the efficacy of acupuncture for children and adolescents with chronic pain. Fifty-three patients between 2 and 18 years of age, with a variety of painful conditions underwent pain assessment before and after acupuncture treatment. The average duration of pain improvement was 3 days, suggesting that continued acupuncture was needed for longer term improvement [<xref rid="B23-children-01-00134" ref-type="bibr">23</xref>].</p><p>Conditions commonly treated in pediatric pain, including headache, abdominal pain, fibromyalgia, juvenile arthritis, complex regional pain syndrome, cancer pain, as well as perioperative pain studies will be discussed. Due to the paucity of acupuncture research in the pediatric literature, adult studies will also be reviewed in each section, as they often serve as the clinical basis for the development of treatment regimens. Lastly, areas in need of further research of acupuncture in children will be identified. </p><sec><title>4.1. Procedure Consent, Acceptance and Safety of Acupuncture</title><sec><title>4.1.1. The Procedure of Acupuncture</title><p>Informed consent is obtained from the parents prior to initiation of acupuncture treatment. The type of acupuncture is explained to both the parent and child, along with possible complications, which may include bleeding, infection, or increased pain. More serious complications have occurred (see below) and may be related to needling technique or patient condition. A refusal of the parent or child to receive acupuncture should be a contraindication. Pediatric patients often require more gentle introduction to the needling process, to allow them to grow more accustomed to the idea, trust the practitioner, and observe for themselves that the needles usually do not cause excessive discomfort. Lin <italic>et al</italic>. showed that while 53% of children were initially apprehensive of acupuncture needles, following their first needle 64% felt it did not hurt, and furthermore would recommend it to someone else.. Acupuncture treatment will usually consist of a series of treatments, usually 6&#x02013;10, to determine if acupuncture intervention is helpful for the patient&#x02019;s condition. In a study by Kemper of adolescents receiving acupuncture for their pain, 67% reported the therapy as pleasant, and 70% reported that it had helped their pain [<xref rid="B24-children-01-00134" ref-type="bibr">24</xref>]. Children were moderately receptive to acupuncture therapy for their chronic pain symptoms [<xref rid="B25-children-01-00134" ref-type="bibr">25</xref>]. Parental experience with acupuncture, regardless of its perceived efficacy, appears to play in a role in parents&#x02019; consideration of acupuncture for their child [<xref rid="B26-children-01-00134" ref-type="bibr">26</xref>]. Parental stress was found to decrease along with child discomfort following acupuncture therapy for the child [<xref rid="B27-children-01-00134" ref-type="bibr">27</xref>]. </p></sec><sec><title>4.1.2. Acupuncture Safety</title><p>In an excellent review of the safety of acupuncture in the pediatric population, Adams <italic>et al.</italic> screened a total of 9537 references, and identified 37 studies in the international literature that satisfied criteria for inclusion. Described complications included infection, and 1 case each of cardiac rupture, pneumothorax, and other effects, likely related to direct needle organ penetration. Additional mild adverse effects included pain, bruising, and worsening of symptoms. The study concluded that acupuncture is safe when performed by appropriately trained practitioners [<xref rid="B28-children-01-00134" ref-type="bibr">28</xref>]. Yates <italic>et al</italic>. showed that non-invasive electrical stimulation at acupuncture points during a routine heel stick was well tolerated in healthy neonates [<xref rid="B29-children-01-00134" ref-type="bibr">29</xref>].</p></sec><sec><title>4.1.3. Headache</title><p>In the adult literature, several studies examine acupuncture as a prophylactic treatment. Allais <italic>et al.</italic> performed a randomized trial of 160 women migraine sufferers who received weekly acupuncture for 2 months, followed by monthly acupuncture for an additional 4 months. Decreased headache severity, as well as decreased medication usage, was statistically significant at all time points analyzed [<xref rid="B30-children-01-00134" ref-type="bibr">30</xref>]. Diener <italic>et al.</italic> performed a large multicentre randomized study of 443 patients randomized into three groups&#x02014;verum acupuncture, sham acupuncture (termed New Western acupuncture by the researchers), and standard medical care. Following 10 weekly acupuncture treatments, headache frequency and severity was measured at 26 weeks after baseline. Although the results were statistically significant, the effect size may have been diminished by the long time lapse between last acupuncture treatment and pain assessment [<xref rid="B31-children-01-00134" ref-type="bibr">31</xref>]. In another study of migraine sufferers, the study intervention was delivered in a standard clinical format, without randomization. Study results showed that acupuncture had a measurable clinical effect, which was greater than that seen in a randomized format [<xref rid="B32-children-01-00134" ref-type="bibr">32</xref>]. Finally two large Cochrane Collaboration Reviews concluded that although it appeared that specific point selection was not as important as had previously thought, acupuncture should be considered as a treatment option for patients needing prophylactic treatment for migraine or tension headaches [<xref rid="B33-children-01-00134" ref-type="bibr">33</xref>,<xref rid="B34-children-01-00134" ref-type="bibr">34</xref>].</p><p>In the pediatric population, a randomized trial of 22 children with migraine showed in the true acupuncture group the migraine frequency decreased from 9.3 (&#x000b1;1.6) to 1.4 (&#x000b1;0.6), and intensity decreased from 8.7 (&#x000b1;0.4) to 7.8 (&#x000b1;0.6) following 10 weekly sessions [<xref rid="B35-children-01-00134" ref-type="bibr">35</xref>]. Gottschling <italic>et al.</italic> used a non-invasive technique, laser acupuncture, in a randomized trial of 43 children with either migraine or tension type headache. The mean number of headaches per month decreased by 6.4 days in the treatment group, and by 1.0 day in the placebo group (<italic>p</italic> &#x0003c; 0.001). Secondary outcomes of headache severity were likewise decreased, and were statistically significant at all time points [<xref rid="B36-children-01-00134" ref-type="bibr">36</xref>]. Further studies are needed exploring the use of acupuncture as a prophylactic agent in the pediatric population, as well as studies which combine the use of a low dose prophylactic medication together with acupuncture. </p></sec><sec><title>4.1.4. Abdominal Pain</title><p>Abdominal pain can be due to a multitude of diagnoses, and a full review of these is beyond the scope of this work. We will first review the available adult literature on the use of acupuncture in the management of pain related to irritable bowel syndrome (IBS), a functional disorder characterized by chronic or recurrent abdominal pain or discomfort which is associated with disturbed bowel function, and feelings of abdominal distention and bloating [<xref rid="B37-children-01-00134" ref-type="bibr">37</xref>]. Chao <italic>et al.</italic> performed a meta-analysis of 6 randomized placebo controlled studies [<xref rid="B38-children-01-00134" ref-type="bibr">38</xref>]. Although five of the studies did not show statistically significant improvement, the one positive study in the group was a relatively large study [<xref rid="B39-children-01-00134" ref-type="bibr">39</xref>], and thus the overall meta-analysis provided support for the use of acupuncture. A Cochrane review of acupuncture for IBS showed no benefit from acupuncture as compared to credible sham controlled therapies, however a comparative effectiveness trial of acupuncture compared to two antispasmodics (pinaverium bromide and trimebutin maleate) showed acupuncture as more effective than these standard therapies for IBS [<xref rid="B40-children-01-00134" ref-type="bibr">40</xref>]. In a pediatric trial on children with intermittent abdominal pain that compared hand acupuncture to no treatment, hand acupuncture was shown to be effective [<xref rid="B41-children-01-00134" ref-type="bibr">41</xref>]. As the trial was not blinded, however, the results are difficult to interpret. Further studies are needed to delineate whether there is clinical benefit of acupuncture in this condition, the necessary dose or frequency and duration of acupuncture treatment required, as well as possible mechanisms of action.</p></sec><sec><title>4.1.5. Pediatric Fibromyalgia</title><p>Pediatric fibromyalgia is a poorly understood condition that affects 1%&#x02013;6% of populations studied, and includes symptoms of general fatigue, disordered sleep, severe myofascial pain, and abdominal dysregulation [<xref rid="B42-children-01-00134" ref-type="bibr">42</xref>]. The mechanisms of fibromyalgia pain are not fully understood, but may include genetic, anatomic, metabolic and psychosocial factors [<xref rid="B43-children-01-00134" ref-type="bibr">43</xref>]. Acupuncture was found to change cortical responses to painful stimuli in fibromyalgia patients, suggesting a complex inhibitory modulation may be active in the central nervous system in fibromyalgia patients [<xref rid="B44-children-01-00134" ref-type="bibr">44</xref>].</p><p>In the adult population, acupuncture studies have demonstrated that acupuncture may be a significant adjunct in the care of fibromyalgia patients, and is superior to standard care alone [<xref rid="B45-children-01-00134" ref-type="bibr">45</xref>]. It is noted however that sham acupuncture likewise appeared more effective than standard care, making it difficult to determine the specificity of the acupuncture needle placement in this study. Although acupuncture is routinely offered and utilized as a CAM therapy in pediatric pain clinics by patients with fibromyalgia, to date there have been no randomized controlled studies in the pediatric population [<xref rid="B46-children-01-00134" ref-type="bibr">46</xref>]. Future acupuncture research in children with fibromyalgia should examine its benefits, comparative effectiveness, mechanism of action and necessary dose.</p></sec><sec><title>4.1.6. Acupuncture for Juvenile Arthritis</title><p>Children with juvenile idiopathic arthritis (JIA) and other rheumatological conditions utilize CAM therapies regularly, with frequencies between 34% and 92% [<xref rid="B47-children-01-00134" ref-type="bibr">47</xref>]. Factors associated with CAM use include longer disease duration, presence of more than one illness, previous CAM use by parents themselves, and parents&#x02019; perception that medications are not helping [<xref rid="B48-children-01-00134" ref-type="bibr">48</xref>,<xref rid="B49-children-01-00134" ref-type="bibr">49</xref>]. In adults, Berman <italic>et al.</italic>, in a landmark randomized controlled study of osteoarthritis, found that the true acupuncture group experienced a greater improvement in WOMAC function at 8 weeks than the sham acupuncture group [<xref rid="B50-children-01-00134" ref-type="bibr">50</xref>]; however, a subsequent meta-analysis of nine studies showed short-term benefits compared to sham, and clinically relevant benefits relative to wait-list control [<xref rid="B51-children-01-00134" ref-type="bibr">51</xref>]. Zanette <italic>et al.</italic> studied 40 adults on a stable medication regimen with uncontrolled rheumatoid arthritis in a randomized controlled study. There was significant improvement in patient and physician global assessment and in physician assessment of disease activity in the acupuncture group, however the primary outcome of 20% improvement in ACR criteria was not statistically significant [<xref rid="B52-children-01-00134" ref-type="bibr">52</xref>]. There are no studies in the literature evaluating the effect of acupuncture on juvenile arthritis. Studies are needed to explore the efficacy of acupuncture in pediatric rheumatological conditions.</p></sec><sec><title>4.1.7. Pelvic Pain</title><p>Acupuncture has been shown to be effective in pain related to dysmenorrhea in multiple adult randomized clinical trials. Kiran <italic>et al</italic>. showed that acupuncture was as effective as NSAIDS in a small, randomized trial [<xref rid="B53-children-01-00134" ref-type="bibr">53</xref>]. A Cochrane review concluded that acupuncture may be effective for dymenorrhea, however more studies were needed [<xref rid="B54-children-01-00134" ref-type="bibr">54</xref>]. A study of acupressure in adolescents with dysmenorrhea showed a decrease in pain in the experimental group that was statistically significant (<italic>p</italic> &#x0003c; 0.002) compared to the sham acupressure group [<xref rid="B55-children-01-00134" ref-type="bibr">55</xref>]. Sham acupressure also had some effect of improved analgesia, however, thus a third control of standard care or other relatively inert control would have been beneficial and may have shown an even greater clinical significance. In a small randomized sham controlled pediatric study on pelvic pain due to endometriosis, Wayne <italic>et al.</italic> showed that participants experienced a 4.8 (SD 2.4) point reduction on a 11 point scale after 4 weeks, which differed significantly from the control group who experienced an average reduction of 1.4 (SD2.1) (<italic>p</italic> = 0.004). Reduction in pain persisted 6 months after intervention; however, after 4 weeks the differences were not clinically significant, suggesting continued acupuncture may be needed for a more prolonged therapeutic effect [<xref rid="B56-children-01-00134" ref-type="bibr">56</xref>]. Further research is needed in pediatric patients with pelvic pain focusing on comparative effectiveness with standard treatments, dose efficacy and mechanism of action.</p></sec><sec><title>4.1.8. Complex Regional Pain Syndrome</title><p>Little information exists regarding the treatment of Complex Regional Pain Syndrome (CRPS) with acupuncture. Several case reports in adult military personnel showed benefits in shoulder and hand CRPS following scalp acupuncture [<xref rid="B57-children-01-00134" ref-type="bibr">57</xref>]. An adult case study involving laser acupuncture and small subcutaneous needles also proved to be effective [<xref rid="B58-children-01-00134" ref-type="bibr">58</xref>]. In children, one case study describes the use of electrical stimulation at acupuncture points, while another describes the use of acupuncture in three pediatric patients leading to clinical improvement [<xref rid="B59-children-01-00134" ref-type="bibr">59</xref>,<xref rid="B60-children-01-00134" ref-type="bibr">60</xref>]. Further studies in children with complex regional pain syndrome, including scalp acupuncture, electrical stimulation and other specific protocols are needed to delineate whether there is measurable and reproducible benefit.</p></sec><sec><title>4.1.9. Acupuncture for Cancer Pain</title><p>The management of cancer pain presents a complex challenge for the oncologist and the pain practitioner. Pain may be due to acute tissue invasion, inflammation, bone pain, neuropathic pain, or a combination of causes [<xref rid="B61-children-01-00134" ref-type="bibr">61</xref>]. In addition, cancer patients suffer from other chemotherapeutic side effects including nausea and vomiting. CAM therapies are frequently utilized by this population. A prevalence study of CAM use in children and adolescents with cancer in Germany found that 29% of children and 36% of adolescents used CAM therapies. Reasons for using CAM included strengthening the immune system, reduction of therapy-related side effects, and desire to increase healing chances [<xref rid="B62-children-01-00134" ref-type="bibr">62</xref>]. Acupuncture was used by 12% of children and 17% of adolescents. In a randomized trial of acupuncture to alleviate chemotherapy related nausea and vomiting due to highly emetogenic chemotherapy, the need for rescue anti-emetics was significantly lower in the acupuncture group than in the control group (<italic>p</italic> &#x0003c; 0.001) [<xref rid="B63-children-01-00134" ref-type="bibr">63</xref>]. Episodes of vomiting were likewise lower in the treatment group (<italic>p</italic> = 0.01). Acupuncture was found to be safe in patients with thrombocytopenia due to chemotherapy [<xref rid="B64-children-01-00134" ref-type="bibr">64</xref>]. </p></sec><sec><title>4.1.10. Acupuncture for Acute Pain</title><p>Two studies have explored the use of acupuncture in the treatment of acute post-operative pain in pediatric patients. Wu <italic>et al.</italic> reported a case series of 20 pediatric patients, aged 7 months to 18 years, who had undergone various surgeries [<xref rid="B65-children-01-00134" ref-type="bibr">65</xref>]. Acupuncture was performed in the post-operative period. Pain scores declined immediately following acupuncture, as well as at 24 hours after acupuncture was performed. The acupuncture was well tolerated, and 85% of parents reported they would pay for acupuncture &#x0201c;out of pocket&#x0201d; if not covered by insurance. This study was not controlled, however. </p><p>Lin <italic>et al.</italic> performed a randomized trial examining pain and delirium in pediatric patients following tympanostomy surgery [<xref rid="B66-children-01-00134" ref-type="bibr">66</xref>]. Sixty children were randomized to acupuncture or sham acupuncture following induction of anesthesia. Statistical differences in pain scores were observed in post anesthesia care unit at each five minute time point. Median pain scores were between 2 and 4 points lower than the sham acupuncture group. Postoperative agitation was also decreased, and showed statistical significance at all time points. Additional studies are needed to explore the magnitude of the clinical effect of various acupuncture treatments, duration of action, as well as post-operative opioid use and surgical recovery time.</p></sec><sec><title>4.1.11. Acupuncture for Delirium, Agitation, Withdrawal and Emotional Conditions</title><p>Several studies exist on the use of acupuncture on post-traumatic stress disorder. Hollifield <italic>et al.</italic> found that acupuncture was as effective as cognitive behavioral therapy, and Zhang <italic>et al.</italic> found that acupoint stimulation together with cognitive behavioral therapy was more effective than cognitive behavioral therapy alone [<xref rid="B67-children-01-00134" ref-type="bibr">67</xref>,<xref rid="B68-children-01-00134" ref-type="bibr">68</xref>]. To date, no studies have been identified examining the efficacy of acupuncture in children with post traumatic stress disorder. Several studies specifically address the effect of acupuncture interventions on withdrawal and agitation in children. Wang <italic>et al.</italic> found that acupressure reduced anxiety in children undergoing anesthesia [<xref rid="B69-children-01-00134" ref-type="bibr">69</xref>]. Kundu <italic>et al.</italic> performed a retrospective review of pediatric patients who had postoperative agitation on a previous anesthetic, and received acupuncture with a subsequent anesthetic [<xref rid="B70-children-01-00134" ref-type="bibr">70</xref>]. 10 patients (83%) did not exhibit symptoms of agitation, while 2 (17%) exhibited milder symptoms but were able to communicate their distress. In a study of neonates with Neonatal Abstinence Syndrome (NAS), the addition of auricular acupressure beads did not result in a different clinical course, though there was a suggestive trend toward less pharmacological support in the acupressure group [<xref rid="B71-children-01-00134" ref-type="bibr">71</xref>].</p></sec><sec><title>4.1.12. Non-Invasive Transcutaneous Electrical Acupoint Stimulation (TEAS)</title><p>As some pediatric patients, as well as some adults, may have a fear of needles, the use of transcutaneous electric acupoint stimulation (TEAS) may provide an alternative to conventional acupuncture treatments. The effectiveness of TENS may be mediated by alpha 2A adrenergic receptors [<xref rid="B72-children-01-00134" ref-type="bibr">72</xref>]. A number of studies suggest that such stimulation may be clinically effective. Wang <italic>et al.</italic> showed that TEAS reduced intraoperative remifentanil consumption and alleviated post-operative side effects following sinusotomy [<xref rid="B73-children-01-00134" ref-type="bibr">73</xref>]. TEAS was also applied by Kabalak for the management of postoperative vomiting following tonsillectomy in children in a randomized study [<xref rid="B74-children-01-00134" ref-type="bibr">74</xref>]. In another randomized double blinded perioperative study, TEAS was applied at the start of surgery in patients undergoing pediatric cardiac surgery [<xref rid="B75-children-01-00134" ref-type="bibr">75</xref>]. Duration of ventilation, and length of stay in ICU were significantly lower in the active treatment group. In addition, cardiac troponin, a measure of damaged cardiac tissue, was significantly lower in the active treatment group. As TEAS is a non-invasive technique, it has significant promise as a potential treatment in children.</p></sec><sec><title>4.1.13. Non-Invasive Laser Acupuncture</title><p>Laser acupuncture may also be utilized in the clinic for management of pain and discomfort in the pediatric patient. In addition to the headache study as mentioned above by Gottschling <italic>et al.</italic>, others have demonstrated clinical utility. Ferreira <italic>et al.</italic> described a case report of improved trismus as a sequelae of medulobastoma in a child [<xref rid="B76-children-01-00134" ref-type="bibr">76</xref>]. Other non-invasive therapies offered in pediatric pain clinics include moxibustion, cupping and acupressure magnets [<xref rid="B77-children-01-00134" ref-type="bibr">77</xref>].</p></sec></sec><sec><title>4.2. Cost-Effectiveness of Acupuncture Therapy</title><p>This is a relatively new area of research, however, an National Health Service (NHS) analysis of low back pain studied in 239 patients, with 159 randomized to acupuncture and 80 to usual care, found that the addition of acupuncture to standard care led to improved pain both immediately after the treatments as well as at 24 months. Though the cost of delivering acupuncture in addition to standard care was an increase of expenditure, this cost was more than balanced by a reduction in lost days of work, and decreased medical spending in other areas including hospitalization, general practitioner or other outpatient visits. This suggests an overall societal benefit to supporting the provision of acupuncture services [<xref rid="B77-children-01-00134" ref-type="bibr">77</xref>]. Further research is needed examining the cost-effectiveness of acupuncture in children in relation to lost parental work days, cost of medications, and other therapeutic interventions.</p></sec></sec><sec><title>5. Conclusions</title><p>Acupuncture techniques, both invasive and noninvasive, can be an important adjuvant in the care of the pediatric patient with chronic pain. Acupuncture should be performed by a trained professional, and should be incorporated in a multidisciplinary program of treatment, after appropriate workup has been performed. The evidence suggests that it is a safe and cost-effective treatment modality for pediatric pain. Further research is needed regarding the specific and non-specific effects of acupuncture, as well as mechanisms of action, dosing and frequency related to various painful conditions in pediatric patients.</p></sec></body><back><ack><title>Acknowledgments</title><p>The authors wish to thank their respective Departments for continued support and encouragement in the investigation of the efficacy and mechanisms of action of acupuncture therapy. </p></ack><notes><title>Author Contributions</title><p>Brenda Golianu contributed to the writing and editing of the manuscript. Ann Ming Yeh contributed to the writing and editing of the manuscript. Meredith Brooks contributed to the writing and editing of the manuscript.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-children-01-00134"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roth-Isigkeit</surname><given-names>A.</given-names></name><name><surname>Thyen</surname><given-names>U.</given-names></name><name><surname>Stoven</surname><given-names>H.</given-names></name><name><surname>Schwarzenberger</surname><given-names>J.</given-names></name><name><surname>Schmucker</surname><given-names>P.</given-names></name></person-group>
+<article-title>Pain among children and adolescents: Restrictions in daily living and triggering factors</article-title>
+<source>Pediatrics</source>
+<year>2005</year>
+<volume>2</volume>
+<fpage>e152</fpage>
+<lpage>e162</lpage>
+<pub-id pub-id-type="pmid">15687423</pub-id></element-citation></ref><ref id="B2-children-01-00134"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Young</surname><given-names>L.</given-names></name><name><surname>Kemper</surname><given-names>K.J.</given-names></name></person-group>
+<article-title>Integrative care for pediatric patients with pain</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2013</year>
+<volume>19</volume>
+<fpage>627</fpage>
+<lpage>632</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2012.0368</pub-id>
+<pub-id pub-id-type="pmid">23448120</pub-id></element-citation></ref><ref id="B3-children-01-00134"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dallara Libera</surname><given-names>D.</given-names></name><name><surname>Colombo</surname><given-names>B.</given-names></name><name><surname>Pavan</surname><given-names>G.</given-names></name><name><surname>Comi</surname><given-names>G.</given-names></name></person-group>
+<article-title>Complementary and alternative medicine (CAM) use in an Italian cohort of pediatric headache patients: The tip of the iceberg</article-title>
+<source>Neurol. Sci.</source>
+<year>2014</year>
+<volume>35</volume>
+<fpage>145</fpage>
+<lpage>148</lpage>
+<pub-id pub-id-type="pmid">24867852</pub-id></element-citation></ref><ref id="B4-children-01-00134"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schetzek</surname><given-names>S.</given-names></name><name><surname>Heinen</surname><given-names>F.</given-names></name><name><surname>Kruse</surname><given-names>S.</given-names></name><name><surname>Borggraefe</surname><given-names>I.</given-names></name><name><surname>Bonfert</surname><given-names>M.</given-names></name><name><surname>Gaul</surname><given-names>C.</given-names></name><name><surname>Gottschling</surname><given-names>S.</given-names></name><name><surname>Ebinger</surname><given-names>F.</given-names></name></person-group>
+<article-title>Headache in children: Update on complementary treatments</article-title>
+<source>Neuropediatrics</source>
+<year>2013</year>
+<volume>44</volume>
+<fpage>25</fpage>
+<lpage>33</lpage>
+<pub-id pub-id-type="pmid">23315555</pub-id></element-citation></ref><ref id="B5-children-01-00134"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basbaum</surname><given-names>A.I.</given-names></name><name><surname>Bautista</surname><given-names>D.M.</given-names></name><name><surname>Scherrer</surname><given-names>G.</given-names></name><name><surname>Julius</surname><given-names>D.</given-names></name></person-group>
+<article-title>Cellular and molecular mechanisms of pain</article-title>
+<source>Cell</source>
+<year>2009</year>
+<volume>139</volume>
+<fpage>267</fpage>
+<lpage>284</lpage>
+<pub-id pub-id-type="pmid">19837031</pub-id></element-citation></ref><ref id="B6-children-01-00134"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Woolf</surname><given-names>C.J.</given-names></name></person-group>
+<article-title>Pain: Metabolites, mambas and mutations</article-title>
+<source>Lancet Neurol.</source>
+<year>2013</year>
+<volume>12</volume>
+<fpage>18</fpage>
+<lpage>19</lpage>
+<pub-id pub-id-type="doi">10.1016/S1474-4422(12)70287-9</pub-id>
+<pub-id pub-id-type="pmid">23237896</pub-id></element-citation></ref><ref id="B7-children-01-00134"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baliki</surname><given-names>M.N.</given-names></name><name><surname>Petre</surname><given-names>B.</given-names></name><name><surname>Torbey</surname><given-names>S.</given-names></name><name><surname>Herrmann</surname><given-names>K.M.</given-names></name><name><surname>Huang</surname><given-names>L.</given-names></name><name><surname>Schnitzer</surname><given-names>T.J.</given-names></name><name><surname>Fields</surname><given-names>H.L.</given-names></name><name><surname>Apkarian</surname><given-names>A.V.</given-names></name></person-group>
+<article-title>Corticostriatal functional connectivity predicts transition to chronic back pain</article-title>
+<source>Nat. Neurosci.</source>
+<year>2012</year>
+<volume>15</volume>
+<fpage>1117</fpage>
+<lpage>1119</lpage>
+<pub-id pub-id-type="pmid">22751038</pub-id></element-citation></ref><ref id="B8-children-01-00134"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Napadow</surname><given-names>V.</given-names></name><name><surname>Anh</surname><given-names>A.</given-names></name><name><surname>Longhurst</surname><given-names>J.</given-names></name><name><surname>Lao</surname><given-names>L.</given-names></name><name><surname>Stener-Victorin</surname><given-names>E.</given-names></name><name><surname>Harris</surname><given-names>R.</given-names></name><name><surname>Langevin</surname><given-names>H.M.</given-names></name></person-group>
+<article-title>The status and future of acupuncture mechanism research</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2008</year>
+<volume>14</volume>
+<fpage>861</fpage>
+<lpage>869</lpage>
+<pub-id pub-id-type="pmid">18803495</pub-id></element-citation></ref><ref id="B9-children-01-00134"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Han</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Acupuncture: Neuropeptide release produced by electrical stimulation of different frequencies</article-title>
+<source>Trends Neurosci.</source>
+<year>2003</year>
+<volume>26</volume>
+<fpage>17</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="pmid">12495858</pub-id></element-citation></ref><ref id="B10-children-01-00134"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Langevin</surname><given-names>H.M.</given-names></name><name><surname>Bouffard</surname><given-names>N.A.</given-names></name><name><surname>Churchill</surname><given-names>D.L.</given-names></name><name><surname>Badger</surname><given-names>G.J.</given-names></name></person-group>
+<article-title>Connective tissue fibroblast response to acupuncture: Dose-dependent effect of bidirectional needle rotation</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2007</year>
+<volume>13</volume>
+<fpage>355</fpage>
+<lpage>360</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2007.6351</pub-id>
+<pub-id pub-id-type="pmid">17480137</pub-id></element-citation></ref><ref id="B11-children-01-00134"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ahn</surname><given-names>A.C.</given-names></name><name><surname>Schnyer</surname><given-names>R.</given-names></name><name><surname>Conboy</surname><given-names>L.</given-names></name><name><surname>Laufer</surname><given-names>M.R.</given-names></name><name><surname>Wayne</surname><given-names>P.M.</given-names></name></person-group>
+<article-title>Electrodermal measures of jing-well points and their clinical relevance in endometriosis-related chronic pelvic pain</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2009</year>
+<volume>15</volume>
+<fpage>1293</fpage>
+<lpage>1305</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2008.0597</pub-id>
+<pub-id pub-id-type="pmid">19958132</pub-id></element-citation></ref><ref id="B12-children-01-00134"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hui</surname><given-names>K.K.S.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Marina</surname><given-names>O.</given-names></name><name><surname>Napadow</surname><given-names>V.</given-names></name><name><surname>Haselgrove</surname><given-names>C.</given-names></name><name><surname>Kwong</surname><given-names>K.K.</given-names></name><name><surname>Kennedy</surname><given-names>D.M.</given-names></name><name><surname>Makris</surname><given-names>N.</given-names></name></person-group>
+<article-title>The integrated response of the human cerebro-cerebellar and limbic systems to acupuncture stimulation at ST36 as evidenced by fMRI</article-title>
+<source>NeuroImage</source>
+<year>2005</year>
+<volume>27</volume>
+<fpage>479</fpage>
+<lpage>496</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2005.04.037</pub-id>
+<pub-id pub-id-type="pmid">16046146</pub-id></element-citation></ref><ref id="B13-children-01-00134"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dhond</surname><given-names>R.P.</given-names></name><name><surname>Yeh</surname><given-names>C.</given-names></name><name><surname>Park</surname><given-names>K.</given-names></name><name><surname>Kettner</surname><given-names>N.</given-names></name><name><surname>Napadow</surname><given-names>V.</given-names></name></person-group>
+<article-title>Acupuncture modulates resting state connectivity in default and sensorimotor brain networks</article-title>
+<source>Pain</source>
+<year>2008</year>
+<volume>136</volume>
+<fpage>407</fpage>
+<lpage>418</lpage>
+<pub-id pub-id-type="pmid">18337009</pub-id></element-citation></ref><ref id="B14-children-01-00134"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Napadow</surname><given-names>V.</given-names></name><name><surname>Kettner</surname><given-names>N.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name><name><surname>Li</surname><given-names>M.</given-names></name><name><surname>Kwong</surname><given-names>K.K.</given-names></name><name><surname>Vangel</surname><given-names>M.</given-names></name><name><surname>Makris</surname><given-names>N.</given-names></name><name><surname>Audette</surname><given-names>J.</given-names></name><name><surname>Hui</surname><given-names>K.K.</given-names></name></person-group>
+<article-title>Hypothalamus and amygdala response to acupuncture stimuli in carpal tunnel syndrome</article-title>
+<source>Pain</source>
+<year>2007</year>
+<volume>130</volume>
+<fpage>254</fpage>
+<lpage>266</lpage>
+<pub-id pub-id-type="pmid">17240066</pub-id></element-citation></ref><ref id="B15-children-01-00134"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>S.M.</given-names></name><name><surname>Kain</surname><given-names>Z.N.</given-names></name><name><surname>White</surname><given-names>P.</given-names></name></person-group>
+<article-title>Acupuncture Analgesia: I. The scientific basis</article-title>
+<source>Anesthesia Analgesia</source>
+<year>2008</year>
+<volume>106</volume>
+<fpage>602</fpage>
+<lpage>610</lpage>
+<pub-id pub-id-type="pmid">18227322</pub-id></element-citation></ref><ref id="B16-children-01-00134"><label>16.</label><element-citation publication-type="journal" id="B16-children-01-00134-gen-2">
+<article-title>NIH consensus conference: Acupuncture</article-title>
+<source>JAMA</source>
+<year>1998</year>
+<volume>280</volume>
+<fpage>1518</fpage>
+<lpage>1524</lpage>
+<pub-id pub-id-type="doi">10.1213/ane.0b013e318160644d</pub-id>
+<pub-id pub-id-type="pmid">9809733</pub-id></element-citation><element-citation publication-type="journal" id="B16-children-01-00134-gen-3">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>S.M.</given-names></name><name><surname>Harris</surname><given-names>R.E.</given-names></name><name><surname>Lin</surname><given-names>Y.C.</given-names></name><name><surname>Gan</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Acupuncture in 21st century anesthesia: Is there a needle in the haystack?</article-title>
+<source>Anesthesia Analgesia</source>
+<year>2013</year>
+<volume>116</volume>
+<fpage>1356</fpage>
+<lpage>1359</lpage>
+<pub-id pub-id-type="doi">10.1213/ane.0b013e318160644d</pub-id>
+<pub-id pub-id-type="pmid">23709075</pub-id></element-citation></ref><ref id="B17-children-01-00134"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>S.M.</given-names></name><name><surname>Kain</surname><given-names>Z.N.</given-names></name><name><surname>White</surname><given-names>P.</given-names></name></person-group>
+<article-title>Acupuncture analgesia: II. Clinical considerations</article-title>
+<source>Anesthesia Analgesia</source>
+<year>2008</year>
+<volume>106</volume>
+<fpage>611</fpage>
+<lpage>621</lpage>
+<pub-id pub-id-type="doi">10.1213/ane.0b013e318160644d</pub-id>
+<pub-id pub-id-type="pmid">18227323</pub-id></element-citation></ref><ref id="B18-children-01-00134"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Haake</surname><given-names>M.</given-names></name><name><surname>Muller</surname><given-names>H.H.</given-names></name><name><surname>Brittinger</surname><given-names>C.</given-names></name></person-group>
+<article-title>German acupuncture trials (GERAC) for chronic low back pain</article-title>
+<source>Arch. Intern. Med.</source>
+<year>2007</year>
+<volume>167</volume>
+<fpage>1892</fpage>
+<lpage>1898</lpage>
+<pub-id pub-id-type="pmid">17893311</pub-id></element-citation></ref><ref id="B19-children-01-00134"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Langevin</surname><given-names>H.M.</given-names></name><name><surname>Wayne</surname><given-names>P.M.</given-names></name><name><surname>MacPherson</surname><given-names>H.</given-names></name><name><surname>Schnyer</surname><given-names>R.</given-names></name><name><surname>Milley</surname><given-names>M.R.</given-names></name><name><surname>Napadow</surname><given-names>V.</given-names></name><name><surname>Lao</surname><given-names>L.</given-names></name><name><surname>Park</surname><given-names>J.</given-names></name><name><surname>Harris</surname><given-names>R.E.</given-names></name><name><surname>Cohen</surname><given-names>M.</given-names></name></person-group>
+<article-title>Paradoxes in acupuncture research: strategies for moving forward</article-title>
+<source>J. Evid. Based Complementary Altern. Med.</source>
+<year>2011</year>
+<pub-id pub-id-type="doi">10.1155/2011/180805</pub-id>
+</element-citation></ref><ref id="B20-children-01-00134"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>MacPherson</surname><given-names>H.</given-names></name><name><surname>Maschino</surname><given-names>A.C.</given-names></name><name><surname>Lewith</surname><given-names>G.</given-names></name><name><surname>Foster</surname><given-names>N.E.</given-names></name><name><surname>Witt</surname><given-names>C.</given-names></name><name><surname>Vickers</surname><given-names>A.J.</given-names></name></person-group>
+<article-title>Characteristics of acupuncture treatment associated with outcome: An individual patient meta-analysis of 17,922 patients with chronic pain in randomized controlled trials</article-title>
+<source>PLoS ONE</source>
+<year>2013</year>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0077438</pub-id>
+</element-citation></ref><ref id="B21-children-01-00134"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name><name><surname>Tsao</surname><given-names>J.C.I.</given-names></name><name><surname>Stelling</surname><given-names>C.</given-names></name><name><surname>Powers</surname><given-names>M.</given-names></name><name><surname>Waterhouse</surname><given-names>M.</given-names></name></person-group>
+<article-title>A phase I study on the feasibility and acceptability of an acupuncture/hypnosis intervention for chronic pediatric pain</article-title>
+<source>J. Pain Symptom Manage.</source>
+<year>2002</year>
+<volume>24</volume>
+<fpage>437</fpage>
+<lpage>446</lpage>
+<pub-id pub-id-type="doi">10.1016/S0885-3924(02)00506-7</pub-id>
+<pub-id pub-id-type="pmid">12505213</pub-id></element-citation></ref><ref id="B22-children-01-00134"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>Y.</given-names></name><name><surname>Bioteau</surname><given-names>A.B.</given-names></name><name><surname>Lee</surname><given-names>A.C.</given-names></name></person-group>
+<article-title>Acupuncture for the management of pediatric pain</article-title>
+<source>Acupuncture Med.</source>
+<year>2003</year>
+<volume>14</volume>
+<fpage>45</fpage>
+<lpage>46</lpage>
+</element-citation></ref><ref id="B23-children-01-00134"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kemper</surname><given-names>K.J.</given-names></name><name><surname>Sarah</surname><given-names>R.</given-names></name><name><surname>Silver-Highfield</surname><given-names>E.</given-names></name><name><surname>Xiarhos</surname><given-names>E.</given-names></name><name><surname>Barnes</surname><given-names>L.</given-names></name><name><surname>Berde</surname><given-names>C.</given-names></name></person-group>
+<article-title>On pins and needles? Pediatric pain patients&#x02019; experience with acupuncture</article-title>
+<source>Pediatrics</source>
+<year>2000</year>
+<volume>105</volume>
+<fpage>941</fpage>
+<lpage>947</lpage>
+<pub-id pub-id-type="pmid">10742351</pub-id></element-citation></ref><ref id="B24-children-01-00134"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gold</surname><given-names>J.I.</given-names></name><name><surname>Nicolau</surname><given-names>C.D.</given-names></name><name><surname>Belmont</surname><given-names>K.A.</given-names></name><name><surname>Katz</surname><given-names>A.R.</given-names></name><name><surname>Benaron</surname><given-names>D.M.</given-names></name><name><surname>Yu</surname><given-names>W.</given-names></name></person-group>
+<source>Pediatric Acupunct</source>
+<year>2009</year>
+<volume>6</volume>
+<fpage>429</fpage>
+<lpage>439</lpage>
+</element-citation></ref><ref id="B25-children-01-00134"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jastrowski Mano</surname><given-names>K.E.</given-names></name><name><surname>Davies</surname><given-names>H.</given-names></name></person-group>
+<article-title>Parental attitudes toward acupuncture in a community sample</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2009</year>
+<volume>15</volume>
+<fpage>661</fpage>
+<lpage>668</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2008.0449</pub-id>
+<pub-id pub-id-type="pmid">19489705</pub-id></element-citation></ref><ref id="B26-children-01-00134"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>R.M.L.</given-names></name><name><surname>Barber</surname><given-names>B.A.</given-names></name><name><surname>Kobylecka</surname><given-names>M.</given-names></name><name><surname>Gold</surname><given-names>J.I.</given-names></name></person-group>
+<article-title>Examining the association between parental stress related to child illness and child pain across acupuncture treatments</article-title>
+<source>Med. Acupunct.</source>
+<year>2014</year>
+<volume>26</volume>
+<fpage>23</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1089/acu.2013.1008</pub-id>
+</element-citation></ref><ref id="B27-children-01-00134"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>D.</given-names></name><name><surname>Cheng</surname><given-names>F.</given-names></name><name><surname>Jou</surname><given-names>H.</given-names></name><name><surname>Aung</surname><given-names>S.</given-names></name><name><surname>Yasui</surname><given-names>Y.</given-names></name><name><surname>Vohra</surname><given-names>S.</given-names></name></person-group>
+<article-title>The safety of pediatric acupuncture: A systematic review</article-title>
+<source>Pediatrics</source>
+<year>2011</year>
+<volume>128</volume>
+<fpage>e1575</fpage>
+<lpage>e1587</lpage>
+<pub-id pub-id-type="doi">10.1542/peds.2011-1091</pub-id>
+<pub-id pub-id-type="pmid">22106073</pub-id></element-citation></ref><ref id="B28-children-01-00134"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yates</surname><given-names>C.C.</given-names></name><name><surname>Mitchell</surname><given-names>A.</given-names></name><name><surname>Lowe</surname><given-names>L.M.</given-names></name><name><surname>Lee</surname><given-names>A.</given-names></name><name><surname>Hall</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Safety of noninvasive electrical stimulation of acupuncture points during a routine neonatal heel stick</article-title>
+<source>Med. Acupunct.</source>
+<year>2013</year>
+<volume>25</volume>
+<fpage>285</fpage>
+<lpage>290</lpage>
+<pub-id pub-id-type="doi">10.1089/acu.2012.0952</pub-id>
+<pub-id pub-id-type="pmid">24761178</pub-id></element-citation></ref><ref id="B29-children-01-00134"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Allais</surname><given-names>G.</given-names></name><name><surname>de Lorenzo</surname><given-names>C.</given-names></name><name><surname>Quirico</surname><given-names>P.</given-names></name><name><surname>Airola</surname><given-names>G.</given-names></name><name><surname>Tolardo</surname><given-names>G.</given-names></name><name><surname>Mana</surname><given-names>O.</given-names></name><name><surname>Benedetto</surname><given-names>C.</given-names></name></person-group>
+<article-title>Acupuncture in the prophylactic treatment of migraine without aura: a comparison with flumarizine</article-title>
+<source>Headache</source>
+<year>2002</year>
+<volume>42</volume>
+<fpage>855</fpage>
+<lpage>861</lpage>
+<pub-id pub-id-type="pmid">12390610</pub-id></element-citation></ref><ref id="B30-children-01-00134"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Diener</surname><given-names>H.C.</given-names></name><name><surname>Kronfeld</surname><given-names>K.</given-names></name><name><surname>Boewing</surname><given-names>G.</given-names></name><name><surname>Lungenhausen</surname><given-names>M.</given-names></name><name><surname>Maier</surname><given-names>C.</given-names></name><name><surname>Molsberger</surname><given-names>A.</given-names></name><name><surname>Tegenthoff</surname><given-names>M.</given-names></name><name><surname>Trampisch</surname><given-names>H.J.</given-names></name><name><surname>Zenz</surname><given-names>M.</given-names></name><name><surname>Meinert</surname><given-names>R.</given-names></name></person-group>
+<article-title>Efficacy of acupuncture for the prophylaxis of migraine: a multicentre randomized controlled clinical trial</article-title>
+<source>Lancet Neurol.</source>
+<year>2006</year>
+<volume>5</volume>
+<fpage>310</fpage>
+<lpage>316</lpage>
+<pub-id pub-id-type="doi">10.1016/S1474-4422(06)70382-9</pub-id>
+<pub-id pub-id-type="pmid">16545747</pub-id></element-citation></ref><ref id="B31-children-01-00134"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linde</surname><given-names>K.</given-names></name><name><surname>Streng</surname><given-names>A.</given-names></name><name><surname>Hoppe</surname><given-names>A.</given-names></name><name><surname>Weidenhammer</surname><given-names>W.</given-names></name><name><surname>Wagenpfeil</surname><given-names>S.</given-names></name><name><surname>Melchart</surname><given-names>D.</given-names></name></person-group>
+<article-title>Randomized trial <italic>vs</italic>. observational study of acupuncture for migraine found that patient characteristics differed but outcomes were similar</article-title>
+<source>J. Clin. Epidemiol.</source>
+<year>2007</year>
+<volume>60</volume>
+<fpage>280</fpage>
+<lpage>287</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jclinepi.2006.06.014</pub-id>
+<pub-id pub-id-type="pmid">17292022</pub-id></element-citation></ref><ref id="B32-children-01-00134"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linde</surname><given-names>K.</given-names></name><name><surname>Allais</surname><given-names>G.</given-names></name><name><surname>Brinkhaus</surname><given-names>B.</given-names></name><name><surname>Manheimer</surname><given-names>E.</given-names></name><name><surname>Vickers</surname><given-names>A.</given-names></name><name><surname>White</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Acupuncture for migraine prophylaxis</article-title>
+<source>Cochrane Lib.</source>
+<year>2009</year>
+<pub-id pub-id-type="doi">10.1002/14651858.CD001218</pub-id>
+</element-citation></ref><ref id="B33-children-01-00134"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Linde</surname><given-names>K.</given-names></name><name><surname>Allais</surname><given-names>G.</given-names></name><name><surname>Brinkhaus</surname><given-names>B.</given-names></name><name><surname>Manheimer</surname><given-names>E.</given-names></name><name><surname>Vickers</surname><given-names>A.</given-names></name><name><surname>White</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Acupuncture for tension-type headache</article-title>
+<source>Cochrane Lib.</source>
+<year>2009</year>
+<pub-id pub-id-type="doi">10.1002/14651858.CD007587</pub-id>
+</element-citation></ref><ref id="B34-children-01-00134"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pintov</surname><given-names>S.</given-names></name><name><surname>Lahat</surname><given-names>E.</given-names></name><name><surname>Alstein</surname><given-names>M.</given-names></name><name><surname>Vogel</surname><given-names>A.</given-names></name><name><surname>Barg</surname><given-names>J.</given-names></name></person-group>
+<article-title>Acupuncture and the opioid system: Implications in management of migraine</article-title>
+<source>Pediatr. Neurol.</source>
+<year>1997</year>
+<volume>17</volume>
+<fpage>129</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="doi">10.1016/S0887-8994(97)00086-6</pub-id>
+<pub-id pub-id-type="pmid">9367292</pub-id></element-citation></ref><ref id="B35-children-01-00134"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottschling</surname><given-names>S.</given-names></name><name><surname>Meyer</surname><given-names>S.</given-names></name><name><surname>Gribova</surname><given-names>I.</given-names></name><name><surname>Distler</surname><given-names>L.</given-names></name><name><surname>Berrang</surname><given-names>J.</given-names></name><name><surname>Gortner</surname><given-names>L.</given-names></name><name><surname>Graf</surname><given-names>N.</given-names></name><name><surname>Shamdeen</surname><given-names>M.G.</given-names></name></person-group>
+<article-title>Laser acupuncture in children with headache: A double-blind, randomized, bicenter, placebo-controlled trial</article-title>
+<source>Pain</source>
+<year>2008</year>
+<volume>137</volume>
+<fpage>405</fpage>
+<lpage>412</lpage>
+<pub-id pub-id-type="pmid">18022318</pub-id></element-citation></ref><ref id="B36-children-01-00134"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Longstreth</surname><given-names>G.F.</given-names></name><name><surname>Thompson</surname><given-names>W.G.</given-names></name><name><surname>Chey</surname><given-names>W.D.</given-names></name><name><surname>Houghton</surname><given-names>L.A.</given-names></name><name><surname>Mearin</surname><given-names>R.</given-names></name><name><surname>Spiller</surname><given-names>R.C.</given-names></name></person-group>
+<article-title>Functional bowel disorders</article-title>
+<source>Gastroenterology</source>
+<year>2006</year>
+<volume>130</volume>
+<fpage>1480</fpage>
+<lpage>1491</lpage>
+<pub-id pub-id-type="pmid">16678561</pub-id></element-citation></ref><ref id="B37-children-01-00134"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chao</surname><given-names>G.Q.</given-names></name><name><surname>Zhang</surname><given-names>S.</given-names></name></person-group>
+<article-title>Effectiveness of acupuncture to treat irritable bowel syndrome: A meta-analysis</article-title>
+<source>World J. Gastroenterol.</source>
+<year>2014</year>
+<volume>20</volume>
+<fpage>1871</fpage>
+<lpage>1877</lpage>
+<pub-id pub-id-type="doi">10.3748/wjg.v20.i7.1871</pub-id>
+<pub-id pub-id-type="pmid">24587665</pub-id></element-citation></ref><ref id="B38-children-01-00134"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macpherson</surname><given-names>H.</given-names></name><name><surname>Tilbrook</surname><given-names>H.</given-names></name><name><surname>Bland</surname><given-names>J.M.</given-names></name><name><surname>Bloor</surname><given-names>K.</given-names></name><name><surname>Brabyn</surname><given-names>S.</given-names></name><name><surname>Cox</surname><given-names>H.</given-names></name><name><surname>Kang&#x02019;ombe</surname><given-names>A.R.</given-names></name><name><surname>Man</surname><given-names>M.S.</given-names></name><name><surname>Stuardi</surname><given-names>T.</given-names></name><name><surname>Torgerson</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>Acupuncture for irritable bowel syndrome: primary care based pragmatic randomized controlled trial</article-title>
+<source>BMC Gastroenterol.</source>
+<year>2012</year>
+<volume>12</volume>
+<fpage>150</fpage>
+<pub-id pub-id-type="pmid">23095376</pub-id></element-citation></ref><ref id="B39-children-01-00134"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manheimer</surname><given-names>E.</given-names></name><name><surname>Cheng</surname><given-names>K.</given-names></name><name><surname>Wieland</surname><given-names>L.S.</given-names></name><name><surname>Min</surname><given-names>L.S.</given-names></name><name><surname>Shen</surname><given-names>X.</given-names></name><name><surname>Berman</surname><given-names>B.H.</given-names></name><name><surname>Lao</surname><given-names>L.</given-names></name></person-group>
+<article-title>Acupuncture for treatment of irritable bowel syndrome</article-title>
+<source>Cochrane Lib.</source>
+<year>2012</year>
+<pub-id pub-id-type="doi">10.1002/14651858.CD005111.pub3.review</pub-id>
+</element-citation></ref><ref id="B40-children-01-00134"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hong</surname><given-names>Y.</given-names></name></person-group>
+<article-title>The effects of hand-acupuncture therapy on intermittent abdominal pain in children</article-title>
+<source>Taehan Kanho Hakhoe Chi</source>
+<year>2005</year>
+<volume>35</volume>
+<fpage>487</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="pmid">16027500</pub-id></element-citation></ref><ref id="B41-children-01-00134"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Buskila</surname><given-names>D.</given-names></name><name><surname>Ablin</surname><given-names>J.</given-names></name></person-group>
+<article-title>Pediatric fibromyalgia</article-title>
+<source>Rheumatismo</source>
+<year>2012</year>
+<volume>64</volume>
+<fpage>230</fpage>
+<lpage>237</lpage>
+</element-citation></ref><ref id="B42-children-01-00134"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Anthony</surname><given-names>K.K.</given-names></name><name><surname>Shanberg</surname><given-names>L.E.</given-names></name></person-group>
+<article-title>Juvenile primary fibromyalgia syndrome</article-title>
+<source>Curr. Rheumatology Rep.</source>
+<year>2001</year>
+<volume>3</volume>
+<fpage>165</fpage>
+<lpage>171</lpage>
+<pub-id pub-id-type="doi">10.1007/s11926-001-0012-7</pub-id>
+</element-citation></ref><ref id="B43-children-01-00134"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tommaso</surname><given-names>M.</given-names></name><name><surname>Delussi</surname><given-names>M.</given-names></name><name><surname>Ricci</surname><given-names>K.</given-names></name><name><surname>D&#x02019;Angelo</surname><given-names>G.</given-names></name></person-group>
+<article-title>Abdominal acupuncture changes cortical responses to nociceptive stimuli in fibromyalgia patients</article-title>
+<source>CNS Neurosci. Ther.</source>
+<year>2014</year>
+<volume>20</volume>
+<fpage>565</fpage>
+<lpage>567</lpage>
+<pub-id pub-id-type="doi">10.1111/cns.12280</pub-id>
+<pub-id pub-id-type="pmid">24836741</pub-id></element-citation></ref><ref id="B44-children-01-00134"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cao</surname><given-names>H.J.</given-names></name><name><surname>Li</surname><given-names>X.</given-names></name><name><surname>Han</surname><given-names>M.</given-names></name><name><surname>Liu</surname><given-names>J.</given-names></name></person-group>
+<article-title>Acupuncture stimulation for fibromyalgia: A systematic review of randomized controlled trials</article-title>
+<source>J. Evid. Based Complementary Altern. Med.</source>
+<year>2013</year>
+<pub-id pub-id-type="doi">10.1155/2013/362831</pub-id>
+</element-citation></ref><ref id="B45-children-01-00134"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tsao</surname><given-names>J.C.I.</given-names></name><name><surname>Meldrum</surname><given-names>M.</given-names></name><name><surname>Kim</surname><given-names>S.C.</given-names></name><name><surname>Jacob</surname><given-names>M.C.</given-names></name><name><surname>Zeltzer</surname><given-names>L.K.</given-names></name></person-group>
+<article-title>Treatment preferences for CAM in Children with Chronic Pain</article-title>
+<source>Electron. Centralised Aircr. Monit.</source>
+<year>2007</year>
+<volume>4</volume>
+<fpage>367</fpage>
+<lpage>374</lpage>
+</element-citation></ref><ref id="B46-children-01-00134"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Toupin</surname><given-names>A.K.</given-names></name><name><surname>Walji</surname><given-names>R.</given-names></name></person-group>
+<article-title>The state of research on complementary and alternative medicine in pediatric rheumatology</article-title>
+<source>Rheumatic Dis. Clin. N. Am.</source>
+<year>2011</year>
+<volume>37</volume>
+<fpage>85</fpage>
+<lpage>94</lpage>
+<pub-id pub-id-type="doi">10.1016/j.rdc.2010.11.011</pub-id>
+</element-citation></ref><ref id="B47-children-01-00134"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hagen</surname><given-names>L.E.</given-names></name><name><surname>Schneider</surname><given-names>R.</given-names></name><name><surname>Stephens</surname><given-names>D.</given-names></name><name><surname>Modrusan</surname><given-names>D.</given-names></name><name><surname>Feldman</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>Use of complementary and alternative medicine by pediatric rheumatology patients</article-title>
+<source>Arthritis Rheumatol.</source>
+<year>2003</year>
+<volume>49</volume>
+<fpage>3</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="doi">10.1002/art.10931</pub-id>
+</element-citation></ref><ref id="B48-children-01-00134"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>April</surname><given-names>K.T.</given-names></name><name><surname>Ehrmann</surname><given-names>F.D.</given-names></name><name><surname>Zunzunegui</surname><given-names>M.V.</given-names></name><name><surname>Descarreaux</surname><given-names>M.</given-names></name><name><surname>Malleson</surname><given-names>P.</given-names></name><name><surname>Duffy</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Longitudinal analysis of complementary and alternative health care use in children with juvenile idiopathic arthritis</article-title>
+<source>Complement. Ther. Med.</source>
+<year>2009</year>
+<volume>17</volume>
+<fpage>208</fpage>
+<lpage>215</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ctim.2009.03.003</pub-id>
+<pub-id pub-id-type="pmid">19632548</pub-id></element-citation></ref><ref id="B49-children-01-00134"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Berman</surname><given-names>B.M.</given-names></name><name><surname>Lao</surname><given-names>L.X.</given-names></name><name><surname>Langenberg</surname><given-names>P.</given-names></name><name><surname>Lee</surname><given-names>W.L.</given-names></name><name><surname>Gilpin</surname><given-names>A.M.</given-names></name><name><surname>Hochberg</surname><given-names>M.C.</given-names></name></person-group>
+<article-title>Effectiveness of acupuncture as adjunctive therapy in osteoarthritis of the knee</article-title>
+<source>Ann. Internal Med.</source>
+<year>2004</year>
+<volume>141</volume>
+<fpage>901</fpage>
+<lpage>910</lpage>
+<pub-id pub-id-type="doi">10.7326/0003-4819-141-12-200412210-00006</pub-id>
+<pub-id pub-id-type="pmid">15611487</pub-id></element-citation></ref><ref id="B50-children-01-00134"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manheimer</surname><given-names>E.</given-names></name><name><surname>Linde</surname><given-names>K.</given-names></name><name><surname>Lao</surname><given-names>L.X.</given-names></name><name><surname>Bouter</surname><given-names>L.M.</given-names></name><name><surname>Berman</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>Meta-analysis: Acupuncture for osteoarthritis of the knee</article-title>
+<source>Ann. Internal Med.</source>
+<year>2007</year>
+<volume>146</volume>
+<fpage>868</fpage>
+<lpage>877</lpage>
+<pub-id pub-id-type="doi">10.7326/0003-4819-146-12-200706190-00008</pub-id>
+<pub-id pub-id-type="pmid">17577006</pub-id></element-citation></ref><ref id="B51-children-01-00134"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zanette</surname><given-names>S. de A.</given-names></name><name><surname>Born</surname><given-names>I.G.</given-names></name><name><surname>Brenol</surname><given-names>J.C.</given-names></name><name><surname>Xavier</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>A pilot study of acupuncture as adjunctive treatment of rheumatoid arthritis</article-title>
+<source>Clin. Rheumatol.</source>
+<year>2008</year>
+<volume>27</volume>
+<fpage>627</fpage>
+<lpage>635</lpage>
+<pub-id pub-id-type="doi">10.1007/s10067-007-0759-y</pub-id>
+<pub-id pub-id-type="pmid">17989918</pub-id></element-citation></ref><ref id="B52-children-01-00134"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kiran</surname><given-names>G.</given-names></name><name><surname>Gumusalan</surname><given-names>Y.</given-names></name><name><surname>Ekerbicer</surname><given-names>H.C.</given-names></name><name><surname>Kiran</surname><given-names>H.</given-names></name><name><surname>Coskun</surname><given-names>A.</given-names></name><name><surname>Arikan</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>A randomized pilot study of acupuncture treatment for primary dysmenorrhea</article-title>
+<source>Eur. J. Obstetrics Gynecology Reproductive Biol.</source>
+<year>2013</year>
+<volume>169</volume>
+<fpage>292</fpage>
+<lpage>295</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ejogrb.2013.02.016</pub-id>
+</element-citation></ref><ref id="B53-children-01-00134"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smith</surname><given-names>C.A.</given-names></name><name><surname>Zhu</surname><given-names>X.</given-names></name><name><surname>He</surname><given-names>L.</given-names></name><name><surname>Song</surname><given-names>J.</given-names></name></person-group>
+<article-title>Acupuncture for primary dymenorrhoea</article-title>
+<source>Cochrane Rev.</source>
+<year>2011</year>
+<pub-id pub-id-type="doi">10.1002/14651858.CD007854.pub2</pub-id>
+</element-citation></ref><ref id="B54-children-01-00134"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yeh</surname><given-names>M.L.</given-names></name><name><surname>Hung</surname><given-names>Y.L.</given-names></name><name><surname>Chen</surname><given-names>H.H.</given-names></name><name><surname>Wang</surname><given-names>Y.J.</given-names></name></person-group>
+<article-title>Auricular acupressure for pain relief in adolescents with dysmenorrhoea: A placebo controlled study</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2013</year>
+<volume>19</volume>
+<fpage>313</fpage>
+<lpage>318</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2011.0665</pub-id>
+<pub-id pub-id-type="pmid">23130943</pub-id></element-citation></ref><ref id="B55-children-01-00134"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wayne</surname><given-names>P.M.</given-names></name><name><surname>Kerr</surname><given-names>C.E.</given-names></name><name><surname>Schnyer</surname><given-names>R.N.</given-names></name><name><surname>Legedza</surname><given-names>A.T.</given-names></name><name><surname>Savetsky-German</surname><given-names>J.</given-names></name><name><surname>Shields</surname><given-names>M.H.</given-names></name><name><surname>Buring</surname><given-names>J.E.</given-names></name><name><surname>Davis</surname><given-names>R.B.</given-names></name><name><surname>Conboy</surname><given-names>L.A.</given-names></name><name><surname>Highfield</surname><given-names>E.</given-names></name></person-group>
+<article-title>Japanese-style acupuncture for endometriosis-related pelvic pain in adolescents and young women: results of a randomized sham-controlled trial</article-title>
+<source>J. Pediatr. Adolescent Gynecol.</source>
+<year>2008</year>
+<volume>212</volume>
+<fpage>47</fpage>
+<lpage>57</lpage>
+</element-citation></ref><ref id="B56-children-01-00134"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hommer</surname><given-names>D.H.</given-names></name></person-group>
+<article-title>Chinese scalp acupuncture relieves pain and restores function in complex regional pain syndrome</article-title>
+<source>Mil. Med.</source>
+<year>2012</year>
+<volume>177</volume>
+<fpage>1231</fpage>
+<lpage>1234</lpage>
+<pub-id pub-id-type="doi">10.7205/MILMED-D-12-00193</pub-id>
+<pub-id pub-id-type="pmid">23113454</pub-id></element-citation></ref><ref id="B57-children-01-00134"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sprague</surname><given-names>M.</given-names></name><name><surname>Chang</surname><given-names>J.C.</given-names></name></person-group>
+<article-title>Integrative approach focusing on acupuncture in the treatment of chronic complex regional pain syndrome</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2011</year>
+<volume>17</volume>
+<fpage>67</fpage>
+<lpage>70</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2010.0088</pub-id>
+<pub-id pub-id-type="pmid">21208130</pub-id></element-citation></ref><ref id="B58-children-01-00134"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leo</surname><given-names>K.C.</given-names></name></person-group>
+<article-title>Use of electrical stimulation at acupuncture points for the treatment of reflex sympathetic dystrophy in a child: A case report</article-title>
+<source>J. Phys. Thermophys.</source>
+<year>1983</year>
+<volume>63</volume>
+<fpage>957</fpage>
+<lpage>959</lpage>
+</element-citation></ref><ref id="B59-children-01-00134"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kelly</surname><given-names>A.</given-names></name></person-group>
+<article-title>Treatment of reflex sympathetic dystrophy in 3 pediatric patients using 7 external dragons</article-title>
+<source>J. Med. Acup.</source>
+<year>2004</year>
+<volume>15</volume>
+<fpage>29</fpage>
+<lpage>30</lpage>
+</element-citation></ref><ref id="B60-children-01-00134"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Falk</surname><given-names>S.</given-names></name><name><surname>Dickenson</surname><given-names>A.H.</given-names></name></person-group>
+<article-title>Pain and nociception: Mechanisms of cancer-induced bone pain</article-title>
+<source>J. Clin. Oncol.</source>
+<year>2014</year>
+<volume>32</volume>
+<fpage>1647</fpage>
+<lpage>1654</lpage>
+<pub-id pub-id-type="doi">10.1200/JCO.2013.51.7219</pub-id>
+<pub-id pub-id-type="pmid">24799469</pub-id></element-citation></ref><ref id="B61-children-01-00134"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottschling</surname><given-names>S.</given-names></name><name><surname>Meyer</surname><given-names>S.</given-names></name><name><surname>Langler</surname><given-names>A.</given-names></name><name><surname>Scharifi</surname><given-names>G.</given-names></name><name><surname>Ebinger</surname><given-names>F.</given-names></name><name><surname>Gronwald</surname><given-names>B.</given-names></name></person-group>
+<article-title>Differences in use of complementary and alternative medicine between children and adolescents with cancer in Germany: A population based survey</article-title>
+<source>Pediatr. Blood Cancer</source>
+<year>2014</year>
+<volume>61</volume>
+<fpage>488</fpage>
+<lpage>492</lpage>
+<pub-id pub-id-type="doi">10.1002/pbc.24769</pub-id>
+<pub-id pub-id-type="pmid">24038864</pub-id></element-citation></ref><ref id="B62-children-01-00134"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gottschling</surname><given-names>S.</given-names></name><name><surname>Reindl</surname><given-names>T.K.</given-names></name><name><surname>Meyer</surname><given-names>S.</given-names></name><name><surname>Berrang</surname><given-names>J.</given-names></name><name><surname>Henze</surname><given-names>G.</given-names></name><name><surname>Graeber</surname><given-names>S.</given-names></name><name><surname>Ong</surname><given-names>M.F.</given-names></name><name><surname>Graf</surname><given-names>N.</given-names></name></person-group>
+<article-title>Acupuncture to alleviate chemotherapy-induced nausea and vomiting in pediatric oncology&#x02014;a randomized multicenter crossover pilot trial</article-title>
+<source>Klin. Padiatr.</source>
+<year>2008</year>
+<volume>220</volume>
+<fpage>365</fpage>
+<lpage>370</lpage>
+<pub-id pub-id-type="pmid">18949672</pub-id></element-citation></ref><ref id="B63-children-01-00134"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ladas</surname><given-names>E.J.</given-names></name><name><surname>Rooney</surname><given-names>D.</given-names></name><name><surname>Taromina</surname><given-names>K.</given-names></name><name><surname>Ndao</surname><given-names>D.H.</given-names></name><name><surname>Kelly</surname><given-names>K.M.</given-names></name></person-group>
+<article-title>The safety of acupuncture in children and adolescents with cancer therapy-related thrombocytopenia</article-title>
+<source>Supportive Care Cancer</source>
+<year>2010</year>
+<volume>18</volume>
+<fpage>1487</fpage>
+<lpage>1490</lpage>
+</element-citation></ref><ref id="B64-children-01-00134"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wu</surname><given-names>S.</given-names></name><name><surname>Sapru</surname><given-names>A.</given-names></name><name><surname>Stewart</surname><given-names>M.A.</given-names></name><name><surname>Milet</surname><given-names>M.J.</given-names></name><name><surname>Hudes</surname><given-names>M.</given-names></name><name><surname>Livermore</surname><given-names>L.F.</given-names></name><name><surname>Flori</surname><given-names>H.R.</given-names></name></person-group>
+<article-title>Using acupuncture for acute pain in hospitalized children</article-title>
+<source>Pediatr. Crit. Care Med.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>291</fpage>
+<lpage>296</lpage>
+<pub-id pub-id-type="pmid">19307808</pub-id></element-citation></ref><ref id="B65-children-01-00134"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lin</surname><given-names>Y.C.</given-names></name><name><surname>Tassone</surname><given-names>R.F.</given-names></name><name><surname>Jahng</surname><given-names>S.</given-names></name><name><surname>Rahbar</surname><given-names>R.</given-names></name><name><surname>Holzman</surname><given-names>R.S.</given-names></name><name><surname>Zurakowski</surname><given-names>D.</given-names></name><name><surname>Sethna</surname><given-names>N.</given-names></name></person-group>
+<article-title>Acupuncture management of pain and emergence agitation in children after bilateral myringotomy and tympanostomy tube insertion</article-title>
+<source>Pediatr. Anesthesia</source>
+<year>2009</year>
+<volume>19</volume>
+<fpage>1096</fpage>
+<lpage>1101</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1460-9592.2009.03129.x</pub-id>
+</element-citation></ref><ref id="B66-children-01-00134"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hollifield</surname><given-names>M.</given-names></name><name><surname>Sinclair-Lian</surname><given-names>N.</given-names></name><name><surname>Warner</surname><given-names>T.D.</given-names></name><name><surname>Hammerschlag</surname><given-names>R.</given-names></name></person-group>
+<article-title>Acupuncture for posttraumatic stress disorder: A randomized controlled pilot trial</article-title>
+<source>J. Nerv. Mental Dis.</source>
+<year>2007</year>
+<volume>195</volume>
+<fpage>504</fpage>
+<lpage>513</lpage>
+<pub-id pub-id-type="doi">10.1097/NMD.0b013e31803044f8</pub-id>
+</element-citation></ref><ref id="B67-children-01-00134"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>Y.</given-names></name><name><surname>Feng</surname><given-names>B.</given-names></name><name><surname>Xie</surname><given-names>J.P.</given-names></name><name><surname>Xu</surname><given-names>F.Z.</given-names></name><name><surname>Chen</surname><given-names>J.</given-names></name></person-group>
+<article-title>Clinical study on treatment of the earthquake-caused post-traumatic stress disorder by cognitive-behavior therapy and acupoint stimulation</article-title>
+<source>J. Trad. Chin. Med.</source>
+<year>2011</year>
+<volume>31</volume>
+<fpage>60</fpage>
+<lpage>63</lpage>
+</element-citation></ref><ref id="B68-children-01-00134"><label>68.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>S.M.</given-names></name><name><surname>Escalera</surname><given-names>S.</given-names></name><name><surname>Lin</surname><given-names>E.C.</given-names></name><name><surname>Maranets</surname><given-names>I.</given-names></name><name><surname>Kain</surname><given-names>Z.N.</given-names></name></person-group>
+<article-title>Extra-1 acupressure for children undergoing anesthesia</article-title>
+<source>Anesthesia Analgesia</source>
+<year>2008</year>
+<volume>107</volume>
+<fpage>811</fpage>
+<lpage>816</lpage>
+<pub-id pub-id-type="doi">10.1213/ane.0b013e3181804441</pub-id>
+<pub-id pub-id-type="pmid">18713889</pub-id></element-citation></ref><ref id="B69-children-01-00134"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kundu</surname><given-names>A.</given-names></name><name><surname>Jimenez</surname><given-names>N.</given-names></name><name><surname>Lynn</surname><given-names>A.</given-names></name></person-group>
+<article-title>Acupuncture therapy for prevention of emergence delirium in children undergoing general anesthesia</article-title>
+<source>Med. Acupunct.</source>
+<year>2008</year>
+<volume>20</volume>
+<fpage>151</fpage>
+<lpage>154</lpage>
+<pub-id pub-id-type="doi">10.1089/acu.2008.0615</pub-id>
+</element-citation></ref><ref id="B70-children-01-00134"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwartz</surname><given-names>L.</given-names></name><name><surname>Xiao</surname><given-names>R.</given-names></name><name><surname>Brown</surname><given-names>E.R.</given-names></name><name><surname>Sommers</surname><given-names>E.</given-names></name></person-group>
+<article-title>Auricular acupressure augmentation of standard medical management of the neonatal Narcotic Abstinence Syndrome</article-title>
+<source>Med. Acupunct.</source>
+<year>2011</year>
+<volume>23</volume>
+<fpage>175</fpage>
+<lpage>186</lpage>
+</element-citation></ref><ref id="B71-children-01-00134"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>King</surname><given-names>E.W.</given-names></name><name><surname>Audette</surname><given-names>K.</given-names></name><name><surname>Athman</surname><given-names>G.A.</given-names></name><name><surname>Nguyen</surname><given-names>H.O.</given-names></name><name><surname>Sluka</surname><given-names>K.A.</given-names></name><name><surname>Fairbanks</surname><given-names>C.A.</given-names></name></person-group>
+<article-title>Transcutaneous electrical nerve stimulation activates peripherally located alpha-2A adrenergic receptors</article-title>
+<source>Pain</source>
+<year>2005</year>
+<volume>115</volume>
+<fpage>364</fpage>
+<lpage>373</lpage>
+<pub-id pub-id-type="pmid">15911163</pub-id></element-citation></ref><ref id="B72-children-01-00134"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>H.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Zhang</surname><given-names>Q.</given-names></name><name><surname>Xu</surname><given-names>N.</given-names></name><name><surname>Zhong</surname><given-names>H.</given-names></name><name><surname>Dong</surname><given-names>H.</given-names></name><name><surname>Liu</surname><given-names>L.</given-names></name><name><surname>Jiang</surname><given-names>T.</given-names></name><name><surname>Wang</surname><given-names>Q.</given-names></name><name><surname>Xiong</surname><given-names>L.</given-names></name></person-group>
+<article-title>Transcutaneous electric acupoint stimulation reduced intra-operative remifentanil consumption and alleviates postoperative side-effects in patients undergoing sinusotomy: A prospective, randomized, placebo-controlled trial</article-title>
+<source>Br. J. Anaesthesia</source>
+<year>2014</year>
+<volume>112</volume>
+<fpage>1075</fpage>
+<lpage>1082</lpage>
+<pub-id pub-id-type="doi">10.1093/bja/aeu001</pub-id>
+</element-citation></ref><ref id="B73-children-01-00134"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kabalak</surname><given-names>A.A.</given-names></name><name><surname>Akcay</surname><given-names>M.</given-names></name><name><surname>Akcay</surname><given-names>F.</given-names></name><name><surname>Gogus</surname><given-names>K.</given-names></name></person-group>
+<article-title>Transcutaneous electrical acupoint stimulation versus ondansetron in the prevention of postoperative vomiting following pediatric tonsillectomy</article-title>
+<source>J. Altern. Complement. Med.</source>
+<year>2005</year>
+<volume>11</volume>
+<fpage>407</fpage>
+<lpage>413</lpage>
+<pub-id pub-id-type="doi">10.1089/acm.2005.11.407</pub-id>
+<pub-id pub-id-type="pmid">15992223</pub-id></element-citation></ref><ref id="B74-children-01-00134"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ni</surname><given-names>X.</given-names></name><name><surname>Xie</surname><given-names>Y.</given-names></name><name><surname>Wang</surname><given-names>Q.</given-names></name><name><surname>Zhong</surname><given-names>H.</given-names></name><name><surname>Chen</surname><given-names>M.</given-names></name><name><surname>Wang</surname><given-names>F.</given-names></name><name><surname>Xiong</surname><given-names>L.</given-names></name></person-group>
+<article-title>Cardioprotective effect of transcutaneous electric acupoint stimulation in the pediatric cardiac patients: a randomized controlled clinical trial</article-title>
+<source>Pediatr. Anesthesia</source>
+<year>2012</year>
+<volume>22</volume>
+<fpage>805</fpage>
+<lpage>811</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1460-9592.2012.03822.x</pub-id>
+</element-citation></ref><ref id="B75-children-01-00134"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chi</surname><given-names>H.</given-names></name><name><surname>Zhou</surname><given-names>W.X.</given-names></name><name><surname>Wu</surname><given-names>Y.Y.</given-names></name><name><surname>Chen</surname><given-names>T.Y.</given-names></name><name><surname>Ge</surname><given-names>W.</given-names></name><name><surname>Yuan</surname><given-names>L.</given-names></name><name><surname>Shen</surname><given-names>W.D.</given-names></name><name><surname>Zhou</surname><given-names>J.</given-names></name></person-group>
+<article-title>Electroacupuncture intervention combined with general anesthesia for 80 cases of heart valve replacement surgery under cardiopulmonary bypass</article-title>
+<source>Zhen Ci Yan Jiu</source>
+<year>2013</year>
+<volume>39</volume>
+<fpage>1</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="pmid">24684103</pub-id></element-citation></ref><ref id="B76-children-01-00134"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferreira</surname><given-names>D.C.</given-names></name><name><surname>DeRossi</surname><given-names>A.</given-names></name><name><surname>Torres</surname><given-names>C.P.</given-names></name><name><surname>Galo</surname><given-names>R.</given-names></name><name><surname>Paula-Silva</surname><given-names>F.W.</given-names></name><name><surname>Queiroz</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>Effect of laser acupuncture and auricular acupressure in a child with trismus as a sequel of medulloblastoma</article-title>
+<source>Acupunct. Med.</source>
+<year>2013</year>
+<volume>32</volume>
+<fpage>190</fpage>
+<lpage>193</lpage>
+<pub-id pub-id-type="pmid">24384541</pub-id></element-citation></ref><ref id="B77-children-01-00134"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomas</surname><given-names>K.H.</given-names></name><name><surname>MacPherson</surname><given-names>H.</given-names></name><name><surname>Ratcliffe</surname><given-names>J.</given-names></name><name><surname>Thorpe</surname><given-names>L.</given-names></name><name><surname>Brazier</surname><given-names>J.</given-names></name><name><surname>Campbell</surname><given-names>M.</given-names></name><name><surname>Fitter</surname><given-names>M.</given-names></name><name><surname>Roman</surname><given-names>M.</given-names></name></person-group>
+<article-title>Longer term clinical and economic benefits of offering acupuncture care to patients with chronic low back pain</article-title>
+<source>Health Technol. Assess.</source>
+<year>2005</year>
+<volume>9</volume>
+<fpage>1</fpage>
+<lpage>109</lpage>
+</element-citation></ref></ref-list></back></article>

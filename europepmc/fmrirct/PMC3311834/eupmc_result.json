@@ -1,0 +1,439 @@
+{
+  "id": [
+    "22367630"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22367630"
+  ],
+  "pmcid": [
+    "PMC3311834"
+  ],
+  "doi": [
+    "10.1007/s10194-012-0422-0"
+  ],
+  "title": [
+    "Placebo and other psychological interactions in headache treatment."
+  ],
+  "authorString": [
+    "Autret A, Valade D, Debiais S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Autret A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Autret"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Valade D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Valade"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Debiais S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Debiais"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "1917461"
+      ],
+      "dateOfPublication": [
+        "2012 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "191-198"
+  ],
+  "abstractText": [
+    "We present a theory according which a headache treatment acts through a specific biological effect (when it exists), a placebo effect linked to both expectancy and repetition of its administration (conditioning), and a non-specific psychological effect. The respective part of these components varies with the treatments and the clinical situations. During antiquity, suggestions and beliefs were the mainstays of headache treatment. The word placebo appeared at the beginning of the eighteenth century. Controversies about its effect came from an excessive interpretation due to methodological bias, inadequate consideration of the variation of the measure (regression to the mean) and of the natural course of the disease. Several powerful studies on placebo effect showed that the nature of the treatment, the associated announce, the patients' expectancy, and the repetition of the procedures are of paramount importance. The placebo expectancy is associated with an activation of pre-frontal, anterior cingular, accumbens, and periacqueducal grey opioidergic neurons possibly triggered by the dopaminergic meso-limbic system. In randomized control trials, several arms design could theoretically give information concerning the respective part of the different component of the outcome and control the natural course of the disease. However, for migraine and tension type headache attacks treatment, no three arm (verum, placebo, and natural course) trial is available in the literature. Indirect evidence of a placebo effect in migraine attack treatment, comes from the high amplitude of the improvement observed in the placebo arms (28% of the patients). This figure is lower (6%) when using the harder criterium of pain free at 2 h. But these data disregard the effect of the natural course. For prophylactic treatment with oral medication, the trials performed in the last decades report an improvement in 21% of the patients in the placebo arms. However, in these studies the duration of administration was limited, the control of attacks uncertain as well as the evolution of the co-morbid psycho-pathology. Considering the reviews and meta-analysis of complex prophylactic procedures, it must be concluded that their effect is mostly linked to a placebo and non-specific psychological effects. Acupuncture may have a slight specific effect on tension type headache, but not on migraine. Manual therapy studies do not exhibit difference between manipulation, mobilization, and controls; touch has no proven specific effect. A comprehensive efficacy review of biofeedback studies concludes to a small specific effect on tension type headache but not on migraine. A review of behavioral treatment conclude to an interesting mean improvement but did not demonstrated a specific effect with the exception of a four arm study including a pseudo meditation control group. Expectation-linked placebo, conditioning, and non-specific psychological effects vary according clinical situations and psychological context; likely low in RCT, high after anempathic medical contact, and at its maximum with a desired charismatic healer. The announcements of doctors strongly influence the beliefs of patients, and in consequence their pain and anxiety sensibilities; this modulates the amplitude of the placebo and the non-specific psychological effects and is therefore a major determinant of the therapeutic success. Furthermore, any repetitive contact, even through a placebo, may interfere positively with the psychopathological co-morbidity. One has to keep in mind that the non-specific psychological interactions play a major role in the improvement of the majority of the headache sufferers."
+  ],
+  "affiliation": [
+    "CHRU TOURS, Tours, France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Placebos"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Placebo Effect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Therapy Modalities"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Analgesics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Placebos"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3311834?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3311834"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22367630/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22367630/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s10194-012-0422-0"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-02"
+  ],
+  "dateOfCreation": [
+    "2012-03-26"
+  ],
+  "dateOfRevision": [
+    "2013-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2012-02-26"
+  ],
+  "firstPublicationDate": [
+    "2012-02-26"
+  ]
+}

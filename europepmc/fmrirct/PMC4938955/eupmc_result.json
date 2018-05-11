@@ -1,0 +1,552 @@
+{
+  "id": [
+    "27393604"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27393604"
+  ],
+  "pmcid": [
+    "PMC4938955"
+  ],
+  "doi": [
+    "10.1186/s12888-016-0918-2"
+  ],
+  "title": [
+    "BEATVIC, a body-oriented resilience training with elements of kickboxing for individuals with a psychotic disorder: study protocol of a multi-center RCT."
+  ],
+  "authorString": [
+    "van der Stouwe EC, de Vries B, Aleman A, Arends J, Waarheid C, Meerdink A, van der Helm E, van Busschbach JT, Pijnenborg GH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van der Stouwe EC"
+          ],
+          "firstName": [
+            "Elisabeth C D"
+          ],
+          "lastName": [
+            "van der Stouwe"
+          ],
+          "initials": [
+            "EC"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, BCN Neuroimaging Center, University of Groningen, University Medical Center Groningen, Antonius Deusinglaan 2, 9713 AW, Groningen, The Netherlands. e.c.d.van.der.stouwe@rug.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "de Vries B"
+          ],
+          "firstName": [
+            "Bertine"
+          ],
+          "lastName": [
+            "de Vries"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Clinical Psychology, University of Groningen, Grote Kruisstraat 2/1, 9712 TS, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Aleman A"
+          ],
+          "firstName": [
+            "André"
+          ],
+          "lastName": [
+            "Aleman"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, BCN Neuroimaging Center, University of Groningen, University Medical Center Groningen, Antonius Deusinglaan 2, 9713 AW, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Arends J"
+          ],
+          "firstName": [
+            "Johan"
+          ],
+          "lastName": [
+            "Arends"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychotic Disorders, GGZ-Drenthe, Dennenweg 9, 9404 LA, Assen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Waarheid C"
+          ],
+          "firstName": [
+            "Clement"
+          ],
+          "lastName": [
+            "Waarheid"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychotic Disorders, GGZ-Drenthe, Dennenweg 9, 9404 LA, Assen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Meerdink A"
+          ],
+          "firstName": [
+            "Aniek"
+          ],
+          "lastName": [
+            "Meerdink"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychotic Disorders, GGZ-Drenthe, Dennenweg 9, 9404 LA, Assen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Helm E"
+          ],
+          "firstName": [
+            "Erwin"
+          ],
+          "lastName": [
+            "van der Helm"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Helmsport, Vechtstraat 72B, 9725 CW, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Busschbach JT"
+          ],
+          "firstName": [
+            "Jooske T"
+          ],
+          "lastName": [
+            "van Busschbach"
+          ],
+          "initials": [
+            "JT"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, University Center of Psychiatry, Rob Giel Onderzoekcentrum, Hanzeplein 1, 9713 GZ, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Pijnenborg GH"
+          ],
+          "firstName": [
+            "Gerdina H M"
+          ],
+          "lastName": [
+            "Pijnenborg"
+          ],
+          "initials": [
+            "GH"
+          ],
+          "affiliation": [
+            "Department of Neuroscience, BCN Neuroimaging Center, University of Groningen, University Medical Center Groningen, Antonius Deusinglaan 2, 9713 AW, Groningen, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2477853"
+      ],
+      "dateOfPublication": [
+        "2016 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "227"
+  ],
+  "abstractText": [
+    "Individuals with a psychotic disorder are at an increased risk of becoming victim of a crime or other forms of aggression. Research has revealed several possible risk factors (e.g. impaired social cognition, aggression regulation problems, assertiveness, self-stigma, self-esteem) for victimization in patients with a psychotic disorder. To address these risk factors and prevent victimization, we developed a body-oriented resilience training with elements of kickboxing: BEATVIC. The present study aims to evaluate the effectiveness of the intervention.Seven mental health institutions in the Netherlands will participate in this study. Participants will be randomly assigned to either the BEATVIC training or the control condition: social activation. Follow-ups are at 6, 18 and 30 months. Short term effects on risk factors for victimization will be examined, since these are direct targets of the intervention and are thought to be mediators of victimization, the primary outcome of the intervention. The effect on victimization will be investigated at follow-up. In a subgroup of patients, fMRI scans will be made before and after the intervention period in order to assess potential neural changes associated with the effects of the training.This study is the first to examine the effectiveness of an intervention targeted at victimization in psychosis. Methodological issues of the study are addressed in the discussion of this paper.Current Controlled Trials: ISRCTN21423535 . Retrospectively registered 30-03-2016."
+  ],
+  "affiliation": [
+    "Department of Neuroscience, BCN Neuroimaging Center, University of Groningen, University Medical Center Groningen, Antonius Deusinglaan 2, 9713 AW, Groningen, The Netherlands. e.c.d.van.der.stouwe@rug.nl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Social Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Self Concept"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotic Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Psychological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crime"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Crime Victims"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Netherlands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Resilience, Psychological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Bullying"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Training",
+        "Psychomotor",
+        "Psychotic disorder",
+        "Victimization",
+        "Kickboxing",
+        "Self-esteem",
+        "Social Cognition",
+        "Neuroimaging",
+        "Assertiveness",
+        "Nonverbal Therapy"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4938955?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4938955"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-016-0918-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-08-07"
+  ],
+  "dateOfCreation": [
+    "2016-07-10"
+  ],
+  "dateOfRevision": [
+    "2018-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-08"
+  ],
+  "firstPublicationDate": [
+    "2016-07-08"
+  ]
+}

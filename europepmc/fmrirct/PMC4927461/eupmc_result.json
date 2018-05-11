@@ -1,0 +1,468 @@
+{
+  "id": [
+    "27343883"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27343883"
+  ],
+  "pmcid": [
+    "PMC4927461"
+  ],
+  "doi": [
+    "10.1016/j.jaac.2016.04.014"
+  ],
+  "title": [
+    "The Status of Irritability in Psychiatry: A Conceptual and Quantitative Review."
+  ],
+  "authorString": [
+    "Vidal-Ribas P, Brotman MA, Valdivieso I, Leibenluft E, Stringaris A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Vidal-Ribas P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Vidal-Ribas"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4863-9247",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Psychiatry, Psychology and Neuroscience, King's College London, United Kingdom. Electronic address: pablo.vidal-ribas_belil@kcl.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Brotman MA"
+          ],
+          "firstName": [
+            "Melissa A"
+          ],
+          "lastName": [
+            "Brotman"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Section on Bipolar Spectrum Disorders, Emotion and Development Branch, National Institute of Mental Health, National Institutes of Health, Department of Health and Human Services, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Valdivieso I"
+          ],
+          "firstName": [
+            "Isabel"
+          ],
+          "lastName": [
+            "Valdivieso"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Institute of Psychiatry, Psychology and Neuroscience, King's College London, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Leibenluft E"
+          ],
+          "firstName": [
+            "Ellen"
+          ],
+          "lastName": [
+            "Leibenluft"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Section on Bipolar Spectrum Disorders, Emotion and Development Branch, National Institute of Mental Health, National Institutes of Health, Department of Health and Human Services, Bethesda, MD."
+          ]
+        },
+        {
+          "fullName": [
+            "Stringaris A"
+          ],
+          "firstName": [
+            "Argyris"
+          ],
+          "lastName": [
+            "Stringaris"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Institute of Psychiatry, Psychology and Neuroscience, King's College London, United Kingdom."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4863-9247",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2422871"
+      ],
+      "dateOfPublication": [
+        "2016 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of the American Academy of Child and Adolescent Psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "J Am Acad Child Adolesc Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "J Am Acad Child Adolesc Psychiatry"
+          ],
+          "NLMid": [
+            "8704565"
+          ],
+          "ISSN": [
+            "0890-8567"
+          ],
+          "ESSN": [
+            "1527-5418"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "556-570"
+  ],
+  "abstractText": [
+    "Research and clinical interest in irritability have been on the rise in recent years. Yet several questions remain about the status of irritability in psychiatry, including whether irritability can be differentiated from other symptoms, whether it forms a distinct disorder, and whether it is a meaningful predictor of clinical outcomes. In this article, we try to answer these questions by reviewing the evidence on how reliably irritability can be measured and its validity.We combine a narrative and systematic review and meta-analysis of studies. For the systematic review and meta-analysis, we searched studies in PubMed and Web of Science based on preselected criteria. A total of 163 articles were reviewed, and 24 were included.We found that irritability forms a distinct dimension with substantial stability across time, and that it is specifically associated with depression and anxiety in longitudinal studies. Evidence from genetic studies reveals that irritability is moderately heritable, and its overlap with depression is explained mainly by genetic factors. Behavioral and neuroimaging studies show that youth with persistent irritability exhibit altered activations in the amygdala, striatum, and frontal regions compared with age-matched healthy volunteers. Most knowledge about the treatment of irritability is based on effects of treatment on related conditions or post hoc analyses of trial data.We identify a number of research priorities including innovative experimental designs and priorities for treatment studies, and conclude with recommendations for the assessment of irritability for researchers and clinicians."
+  ],
+  "affiliation": [
+    "Institute of Psychiatry, Psychology and Neuroscience, King's College London, United Kingdom. Electronic address: pablo.vidal-ribas_belil@kcl.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Irritable Mood"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mental Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Meta-analysis",
+        "Anxiety",
+        "Irritability",
+        "Conduct"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4927461?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4927461"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1016/j.jaac.2016.04.014"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "32"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-12-19"
+  ],
+  "dateOfCreation": [
+    "2016-06-26"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2016-05-06"
+  ],
+  "firstPublicationDate": [
+    "2016-05-06"
+  ]
+}

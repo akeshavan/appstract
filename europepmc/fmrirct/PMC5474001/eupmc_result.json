@@ -1,0 +1,697 @@
+{
+  "id": [
+    "28623947"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28623947"
+  ],
+  "pmcid": [
+    "PMC5474001"
+  ],
+  "doi": [
+    "10.1186/s13063-017-2012-6"
+  ],
+  "title": [
+    "Effects of digital Cognitive Behavioural Therapy for Insomnia on cognitive function: study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Kyle SD, Hurry MED, Emsley R, Luik AI, Omlin X, Spiegelhalder K, Espie CA, Sexton CE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kyle SD"
+          ],
+          "firstName": [
+            "Simon D"
+          ],
+          "lastName": [
+            "Kyle"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "affiliation": [
+            "Nuffield Department of Clinical Neurosciences, Sleep and Circadian Neuroscience Institute, University of Oxford, Sir William Dunn School of Pathology, South Parks Road, Oxford, OX1 3RE, UK. simon.kyle@ndcn.ox.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Hurry MED"
+          ],
+          "firstName": [
+            "Madeleine E D"
+          ],
+          "lastName": [
+            "Hurry"
+          ],
+          "initials": [
+            "MED"
+          ],
+          "affiliation": [
+            "Nuffield Department of Clinical Neurosciences, Sleep and Circadian Neuroscience Institute, University of Oxford, Sir William Dunn School of Pathology, South Parks Road, Oxford, OX1 3RE, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Emsley R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Emsley"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1218-675X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Biostatistics, School of Health Sciences, The University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Luik AI"
+          ],
+          "firstName": [
+            "Annemarie I"
+          ],
+          "lastName": [
+            "Luik"
+          ],
+          "initials": [
+            "AI"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7517-197X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuffield Department of Clinical Neurosciences, Sleep and Circadian Neuroscience Institute, University of Oxford, Sir William Dunn School of Pathology, South Parks Road, Oxford, OX1 3RE, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Omlin X"
+          ],
+          "firstName": [
+            "Ximena"
+          ],
+          "lastName": [
+            "Omlin"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2508-9956",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Nuffield Department of Clinical Neurosciences, Sleep and Circadian Neuroscience Institute, University of Oxford, Sir William Dunn School of Pathology, South Parks Road, Oxford, OX1 3RE, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Spiegelhalder K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Spiegelhalder"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical Center - University of Freiburg, Faculty of Medicine, University of Freiburg, Freiburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Espie CA"
+          ],
+          "firstName": [
+            "Colin A"
+          ],
+          "lastName": [
+            "Espie"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Nuffield Department of Clinical Neurosciences, Sleep and Circadian Neuroscience Institute, University of Oxford, Sir William Dunn School of Pathology, South Parks Road, Oxford, OX1 3RE, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sexton CE"
+          ],
+          "firstName": [
+            "Claire E"
+          ],
+          "lastName": [
+            "Sexton"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Oxford Nuffield Department of Clinical Neurosciences, Centre for Functional Magnetic Resonance Imaging of the Brain (FMRIB Centre), University of Oxford, Oxford, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7517-197X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1218-675X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2508-9956",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2562751"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "281"
+  ],
+  "abstractText": [
+    "The daytime effects of insomnia pose a significant burden to patients and drive treatment seeking. In addition to subjective deficits, meta-analytic data show that patients experience reliable objective impairments across several cognitive domains. While Cognitive Behavioural Therapy for Insomnia (CBT-I) is an effective and scalable treatment, we know little about its impact upon cognitive function. Trials of CBT-I have typically used proxy measures for cognitive functioning, such as fatigue or work performance scales, and no study has assessed self-reported impairment in cognitive function as a primary outcome. Moreover, only a small number of studies have assessed objective cognitive performance, pre-to-post CBT-I, with mixed results. This study specifically aims to (1) investigate the impact of CBT-I on cognitive functioning, assessed through both self-reported impairment and objective performance measures, and (2) examine whether change in sleep mediates this impact.We propose a randomised controlled trial of 404 community participants meeting criteria for Insomnia Disorder. In the DISCO trial (D efining the I mpact of improved S leep on CO gnitive function (DISCO)) participants will be randomised to digital automated CBT-I delivered by a web and/or mobile platform (in addition to treatment as usual (TAU)) or to a wait-list control (in addition to TAU). Online assessments will take place at 0 (baseline), 10 (post-treatment), and 24 (follow-up) weeks. At week 25, all participants allocated to the wait-list group will be offered digital CBT-I, at which point the controlled element of the trial will be complete. The primary outcome is self-reported cognitive impairment at post-treatment (10 weeks). Secondary outcomes include objective cognitive performance, insomnia severity, sleepiness, fatigue, and self-reported cognitive failures and emotional distress. All main analyses will be carried out on completion of follow-up assessments and will be based on the intention-to-treat principle. Further analyses will determine to what extent observed changes in self-reported cognitive impairment and objective cognitive performance are mediated by changes in sleep. The trial is supported by the National Institute for Health Research (NIHR) Oxford Biomedical Research Centre (BRC) based at Oxford University Hospitals NHS Trust and University of Oxford, and by the NIHR Oxford Health BRC.This study will be the first large-scale examination of the impact of digital CBT-I on self-reported cognitive impairment and objective cognitive performance.ISRCTN, ID: ISRCTN89237370 . Registered on 17 October 2016."
+  ],
+  "affiliation": [
+    "Nuffield Department of Clinical Neurosciences, Sleep and Circadian Neuroscience Institute, University of Oxford, Sir William Dunn School of Pathology, South Parks Road, Oxford, OX1 3RE, UK. simon.kyle@ndcn.ox.ac.uk."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sleep Initiation and Maintenance Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Therapy, Computer-Assisted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sleep"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IS"
+                  ],
+                  "qualifierName": [
+                    "instrumentation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "England"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self Report"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mobile Applications"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Phone"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sleep",
+        "Internet",
+        "Insomnia",
+        "Cognitive impairment",
+        "Cognitive Behavioural Therapy"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5474001?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5474001"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-017-2012-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-04-02"
+  ],
+  "dateOfCreation": [
+    "2017-06-19"
+  ],
+  "dateOfRevision": [
+    "2018-04-02"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-17"
+  ],
+  "firstPublicationDate": [
+    "2017-06-17"
+  ]
+}

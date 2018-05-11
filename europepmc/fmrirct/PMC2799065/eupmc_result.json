@@ -1,0 +1,261 @@
+{
+  "id": [
+    "17242961"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "17242961"
+  ],
+  "pmcid": [
+    "PMC2799065"
+  ],
+  "doi": [
+    "10.1007/s00431-006-0349-z"
+  ],
+  "title": [
+    "European Academy of Paediatrics, Barcelona, Spain, October 7-10, 2006. Abstracts."
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "165 Suppl 1"
+      ],
+      "journalIssueId": [
+        "1471324"
+      ],
+      "dateOfPublication": [
+        "2006 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2006"
+      ],
+      "printPublicationDate": [
+        "2006-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Eur. J. Pediatr."
+          ],
+          "medlineAbbreviation": [
+            "Eur J Pediatr"
+          ],
+          "NLMid": [
+            "7603873"
+          ],
+          "ISSN": [
+            "0340-6199"
+          ],
+          "ESSN": [
+            "1432-1076"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2006"
+  ],
+  "pageInfo": [
+    "1-389"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "calendar",
+        "Overall",
+        "Congresses"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pediatrics"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2799065?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2799065"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17242961/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/17242961/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00431-006-0349-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2007-10-17"
+  ],
+  "dateOfCreation": [
+    "2007-01-23"
+  ],
+  "dateOfRevision": [
+    "2013-06-06"
+  ],
+  "firstPublicationDate": [
+    "2006-11-01"
+  ]
+}

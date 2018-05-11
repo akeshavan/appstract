@@ -1,0 +1,288 @@
+{
+  "id": [
+    "29545749"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29545749"
+  ],
+  "pmcid": [
+    "PMC5838009"
+  ],
+  "doi": [
+    "10.3389/fphar.2018.00154"
+  ],
+  "title": [
+    "The Associations Between Oxytocin and Trauma in Humans: A Systematic Review."
+  ],
+  "authorString": [
+    "Donadon MF, Martin-Santos R, Osório FL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Donadon MF"
+          ],
+          "firstName": [
+            "Mariana Fortunata"
+          ],
+          "lastName": [
+            "Donadon"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Department of Neuroscience and Behavior, Medical School of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin-Santos R"
+          ],
+          "firstName": [
+            "Rocio"
+          ],
+          "lastName": [
+            "Martin-Santos"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychology, Hospital Clínic, Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Centro de Investigación en Red de Salud Mental (CIBERSAM), Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Osório FL"
+          ],
+          "firstName": [
+            "Flávia de Lima"
+          ],
+          "lastName": [
+            "Osório"
+          ],
+          "initials": [
+            "FL"
+          ],
+          "affiliation": [
+            "Department of Neuroscience and Behavior, Medical School of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2645047"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "154"
+  ],
+  "abstractText": [
+    "Studies have shown that traumatic experiences may affect hormonal systems mediated by the hypothalamic-pituitary-adrenal (HPA) axis and the oxytocinergic system. This effect is the result of long-term impairments in hypothalamic structures and negative feedback mechanisms within the HPA axis, structures that mediate the response to stress. This deregulation reduces the production and release of cortisol and oxytocin (OXT), which may alter stress responses and lead to increased vulnerability to impairments from stressful experiences. The presence of gene polymorphisms might also have an impact on the vulnerability to psychopathology. We made a systematic review of articles dealing with the relationship between OXT and traumatic emotional experiences in humans. Thirty-five studies were reviewed and significant associations between experiences of emotional trauma (ET) and OXT were found. The main results showed that the presence of ET and post-traumatic stress disorder (PTSD) is strongly associated with reductions in endogenous OXT, and also that the acute effects of OXT administrations in individuals with ET tend to be anxiolytic only in less severe forms. In victims of recent traumatic experiences (RTE), OXT increased the re-experience of traumas and restored the function of different neural networks associated with fear control/extinction in PTSD patients. The results available also suggest that gene receptor polymorphisms may have a protective function in different outcomes after the experience of traumatic events. We conclude that the relationship between ET and OXT is multifaceted, complex, and mediated by contextual and individual factors. Directions for future studies are suggested considering the gaps in the available literature."
+  ],
+  "affiliation": [
+    "Department of Neuroscience and Behavior, Medical School of Ribeirão Preto, University of São Paulo, São Paulo, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oxytocin",
+        "Systematic review",
+        "Ptsd",
+        "Prisma",
+        "Early Trauma",
+        "Qualitative Assessment",
+        "Current Trauma"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5838009?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5838009"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2018.00154"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-03-17"
+  ],
+  "dateOfRevision": [
+    "2018-03-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-01"
+  ],
+  "firstPublicationDate": [
+    "2018-03-01"
+  ]
+}

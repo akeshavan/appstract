@@ -1,0 +1,384 @@
+{
+  "id": [
+    "25713523"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25713523"
+  ],
+  "pmcid": [
+    "PMC4322720"
+  ],
+  "doi": [
+    "10.3389/fnhum.2015.00045"
+  ],
+  "title": [
+    "The effects of a Self-Alert Training (SAT) program in adults with ADHD."
+  ],
+  "authorString": [
+    "Salomone S, Fleming GR, Shanahan JM, Castorina M, Bramham J, O'Connell RG, Robertson IH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Salomone S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Salomone"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Fleming GR"
+          ],
+          "firstName": [
+            "Grainne R"
+          ],
+          "lastName": [
+            "Fleming"
+          ],
+          "initials": [
+            "GR"
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Shanahan JM"
+          ],
+          "firstName": [
+            "Jacqueline M"
+          ],
+          "lastName": [
+            "Shanahan"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Castorina M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Castorina"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Bramham J"
+          ],
+          "firstName": [
+            "Jessica"
+          ],
+          "lastName": [
+            "Bramham"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "St. Patrick's University Hospital Dublin, Ireland ; School of Psychology, University College Dublin Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "O'Connell RG"
+          ],
+          "firstName": [
+            "Redmond G"
+          ],
+          "lastName": [
+            "O'Connell"
+          ],
+          "initials": [
+            "RG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6949-2793",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland ; School of Psychology, Trinity College Dublin Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Robertson IH"
+          ],
+          "firstName": [
+            "Ian H"
+          ],
+          "lastName": [
+            "Robertson"
+          ],
+          "initials": [
+            "IH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8637-561X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland ; School of Psychology, Trinity College Dublin Dublin, Ireland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6949-2793",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-8637-561X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2251232"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "45"
+  ],
+  "abstractText": [
+    "Attention-Deficit/Hyperactivity Disorder (ADHD), a neuropsychiatric condition characterized by attention and impulsivity problems, is one of the most common behavioral disorders. The first line of treatment for ADHD is psychostimulant medication, but this has limited effectiveness, particularly in adults, and is often associated with adverse side-effects. Thus, it is imperative that new non-pharmaceutical approaches to treatment are developed. This study aims to evaluate the impact of a non-pharmacological Self-Alert Training (SAT) intervention on ADHD symptom prevalence, psychological and cognitive functioning, and on everyday functional impairment in adults with ADHD. Fifty-one adult participants with a current diagnosis of ADHD were randomized to either SAT or a Control Training (CT) program. They were assessed at baseline, immediately following the 5-week training period, and after 3-months using ADHD symptoms scales, as well as a series of neuropsychological tests and psychological questionnaires. Subjective ratings of everyday life attention and memory problems were also collected. The SAT group showed significant improvements in ADHD inattentive and impulsive symptoms, depressive symptoms and in self-efficacy ratings compared to the CT group at both post-training and at the 3-month assessment. Pre-post improvements in SAT participants on untrained cognitive tasks measuring selective attention and executive functions were also observed. Finally, the SAT group reported improved subjective ratings of everyday life attention at both assessment points. This pattern of results suggests that SAT may be beneficial in treating ADHD symptoms as well as psychological and cognitive impairments in adult ADHD. A large-scale randomized controlled trial (RCT) is needed."
+  ],
+  "affiliation": [
+    "Trinity College Institute of Neuroscience, Lloyd Institute, Trinity College Dublin Dublin, Ireland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Attention",
+        "ADHD",
+        "Biofeedback",
+        "Everyday Life",
+        "Caars",
+        "Self-alert Training"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4322720?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4322720"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2015.00045"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-02-25"
+  ],
+  "dateOfCreation": [
+    "2015-02-25"
+  ],
+  "dateOfRevision": [
+    "2015-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-10"
+  ],
+  "firstPublicationDate": [
+    "2015-02-10"
+  ]
+}

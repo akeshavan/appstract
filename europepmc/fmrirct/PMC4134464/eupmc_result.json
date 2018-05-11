@@ -1,0 +1,496 @@
+{
+  "id": [
+    "25123917"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25123917"
+  ],
+  "pmcid": [
+    "PMC4134464"
+  ],
+  "doi": [
+    "10.1186/1471-2431-14-202"
+  ],
+  "title": [
+    "Neurofeedback in children with attention-deficit/hyperactivity disorder (ADHD)--a controlled multicenter study of a non-pharmacological treatment approach."
+  ],
+  "authorString": [
+    "Holtmann M, Pniewski B, Wachtlin D, Wörz S, Strehl U."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Holtmann M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Holtmann"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Hospital for Child and Adolescent Psychiatry, LWL University Hospital Hamm of the Ruhr-University Bochum, Heithofer Allee 64, 59071 Hamm, Germany. martin.holtmann@wkp-lwl.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Pniewski B"
+          ],
+          "firstName": [
+            "Benjamin"
+          ],
+          "lastName": [
+            "Pniewski"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Wachtlin D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Wachtlin"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Wörz S"
+          ],
+          "firstName": [
+            "Sonja"
+          ],
+          "lastName": [
+            "Wörz"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Strehl U"
+          ],
+          "firstName": [
+            "Ute"
+          ],
+          "lastName": [
+            "Strehl"
+          ],
+          "initials": [
+            "U"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2130622"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Pediatr"
+          ],
+          "NLMid": [
+            "100967804"
+          ],
+          "ISSN": [
+            "1471-2431"
+          ],
+          "ESSN": [
+            "1471-2431"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "202"
+  ],
+  "abstractText": [
+    "BACKGROUND: Attention-deficit/hyperactivity disorder (ADHD) is the most common neurobehavioral disorder of childhood and has often a chronic course persisting into adulthood. However, up to 30% of children treated with stimulants either fail to show an improvement or suffer adverse side effects, including decreased appetite, insomnia and irritability and there is no evidence of long term efficacy of stimulants for ADHD. A series of studies has shown that neurofeedback is an effective additional or alternative treatment for children with ADHD, leading to e.g. significant and stable improvement in behavior, attention and IQ. Significant treatment effects of neurofeedback have also been verified in meta-analyses. Most of the trials, however, have been criticized for methodological difficulties, particularly lacking appropriate control conditions and number of patients included. This randomized study examines the efficacy of slow cortical potentials (SCP) -neurofeedback, controlling unspecific effects of the setting by comparing two active treatment modalities. METHODS/DESIGN: A total of 144 patients with ADHD, older than six and younger than ten years, in some cases with additional pharmacological treatment, are included in this trial. In five trial centres patients are treated either with SCP-feedback or electromyographic (EMG) -feedback in 25 sessions within 3 months. A comprehensive test battery is conducted before and after treatment and at follow-up 6 month later, to assess core symptoms of ADHD, general psychopathology, attentional performance, comorbid symptoms, intelligence, quality of life and cortical arousal. DISCUSSION: The efficacy of SCP-feedback training for children with ADHD is evaluated in this randomized controlled study. In addition to behavior ratings and psychometric tests neurophysiological parameters serve as dependent variables. Further, the choice of EMG-biofeedback as an active control condition is debated. TRIALS REGISTRATION: Current Controlled Trials ISRCTN76187185. Registered 5 February 2009."
+  ],
+  "affiliation": [
+    "Hospital for Child and Adolescent Psychiatry, LWL University Hospital Hamm of the Ruhr-University Bochum, Heithofer Allee 64, 59071 Hamm, Germany. martin.holtmann@wkp-lwl.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Electromyography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Logistic Models"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention Deficit Disorder with Hyperactivity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurofeedback"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4134464?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4134464"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25123917/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25123917/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2431-14-202"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-04-17"
+  ],
+  "dateOfCreation": [
+    "2014-08-18"
+  ],
+  "electronicPublicationDate": [
+    "2014-08-13"
+  ],
+  "firstPublicationDate": [
+    "2014-08-13"
+  ]
+}

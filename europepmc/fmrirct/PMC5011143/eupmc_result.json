@@ -1,0 +1,301 @@
+{
+  "id": [
+    "27656153"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27656153"
+  ],
+  "pmcid": [
+    "PMC5011143"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2016.01331"
+  ],
+  "title": [
+    "Comparing Auditory Noise Treatment with Stimulant Medication on Cognitive Task Performance in Children with Attention Deficit Hyperactivity Disorder: Results from a Pilot Study."
+  ],
+  "authorString": [
+    "Söderlund GB, Björk C, Gustafsson P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Söderlund GB"
+          ],
+          "firstName": [
+            "Göran B W"
+          ],
+          "lastName": [
+            "Söderlund"
+          ],
+          "initials": [
+            "GB"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5941-8431",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Teacher Education and Sport, Sogn og Fjordane University College Sogndal, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Björk C"
+          ],
+          "firstName": [
+            "Christer"
+          ],
+          "lastName": [
+            "Björk"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Pupil Welfare, Municipality of Skellefteå Skellefteå, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Gustafsson P"
+          ],
+          "firstName": [
+            "Peik"
+          ],
+          "lastName": [
+            "Gustafsson"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Child and Adolescent Psychiatry, Department of Clinical Sciences, Lund University Lund, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5941-8431",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2374598"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1331"
+  ],
+  "abstractText": [
+    "Recent research has shown that acoustic white noise (80 dB) can improve task performance in people with attention deficits and/or Attention Deficit Hyperactivity Disorder (ADHD). This is attributed to the phenomenon of stochastic resonance in which a certain amount of noise can improve performance in a brain that is not working at its optimum. We compare here the effect of noise exposure with the effect of stimulant medication on cognitive task performance in ADHD. The aim of the present study was to compare the effects of auditory noise exposure with stimulant medication for ADHD children on a cognitive test battery. A group of typically developed children (TDC) took the same tests as a comparison.Twenty children with ADHD of combined or inattentive subtypes and twenty TDC matched for age and gender performed three different tests (word recall, spanboard and n-back task) during exposure to white noise (80 dB) and in a silent condition. The ADHD children were tested with and without central stimulant medication.In the spanboard- and the word recall tasks, but not in the 2-back task, white noise exposure led to significant improvements for both non-medicated and medicated ADHD children. No significant effects of medication were found on any of the three tasks.This pilot study shows that exposure to white noise resulted in a task improvement that was larger than the one with stimulant medication thus opening up the possibility of using auditory noise as an alternative, non-pharmacological treatment of cognitive ADHD symptoms."
+  ],
+  "affiliation": [
+    "Faculty of Teacher Education and Sport, Sogn og Fjordane University College Sogndal, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "White noise",
+        "Stochastic Resonance",
+        "ADHD",
+        "Cognitive Performance",
+        "Stimulant Medication"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5011143?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5011143"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2016.01331"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-09-22"
+  ],
+  "dateOfCreation": [
+    "2016-09-22"
+  ],
+  "dateOfRevision": [
+    "2016-09-24"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-05"
+  ],
+  "firstPublicationDate": [
+    "2016-09-05"
+  ]
+}

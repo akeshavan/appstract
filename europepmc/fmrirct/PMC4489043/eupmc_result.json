@@ -1,0 +1,700 @@
+{
+  "id": [
+    "26138726"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26138726"
+  ],
+  "pmcid": [
+    "PMC4489043"
+  ],
+  "doi": [
+    "10.1186/s12888-015-0515-9"
+  ],
+  "title": [
+    "Investigating neural mechanisms of change of cognitive behavioural therapy for chronic fatigue syndrome: a randomized controlled trial."
+  ],
+  "authorString": [
+    "van Der Schaaf ME, Schmits IC, Roerink M, Geurts DE, Toni I, Roelofs K, De Lange FP, Nater UM, van der Meer JW, Knoop H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van Der Schaaf ME"
+          ],
+          "firstName": [
+            "Marieke E"
+          ],
+          "lastName": [
+            "van Der Schaaf"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Donders Institute, Centre for neuroimaging, Kapittelweg 29, P.O. Box 9101, NL-6500 HB, Nijmegen, The Netherlands. marieke.vanderschaaf@donders.ru.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Schmits IC"
+          ],
+          "firstName": [
+            "Iris C"
+          ],
+          "lastName": [
+            "Schmits"
+          ],
+          "initials": [
+            "IC"
+          ],
+          "affiliation": [
+            "Radboud University Medical Center, Expert Centre for Chronic Fatigue, Nijmegen, The Netherlands. iris.schmits@radboudumc.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Roerink M"
+          ],
+          "firstName": [
+            "Megan"
+          ],
+          "lastName": [
+            "Roerink"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, Radboud University Medical Center, Nijmegen, The Netherlands. Megan.Roerink@radboudumc.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Geurts DE"
+          ],
+          "firstName": [
+            "Dirk E M"
+          ],
+          "lastName": [
+            "Geurts"
+          ],
+          "initials": [
+            "DE"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Radboud University Medical Centre, Nijmegen, The Netherlands. dirk.e.m.geurts@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Toni I"
+          ],
+          "firstName": [
+            "Ivan"
+          ],
+          "lastName": [
+            "Toni"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0936-3601",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Donders Institute for Brain, Cognition, and Behaviour, Centre for Neuroimaging, Radboud University Nijmegen, Nijmegen, The Netherlands. ivan.toni@donders.ru.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Roelofs K"
+          ],
+          "firstName": [
+            "Karin"
+          ],
+          "lastName": [
+            "Roelofs"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Behavioral Science Institute (BSI), Radboud University Nijmegen, Nijmegen, The Netherlands. k.roelofs@donders.ru.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "De Lange FP"
+          ],
+          "firstName": [
+            "Floris P"
+          ],
+          "lastName": [
+            "De Lange"
+          ],
+          "initials": [
+            "FP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6730-1452",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Donders Institute for Brain, Cognition, and Behaviour, Centre for Neuroimaging, Radboud University Nijmegen, Nijmegen, The Netherlands. floris.delange@donders.ru.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Nater UM"
+          ],
+          "firstName": [
+            "Urs M"
+          ],
+          "lastName": [
+            "Nater"
+          ],
+          "initials": [
+            "UM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2430-5090",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Marburg, Marburg, Germany. nater@uni-marburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Meer JW"
+          ],
+          "firstName": [
+            "Jos W M"
+          ],
+          "lastName": [
+            "van der Meer"
+          ],
+          "initials": [
+            "JW"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine, Radboud University Medical Center, Nijmegen, The Netherlands. Jos.vanderMeer@radboudumc.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Knoop H"
+          ],
+          "firstName": [
+            "Hans"
+          ],
+          "lastName": [
+            "Knoop"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7763-3517",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Radboud University Medical Center, Expert Centre for Chronic Fatigue, Nijmegen, The Netherlands. hans.knoop@radboudumc.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6730-1452",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0936-3601",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7763-3517",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2430-5090",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2269475"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "144"
+  ],
+  "abstractText": [
+    "Chronic fatigue syndrome (CFS) is characterized by profound and disabling fatigue with no known somatic explanation. Cognitive behavioral therapy (CBT) has proven to be a successful intervention leading to a reduction in fatigue and disability. Based on previous neuroimaging findings, it has been suggested that central neural mechanisms may underlie CFS symptoms and play a role in the change brought on by CBT. In this randomized controlled trial we aim to further investigate the neural mechanisms that underlie fatigue in CFS and their change by CBT.We will conduct a randomized controlled trial in which we collect anatomical and functional magnetic resonance imaging (MRI) measures from female CFS patients before and after CBT (N = 60) or waiting list (N = 30) and compare these with measures from age and education matched healthy controls (N = 30). By including a large treatment group we will also be able to compare patients that benefit from CBT with those that do not. In addition, to further investigate the role of endocrine and immune biomarkers in CFS, we will determine cortisol and cytokine concentrations in blood, hair and/or saliva.This project creates an unique opportunity to enhance our understanding of CFS symptoms and its change by CBT in terms of neuroanatomical, neurofunctional, endocrinological and immunological mechanisms and can help to further improve future treatments strategies.Dutch Trial Register #15852. Registered 9 December 2013 ( http://www.trialregister.nl/trialreg/admin/rctview.asp?TC=4311 )."
+  ],
+  "affiliation": [
+    "Donders Institute, Centre for neuroimaging, Kapittelweg 29, P.O. Box 9101, NL-6500 HB, Nijmegen, The Netherlands. marieke.vanderschaaf@donders.ru.nl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Fatigue Syndrome, Chronic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Monitoring, Physiologic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Outcome Assessment (Health Care)"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biomarkers"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AN"
+                  ],
+                  "qualifierName": [
+                    "analysis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Biomarkers"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4489043?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4489043"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-015-0515-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-01-08"
+  ],
+  "dateOfCreation": [
+    "2015-07-03"
+  ],
+  "dateOfRevision": [
+    "2015-07-07"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-03"
+  ],
+  "firstPublicationDate": [
+    "2015-07-03"
+  ]
+}

@@ -1,0 +1,1168 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v2.3 20070202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing.dtd?><?SourceDTD.Version 2.3?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nutrients</journal-id><journal-id journal-id-type="iso-abbrev">Nutrients</journal-id><journal-id journal-id-type="publisher-id">nutrients</journal-id><journal-title-group><journal-title>Nutrients</journal-title></journal-title-group><issn pub-type="epub">2072-6643</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5133084</article-id><article-id pub-id-type="doi">10.3390/nu8110697</article-id><article-id pub-id-type="publisher-id">nutrients-08-00697</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group></article-categories><title-group><article-title>Relationship between Added Sugars Consumption and Chronic Disease Risk Factors: Current Understanding</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Rippe</surname><given-names>James M.</given-names></name><xref ref-type="aff" rid="af1-nutrients-08-00697">1</xref><xref ref-type="aff" rid="af2-nutrients-08-00697">2</xref><xref rid="c1-nutrients-08-00697" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Angelopoulos</surname><given-names>Theodore J.</given-names></name><xref ref-type="aff" rid="af3-nutrients-08-00697">3</xref></contrib></contrib-group><aff id="af1-nutrients-08-00697"><label>1</label>Rippe Lifestyle Institute, Quinsigamond Avenue, Shrewsbury, MA 01545, USA</aff><aff id="af2-nutrients-08-00697"><label>2</label>Department of Biomedical Sciences, University of Central Florida, Orlando, FL 32826, USA</aff><aff id="af3-nutrients-08-00697"><label>3</label>School of Health Sciences, Emory &#x00026; Henry College, Emory, VA 24327, USA; <email>tangelopoulos@ehc.edu</email></aff><author-notes><corresp id="c1-nutrients-08-00697"><label>*</label>Correspondence: <email>jrippe@rippelifestyle.com</email>; Tel.: +1-508-756-1306</corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>11</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>11</month><year>2016</year></pub-date><volume>8</volume><issue>11</issue><elocation-id>697</elocation-id><history><date date-type="received"><day>17</day><month>8</month><year>2016</year></date><date date-type="accepted"><day>25</day><month>10</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Added sugars are a controversial and hotly debated topic. Consumption of added sugars has been implicated in increased risk of a variety of chronic diseases including obesity, cardiovascular disease, diabetes and non-alcoholic fatty liver disease (NAFLD) as well as cognitive decline and even some cancers. Support for these putative associations has been challenged, however, on a variety of fronts. The purpose of the current review is to summarize high impact evidence including systematic reviews, meta-analyses, and randomized controlled trials (RCTs), in an attempt to provide an overview of current evidence related to added sugars and health considerations. This paper is an extension of a symposium held at the Experimental Biology 2015 conference entitled &#x0201c;Sweeteners and Health: Current Understandings, Controversies, Recent Research Findings and Directions for Future Research&#x0201d;. We conclude based on high quality evidence from randomized controlled trials (RCT), systematic reviews and meta-analyses of cohort studies that singling out added sugars as unique culprits for metabolically based diseases such as obesity, diabetes and cardiovascular disease appears inconsistent with modern, high quality evidence and is very unlikely to yield health benefits. While it is prudent to consume added sugars in moderation, the reduction of these components of the diet without other reductions of caloric sources seems unlikely to achieve any meaningful benefit.</p></abstract><kwd-group><kwd>sucrose</kwd><kwd>high fructose corn syrup</kwd><kwd>diabetes</kwd><kwd>cardiovascular disease</kwd><kwd>obesity</kwd></kwd-group></article-meta></front><body><sec id="sec1-nutrients-08-00697"><title>1. Introduction</title><p>An ancient Hindu fable tells of six learned blind men who approach an elephant. All are highly esteemed, but all are blind. The first blind man approaches the elephant and happens to bump up against its broad and sturdy side and declares &#x0201c;the elephant is very like a wall!&#x0201d; The second blind man feels the tusk and cries an elephant is &#x0201c;very much like a spear!&#x0201d; The third happens to grab the elephant&#x02019;s squirming trunk in his hands and boldly declares the elephant is &#x0201c;very like a snake!&#x0201d; The fourth blind man palpates the leg of the elephant and declares &#x0201c;it is clear the elephant is very like a tree!&#x0201d; The fifth blind man who happens to touch the elephant&#x02019;s ear declares &#x0201c;even the blindest man can tell that the elephant is very like a fan&#x0201d;. The sixth blind man happens to grasp the swinging tail and declares to his comrades the elephant is &#x0201c;very like a rope!&#x0201d;</p><p>What then ensues is a long, passionate argument filled with heated dispute amongst these learned men which gets them nowhere. Although each is partly right, none of them has seen the whole picture (while learned, they are blind, after all!). This fable has been utilized in many different eras and many different cultures to recount arguments in areas as diverse as theology and politics. It illustrates the inaccuracy of seeing only a part of a subject and assuming that it is the whole. It is a cautionary tale that even learned men can sometimes be misled by their preconceived notions or only seeing a portion of the whole.</p><p>In the complex world of nutrition and particularly in the study of how the foods we eat relate to such chronic conditions as obesity, diabetes and cardiovascular disease (CVD), we are somewhat like the six blind men. Each of us sees a part of the complex puzzle and may assure our colleagues that, in fact, we have solved the entire riddle for how nutrition relates to various disease processes.</p><p>The scientific and medical communities have gone down the road of speculating cause and effect without conclusive evidence many times. We blamed salt consumption for contributing to hypertension [<xref rid="B1-nutrients-08-00697" ref-type="bibr">1</xref>], yet recent evidence suggests that this relationship is far more complex [<xref rid="B2-nutrients-08-00697" ref-type="bibr">2</xref>,<xref rid="B3-nutrients-08-00697" ref-type="bibr">3</xref>]. We blamed dietary cholesterol for contributing to heart disease and warned a generation of Americans to avoid eating egg yolks, although that advice has subsequently been found to lack scientific justification [<xref rid="B4-nutrients-08-00697" ref-type="bibr">4</xref>].</p><p>The latest b&#x000ea;te noire in nutrition is sweeteners, whether they be nutritive sweeteners, in general, and fructose containing sugars, in particular, or non-nutritive sweeteners (NNS). With the issue of sweeteners, the scientific community faces the problem of trying to offer advice without seeing the totality of the picture, much like the blind men approaching the elephant. It is time to pause and try to see the entire elephant.</p><p>This article is based on a symposium conducted at the Experimental Biology Meeting in March 2015, entitled &#x0201c;Sweeteners and Health: Current understandings, controversies, recent research findings and directions for future research&#x0201d;. It is our hope that by providing a broad approach to high level evidence related to nutritive sweeteners, we can begin to get a clearer picture of the entire &#x0201c;elephant&#x0201d; about sweeteners and health rather than concluding that the health effects are due to a single component.</p><p>Added sugars are among the most controversial and hotly debated topics in all of nutrition [<xref rid="B5-nutrients-08-00697" ref-type="bibr">5</xref>,<xref rid="B6-nutrients-08-00697" ref-type="bibr">6</xref>,<xref rid="B7-nutrients-08-00697" ref-type="bibr">7</xref>,<xref rid="B8-nutrients-08-00697" ref-type="bibr">8</xref>,<xref rid="B9-nutrients-08-00697" ref-type="bibr">9</xref>,<xref rid="B10-nutrients-08-00697" ref-type="bibr">10</xref>,<xref rid="B11-nutrients-08-00697" ref-type="bibr">11</xref>,<xref rid="B12-nutrients-08-00697" ref-type="bibr">12</xref>,<xref rid="B13-nutrients-08-00697" ref-type="bibr">13</xref>,<xref rid="B14-nutrients-08-00697" ref-type="bibr">14</xref>,<xref rid="B15-nutrients-08-00697" ref-type="bibr">15</xref>,<xref rid="B16-nutrients-08-00697" ref-type="bibr">16</xref>,<xref rid="B17-nutrients-08-00697" ref-type="bibr">17</xref>,<xref rid="B18-nutrients-08-00697" ref-type="bibr">18</xref>,<xref rid="B19-nutrients-08-00697" ref-type="bibr">19</xref>,<xref rid="B20-nutrients-08-00697" ref-type="bibr">20</xref>,<xref rid="B21-nutrients-08-00697" ref-type="bibr">21</xref>,<xref rid="B22-nutrients-08-00697" ref-type="bibr">22</xref>]. Consumption of added sugars has been associated with increased risk of obesity [<xref rid="B23-nutrients-08-00697" ref-type="bibr">23</xref>,<xref rid="B24-nutrients-08-00697" ref-type="bibr">24</xref>,<xref rid="B25-nutrients-08-00697" ref-type="bibr">25</xref>] as well as increased risk factors for cardiovascular disease (CVD) [<xref rid="B26-nutrients-08-00697" ref-type="bibr">26</xref>], including dyslipidemia [<xref rid="B27-nutrients-08-00697" ref-type="bibr">27</xref>,<xref rid="B28-nutrients-08-00697" ref-type="bibr">28</xref>], elevated blood pressure [<xref rid="B20-nutrients-08-00697" ref-type="bibr">20</xref>,<xref rid="B29-nutrients-08-00697" ref-type="bibr">29</xref>,<xref rid="B30-nutrients-08-00697" ref-type="bibr">30</xref>], diabetes [<xref rid="B21-nutrients-08-00697" ref-type="bibr">21</xref>,<xref rid="B31-nutrients-08-00697" ref-type="bibr">31</xref>,<xref rid="B32-nutrients-08-00697" ref-type="bibr">32</xref>], non-alcoholic fatty liver disease [<xref rid="B33-nutrients-08-00697" ref-type="bibr">33</xref>,<xref rid="B34-nutrients-08-00697" ref-type="bibr">34</xref>], and even cognitive decline [<xref rid="B35-nutrients-08-00697" ref-type="bibr">35</xref>] and cancer [<xref rid="B36-nutrients-08-00697" ref-type="bibr">36</xref>,<xref rid="B37-nutrients-08-00697" ref-type="bibr">37</xref>]. Data to support these assertions, however, have been challenged consistently. Often these assertions have been based on research trials which provide added sugars in dosages well above those typically found in human consumption (supraphysiological) [<xref rid="B12-nutrients-08-00697" ref-type="bibr">12</xref>]. Studies comparing pure fructose to pure glucose, neither which is consumed to any appreciable degree in the human diet, have also been extrapolated to human nutrition [<xref rid="B38-nutrients-08-00697" ref-type="bibr">38</xref>,<xref rid="B39-nutrients-08-00697" ref-type="bibr">39</xref>]. Although, some trials have compared sucrose to glucose or starch in isocaloric exchange and demonstrated harm with regard to sucrose in insulin/glucose markers and prediabetes/diabetes. Speculation about chronic conditions based on acute data has frequently been employed [<xref rid="B40-nutrients-08-00697" ref-type="bibr">40</xref>]. Theoretical models, epidemiologic studies which do not establish cause and effect [<xref rid="B31-nutrients-08-00697" ref-type="bibr">31</xref>,<xref rid="B32-nutrients-08-00697" ref-type="bibr">32</xref>,<xref rid="B41-nutrients-08-00697" ref-type="bibr">41</xref>] or data from animal models which can translate poorly to humans particularly in the areas of nutrition, metabolism, and behavior have further clouded the debate [<xref rid="B42-nutrients-08-00697" ref-type="bibr">42</xref>,<xref rid="B43-nutrients-08-00697" ref-type="bibr">43</xref>,<xref rid="B44-nutrients-08-00697" ref-type="bibr">44</xref>,<xref rid="B45-nutrients-08-00697" ref-type="bibr">45</xref>]. Further controversy has arisen from failure by investigators to clearly acknowledge the limitations of their studies, and misinterpretation or overly simplistic interpretations by media or failure to acknowledge the totality of the evidence often for political reasons or recognition.</p><p>A vast amount of literature has been generated, particularly over the past decade, exploring potential linkages between added sugars and various health related conditions. The purpose of this review is to survey some of the modern science, particularly from high quality research trials such as randomized controlled trials, systematic reviews and meta-analyses, in an attempt to provide some clarity in this controversial area. Literature reviews in this manuscript were drawn from articles cited in the World Health Organization report commissioned by Te Morenga et al. [<xref rid="B46-nutrients-08-00697" ref-type="bibr">46</xref>], articles included in meta-analyses and systematic reviews utilized by the Scientific Advisory Committee on Nutrition (SACN) [<xref rid="B47-nutrients-08-00697" ref-type="bibr">47</xref>], references utilized by the Dietary Guidelines for Americans 2015&#x02013;2020 [<xref rid="B48-nutrients-08-00697" ref-type="bibr">48</xref>], the American Heart Association statement on Carbohydrates and Cardiovascular Disease Risk [<xref rid="B49-nutrients-08-00697" ref-type="bibr">49</xref>] and randomized controlled trials conducted in the research laboratory of the two authors.</p></sec><sec id="sec2-nutrients-08-00697"><title>2. Levels of Evidence</title><p>Any discussion of health consequences related to added sugars and NNSs must take into account levels of evidence. According to guidelines published both in the United Kingdom and by the US Department of Agriculture (as depicted in <xref ref-type="fig" rid="nutrients-08-00697-f001">Figure 1</xref>), the evidence that has the least likelihood of bias is systematic reviews and meta-analyses of randomized controlled trials (RCTs) followed by randomized controlled trials [<xref rid="B50-nutrients-08-00697" ref-type="bibr">50</xref>]. It should be noted, however, that randomized controlled trials are difficult to apply in the area of nutrition because of the complexity of the field and potential for confounding. Cohort studies (see <xref ref-type="table" rid="nutrients-08-00697-t001">Table 1</xref>) and cross-sectional studies are more prone to bias because of confounding factors that cannot be controlled with this study design. Expert opinion is considered prone to bias as are ecological studies [<xref rid="B50-nutrients-08-00697" ref-type="bibr">50</xref>].</p></sec><sec id="sec3-nutrients-08-00697"><title>3. Controversies Related to Metabolism of Fructose Containing Sugars</title><p>Many of the controversies related to fructose related sugars are based on the well-known differences between metabolism of fructose and glucose in the liver [<xref rid="B62-nutrients-08-00697" ref-type="bibr">62</xref>]. Over 90% of fructose ingested is absorbed through the small intestine and metabolized in the liver on first pass. In contrast, glucose is metabolized by a variety of organs. It is important to note, however, that the pathways are interactive. Numerous studies including isotope studies have shown that roughly 50% of fructose is converted to glucose within the liver. An additional 15%&#x02013;20% is converted to glycogen, 20%&#x02013;25% to lactate, and a few percent to carbon dioxide [<xref rid="B62-nutrients-08-00697" ref-type="bibr">62</xref>,<xref rid="B63-nutrients-08-00697" ref-type="bibr">63</xref>]. Multiple studies have shown that only 1%&#x02013;5% of consumed fructose may follow the pathway of de novo lipogenesis and be converted into free fatty acids which are then packaged as triglycerides and either stored in the liver or released in the bloodstream [<xref rid="B62-nutrients-08-00697" ref-type="bibr">62</xref>,<xref rid="B64-nutrients-08-00697" ref-type="bibr">64</xref>,<xref rid="B65-nutrients-08-00697" ref-type="bibr">65</xref>]. Some short-term data with very large doses of pure fructose have suggested that increases in liver fat can be achieved over a short period of time; Faeh et al. gave seven healthy men six days of a high fructose diet comprising an extra 25% of total calories and demonstrated suppression of adipose tissue lipolysis [<xref rid="B66-nutrients-08-00697" ref-type="bibr">66</xref>].</p><p>Schwarz et al. utilizing a diet with 25% pure fructose demonstrated increased fractional hepatic DNL and liver fat [<xref rid="B67-nutrients-08-00697" ref-type="bibr">67</xref>]. Schwarz et al. studied 25 Latino children and 15 African American children and demonstrated over a ten-day period that replacing high fructose products with vegetables, bread or pasta demonstrated decreased liver fat in this population [<xref rid="B68-nutrients-08-00697" ref-type="bibr">68</xref>].</p><p>In certain animals, de novo lipogenesis can be a major pathway [<xref rid="B69-nutrients-08-00697" ref-type="bibr">69</xref>]. In humans, it is minimal. Some investigators have misinterpreted the effect of this pathway in humans to contend that fructose consumption can result in increased risk of non-alcoholic fatty liver disease (NAFLD) and insulin resistance [<xref rid="B15-nutrients-08-00697" ref-type="bibr">15</xref>].</p><p>The modern challenge to fructose, in retrospect, came from an opinion piece published in 2004 in the American Journal of Clinical Nutrition by Bray, Nielson and Popkin which asserted that &#x0201c;the increase in consumption of HFCS has a temporal relation to the epidemic of obesity, and the overconsumption of HFCS in calorically sweetened beverages may play a role in the epidemic of obesity&#x0201d; [<xref rid="B8-nutrients-08-00697" ref-type="bibr">8</xref>]. The authors were careful to point out that this temporal association did not establish cause and effect. It was widely misinterpreted by other scientists and the public at large to suggest that there was something unique about HFCS related to obesity. Subsequent research has shown that HFCS and sucrose have indistinguishable metabolic effects and health consequences in human beings [<xref rid="B70-nutrients-08-00697" ref-type="bibr">70</xref>,<xref rid="B71-nutrients-08-00697" ref-type="bibr">71</xref>,<xref rid="B72-nutrients-08-00697" ref-type="bibr">72</xref>].</p><p>It is also worth noting that sugar consumption has declined significantly in the United States, Britain, Canada, and Australia at a time when obesity rates have continued to rise. This was first reported in Australia and has become known as the &#x0201c;Australian Paradox&#x0201d; [<xref rid="B73-nutrients-08-00697" ref-type="bibr">73</xref>]. Furthermore, Mozaffarian et al. reported the impact of increased servings of different food and weight change over a four-year interval by combining Nurses&#x02019; Health Study (NHSI) (1986&#x02013;2006), NHSII (1991&#x02013;2003), and the Health Professionals Follow-up Study (1986&#x02013;2006) for a combined cohort of a 120,877 people. After multivariable-adjustment for age, Body Mass Index (BMI), sleep, physical activity, alcohol, television watching, smoking and all other dietary factors (French fries, potato chips, processed meat and red meats) all resulted in more weight gain over each four year period than did sugar sweetened beverages (SSB) [<xref rid="B74-nutrients-08-00697" ref-type="bibr">74</xref>]. These data should be treated with some caution since they come from cohort studies and do not represent a randomized controlled trial. It may be that all of these food products are simply markers for an overall diet that is energy dense and that it is the overall diet pattern, and not any individual component of it, that is associated with weight gain.</p></sec><sec id="sec4-nutrients-08-00697"><title>4. Effects of Sugars on Body Weight and Body Composition</title><p>It has been argued that consumption of sugars may predispose individuals to increase in adiposity, weight gain and ultimately overweight and obesity. A number of randomized controlled trials (RCT) have been performed exploring sugar consumption and weight. These RCTs have been aggregated in four recent meta-analyses, however, these studies employ different inclusion and exclusion criteria and reported different summary endpoint estimates and conclusions [<xref rid="B46-nutrients-08-00697" ref-type="bibr">46</xref>,<xref rid="B75-nutrients-08-00697" ref-type="bibr">75</xref>,<xref rid="B76-nutrients-08-00697" ref-type="bibr">76</xref>,<xref rid="B77-nutrients-08-00697" ref-type="bibr">77</xref>] (See <xref ref-type="table" rid="nutrients-08-00697-t002">Table 2</xref>). Sievenpiper et al. [<xref rid="B76-nutrients-08-00697" ref-type="bibr">76</xref>] and Te Morenga et al. [<xref rid="B46-nutrients-08-00697" ref-type="bibr">46</xref>] looked at isocaloric exchange of either sugar or fructose with other macronutrients to assess effect of body weight in adults. Neither of these analyses showed significant effect of either sugar or fructose on body weight. With regard to sugars and weight loss Te Morenga et al. reviewed RCTs to examine whether or not the effect of weight and calories from sugars are reduced [<xref rid="B46-nutrients-08-00697" ref-type="bibr">46</xref>]. These investigators performed meta-analyses on five trials in children and demonstrated no significance in isocaloric trials of children and adults. A meta-analysis by Malik et al. found two of five trials resulted in significant weight loss resulting from a reduction in sugar calories in one model but not another [<xref rid="B77-nutrients-08-00697" ref-type="bibr">77</xref>]. It should be pointed out that in the trials that were meta-analyzed, subjects consumed not only less calories from sugar, but less total energy. Thus, it is not clear that the weight loss resulted from reduction in calories from sugar.</p><p>These four research groups also conducted meta-analyses in studies where an increased amount of sugar calories was given to adults who were consuming ad libitum diets. All four meta-analyses reported significant weight gain in this model although individual studies often did not. Thus, it is not clear whether the change in weight was due to an increase in the total number of calories consumed or some unique property of sugars. Recent meta-analyses by Dolan et al. of interventional studies utilizing the FDA Guidance for Evidence-Based Review both in normal weight [<xref rid="B78-nutrients-08-00697" ref-type="bibr">78</xref>] and obese individuals [<xref rid="B79-nutrients-08-00697" ref-type="bibr">79</xref>] did not support a link between obesity and fructose consumption with amounts up to the 90th percentile population consumption for fructose.</p><p>The report of the SACN in the UK, which is based on an extensive series of systematic reviews conducted according to clearly stated quality standards, reported that high levels of free sugar consumption were associated with excess energy intake [<xref rid="B47-nutrients-08-00697" ref-type="bibr">47</xref>]. Thus, weight gain in these studies could not be separated from calorie intake and could not be attributed to any unique property of free sugars. Although it could be argued that free sugar consumption may predispose to excess calorie intake. It has also been reported that fructose containing sugars may predispose individuals to abdominal weight gain [<xref rid="B80-nutrients-08-00697" ref-type="bibr">80</xref>,<xref rid="B81-nutrients-08-00697" ref-type="bibr">81</xref>]. If this were true, it would represent a significant increased risk for both diabetes and the metabolic syndrome. Stanhope et al. reported a research trial comparing 25% of calories from fructose to 25% of calories from glucose [<xref rid="B81-nutrients-08-00697" ref-type="bibr">81</xref>]. Individuals in the fructose arm, over a 10-week period, increased their visceral abdominal fat. However, it should be noted that individuals also gained an average of two pounds over the course of this study. Furthermore, significance in abdominal weight gain occurred only pre-to-post in the fructose arm and this was not compared to the glucose arm. When this more appropriate glucose to fructose comparison was made, the significance disappeared. Maersk et al. [<xref rid="B80-nutrients-08-00697" ref-type="bibr">80</xref>] conducted a six-month study comparing one liter per day of sugar sweetened beverage versus comparable amounts of diet beverage, 1% milk, and water. These investigators reported that individuals in the sugar sweetened beverage group increased visceral abdominal fat compared to the other groups. It should be noted, however, that individuals also gained weight in this study which represents a confounding variable.</p><p>Three recent RCTs have been conducted employing slightly different strategies have explored aspects of sugar consumption and weight change. In one study, consumption of average amounts of fructose containing sugars for adults (HFCS or sucrose) did not result in increased body weight over a ten-week, free living trial [<xref rid="B51-nutrients-08-00697" ref-type="bibr">51</xref>]. In another study, mean amounts of these sugars were utilized as part of an overall hypocaloric diet and did not inhibit weight loss [<xref rid="B52-nutrients-08-00697" ref-type="bibr">52</xref>]. Of note, there were no differences between 10% and 20% of either HFCS or sucrose. In a larger trial involving 355 men and women who consumed either 8%, 18% or 30% of kcals/day of either sucrose or HFCS as part of a mixed nutrient diet, individuals gained an average of slightly over two pounds over a ten-week period. However, most of this was driven by the 30% kcals per day (above the 95% population consumption for fructose) [<xref rid="B53-nutrients-08-00697" ref-type="bibr">53</xref>]. At the end of the study, individuals consumed an average of more than 200 kcals/day compared to baseline. Thus, this should be viewed as a hypercaloric trial.</p><p>Fructose containing sugars led to the expected weight loss (with some exceptions in children) in subtraction trials which suggests that fructose containing sugars do not behave differently from other macronutrients (mainly starch) when comparisons are matched for calories. Another approach to this issue may be obtained from an <italic>ad libitum</italic> trial design where fructose containing sugars were freely replaced with other sources of energy in the diet and no strict control of the amount of sugars in the background diet occurred. CArbohydrate Ratio Management in European National Diets (CARMEN) trial [<xref rid="B84-nutrients-08-00697" ref-type="bibr">84</xref>] is the largest and longest trial using such a design. This diet compared ad libitum high complex carbohydrate diet to an ad libitum higher fat control trial in 398 obese individuals studied for over six months. Both ad libitum diets resulted in lost weight. There was no significant different between the ad libitum high sugars diet and the ad libitum high complex carbohydrate diet. There was a non-significant tendency toward greater weight loss in the latter. This trial also showed that under free living conditions it is possible to lose weight following an ad libitum high sugars diet employing a strategy to freely replace energy from high fructose containing sugars with other sources of energy in the diet. It also demonstrates that there is not clear advantage for reducing sugars as compared to fat in the diet [<xref rid="B46-nutrients-08-00697" ref-type="bibr">46</xref>,<xref rid="B75-nutrients-08-00697" ref-type="bibr">75</xref>,<xref rid="B76-nutrients-08-00697" ref-type="bibr">76</xref>,<xref rid="B77-nutrients-08-00697" ref-type="bibr">77</xref>]. Given the complexity of weight gain and energy regulation it is unlikely that one component of the diet significantly impacts upon this problem. In fact, the consensus statement from the American Society of Nutrition on energy regulation specifically warns against isolating one component of the diet and blaming it for obesity [<xref rid="B85-nutrients-08-00697" ref-type="bibr">85</xref>]. Moreover, a large body of literature associates both increased caloric consumption from all sources [<xref rid="B86-nutrients-08-00697" ref-type="bibr">86</xref>] and decreased physical activity [<xref rid="B87-nutrients-08-00697" ref-type="bibr">87</xref>] as major components of weight gain. Indeed, the average American consumed 454 more calories in 2010 compared with 1970. Of these additional calories, 93% came from increased consumption of flour and cereal products or fats while only 7% (39 additional calories) came from all sugars combined. The percentage of calories from sugar in the diet in the United States actually declined from 19% to 17% over this period [<xref rid="B88-nutrients-08-00697" ref-type="bibr">88</xref>]. It should be pointed out, however, that sugars may provide excess energy due to their hedonic properties. In addition, increased sugars intake in some individuals may be a marker for an overall less healthy, energy dense diet.</p><p>The recent literature on the impact of added sugars on obesity and weight gain or weight loss remains in dispute. Most of the RCTs suggest that weight gain occurs only in hypercaloric trials and suggests that overall caloric consumption is likely to be a larger contributor to weight gain than any unique property of sugars [<xref rid="B74-nutrients-08-00697" ref-type="bibr">74</xref>,<xref rid="B75-nutrients-08-00697" ref-type="bibr">75</xref>].</p></sec><sec id="sec5-nutrients-08-00697"><title>5. Risk Factors for Diabetes</title><p>Considerable confusion exists with regard to the potential impact of added sugars on risk factors for diabetes. A great deal of attention was paid to this issue in the media following two ecological studies which suggested that availability of sugars correlated with increased risk of diabetes [<xref rid="B31-nutrients-08-00697" ref-type="bibr">31</xref>,<xref rid="B32-nutrients-08-00697" ref-type="bibr">32</xref>]. These types of ecological studies, however, must be treated with great caution. Ecological studies are considered one of the lowest forms of evidence. Furthermore, these studies have been criticized on a variety of technical grounds. In one ecological study, Goran et al. [<xref rid="B32-nutrients-08-00697" ref-type="bibr">32</xref>] reported that diabetes prevalence was 20% higher in European Union (EU) countries with higher availability of HFCS compared to countries with low availability. As noted by van Buul et al. however, HFCS consumption data in EU countries reported in this study were, in fact, not consumption data at all but production data [<xref rid="B5-nutrients-08-00697" ref-type="bibr">5</xref>]. Since HFCS travels freely across EU borders, production data cannot be assumed to be the equivalent of consumption data. In another ecological study, Basu et al. used food supply data from the UNFAO to determine market availability of different food items worldwide and concluded that sugar availability was associated with higher diabetes prevalence. Market availability of food, however, is a highly unreliable indicator of sugar consumption [<xref rid="B6-nutrients-08-00697" ref-type="bibr">6</xref>].</p><p>Prospective cohort studies have not documented a direct relationship between fructose and diabetes [<xref rid="B89-nutrients-08-00697" ref-type="bibr">89</xref>]. Pooled analysis of these cohorts did reveal that SSBs as a source of free sugar are associated with an increased risk of diabetes only when comparing highest and lowest levels of exposure [<xref rid="B22-nutrients-08-00697" ref-type="bibr">22</xref>,<xref rid="B90-nutrients-08-00697" ref-type="bibr">90</xref>]. Pooled analyses of these cohorts, however, for total sugars, total sucrose, and total fructose have not yielded the same relationship [<xref rid="B91-nutrients-08-00697" ref-type="bibr">91</xref>]. In addition, systematic reviews and meta-analyses of sugar and diabetes risk factors have actually reported a decrease in risk factors such as glycosylated proteins [<xref rid="B82-nutrients-08-00697" ref-type="bibr">82</xref>]. A large cohort study in Europe also did not show an increase in diabetes risk with added sugars [<xref rid="B92-nutrients-08-00697" ref-type="bibr">92</xref>].</p><p>The question of whether or not sugar is a unique cause of diabetes has not been addressed in any RCT to our knowledge. Most of the data related to the question of a potential relationship between sugar consumption and diabetes comes from RCTs looking at risk factors for diabetes or cohort studies. Prospective cohort studies provide mixed evidence concerning sugar consumption and diabetes. Malik et al. reported meta-analyses of eight cohort studies, four of which did not find a significant effect of SSB with the incidence of diabetes and five did not adjust findings for energy intake and body weight [<xref rid="B22-nutrients-08-00697" ref-type="bibr">22</xref>]. A study published by the same group did not show a relation between sugar consumption and the risk of diabetes [<xref rid="B93-nutrients-08-00697" ref-type="bibr">93</xref>]. Other cohort studies have also failed to find significant associations between sugar intake and diabetes [<xref rid="B94-nutrients-08-00697" ref-type="bibr">94</xref>,<xref rid="B95-nutrients-08-00697" ref-type="bibr">95</xref>,<xref rid="B96-nutrients-08-00697" ref-type="bibr">96</xref>] and one study found a significant negative association [<xref rid="B95-nutrients-08-00697" ref-type="bibr">95</xref>]. With regard to systematic reviews and meta-analyses, few data are available to support an association between sugar intake and diabetes [<xref rid="B94-nutrients-08-00697" ref-type="bibr">94</xref>,<xref rid="B95-nutrients-08-00697" ref-type="bibr">95</xref>,<xref rid="B96-nutrients-08-00697" ref-type="bibr">96</xref>]. Cozma et al. reported a systematic review and meta-analysis of 18 feeding studies on fructose and diabetes risk and found no adverse impact on glycemic control including insulin, glucose, glycated blood proteins (including HbA1c) [<xref rid="B82-nutrients-08-00697" ref-type="bibr">82</xref>]. The SACN report published in 2015 [<xref rid="B47-nutrients-08-00697" ref-type="bibr">47</xref>] did not show an association between free sugars consumption and risk factors for diabetes.</p><p>Most randomized controlled trials of non-diabetic patients substituting sucrose for fructose in a controlled diet did not report adverse effects on multiple risk factors for diabetes [<xref rid="B70-nutrients-08-00697" ref-type="bibr">70</xref>,<xref rid="B78-nutrients-08-00697" ref-type="bibr">78</xref>,<xref rid="B97-nutrients-08-00697" ref-type="bibr">97</xref>,<xref rid="B98-nutrients-08-00697" ref-type="bibr">98</xref>,<xref rid="B99-nutrients-08-00697" ref-type="bibr">99</xref>].</p><p>Two recent RCTs have also not demonstrated increased risk factors for diabetes over a 10-week time period. In one study of 123 individuals who consumed average levels of fructose containing sugars (9% of calories from fructose itself or 18% of calories from either sucrose or HFCS) did not yield increases in fasting glucose, insulin, or insulin resistance via the homeostatic model of assessment (HOMA) [<xref rid="B100-nutrients-08-00697" ref-type="bibr">100</xref>]. Another RCT evaluated 267 individuals who consumed either HFCS or sucrose at dosage ranges between 8% and 30% of calories (25th through 95th percentile of calories) and also did not find any increase in risk factors for diabetes [<xref rid="B53-nutrients-08-00697" ref-type="bibr">53</xref>].</p><p>This literature taken together provides little direct evidence that sugar consumption increases risk factors of diabetes. Moreover, since the relationship between diabetes and obesity is well established and, as already indicated, scant evidence is available relating isocaloric substitution of sugars for other carbohydrates, it appears prudent to focus on other risk factors for diabetes such as obesity rather than singling out sugars. Since diabetes takes 20&#x02013;30 years to develop short-term RCTs focusing on risk factors for diabetes should be taken with caution recognizing this limitation.</p></sec><sec id="sec6-nutrients-08-00697"><title>6. Risk Factors for Cardiovascular Disease</title><p>The American Heart Association (AHA) has recommended that adult males consume no more than 150 kcals per day and females no more than 100 kcals per day from added sugars [<xref rid="B101-nutrients-08-00697" ref-type="bibr">101</xref>]. This recommendation implies that higher levels of added sugars may increase the risk of heart disease. In addition, the DGAC 2015 concluded that there was &#x0201c;moderate&#x0201d; evidence in the association between added sugars and heart disease [<xref rid="B48-nutrients-08-00697" ref-type="bibr">48</xref>]. The SACN report published in 2015 did not find a linkage between sugars consumption and risk factors for heart disease [<xref rid="B47-nutrients-08-00697" ref-type="bibr">47</xref>]. The evidence in this area, however, is mixed and inconclusive [<xref rid="B13-nutrients-08-00697" ref-type="bibr">13</xref>]. To our knowledge there are no RCTs assessing a link between added sugars and CVD. Thus, the available data comes either from cohort studies or from RCTs examining risk factors for CVD.</p><p>Dietary sugars may have differential effects on blood lipids. A number of studies have demonstrated that diets containing greater than 20% of kcals from simple sugars may result in elevated fasting triglycerides which is a known risk factor for CVD (see <xref ref-type="table" rid="nutrients-08-00697-t003">Table 3</xref>) [<xref rid="B32-nutrients-08-00697" ref-type="bibr">32</xref>,<xref rid="B54-nutrients-08-00697" ref-type="bibr">54</xref>,<xref rid="B55-nutrients-08-00697" ref-type="bibr">55</xref>,<xref rid="B56-nutrients-08-00697" ref-type="bibr">56</xref>,<xref rid="B57-nutrients-08-00697" ref-type="bibr">57</xref>,<xref rid="B58-nutrients-08-00697" ref-type="bibr">58</xref>,<xref rid="B59-nutrients-08-00697" ref-type="bibr">59</xref>,<xref rid="B60-nutrients-08-00697" ref-type="bibr">60</xref>,<xref rid="B61-nutrients-08-00697" ref-type="bibr">61</xref>,<xref rid="B99-nutrients-08-00697" ref-type="bibr">99</xref>]. The American Heart Association Scientific Statement on triglycerides lists avoiding excess fructose as one mechanism for decreasing the risk of hypertriglyceridemia [<xref rid="B102-nutrients-08-00697" ref-type="bibr">102</xref>]. Several recent systematic reviews and meta-analyses, however, have reported that in trials where fructose is substituted isocalorically for other carbohydrates it does not result in increased fasting triglycerides or post-prandial triglycerides [<xref rid="B103-nutrients-08-00697" ref-type="bibr">103</xref>,<xref rid="B104-nutrients-08-00697" ref-type="bibr">104</xref>].</p><p>Two recent RCTs looked at the relationship between sugar consumption and triglycerides. In one involving 65 individuals where no weight gain occurred, no increase in triglycerides was found [<xref rid="B51-nutrients-08-00697" ref-type="bibr">51</xref>]. A larger trial involving 355 men and women who consumed between 8% and 30% of kcals per day as either sucrose or HFCS as part of a mixed nutrient diet reported a 10% increase in triglycerides [<xref rid="B53-nutrients-08-00697" ref-type="bibr">53</xref>]. It should be pointed out, however, that individuals in this trial gained approximately two pounds over the ten-week intervention and were consuming an average of over 200 kcals per day, more by the end of the study compared to baseline. Stanhope et al. followed various doses of HFCS given to young adults over a 16-day period and also reported increases in post-prandial triglycerides [<xref rid="B107-nutrients-08-00697" ref-type="bibr">107</xref>]. However, the short duration of this study and the fact that pre and post levels were within the low normal range must be taken into consideration when evaluating this finding.</p><p>The effects of added sugars on low density lipoprotein (LDL) have been variable [<xref rid="B27-nutrients-08-00697" ref-type="bibr">27</xref>,<xref rid="B59-nutrients-08-00697" ref-type="bibr">59</xref>,<xref rid="B80-nutrients-08-00697" ref-type="bibr">80</xref>,<xref rid="B102-nutrients-08-00697" ref-type="bibr">102</xref>,<xref rid="B108-nutrients-08-00697" ref-type="bibr">108</xref>] with some investigators reporting increases while other studies have not demonstrated this finding. It should be noted that a number of the trials where the increases in LDL occurred gave large dosages of added sugars often above the 90th percentile population [<xref rid="B109-nutrients-08-00697" ref-type="bibr">109</xref>].</p><p>A study by Yang et al. published in 2013 analyzed NHANES data from three different time periods (1988&#x02013;1984, 1999&#x02013;2004 and 2005&#x02013;2010) and reported that the relative risk was 1.30 for those who consumed 10%&#x02013;24.9% of calories from added sugars and 2.75 for those who consumed 25% or more calories from added sugars (approximately 10% of the population) when compared to those who consumed less than 10% of calories from added sugars. It should be noted that the authors also reported that the percentage of daily calories from added sugars was 16.8% in the 1999&#x02013;2004 cohort and decreased to 14.9% in the 2005&#x02013;2010 cohort [<xref rid="B106-nutrients-08-00697" ref-type="bibr">106</xref>]. Several RCTs involving levels of sugar consumption ranging from the 25th to the 95th percentile population consumption have demonstrated no changes in LDL cholesterol following ten weeks in a free living environment compared to baseline when consumed as part of mixed nutrient diet [<xref rid="B53-nutrients-08-00697" ref-type="bibr">53</xref>]. Thus, the effects of added sugars on lipids in adults remain in dispute.</p><p>Research evaluating the effects of added sugars on blood pressure have similarly shown mixed results [<xref rid="B29-nutrients-08-00697" ref-type="bibr">29</xref>,<xref rid="B30-nutrients-08-00697" ref-type="bibr">30</xref>,<xref rid="B110-nutrients-08-00697" ref-type="bibr">110</xref>]. For example, epidemiologic studies such as the Framingham Heart Study have reported an association between consuming one or more SSB per day and increased odds of developing high blood pressure [<xref rid="B111-nutrients-08-00697" ref-type="bibr">111</xref>]. The meta-analysis by Te Morenga et al. which reported on 12 trials (<italic>n</italic> = 324) found no significant effects of higher sugar intake on systolic blood pressure overall, although higher sugar intake was associated with significant increase in diastolic pressure of 1.4 mm/hg (95% CI: 0.3, 2.5 mm/hg; <italic>p</italic> = 0.02) [<xref rid="B109-nutrients-08-00697" ref-type="bibr">109</xref>]. Many of the trials reported in this systematic review, however, employed amounts of added sugars consumption above the 90th percentile population consumption level. A systematic review and meta-analysis by Ha and colleagues, involving 18 studies (<italic>n</italic> = 355), showed slight decreases in both diastolic and mean blood pressure when fructose was substituted either isocalorically for other carbohydrates (13 trials) or in hypercaloric trials (2 trials) [<xref rid="B83-nutrients-08-00697" ref-type="bibr">83</xref>]. Several recent RCTs have not shown increases in blood pressure. In a large study of 355 individuals followed for ten weeks at up to 30% of kcals per day up to the 95% percentile population consumption level of fructose [<xref rid="B53-nutrients-08-00697" ref-type="bibr">53</xref>], no increases in blood pressure were observed. Further RCTs compared fructose containing sugars to glucose at the 50th percentile population consumption and did not demonstrate increases in mean systolic or diastolic blood pressure [<xref rid="B51-nutrients-08-00697" ref-type="bibr">51</xref>].</p><p>Thus, if there is any association between sugar consumption and increases in blood pressure it would appear to occur at higher levels of sugar consumption (&#x0003e;90th percentile population consumption) and even at that level may not exist.</p><p>Taken as a whole, it does not appear that sugar consumption within the normal range of the human diet increases the risk of cardiovascular disease. An exception, however, may occur with diets that contain greater than 20% of kcals from simple sugars in hypercaloric trials which may cause an increase in triglycerides. It should be noted that Archer et al. utilized NHANES data (NHANES 1988&#x02013;1994, 1999&#x02013;2004 and 2015) (<italic>n</italic> = 31,147) compared to the NHANES III Mortality Report (1988&#x02013;2006) (<italic>n</italic> = 11,733) and reported that individuals who consumed 25% or more of calories from added sugars (approximately 77% of the population) experienced an increased associated risk of cardiovascular disease [<xref rid="B105-nutrients-08-00697" ref-type="bibr">105</xref>] compared to those who consumed less than 10% of calories from added sugars. These findings should be treated with caution given the multiple potential confounders inherent to all cohort studies. In particular, NHANES data has recently been challenged because of its use of memory based recall which has been found in multiple studies to be highly inaccurate. These investigators also noted that the percentage of daily calories from added sugars declined from 1999 to 2004 with a decline from 16.8% to 14.9% in 2005&#x02013;2010 (9% decline).</p><p>To put the issue of SSB consumption in perspective, it should be noted that the major risk factors for heart disease are well established such as avoiding cigarette smoking, maintaining a proper weight, avoiding or controlling diabetes and leading a physically active lifestyle. It would appear prudent to focus more attention on these established risk factors than one component of overall approach to nutrition. RCTs of longer duration would be helpful in examining putative links between sugar consumption and risk factors for CVD.</p></sec><sec id="sec7-nutrients-08-00697"><title>7. Effects of Sugars on the Brain</title><p>The effects of sugar on the brain, in general, and on reward pathways, in particular, as well as on downstream portions of the brain has been an area of intense research and controversy. Early studies in this area were done largely on animals [<xref rid="B43-nutrients-08-00697" ref-type="bibr">43</xref>,<xref rid="B112-nutrients-08-00697" ref-type="bibr">112</xref>,<xref rid="B113-nutrients-08-00697" ref-type="bibr">113</xref>,<xref rid="B114-nutrients-08-00697" ref-type="bibr">114</xref>], however, recent advances in functional MRI (fMRI) have allowed more studies to be conducted in human beings [<xref rid="B115-nutrients-08-00697" ref-type="bibr">115</xref>]. Animal studies in this area must be treated with great caution since there are multiple and significant differences between animal brains (in particular, rodents which are the most frequently used model) and human brains [<xref rid="B116-nutrients-08-00697" ref-type="bibr">116</xref>,<xref rid="B117-nutrients-08-00697" ref-type="bibr">117</xref>]. Further confusion in this area has come from studies which have utilized a model comparing fructose versus glucose to examine effects on blood flow to the hypothalamus and reward pathways despite the fact that these monosaccharides are rarely consumed by themselves in human nutrition [<xref rid="B118-nutrients-08-00697" ref-type="bibr">118</xref>,<xref rid="B119-nutrients-08-00697" ref-type="bibr">119</xref>]. Unfortunately, these trials of two monosaccharides in isolation have led to speculation that fructose and glucose interact differently in the brain thereby leading to potential for overconsumption of calories.</p><p>When similar studies have been repeated comparing the normally consumed sugars of sucrose or HFCS on blood flow to the hypothalamus and brain connectively, no differences have been reported between sweetened beverages consumed in the context of a mixed nutrient meal and an unsweetened control [<xref rid="B120-nutrients-08-00697" ref-type="bibr">120</xref>].</p><p>Stice et al. reported a trial of 70 individuals comparing various levels of sugar sweetened milkshakes to various levels of fat in milkshakes and reported that there was more stimulation of reward pathways following the highest level of sugar than fat [<xref rid="B40-nutrients-08-00697" ref-type="bibr">40</xref>]. These investigators speculated that these acute findings suggested that sugar should be regulated rather than fat with regard to lowering the prevalence of obesity. There are studies, however, which show exactly the opposite [<xref rid="B121-nutrients-08-00697" ref-type="bibr">121</xref>,<xref rid="B122-nutrients-08-00697" ref-type="bibr">122</xref>].</p><p>Stephan et al. [<xref rid="B35-nutrients-08-00697" ref-type="bibr">35</xref>] using epidemiologic data suggested that increased consumption of fructose containing sugars could lead to dementia. Studies performed ranging in duration from 10 weeks to 24 weeks and employing average levels of consumption of fructose containing sugars have not found any evidence of cognitive change [<xref rid="B123-nutrients-08-00697" ref-type="bibr">123</xref>,<xref rid="B124-nutrients-08-00697" ref-type="bibr">124</xref>].</p><p>Unfortunately, some investigators have speculated that sweetness from added sugars may lead to a form of sugar &#x0201c;addiction&#x0201d; [<xref rid="B15-nutrients-08-00697" ref-type="bibr">15</xref>,<xref rid="B125-nutrients-08-00697" ref-type="bibr">125</xref>]. Animal data has also been used to buttress this claim [<xref rid="B126-nutrients-08-00697" ref-type="bibr">126</xref>,<xref rid="B127-nutrients-08-00697" ref-type="bibr">127</xref>] despite the fact that the translation of animal data to humans in this area is fraught with complexity and speculation. Several recent reviews have provided extensive analyses questioning the fundamental premise of either food or sugar &#x0201c;addiction&#x0201d; [<xref rid="B128-nutrients-08-00697" ref-type="bibr">128</xref>,<xref rid="B129-nutrients-08-00697" ref-type="bibr">129</xref>,<xref rid="B130-nutrients-08-00697" ref-type="bibr">130</xref>]. Unfortunately, the popular press and the public has embraced the concept of sugar &#x0201c;addiction&#x0201d; which would appear to be a vast exaggeration of what the scientific data show. Clearly, this is an area where much more research is required.</p></sec><sec id="sec8-nutrients-08-00697"><title>8. Conclusions</title><p>There is no question that multiple, important links exist between nutrition and health. The current emphasis on added sugars, however, has created an environment that is &#x0201c;sugar centric&#x0201d; and in our judgment risks exaggerating the effects of these components of the diet with the potential unforeseen side effect of ignoring other important nutritional practices where significant evidence of linkages to health exists.</p><p>We have seen the attempt to focus on single nutrients in the diet before attempting to blame a variety of chronic illnesses on overconsumption of these components of the diet [<xref rid="B131-nutrients-08-00697" ref-type="bibr">131</xref>]. For example, dietary cholesterol was initially blamed as a significant positive factor in coronary artery disease although subsequent research has not supported this linkage. Subsequently, saturated fats were deemed to be a villain although recent evidence now suggests that the food matrix containing the saturated fats may be more important than the saturated fats themselves with regard to risk of CVD [<xref rid="B132-nutrients-08-00697" ref-type="bibr">132</xref>,<xref rid="B133-nutrients-08-00697" ref-type="bibr">133</xref>,<xref rid="B134-nutrients-08-00697" ref-type="bibr">134</xref>].</p><p>The same phenomenon may hold true for isolating components of the diet for supposed health benefits [<xref rid="B135-nutrients-08-00697" ref-type="bibr">135</xref>]. For example, even though oats have multiple health benefits, the exaggerated health claims caused one pundit to suggest that putting oats in carbonated soft drinks could lead to increase in their sales. There are multiple benefits of consuming protein yet the current fashion of critically accepting high protein diets for a variety of potential health benefits seems overwrought. These are but two of many examples. One has only to look at the popular press to find the current month&#x02019;s super food.</p><p>The history of nutrition is littered with attempts to isolate one nutrient, or class of nutrients, to claim a plethora of benefits or risk [<xref rid="B131-nutrients-08-00697" ref-type="bibr">131</xref>]. These have almost universally resulted in failure and disappointment. In the area of sugar sweetened beverages and various health considerations, the highest quality of evidence from systematic reviews, meta-analyses, and randomized controlled trials does not suggest signals for harm within the normal range of human consumption at least in short-term studies lasting six months or less and in longer-term cohort studies where fructose containing sugars are substituted isocalorically for other carbohydrates. This would suggest that some of the recently articulated restrictive guidelines from prestigious scientific and health organizations may be overly restrictive although longer term studies will be required to provide more certainty on this issue.</p><p>We wish to emphasize that we are not recommending excessive consumption of added sugars. It would appear to the authors, however, that a reasonable recommended upper limit of sugar may reside at consuming no more than 20% of calories from added sugars and then only in a hypercaloric situation. This recommendation rests largely on our view that the evidence suggests a potential signal for elevated triglycerides at consumption levels greater than 20% of calories in hypercaloric trials. We recognize, however, that definitive evidence in this area may be very difficult to generate. Longer term RCTs, particularly, with ad libitum sugar consumption designs may prove helpful. Current ad libitum trials are typically of a short duration.</p><p>There are well established risk factors for obesity, diabetes, and cardiovascular disease and considerable overlap amongst these entities when it comes to nutritional practices. For now, we would agree with the assertion in the Dietary Guidelines for American (2010) [<xref rid="B136-nutrients-08-00697" ref-type="bibr">136</xref>] that overconsumption of calories represents the single greatest health threat to individuals in the United States and elsewhere. This may, in part, be linked to the overall consumption patterns in what has been called the &#x0201c;Western&#x0201d; diet. Certainly, added sugars may be considered as components of this overall diet and, therefore, targets for reduction as are other energy dense components of this nutrition pattern. Singling out added sugars as major or unique culprits for metabolically based diseases such as obesity, diabetes, and cardiovascular disease appears inconsistent with modern high quality evidence and is very unlikely to yield health benefits. The reduction of these components of the diet without other reductions seems very unlikely to achieve any meaningful results. Perhaps in this situation, we should remember a favorite quotation of President John F. Kennedy who quoted Winston Churchill who, in turn, had paraphrased the philosopher George Santayana by saying &#x0201c;Those who fail to learn from history are doomed to repeat it&#x0201d;.</p></sec></body><back><ack><title>Acknowledgments</title><p>J.R. and T.A. were responsible for conceptualizing the manuscript and had overall supervision of the manuscript.</p></ack><notes><title>Author Contributions</title><p>Both authors participated in the writing of the manuscript and have approved it.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>J.M. Rippe&#x02019;s research laboratory has received unrestricted grants and J.M. Rippe has received consulting fees from ConAgra Foods, Kraft Foods, the Florida Department of Citrus, PepsiCo International, The Coca Cola Company, the Corn Refiners Association, Weight Watchers International and various publishers.</p></notes><glossary><title>Abbreviations</title><p>The following abbreviations are used in this manuscript:</p><array><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">AHA</td><td align="left" valign="top" rowspan="1" colspan="1">American Heart Association</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CVD</td><td align="left" valign="top" rowspan="1" colspan="1">Cardiovascular Disease</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">fMRI</td><td align="left" valign="top" rowspan="1" colspan="1">Functional MRI</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HOMA</td><td align="left" valign="top" rowspan="1" colspan="1">Homeostatic Model of Assessment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">LDL</td><td align="left" valign="top" rowspan="1" colspan="1">Low Density Lipoprotein</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NAFLD</td><td align="left" valign="top" rowspan="1" colspan="1">Non-Alcoholic Fatty Liver Disease</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">RCTs</td><td align="left" valign="top" rowspan="1" colspan="1">Randomized Controlled Trials</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SSB</td><td align="left" valign="top" rowspan="1" colspan="1">Sugar Sweetened Beverages</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NNS</td><td align="left" valign="top" rowspan="1" colspan="1">Non-Nutritive Sweeteners</td></tr></tbody></array></glossary><ref-list><title>References</title><ref id="B1-nutrients-08-00697"><label>1.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gidding</surname><given-names>S.S.</given-names></name><name><surname>Lichtenstein</surname><given-names>A.H.</given-names></name><name><surname>Faith</surname><given-names>M.S.</given-names></name><name><surname>Karpyn</surname><given-names>A.</given-names></name><name><surname>Mennella</surname><given-names>J.A.</given-names></name><name><surname>Popkin</surname><given-names>B.</given-names></name><name><surname>Rowe</surname><given-names>J.</given-names></name><name><surname>Van Horn</surname><given-names>L.</given-names></name><name><surname>Whitsel</surname><given-names>L.</given-names></name></person-group>
+<article-title>Implementing american heart association pediatric and adult nutrition guidelines: A scientific statement from the american heart association nutrition committee of the council on nutrition, physical activity and metabolism, council on cardiovascular disease in the young, council on arteriosclerosis, thrombosis and vascular biology, council on cardiovascular nursing, council on epidemiology and prevention, and council for high blood pressure research</article-title>
+<source>Circulation</source>
+<year>2009</year>
+<volume>119</volume>
+<fpage>1161</fpage>
+<lpage>1175</lpage>
+<?supplied-pmid 19255356?><pub-id pub-id-type="pmid">19255356</pub-id></element-citation></ref><ref id="B2-nutrients-08-00697"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomas</surname><given-names>M.C.</given-names></name><name><surname>Moran</surname><given-names>J.</given-names></name><name><surname>Forsblom</surname><given-names>C.</given-names></name><name><surname>Harjutsalo</surname><given-names>V.</given-names></name><name><surname>Thorn</surname><given-names>L.</given-names></name><name><surname>Ahola</surname><given-names>A.</given-names></name><name><surname>Waden</surname><given-names>J.</given-names></name><name><surname>Tolonen</surname><given-names>N.</given-names></name><name><surname>Saraheimo</surname><given-names>M.</given-names></name><name><surname>Gordin</surname><given-names>D.</given-names></name><etal/></person-group>
+<article-title>The association between dietary sodium intake, esrd, and all-cause mortality in patients with type 1 diabetes</article-title>
+<source>Diabetes Care</source>
+<year>2011</year>
+<volume>34</volume>
+<fpage>861</fpage>
+<lpage>866</lpage>
+<pub-id pub-id-type="doi">10.2337/dc10-1722</pub-id>
+<?supplied-pmid 21307382?><pub-id pub-id-type="pmid">21307382</pub-id></element-citation></ref><ref id="B3-nutrients-08-00697"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O&#x02019;Donnell</surname><given-names>M.</given-names></name><name><surname>Mente</surname><given-names>A.</given-names></name><name><surname>Rangarajan</surname><given-names>S.</given-names></name><name><surname>McQueen</surname><given-names>M.J.</given-names></name><name><surname>Wang</surname><given-names>X.</given-names></name><name><surname>Liu</surname><given-names>L.</given-names></name><name><surname>Yan</surname><given-names>H.</given-names></name><name><surname>Lee</surname><given-names>S.F.</given-names></name><name><surname>Mony</surname><given-names>P.</given-names></name><name><surname>Devanath</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Urinary sodium and potassium excretion, mortality, and cardiovascular events</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2014</year>
+<volume>371</volume>
+<fpage>612</fpage>
+<lpage>623</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa1311889</pub-id>
+<?supplied-pmid 25119607?><pub-id pub-id-type="pmid">25119607</pub-id></element-citation></ref><ref id="B4-nutrients-08-00697"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nakamura</surname><given-names>Y.</given-names></name><name><surname>Okamura</surname><given-names>T.</given-names></name><name><surname>Tamaki</surname><given-names>S.</given-names></name><name><surname>Kadowaki</surname><given-names>T.</given-names></name><name><surname>Hayakawa</surname><given-names>T.</given-names></name><name><surname>Kita</surname><given-names>Y.</given-names></name><name><surname>Okayama</surname><given-names>A.</given-names></name><name><surname>Ueshima</surname><given-names>H.</given-names></name><name><surname>Group</surname><given-names>N.D.R.</given-names></name></person-group>
+<article-title>Egg consumption, serum cholesterol, and cause-specific and all-cause mortality: The national integrated project for prospective observation of non-communicable disease and its trends in the aged, 1980 (nippon data80)</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2004</year>
+<volume>80</volume>
+<fpage>58</fpage>
+<lpage>63</lpage>
+<?supplied-pmid 15213028?><pub-id pub-id-type="pmid">15213028</pub-id></element-citation></ref><ref id="B5-nutrients-08-00697"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Buul</surname><given-names>V.J.</given-names></name><name><surname>Tappy</surname><given-names>L.</given-names></name><name><surname>Brouns</surname><given-names>F.J.</given-names></name></person-group>
+<article-title>Misconceptions about fructose-containing sugars and their role in the obesity epidemic</article-title>
+<source>Nutr. Res. Rev.</source>
+<year>2014</year>
+<volume>27</volume>
+<fpage>119</fpage>
+<lpage>130</lpage>
+<pub-id pub-id-type="doi">10.1017/S0954422414000067</pub-id>
+<?supplied-pmid 24666553?><pub-id pub-id-type="pmid">24666553</pub-id></element-citation></ref><ref id="B6-nutrients-08-00697"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tappy</surname><given-names>L.</given-names></name><name><surname>L&#x000ea;</surname><given-names>K.-A.</given-names></name></person-group>
+<article-title>Health effects of fructose and fructose-containing caloric sweeteners: Where do we stand 10 years after the initial whistle blowings?</article-title>
+<source>Curr. Diab. Rep.</source>
+<year>2015</year>
+<volume>15</volume>
+<fpage>1</fpage>
+<lpage>12</lpage>
+<pub-id pub-id-type="doi">10.1007/s11892-015-0627-0</pub-id>
+<?supplied-pmid 26104800?><pub-id pub-id-type="pmid">26104800</pub-id></element-citation></ref><ref id="B7-nutrients-08-00697"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kahn</surname><given-names>R.</given-names></name><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Dietary sugar and body weight: Have we reached a crisis in the epidemic of obesity and diabetes?: We have, but the pox on sugar is overwrought and overworked</article-title>
+<source>Diabetes Care</source>
+<year>2014</year>
+<volume>37</volume>
+<fpage>957</fpage>
+<lpage>962</lpage>
+<pub-id pub-id-type="doi">10.2337/dc13-2506</pub-id>
+<?supplied-pmid 24652726?><pub-id pub-id-type="pmid">24652726</pub-id></element-citation></ref><ref id="B8-nutrients-08-00697"><label>8.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Rippe</surname><given-names>J.</given-names></name></person-group>
+<source>Fructose, High Fructose Corn Syrup, Sucrose and Health</source>
+<publisher-name>Humana Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2014</year>
+</element-citation></ref><ref id="B9-nutrients-08-00697"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rippe</surname><given-names>J.</given-names></name></person-group>
+<article-title>The metabolic and endocrine response and health implications of consuming sweetened beverages: Findings from recent, randomized, controlled trials</article-title>
+<source>Adv. Nutr.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>677</fpage>
+<lpage>686</lpage>
+<pub-id pub-id-type="doi">10.3945/an.113.004580</pub-id>
+<?supplied-pmid 24228199?><pub-id pub-id-type="pmid">24228199</pub-id></element-citation></ref><ref id="B10-nutrients-08-00697"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rippe</surname><given-names>J.M.</given-names></name><name><surname>Angelopoulos</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Sucrose, high-fructose corn syrup, and fructose, their metabolism and potential health effects: What do we really know?</article-title>
+<source>Adv. Nutr.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>236</fpage>
+<lpage>245</lpage>
+<pub-id pub-id-type="doi">10.3945/an.112.002824</pub-id>
+<?supplied-pmid 23493540?><pub-id pub-id-type="pmid">23493540</pub-id></element-citation></ref><ref id="B11-nutrients-08-00697"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>J.</given-names></name></person-group>
+<article-title>Straight talk about high-fructose corn syrup: What it is and what it ain&#x02019;t</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>88</volume>
+<fpage>1716S</fpage>
+<lpage>1721S</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2008.25825B</pub-id>
+<?supplied-pmid 19064536?><pub-id pub-id-type="pmid">19064536</pub-id></element-citation></ref><ref id="B12-nutrients-08-00697"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Challenging the fructose hypothesis: New perspectives on fructose consumption and metabolism</article-title>
+<source>Adv. Nutr.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>246</fpage>
+<lpage>256</lpage>
+<pub-id pub-id-type="doi">10.3945/an.112.003137</pub-id>
+<?supplied-pmid 23493541?><pub-id pub-id-type="pmid">23493541</pub-id></element-citation></ref><ref id="B13-nutrients-08-00697"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rippe</surname><given-names>J.M.</given-names></name><name><surname>Angelopoulos</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Fructose-containing sugars and cardiovascular disease</article-title>
+<source>Adv. Nutr.</source>
+<year>2015</year>
+<volume>6</volume>
+<fpage>430</fpage>
+<lpage>439</lpage>
+<pub-id pub-id-type="doi">10.3945/an.114.008177</pub-id>
+<?supplied-pmid 26178027?><pub-id pub-id-type="pmid">26178027</pub-id></element-citation></ref><ref id="B14-nutrients-08-00697"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bray</surname><given-names>G.A.</given-names></name><name><surname>Popkin</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>Dietary sugar and body weight: Have we reached a crisis in the epidemic of obesity and diabetes?: Health be damned! Pour on the sugar</article-title>
+<source>Diabetes Care</source>
+<year>2014</year>
+<volume>37</volume>
+<fpage>950</fpage>
+<lpage>956</lpage>
+<pub-id pub-id-type="doi">10.2337/dc13-2085</pub-id>
+<?supplied-pmid 24652725?><pub-id pub-id-type="pmid">24652725</pub-id></element-citation></ref><ref id="B15-nutrients-08-00697"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lustig</surname><given-names>R.H.</given-names></name></person-group>
+<article-title>Fructose: Metabolic, hedonic, and societal parallels with ethanol</article-title>
+<source>J. Am. Diet. Assoc.</source>
+<year>2010</year>
+<volume>110</volume>
+<fpage>1307</fpage>
+<lpage>1321</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jada.2010.06.008</pub-id>
+<?supplied-pmid 20800122?><pub-id pub-id-type="pmid">20800122</pub-id></element-citation></ref><ref id="B16-nutrients-08-00697"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rippe</surname><given-names>J.M.</given-names></name><name><surname>Angelopoulos</surname><given-names>T.J.</given-names></name></person-group>
+<article-title>Sugars and health controversies: What does the science say?</article-title>
+<source>Adv. Nutr.</source>
+<year>2015</year>
+<volume>6</volume>
+<fpage>493S</fpage>
+<lpage>503S</lpage>
+<pub-id pub-id-type="doi">10.3945/an.114.007195</pub-id>
+</element-citation></ref><ref id="B17-nutrients-08-00697"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Klurfeld</surname><given-names>D.M.</given-names></name><name><surname>Foreyt</surname><given-names>J.</given-names></name><name><surname>Angelopoulos</surname><given-names>T.J.</given-names></name><name><surname>Rippe</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Lack of evidence for high fructose corn syrup as the cause of the obesity epidemic</article-title>
+<source>Int. J. Obes. (Lond.)</source>
+<year>2012</year>
+<volume>27</volume>
+<fpage>771</fpage>
+<lpage>773</lpage>
+<pub-id pub-id-type="doi">10.1038/ijo.2012.157</pub-id>
+<?supplied-pmid 22986683?><pub-id pub-id-type="pmid">22986683</pub-id></element-citation></ref><ref id="B18-nutrients-08-00697"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><collab>American Dietetic Association</collab></person-group>
+<article-title>Position of the American dietetic association: Use of nutritive and nonnutritive sweeteners</article-title>
+<source>J. Am. Diet. Assoc.</source>
+<year>2004</year>
+<volume>104</volume>
+<fpage>255</fpage>
+<lpage>275</lpage>
+<pub-id pub-id-type="pmid">14760578</pub-id></element-citation></ref><ref id="B19-nutrients-08-00697"><label>19.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Popkin</surname><given-names>B.M.</given-names></name></person-group>
+<source>The World Is Fat: The Fads, Trends, Policies, and Products That Are Fattening the Human Race</source>
+<publisher-name>Penguin Group</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2008</year>
+</element-citation></ref><ref id="B20-nutrients-08-00697"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DiNicolantonio</surname><given-names>J.J.</given-names></name><name><surname>Lucan</surname><given-names>S.C.</given-names></name></person-group>
+<article-title>The wrong white crystals: Not salt but sugar as aetiological in hypertension and cardiometabolic disease</article-title>
+<source>Open Heart</source>
+<year>2014</year>
+<volume>1</volume>
+<fpage>e000167</fpage>
+<pub-id pub-id-type="doi">10.1136/openhrt-2014-000167</pub-id>
+<?supplied-pmid 25717381?><pub-id pub-id-type="pmid">25717381</pub-id></element-citation></ref><ref id="B21-nutrients-08-00697"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DiNicolantonio</surname><given-names>J.J.</given-names></name><name><surname>O&#x02019;Keefe</surname><given-names>J.H.</given-names></name><name><surname>Lucan</surname><given-names>S.C.</given-names></name></person-group>
+<article-title>Added fructose: A principal driver of type 2 diabetes mellitus and its consequences</article-title>
+<source>Mayo Clin. Proc.</source>
+<year>2015</year>
+<volume>90</volume>
+<fpage>372</fpage>
+<lpage>381</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mayocp.2014.12.019</pub-id>
+<?supplied-pmid 25639270?><pub-id pub-id-type="pmid">25639270</pub-id></element-citation></ref><ref id="B22-nutrients-08-00697"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lucan</surname><given-names>S.C.</given-names></name><name><surname>DiNicolantonio</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>How calorie-focused thinking about obesity and related diseases may mislead and harm public health. An alternative</article-title>
+<source>Public Health Nutr.</source>
+<year>2015</year>
+<volume>18</volume>
+<fpage>571</fpage>
+<lpage>581</lpage>
+<pub-id pub-id-type="doi">10.1017/S1368980014002559</pub-id>
+<?supplied-pmid 25416919?><pub-id pub-id-type="pmid">25416919</pub-id></element-citation></ref><ref id="B23-nutrients-08-00697"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olsen</surname><given-names>N.J.</given-names></name><name><surname>Heitmann</surname><given-names>B.L.</given-names></name></person-group>
+<article-title>Intake of calorically sweetened beverages and obesity</article-title>
+<source>Obes. Rev.</source>
+<year>2009</year>
+<volume>10</volume>
+<fpage>68</fpage>
+<lpage>75</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1467-789X.2008.00523.x</pub-id>
+<?supplied-pmid 18764885?><pub-id pub-id-type="pmid">18764885</pub-id></element-citation></ref><ref id="B24-nutrients-08-00697"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malik</surname><given-names>V.S.</given-names></name><name><surname>Schulze</surname><given-names>M.B.</given-names></name><name><surname>Hu</surname><given-names>F.B.</given-names></name></person-group>
+<article-title>Intake of sugar-sweetened beverages and weight gain: A systematic review</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2006</year>
+<volume>84</volume>
+<fpage>274</fpage>
+<lpage>288</lpage>
+<?supplied-pmid 16895873?><pub-id pub-id-type="pmid">16895873</pub-id></element-citation></ref><ref id="B25-nutrients-08-00697"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malik</surname><given-names>V.S.</given-names></name><name><surname>Popkin</surname><given-names>B.M.</given-names></name><name><surname>Bray</surname><given-names>G.A.</given-names></name><name><surname>Despr&#x000e9;s</surname><given-names>J.-P.</given-names></name><name><surname>Hu</surname><given-names>F.B.</given-names></name></person-group>
+<article-title>Sugar-sweetened beverages, obesity, type 2 diabetes mellitus, and cardiovascular disease risk</article-title>
+<source>Circulation</source>
+<year>2010</year>
+<volume>121</volume>
+<fpage>1356</fpage>
+<lpage>1364</lpage>
+<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.109.876185</pub-id>
+<?supplied-pmid 20308626?><pub-id pub-id-type="pmid">20308626</pub-id></element-citation></ref><ref id="B26-nutrients-08-00697"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bray</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Fructose and risk of cardiometabolic disease</article-title>
+<source>Curr. Atheroscler. Rep.</source>
+<year>2012</year>
+<volume>14</volume>
+<fpage>570</fpage>
+<lpage>578</lpage>
+<pub-id pub-id-type="doi">10.1007/s11883-012-0276-6</pub-id>
+<?supplied-pmid 22949106?><pub-id pub-id-type="pmid">22949106</pub-id></element-citation></ref><ref id="B27-nutrients-08-00697"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marckmann</surname><given-names>P.</given-names></name></person-group>
+<article-title>Dietary treatment of thrombogenic disorders related to the metabolic syndrome</article-title>
+<source>Br. J. Nutr.</source>
+<year>2000</year>
+<volume>83</volume>
+<issue>Suppl. 1</issue>
+<fpage>S121</fpage>
+<lpage>S126</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114500001057</pub-id>
+<?supplied-pmid 10889802?><pub-id pub-id-type="pmid">10889802</pub-id></element-citation></ref><ref id="B28-nutrients-08-00697"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bray</surname><given-names>G.A.</given-names></name><name><surname>Popkin</surname><given-names>B.M.</given-names></name></person-group>
+<article-title>Calorie-sweetened beverages and fructose: What have we learned 10 years later</article-title>
+<source>Pediatr. Obes.</source>
+<year>2013</year>
+<volume>8</volume>
+<fpage>242</fpage>
+<lpage>248</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2047-6310.2013.00171.x</pub-id>
+<?supplied-pmid 23625798?><pub-id pub-id-type="pmid">23625798</pub-id></element-citation></ref><ref id="B29-nutrients-08-00697"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feig</surname><given-names>D.</given-names></name><name><surname>Soletsky</surname><given-names>B.</given-names></name><name><surname>Johnson</surname><given-names>R.</given-names></name></person-group>
+<article-title>Effect of allopurinol on blood pressure of adolescents with newly diagnosed essential hypertension</article-title>
+<source>J. Am. Med. Assoc.</source>
+<year>2008</year>
+<volume>300</volume>
+<fpage>924</fpage>
+<lpage>932</lpage>
+<pub-id pub-id-type="doi">10.1001/jama.300.8.924</pub-id>
+<?supplied-pmid 18728266?><pub-id pub-id-type="pmid">18728266</pub-id></element-citation></ref><ref id="B30-nutrients-08-00697"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>S.</given-names></name><name><surname>Choi</surname><given-names>H.K.</given-names></name><name><surname>Lustig</surname><given-names>R.H.</given-names></name><name><surname>Hsu</surname><given-names>C.Y.</given-names></name></person-group>
+<article-title>Sugar-sweetened beverages, serum uric acid, and blood pressure in adolescents</article-title>
+<source>J. Pediatr.</source>
+<year>2009</year>
+<volume>154</volume>
+<fpage>807</fpage>
+<lpage>813</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jpeds.2009.01.015</pub-id>
+<?supplied-pmid 19375714?><pub-id pub-id-type="pmid">19375714</pub-id></element-citation></ref><ref id="B31-nutrients-08-00697"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Basu</surname><given-names>S.</given-names></name><name><surname>Yoffe</surname><given-names>P.</given-names></name><name><surname>Hills</surname><given-names>N.</given-names></name><name><surname>Lustig</surname><given-names>R.H.</given-names></name></person-group>
+<article-title>The relationship of sugar to population-level diabetes prevalence: An econometric analysis of repeated cross-sectional data</article-title>
+<source>PLoS ONE</source>
+<year>2013</year>
+<volume>8</volume>
+<elocation-id>e57873</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0057873</pub-id>
+<?supplied-pmid 23460912?><pub-id pub-id-type="pmid">23460912</pub-id></element-citation></ref><ref id="B32-nutrients-08-00697"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goran</surname><given-names>M.I.</given-names></name><name><surname>Ulijaszek</surname><given-names>S.J.</given-names></name><name><surname>Ventura</surname><given-names>E.E.</given-names></name></person-group>
+<article-title>High fructose corn syrup and diabetes prevalence: A global perspective</article-title>
+<source>Glob. Public Health</source>
+<year>2013</year>
+<volume>8</volume>
+<fpage>55</fpage>
+<lpage>64</lpage>
+<pub-id pub-id-type="doi">10.1080/17441692.2012.736257</pub-id>
+<?supplied-pmid 23181629?><pub-id pub-id-type="pmid">23181629</pub-id></element-citation></ref><ref id="B33-nutrients-08-00697"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clark</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>The epidemiology of nonalcoholic fatty liver disease in adults</article-title>
+<source>J. Clin. Gastroenterol.</source>
+<year>2006</year>
+<volume>40</volume>
+<fpage>S5</fpage>
+<lpage>S10</lpage>
+<pub-id pub-id-type="doi">10.1097/1001.mcg.0000168638.0000184840.ff</pub-id>
+<?supplied-pmid 16540768?><pub-id pub-id-type="pmid">16540768</pub-id></element-citation></ref><ref id="B34-nutrients-08-00697"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCullough</surname><given-names>A.</given-names></name></person-group>
+<article-title>Update on nonalcoholic fatty liver disease</article-title>
+<source>J. Clin. Gastroenterol.</source>
+<year>2002</year>
+<volume>34</volume>
+<fpage>255</fpage>
+<lpage>262</lpage>
+<pub-id pub-id-type="doi">10.1097/00004836-200203000-00013</pub-id>
+<?supplied-pmid 11873108?><pub-id pub-id-type="pmid">11873108</pub-id></element-citation></ref><ref id="B35-nutrients-08-00697"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stephan</surname><given-names>B.C.</given-names></name><name><surname>Wells</surname><given-names>J.C.</given-names></name><name><surname>Brayne</surname><given-names>C.</given-names></name><name><surname>Albanese</surname><given-names>E.</given-names></name><name><surname>Siervo</surname><given-names>M.</given-names></name></person-group>
+<article-title>Increased fructose intake as a risk factor for dementia</article-title>
+<source>J. Gerontol. A. Biol. Sci. Med. Sci.</source>
+<year>2010</year>
+<volume>65</volume>
+<fpage>809</fpage>
+<lpage>814</lpage>
+<pub-id pub-id-type="doi">10.1093/gerona/glq079</pub-id>
+<?supplied-pmid 20504892?><pub-id pub-id-type="pmid">20504892</pub-id></element-citation></ref><ref id="B36-nutrients-08-00697"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cantley</surname><given-names>L.C.</given-names></name></person-group>
+<article-title>Cancer, metabolism, fructose, artificial sweeteners, and going cold turkey on sugar</article-title>
+<source>BMC Biol.</source>
+<year>2014</year>
+<volume>12</volume>
+<elocation-id>8</elocation-id>
+<pub-id pub-id-type="doi">10.1186/1741-7007-12-8</pub-id>
+<?supplied-pmid 24484968?><pub-id pub-id-type="pmid">24484968</pub-id></element-citation></ref><ref id="B37-nutrients-08-00697"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bartrina</surname><given-names>J.A.</given-names></name><name><surname>Rodrigo</surname><given-names>C.P.</given-names></name></person-group>
+<article-title>Aassociation between sucrose intake and cancer: A review of the evidence</article-title>
+<source>Nutr. Hosp.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>95</fpage>
+<lpage>105</lpage>
+</element-citation></ref><ref id="B38-nutrients-08-00697"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanhope</surname><given-names>K.</given-names></name><name><surname>Griffen</surname><given-names>S.</given-names></name><name><surname>Bair</surname><given-names>B.</given-names></name><name><surname>Swarbrick</surname><given-names>M.</given-names></name><name><surname>Kelm</surname><given-names>N.</given-names></name><name><surname>Havel</surname><given-names>P.</given-names></name></person-group>
+<article-title>Twenty four hour endocrine and metabolic profiles following consumption of high-fructose corn syrup-, sucrose-, fructose-, and glucose-sweetened beverages with meals</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>87</volume>
+<fpage>1194</fpage>
+<lpage>1203</lpage>
+<?supplied-pmid 18469239?><pub-id pub-id-type="pmid">18469239</pub-id></element-citation></ref><ref id="B39-nutrients-08-00697"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cox</surname><given-names>C.L.</given-names></name><name><surname>Stanhope</surname><given-names>K.L.</given-names></name><name><surname>Schwarz</surname><given-names>J.M.</given-names></name><name><surname>Graham</surname><given-names>J.L.</given-names></name><name><surname>Hatcher</surname><given-names>B.</given-names></name><name><surname>Griffen</surname><given-names>S.C.</given-names></name><name><surname>Bremer</surname><given-names>A.A.</given-names></name><name><surname>Berglund</surname><given-names>L.</given-names></name><name><surname>McGahan</surname><given-names>J.P.</given-names></name><name><surname>Havel</surname><given-names>P.J.</given-names></name><etal/></person-group>
+<article-title>Consumption of fructose-sweetened beverages for 10 weeks reduces net fat oxidation and energy expenditure in overweight/obese men and women</article-title>
+<source>Eur. J. Clin. Nutr.</source>
+<year>2012</year>
+<volume>66</volume>
+<fpage>201</fpage>
+<lpage>208</lpage>
+<pub-id pub-id-type="doi">10.1038/ejcn.2011.159</pub-id>
+<?supplied-pmid 21952692?><pub-id pub-id-type="pmid">21952692</pub-id></element-citation></ref><ref id="B40-nutrients-08-00697"><label>40.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stice</surname><given-names>E.</given-names></name><name><surname>Burger</surname><given-names>K.S.</given-names></name><name><surname>Yokum</surname><given-names>S.</given-names></name></person-group>
+<article-title>Relative ability of fat and sugar tastes to activate reward, gustatory, and somatosensory regions</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2013</year>
+<volume>98</volume>
+<fpage>1377</fpage>
+<lpage>1384</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.113.069443</pub-id>
+<?supplied-pmid 24132980?><pub-id pub-id-type="pmid">24132980</pub-id></element-citation></ref><ref id="B41-nutrients-08-00697"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lindqvist</surname><given-names>A.</given-names></name><name><surname>Mohapel</surname><given-names>P.</given-names></name><name><surname>Bouter</surname><given-names>B.</given-names></name><name><surname>Frielingsdorf</surname><given-names>H.</given-names></name><name><surname>Pizzo</surname><given-names>D.</given-names></name><name><surname>Brundin</surname><given-names>P.</given-names></name><name><surname>Erlanson-Albertsson</surname><given-names>C.</given-names></name></person-group>
+<article-title>High-fat diet impairs hippocampal neurogenesis in male rats</article-title>
+<source>Eur. J. Neurol.</source>
+<year>2006</year>
+<volume>13</volume>
+<fpage>1385</fpage>
+<lpage>1388</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1468-1331.2006.01500.x</pub-id>
+<?supplied-pmid 17116226?><pub-id pub-id-type="pmid">17116226</pub-id></element-citation></ref><ref id="B42-nutrients-08-00697"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Funari</surname><given-names>V.A.</given-names></name><name><surname>Herrera</surname><given-names>V.L.</given-names></name><name><surname>Freeman</surname><given-names>D.</given-names></name><name><surname>Tolan</surname><given-names>D.R.</given-names></name></person-group>
+<article-title>Genes required for fructose metabolism are expressed in purkinje cells in the cerebellum</article-title>
+<source>Brain Res. Mol. Brain Res.</source>
+<year>2005</year>
+<volume>142</volume>
+<fpage>115</fpage>
+<lpage>122</lpage>
+<pub-id pub-id-type="doi">10.1016/j.molbrainres.2005.09.019</pub-id>
+<?supplied-pmid 16266770?><pub-id pub-id-type="pmid">16266770</pub-id></element-citation></ref><ref id="B43-nutrients-08-00697"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>C.C.</given-names></name><name><surname>Martin</surname><given-names>R.J.</given-names></name><name><surname>Whitney</surname><given-names>M.L.</given-names></name><name><surname>Edwards</surname><given-names>G.L.</given-names></name></person-group>
+<article-title>Intracerebroventricular injection of fructose stimulates feeding in rats</article-title>
+<source>Nutr. Neurosci.</source>
+<year>2002</year>
+<volume>5</volume>
+<fpage>359</fpage>
+<lpage>362</lpage>
+<pub-id pub-id-type="doi">10.1080/1028415021000033839</pub-id>
+<?supplied-pmid 12385599?><pub-id pub-id-type="pmid">12385599</pub-id></element-citation></ref><ref id="B44-nutrients-08-00697"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shu</surname><given-names>H.J.</given-names></name><name><surname>Isenberg</surname><given-names>K.</given-names></name><name><surname>Cormier</surname><given-names>R.J.</given-names></name><name><surname>Benz</surname><given-names>A.</given-names></name><name><surname>Zorumski</surname><given-names>C.F.</given-names></name></person-group>
+<article-title>Expression of fructose sensitive glucose transporter in the brains of fructose-fed rats</article-title>
+<source>Neuroscience</source>
+<year>2006</year>
+<volume>140</volume>
+<fpage>889</fpage>
+<lpage>895</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2006.02.071</pub-id>
+<?supplied-pmid 16581195?><pub-id pub-id-type="pmid">16581195</pub-id></element-citation></ref><ref id="B45-nutrients-08-00697"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bray</surname><given-names>G.</given-names></name></person-group>
+<article-title>Energy and fructose from beverages sweetened with sugar or high-fructose corn syrup pose a health risk for some people</article-title>
+<source>Adv. Nutr.</source>
+<year>2013</year>
+<volume>4</volume>
+<fpage>220</fpage>
+<lpage>225</lpage>
+<pub-id pub-id-type="doi">10.3945/an.112.002816</pub-id>
+<?supplied-pmid 23493538?><pub-id pub-id-type="pmid">23493538</pub-id></element-citation></ref><ref id="B46-nutrients-08-00697"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Te Morenga</surname><given-names>L.</given-names></name><name><surname>Mallard</surname><given-names>S.</given-names></name><name><surname>Mann</surname><given-names>J.</given-names></name></person-group>
+<article-title>Dietary sugars and body weight: Systematic review and meta-analyses of randomised controlled trials and cohort studies</article-title>
+<source>BMJ</source>
+<year>2013</year>
+<volume>346</volume>
+<fpage>e7492</fpage>
+<pub-id pub-id-type="doi">10.1136/bmj.e7492</pub-id>
+<?supplied-pmid 23321486?><pub-id pub-id-type="pmid">23321486</pub-id></element-citation></ref><ref id="B47-nutrients-08-00697"><label>47.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>Scientific Advisory Committee on Nutrition (SACN)</collab></person-group>
+<source>Carbohydrates and Health Report</source>
+<publisher-name>The Stationery Office</publisher-name>
+<publisher-loc>London, UK</publisher-loc>
+<day>1</day>
+<month>9</month>
+<year>2014</year>
+</element-citation></ref><ref id="B48-nutrients-08-00697"><label>48.</label><element-citation publication-type="book">
+<article-title>Advisory Report to the Secretary of Health and Human Services and the Secretary of Agriculture</article-title>
+<source>Scientific Report of the 2015 Dietary Guidelines Advisory Committee</source>
+<publisher-name>USDA</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2015</year>
+</element-citation></ref><ref id="B49-nutrients-08-00697"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>R.</given-names></name><name><surname>Appel</surname><given-names>L.</given-names></name><name><surname>Brands</surname><given-names>M.</given-names></name><name><surname>Howard</surname><given-names>B.</given-names></name><name><surname>Lefevre</surname><given-names>M.</given-names></name><name><surname>Lustig</surname><given-names>R.</given-names></name><name><surname>Sacks</surname><given-names>F.</given-names></name><name><surname>Steffen</surname><given-names>L.</given-names></name><name><surname>Wylie-Rosett</surname><given-names>J.</given-names></name><collab>American Heart Association Nutrition Committee of the Council on Nutrition, Physical Activity, and Metabolism and the Council on Epidemiology and Prevention</collab></person-group>
+<article-title>Dietary sugars intake and cardiovascular health: A scientific statement from the american heart association</article-title>
+<source>Circulation</source>
+<year>2009</year>
+<volume>120</volume>
+<fpage>1011</fpage>
+<lpage>1020</lpage>
+<?supplied-pmid 19704096?><pub-id pub-id-type="pmid">19704096</pub-id></element-citation></ref><ref id="B50-nutrients-08-00697"><label>50.</label><element-citation publication-type="webpage">
+<article-title>Scottish Intercollegiate Guidelines Network (SIGN)</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.Sign.Ac.Uk/guidelines/fulltext/50/">http://www.Sign.Ac.Uk/guidelines/fulltext/50/</ext-link></comment>
+<date-in-citation>(accessed on 17 August 2016)</date-in-citation>
+</element-citation></ref><ref id="B51-nutrients-08-00697"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Sinnett</surname><given-names>S.</given-names></name><name><surname>Pardo</surname><given-names>S.</given-names></name><name><surname>Nguyen</surname><given-names>V.T.</given-names></name><name><surname>Melanson</surname><given-names>K.J.</given-names></name><name><surname>Yu</surname><given-names>Z.</given-names></name><name><surname>Lowther</surname><given-names>B.E.</given-names></name><name><surname>Rippe</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>The effect of normally consumed amounts of sucrose or high fructose corn syrup on lipid profiles, body composition and related parameters in overweight/obese subjects</article-title>
+<source>Nutrients</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>1128</fpage>
+<lpage>1144</lpage>
+<pub-id pub-id-type="doi">10.3390/nu6031128</pub-id>
+<?supplied-pmid 24642950?><pub-id pub-id-type="pmid">24642950</pub-id></element-citation></ref><ref id="B52-nutrients-08-00697"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Kawiecki</surname><given-names>D.</given-names></name><name><surname>Pardo</surname><given-names>S.</given-names></name><name><surname>Nguyen</surname><given-names>V.</given-names></name><name><surname>Melanson</surname><given-names>K.J.</given-names></name><name><surname>Yu</surname><given-names>Z.</given-names></name><name><surname>Rippe</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>The effects of four hypocaloric diets containing different levels of sucrose or high fructose corn syrup on weight loss and related parameters</article-title>
+<source>Nutr. J.</source>
+<year>2012</year>
+<volume>11</volume>
+<fpage>55</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="doi">10.1186/1475-2891-11-55</pub-id>
+<?supplied-pmid 22866961?><pub-id pub-id-type="pmid">22866961</pub-id></element-citation></ref><ref id="B53-nutrients-08-00697"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Sinnett</surname><given-names>S.</given-names></name><name><surname>Yu</surname><given-names>Z.</given-names></name><name><surname>Rippe</surname><given-names>J.</given-names></name></person-group>
+<article-title>The effects of fructose-containing sugars on weight, body composition and cardiometabolic risk factors when consumed at up to the 90th percentile population consumption level for fructose</article-title>
+<source>Nutrients</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>3153</fpage>
+<lpage>3168</lpage>
+<pub-id pub-id-type="doi">10.3390/nu6083153</pub-id>
+<?supplied-pmid 25111121?><pub-id pub-id-type="pmid">25111121</pub-id></element-citation></ref><ref id="B54-nutrients-08-00697"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Antar</surname><given-names>M.A.</given-names></name><name><surname>Little</surname><given-names>J.A.</given-names></name><name><surname>Lucas</surname><given-names>C.</given-names></name><name><surname>Buckley</surname><given-names>G.C.</given-names></name><name><surname>Csima</surname><given-names>A.</given-names></name></person-group>
+<article-title>Interrelationship between the kinds of dietary carbohydrate and fat in hyperlipoproteinemic patients. 3. Synergistic effect of sucrose and animal fat on serum lipids</article-title>
+<source>Atherosclerosis</source>
+<year>1970</year>
+<volume>11</volume>
+<fpage>191</fpage>
+<lpage>201</lpage>
+<pub-id pub-id-type="doi">10.1016/0021-9150(70)90057-2</pub-id>
+<pub-id pub-id-type="pmid">4353907</pub-id></element-citation></ref><ref id="B55-nutrients-08-00697"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bantle</surname><given-names>J.P.</given-names></name><name><surname>Swanson</surname><given-names>J.E.</given-names></name><name><surname>Thomas</surname><given-names>W.</given-names></name><name><surname>Laine</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Metabolic effects of dietary sucrose in type ii diabetic subjects</article-title>
+<source>Diabetes Care</source>
+<year>1993</year>
+<volume>16</volume>
+<fpage>1301</fpage>
+<lpage>1305</lpage>
+<pub-id pub-id-type="doi">10.2337/diacare.16.9.1301</pub-id>
+<?supplied-pmid 8404438?><pub-id pub-id-type="pmid">8404438</pub-id></element-citation></ref><ref id="B56-nutrients-08-00697"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Black</surname><given-names>R.N.</given-names></name><name><surname>Spence</surname><given-names>M.</given-names></name><name><surname>McMahon</surname><given-names>R.O.</given-names></name><name><surname>Cuskelly</surname><given-names>G.J.</given-names></name><name><surname>Ennis</surname><given-names>C.N.</given-names></name><name><surname>McCance</surname><given-names>D.R.</given-names></name><name><surname>Young</surname><given-names>I.S.</given-names></name><name><surname>Bell</surname><given-names>P.M.</given-names></name><name><surname>Hunter</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Effect of eucaloric high- and low-sucrose diets with identical macronutrient profile on insulin resistance and vascular risk: A randomized controlled trial</article-title>
+<source>Diabetes</source>
+<year>2006</year>
+<volume>55</volume>
+<fpage>3566</fpage>
+<lpage>3572</lpage>
+<pub-id pub-id-type="doi">10.2337/db06-0220</pub-id>
+<?supplied-pmid 17130505?><pub-id pub-id-type="pmid">17130505</pub-id></element-citation></ref><ref id="B57-nutrients-08-00697"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cooper</surname><given-names>P.L.</given-names></name><name><surname>Wahlqvist</surname><given-names>M.L.</given-names></name><name><surname>Simpson</surname><given-names>R.W.</given-names></name></person-group>
+<article-title>Sucrose versus saccharin as an added sweetener in non-insulin-dependent diabetes: Short- and medium-term metabolic effects</article-title>
+<source>Diabet. Med.</source>
+<year>1988</year>
+<volume>5</volume>
+<fpage>676</fpage>
+<lpage>680</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1464-5491.1988.tb01079.x</pub-id>
+<?supplied-pmid 2975554?><pub-id pub-id-type="pmid">2975554</pub-id></element-citation></ref><ref id="B58-nutrients-08-00697"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Groen</surname><given-names>J.J.</given-names></name><name><surname>Balogh</surname><given-names>M.</given-names></name><name><surname>Yaron</surname><given-names>E.</given-names></name><name><surname>Cohen</surname><given-names>A.M.</given-names></name></person-group>
+<article-title>Effect of interchanging bread and sucrose as main source of carbohydrate in a low fat diet on the serum cholesterol levels of healthy volunteer subjects</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>1966</year>
+<volume>19</volume>
+<fpage>46</fpage>
+<lpage>58</lpage>
+<?supplied-pmid 5944711?><pub-id pub-id-type="pmid">5944711</pub-id></element-citation></ref><ref id="B59-nutrients-08-00697"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marckmann</surname><given-names>P.</given-names></name><name><surname>Raben</surname><given-names>A.</given-names></name><name><surname>Astrup</surname><given-names>A.</given-names></name></person-group>
+<article-title>Ad libitum intake of low-fat diets rich in either starchy foods or sucrose: Effects on blood lipids, factor vii coagulant activity, and fibrinogen</article-title>
+<source>Metab. Clin. Exp.</source>
+<year>2000</year>
+<volume>49</volume>
+<fpage>731</fpage>
+<lpage>735</lpage>
+<pub-id pub-id-type="doi">10.1053/meta.2000.6237</pub-id>
+<?supplied-pmid 10877197?><pub-id pub-id-type="pmid">10877197</pub-id></element-citation></ref><ref id="B60-nutrients-08-00697"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sorensen</surname><given-names>L.B.</given-names></name><name><surname>Raben</surname><given-names>A.</given-names></name><name><surname>Stender</surname><given-names>S.</given-names></name><name><surname>Astrup</surname><given-names>A.</given-names></name></person-group>
+<article-title>Effect of sucrose on inflammatory markers in overweight humans</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2005</year>
+<volume>82</volume>
+<fpage>421</fpage>
+<lpage>427</lpage>
+<?supplied-pmid 16087988?><pub-id pub-id-type="pmid">16087988</pub-id></element-citation></ref><ref id="B61-nutrients-08-00697"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanhope</surname><given-names>K.L.</given-names></name><name><surname>Bremer</surname><given-names>A.A.</given-names></name><name><surname>Medici</surname><given-names>V.</given-names></name><name><surname>Nakajima</surname><given-names>K.</given-names></name><name><surname>Ito</surname><given-names>Y.</given-names></name><name><surname>Nakano</surname><given-names>T.</given-names></name><name><surname>Chen</surname><given-names>G.</given-names></name><name><surname>Fong</surname><given-names>T.H.</given-names></name><name><surname>Lee</surname><given-names>V.</given-names></name><name><surname>Menorca</surname><given-names>R.I.</given-names></name><etal/></person-group>
+<article-title>Consumption of fructose and high fructose corn syrup increase postprandial triglycerides, LDL-cholesterol, and apolipoprotein-b in young men and women</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2011</year>
+<volume>96</volume>
+<fpage>E1596</fpage>
+<lpage>E1605</lpage>
+<pub-id pub-id-type="doi">10.1210/jc.2011-1251</pub-id>
+<?supplied-pmid 21849529?><pub-id pub-id-type="pmid">21849529</pub-id></element-citation></ref><ref id="B62-nutrients-08-00697"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tappy</surname><given-names>L.</given-names></name><name><surname>Le</surname><given-names>K.</given-names></name></person-group>
+<article-title>Metabolic effects of fructose and the worldwide increase in obesity</article-title>
+<source>Physiol. Rev.</source>
+<year>2010</year>
+<volume>90</volume>
+<fpage>23</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="doi">10.1152/physrev.00019.2009</pub-id>
+<?supplied-pmid 20086073?><pub-id pub-id-type="pmid">20086073</pub-id></element-citation></ref><ref id="B63-nutrients-08-00697"><label>63.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sun</surname><given-names>S.Z.</given-names></name><name><surname>Empie</surname><given-names>M.W.</given-names></name></person-group>
+<article-title>Fructose metabolism in humans&#x02014;What isotopic tracer studies tell us</article-title>
+<source>Nutr. Metab. (Lond.)</source>
+<year>2012</year>
+<volume>9</volume>
+<fpage>89</fpage>
+<pub-id pub-id-type="doi">10.1186/1743-7075-9-89</pub-id>
+<?supplied-pmid 23031075?><pub-id pub-id-type="pmid">23031075</pub-id></element-citation></ref><ref id="B64-nutrients-08-00697"><label>64.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hellerstein</surname><given-names>M.K.</given-names></name><name><surname>Schwarz</surname><given-names>J.M.</given-names></name><name><surname>Neese</surname><given-names>R.A.</given-names></name></person-group>
+<article-title>Regulation of hepatic de novo lipogenesis in humans</article-title>
+<source>Annu. Rev. Nutr.</source>
+<year>1996</year>
+<volume>16</volume>
+<fpage>523</fpage>
+<lpage>557</lpage>
+<pub-id pub-id-type="doi">10.1146/annurev.nu.16.070196.002515</pub-id>
+<?supplied-pmid 8839937?><pub-id pub-id-type="pmid">8839937</pub-id></element-citation></ref><ref id="B65-nutrients-08-00697"><label>65.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hellerstein</surname><given-names>M.K.</given-names></name></person-group>
+<article-title>No common energy currency: De novo lipogenesis as the road less traveled</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2001</year>
+<volume>74</volume>
+<fpage>707</fpage>
+<lpage>708</lpage>
+<?supplied-pmid 11722948?><pub-id pub-id-type="pmid">11722948</pub-id></element-citation></ref><ref id="B66-nutrients-08-00697"><label>66.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Faeh</surname><given-names>D.</given-names></name><name><surname>Minehira</surname><given-names>K.</given-names></name><name><surname>Schwarz</surname><given-names>J.M.</given-names></name><name><surname>Periasamy</surname><given-names>R.</given-names></name><name><surname>Park</surname><given-names>S.</given-names></name><name><surname>Tappy</surname><given-names>L.</given-names></name></person-group>
+<article-title>Effect of fructose overfeeding and fish oil administration on hepatic de novo lipogenesis and insulin sensitivity in healthy men</article-title>
+<source>Diabetes</source>
+<year>2005</year>
+<volume>54</volume>
+<fpage>1907</fpage>
+<lpage>1913</lpage>
+<pub-id pub-id-type="doi">10.2337/diabetes.54.7.1907</pub-id>
+<?supplied-pmid 15983189?><pub-id pub-id-type="pmid">15983189</pub-id></element-citation></ref><ref id="B67-nutrients-08-00697"><label>67.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schwarz</surname><given-names>J.M.</given-names></name><name><surname>Noworolski</surname><given-names>S.M.</given-names></name><name><surname>Wen</surname><given-names>M.J.</given-names></name><name><surname>Dyachenko</surname><given-names>A.</given-names></name><name><surname>Prior</surname><given-names>J.L.</given-names></name><name><surname>Weinberg</surname><given-names>M.E.</given-names></name><name><surname>Herraiz</surname><given-names>L.A.</given-names></name><name><surname>Tai</surname><given-names>V.W.</given-names></name><name><surname>Bergeron</surname><given-names>N.</given-names></name><name><surname>Bersot</surname><given-names>T.P.</given-names></name><etal/></person-group>
+<article-title>Effect of a high-fructose weight-maintaining diet on lipogenesis and liver fat</article-title>
+<source>J. Clin. Endocrinol. Metab.</source>
+<year>2015</year>
+<volume>100</volume>
+<fpage>2434</fpage>
+<lpage>2442</lpage>
+<pub-id pub-id-type="doi">10.1210/jc.2014-3678</pub-id>
+<?supplied-pmid 25825943?><pub-id pub-id-type="pmid">25825943</pub-id></element-citation></ref><ref id="B68-nutrients-08-00697"><label>68.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Schwarz</surname><given-names>J.-M.</given-names></name><name><surname>Noworolski</surname><given-names>S.M.</given-names></name><name><surname>Wen</surname><given-names>M.J.</given-names></name><name><surname>Jones</surname><given-names>G.M.</given-names></name><name><surname>Sinclair</surname><given-names>E.</given-names></name><name><surname>Dyachenco</surname><given-names>A.</given-names></name><name><surname>Tai</surname><given-names>V.</given-names></name><name><surname>Alin</surname><given-names>M.V.</given-names></name><name><surname>Erkin-Cakmak</surname><given-names>A.</given-names></name><name><surname>Gugliucci</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Isocaloric fructose restriction for 10 days reduces hepatic de novo lipogenesis and liver fat in obese Latino and African American children</article-title>
+<source>Proceedings of the Endocrine Society&#x02019;s 97th Annual Meeting and Expo</source>
+<conf-loc>San Diego, CA, USA</conf-loc>
+<conf-date>5&#x02013;8 March 2015</conf-date>
+</element-citation></ref><ref id="B69-nutrients-08-00697"><label>69.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name><name><surname>de Souza</surname><given-names>R.J.</given-names></name><name><surname>Kendall</surname><given-names>C.W.</given-names></name><name><surname>Jenkins</surname><given-names>D.J.</given-names></name></person-group>
+<article-title>Is fructose a story of mice but not men?</article-title>
+<source>J. Am. Diet. Assoc.</source>
+<year>2011</year>
+<volume>111</volume>
+<fpage>219</fpage>
+<lpage>212</lpage>
+<page-range>219&#x02013;220; author reply 220&#x02013;212</page-range>
+<pub-id pub-id-type="doi">10.1016/j.jada.2010.12.001</pub-id>
+<?supplied-pmid 21272692?><pub-id pub-id-type="pmid">21272692</pub-id></element-citation></ref><ref id="B70-nutrients-08-00697"><label>70.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Melanson</surname><given-names>K.J.</given-names></name><name><surname>Summers</surname><given-names>A.</given-names></name><name><surname>Nguyen</surname><given-names>V.</given-names></name><name><surname>Brosnahan</surname><given-names>J.</given-names></name><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Angelopoulos</surname><given-names>T.J.</given-names></name><name><surname>Rippe</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>Body composition, dietary composition, and components of metabolic syndrome in overweight and obese adults after a 12-week trial on dietary treatments focused on portion control, energy density, or glycemic index</article-title>
+<source>Nutr. J.</source>
+<year>2012</year>
+<volume>11</volume>
+<fpage>57</fpage>
+<pub-id pub-id-type="doi">10.1186/1475-2891-11-57</pub-id>
+<?supplied-pmid 22925169?><pub-id pub-id-type="pmid">22925169</pub-id></element-citation></ref><ref id="B71-nutrients-08-00697"><label>71.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanhope</surname><given-names>K.</given-names></name><name><surname>Havel</surname><given-names>P.</given-names></name></person-group>
+<article-title>Endocrine and metabolic effects of consuming beverages sweetened with fructose, glucose, sucrose or high-fructose corn syrup</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>88</volume>
+<fpage>1733S</fpage>
+<lpage>1737S</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2008.25825D</pub-id>
+<?supplied-pmid 19064538?><pub-id pub-id-type="pmid">19064538</pub-id></element-citation></ref><ref id="B72-nutrients-08-00697"><label>72.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Soenen</surname><given-names>S.</given-names></name><name><surname>Westerterp-Plantenga</surname><given-names>M.S.</given-names></name></person-group>
+<article-title>No differences in satiety or energy intake after high fructose corn syrup, sucrose, or milk preloads</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2007</year>
+<volume>86</volume>
+<fpage>1586</fpage>
+<lpage>1594</lpage>
+<?supplied-pmid 18065574?><pub-id pub-id-type="pmid">18065574</pub-id></element-citation></ref><ref id="B73-nutrients-08-00697"><label>73.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Barclay</surname><given-names>A.</given-names></name><name><surname>Brand-Miller</surname><given-names>J.</given-names></name></person-group>
+<article-title>The Australian paradox: A substantial decline in sugars intake over the same timeframe that overweight and obesity have increased</article-title>
+<source>Nutrients</source>
+<year>2014</year>
+<volume>6</volume>
+<fpage>663</fpage>
+<lpage>664</lpage>
+<pub-id pub-id-type="doi">10.3390/nu6020663</pub-id>
+</element-citation></ref><ref id="B74-nutrients-08-00697"><label>74.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mozaffarian</surname><given-names>D.</given-names></name><name><surname>Hao</surname><given-names>T.</given-names></name><name><surname>Rimm</surname><given-names>E.B.</given-names></name><name><surname>Willett</surname><given-names>W.C.</given-names></name><name><surname>Hu</surname><given-names>F.B.</given-names></name></person-group>
+<article-title>Changes in diet and lifestyle and long-term weight gain in women and men</article-title>
+<source>N. Engl. J. Med.</source>
+<year>2011</year>
+<volume>364</volume>
+<fpage>2392</fpage>
+<lpage>2404</lpage>
+<pub-id pub-id-type="doi">10.1056/NEJMoa1014296</pub-id>
+<?supplied-pmid 21696306?><pub-id pub-id-type="pmid">21696306</pub-id></element-citation></ref><ref id="B75-nutrients-08-00697"><label>75.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kaiser</surname><given-names>K.A.</given-names></name><name><surname>Shikany</surname><given-names>J.M.</given-names></name><name><surname>Keating</surname><given-names>K.D.</given-names></name><name><surname>Allison</surname><given-names>D.B.</given-names></name></person-group>
+<article-title>Will reducing sugar-sweetened beverage consumption reduce obesity? Evidence supporting conjecture is strong, but evidence when testing effect is weak</article-title>
+<source>Obes. Rev.</source>
+<year>2013</year>
+<volume>14</volume>
+<fpage>620</fpage>
+<lpage>633</lpage>
+<pub-id pub-id-type="doi">10.1111/obr.12048</pub-id>
+<?supplied-pmid 23742715?><pub-id pub-id-type="pmid">23742715</pub-id></element-citation></ref><ref id="B76-nutrients-08-00697"><label>76.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name><name><surname>de Souza</surname><given-names>R.J.</given-names></name><name><surname>Mirrahimi</surname><given-names>A.</given-names></name><name><surname>Yu</surname><given-names>M.E.</given-names></name><name><surname>Carleton</surname><given-names>A.J.</given-names></name><name><surname>Beyene</surname><given-names>J.</given-names></name><name><surname>Chiavaroli</surname><given-names>L.</given-names></name><name><surname>Di Buono</surname><given-names>M.</given-names></name><name><surname>Jenkins</surname><given-names>A.L.</given-names></name><name><surname>Leiter</surname><given-names>L.A.</given-names></name><etal/></person-group>
+<article-title>Effect of fructose on body weight in controlled feeding trials: A systematic review and meta-analysis</article-title>
+<source>Ann. Intern. Med.</source>
+<year>2012</year>
+<volume>156</volume>
+<fpage>291</fpage>
+<lpage>304</lpage>
+<pub-id pub-id-type="doi">10.7326/0003-4819-156-4-201202210-00007</pub-id>
+<?supplied-pmid 22351714?><pub-id pub-id-type="pmid">22351714</pub-id></element-citation></ref><ref id="B77-nutrients-08-00697"><label>77.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Malik</surname><given-names>V.S.</given-names></name><name><surname>Pan</surname><given-names>A.</given-names></name><name><surname>Willett</surname><given-names>W.C.</given-names></name><name><surname>Hu</surname><given-names>F.B.</given-names></name></person-group>
+<article-title>Sugar-sweetened beverages and weight gain in children and adults: A systematic review and meta-analysis</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2013</year>
+<volume>98</volume>
+<fpage>1084</fpage>
+<lpage>1102</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.113.058362</pub-id>
+<?supplied-pmid 23966427?><pub-id pub-id-type="pmid">23966427</pub-id></element-citation></ref><ref id="B78-nutrients-08-00697"><label>78.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dolan</surname><given-names>L.C.</given-names></name><name><surname>Potter</surname><given-names>S.M.</given-names></name><name><surname>Burdock</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Evidence-based review on the effect of normal dietary consumption of fructose on development of hyperlipidemia and obesity in healthy, normal weight individuals</article-title>
+<source>Crit. Rev. Food Sci. Nutr.</source>
+<year>2010</year>
+<volume>50</volume>
+<fpage>53</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.1080/10408390903461426</pub-id>
+<?supplied-pmid 20047139?><pub-id pub-id-type="pmid">20047139</pub-id></element-citation></ref><ref id="B79-nutrients-08-00697"><label>79.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dolan</surname><given-names>L.C.</given-names></name><name><surname>Potter</surname><given-names>S.M.</given-names></name><name><surname>Burdock</surname><given-names>G.A.</given-names></name></person-group>
+<article-title>Evidence-based review on the effect of normal dietary consumption of fructose on blood lipids and body weight of overweight and obese individuals</article-title>
+<source>Crit. Rev. Food Sci. Nutr.</source>
+<year>2010</year>
+<volume>50</volume>
+<fpage>889</fpage>
+<lpage>918</lpage>
+<pub-id pub-id-type="doi">10.1080/10408398.2010.512990</pub-id>
+<?supplied-pmid 21108071?><pub-id pub-id-type="pmid">21108071</pub-id></element-citation></ref><ref id="B80-nutrients-08-00697"><label>80.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Maersk</surname><given-names>M.</given-names></name><name><surname>Belza</surname><given-names>A.</given-names></name><name><surname>St&#x000f8;dkilde-J&#x000f8;rgensen</surname><given-names>H.</given-names></name><name><surname>Ringgaard</surname><given-names>S.</given-names></name><name><surname>Chabanova</surname><given-names>E.</given-names></name><name><surname>Thomsen</surname><given-names>H.</given-names></name><name><surname>Pedersen</surname><given-names>S.B.</given-names></name><name><surname>Astrup</surname><given-names>A.</given-names></name><name><surname>Richelsen</surname><given-names>B.</given-names></name></person-group>
+<article-title>Sucrose-sweetened beverages increase fat storage in the liver, muscle, and visceral fat depot: A 6-mo randomized intervention study</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2012</year>
+<volume>95</volume>
+<fpage>283</fpage>
+<lpage>289</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.111.022533</pub-id>
+<?supplied-pmid 22205311?><pub-id pub-id-type="pmid">22205311</pub-id></element-citation></ref><ref id="B81-nutrients-08-00697"><label>81.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanhope</surname><given-names>K.</given-names></name><name><surname>Schwarz</surname><given-names>J.</given-names></name><name><surname>Keim</surname><given-names>N.</given-names></name><name><surname>Griffen</surname><given-names>S.</given-names></name><name><surname>Bremer</surname><given-names>A.</given-names></name><name><surname>Graham</surname><given-names>J.</given-names></name><name><surname>Hatcher</surname><given-names>B.</given-names></name><name><surname>Cox</surname><given-names>C.</given-names></name><name><surname>Dyachenko</surname><given-names>A.</given-names></name><name><surname>Zhang</surname><given-names>W.</given-names></name><etal/></person-group>
+<article-title>Consuming fructose-sweetened, not glucose-sweetened, beverages increases visceral adiposity and lipids and decreases insulin sensitivity in overweight/obese humans</article-title>
+<source>J. Clin. Investig.</source>
+<year>2009</year>
+<volume>119</volume>
+<fpage>1322</fpage>
+<lpage>1334</lpage>
+<pub-id pub-id-type="doi">10.1172/JCI37385</pub-id>
+<?supplied-pmid 19381015?><pub-id pub-id-type="pmid">19381015</pub-id></element-citation></ref><ref id="B82-nutrients-08-00697"><label>82.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cozma</surname><given-names>A.I.</given-names></name><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name><name><surname>de Souza</surname><given-names>R.J.</given-names></name><name><surname>Chiavaroli</surname><given-names>L.</given-names></name><name><surname>Ha</surname><given-names>V.</given-names></name><name><surname>Wang</surname><given-names>D.D.</given-names></name><name><surname>Mirrahimi</surname><given-names>A.</given-names></name><name><surname>Yu</surname><given-names>M.E.</given-names></name><name><surname>Carleton</surname><given-names>A.J.</given-names></name><name><surname>Di Buono</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Effect of fructose on glycemic control in diabetes: A systematic review and meta-analysis of controlled feeding trials</article-title>
+<source>Diabetes Care</source>
+<year>2012</year>
+<volume>35</volume>
+<fpage>1611</fpage>
+<lpage>1620</lpage>
+<pub-id pub-id-type="doi">10.2337/dc12-0073</pub-id>
+<?supplied-pmid 22723585?><pub-id pub-id-type="pmid">22723585</pub-id></element-citation></ref><ref id="B83-nutrients-08-00697"><label>83.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ha</surname><given-names>V.</given-names></name><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name><name><surname>de Souza</surname><given-names>R.J.</given-names></name><name><surname>Chiavaroli</surname><given-names>L.</given-names></name><name><surname>Wang</surname><given-names>D.D.</given-names></name><name><surname>Cozma</surname><given-names>A.I.</given-names></name><name><surname>Mirrahimi</surname><given-names>A.</given-names></name><name><surname>Matthew</surname><given-names>E.Y.</given-names></name><name><surname>Carleton</surname><given-names>A.J.</given-names></name><name><surname>Dibuono</surname><given-names>M.</given-names></name></person-group>
+<article-title>Effect of fructose on blood pressure a systematic review and meta-analysis of controlled feeding trials</article-title>
+<source>Hypertension</source>
+<year>2012</year>
+<volume>59</volume>
+<fpage>787</fpage>
+<lpage>795</lpage>
+<pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.111.182311</pub-id>
+<?supplied-pmid 22331380?><pub-id pub-id-type="pmid">22331380</pub-id></element-citation></ref><ref id="B84-nutrients-08-00697"><label>84.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Saris</surname><given-names>W.H.</given-names></name><name><surname>Astrup</surname><given-names>A.</given-names></name><name><surname>Prentice</surname><given-names>A.M.</given-names></name><name><surname>Zunft</surname><given-names>H.J.</given-names></name><name><surname>Formiguera</surname><given-names>X.</given-names></name><name><surname>Verboeket-van de Venne</surname><given-names>W.P.</given-names></name><name><surname>Raben</surname><given-names>A.</given-names></name><name><surname>Poppitt</surname><given-names>S.D.</given-names></name><name><surname>Seppelt</surname><given-names>B.</given-names></name><name><surname>Johnston</surname><given-names>S.</given-names></name><etal/></person-group>
+<article-title>Randomized controlled trial of changes in dietary carbohydrate/fat ratio and simple vs complex carbohydrates on body weight and blood lipids: The carmen study. The carbohydrate ratio management in european national diets</article-title>
+<source>Int. J. Obes. Relat. Metab. Disord.</source>
+<year>2000</year>
+<volume>24</volume>
+<fpage>1310</fpage>
+<lpage>1318</lpage>
+<pub-id pub-id-type="doi">10.1038/sj.ijo.0801451</pub-id>
+<?supplied-pmid 11093293?><pub-id pub-id-type="pmid">11093293</pub-id></element-citation></ref><ref id="B85-nutrients-08-00697"><label>85.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hall</surname><given-names>K.D.</given-names></name><name><surname>Heymsfield</surname><given-names>S.B.</given-names></name><name><surname>Kemnitz</surname><given-names>J.W.</given-names></name><name><surname>Klein</surname><given-names>S.</given-names></name><name><surname>Schoeller</surname><given-names>D.A.</given-names></name><name><surname>Speakman</surname><given-names>J.R.</given-names></name></person-group>
+<article-title>Energy balance and its components: Implications for body weight regulation</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2012</year>
+<volume>95</volume>
+<fpage>989</fpage>
+<lpage>994</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.112.036350</pub-id>
+<?supplied-pmid 22434603?><pub-id pub-id-type="pmid">22434603</pub-id></element-citation></ref><ref id="B86-nutrients-08-00697"><label>86.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swinburn</surname><given-names>B.</given-names></name><name><surname>Sacks</surname><given-names>G.</given-names></name><name><surname>Ravussin</surname><given-names>E.</given-names></name></person-group>
+<article-title>Increased food energy supply is more than sufficient to explain the us epidemic of obesity</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2009</year>
+<volume>90</volume>
+<fpage>1453</fpage>
+<lpage>1456</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2009.28595</pub-id>
+<?supplied-pmid 19828708?><pub-id pub-id-type="pmid">19828708</pub-id></element-citation></ref><ref id="B87-nutrients-08-00697"><label>87.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rippe</surname><given-names>J.M.</given-names></name><name><surname>Dysinger</surname><given-names>W.S.</given-names></name><name><surname>Rust</surname><given-names>R.</given-names></name><name><surname>Frank</surname><given-names>A.</given-names></name><name><surname>Blair</surname><given-names>S.N.</given-names></name><name><surname>Parkinson</surname><given-names>M.</given-names></name></person-group>
+<article-title>American college of lifestyle medicine expert panel discussion: The treat the cause movement</article-title>
+<source>Am. J. Lifestyle Med.</source>
+<year>2014</year>
+<volume>8</volume>
+<fpage>291</fpage>
+<lpage>300</lpage>
+<pub-id pub-id-type="doi">10.1177/1559827614521987</pub-id>
+</element-citation></ref><ref id="B88-nutrients-08-00697"><label>88.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>United States Department of Agriculture-Economic Research Service</collab></person-group>
+<article-title>Calories average daily per capita calories from the US food supply, adjusted for spoilage and other waste</article-title>
+<source>Loss-Adjusted Food Availability Data Series</source>
+<publisher-name>USDA</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2013</year>
+</element-citation></ref><ref id="B89-nutrients-08-00697"><label>89.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name><name><surname>Tappy</surname><given-names>L.</given-names></name><name><surname>Brouns</surname><given-names>F.</given-names></name></person-group>
+<article-title>Fructose as a driver of diabetes: An incomplete view of the evidence</article-title>
+<source>Mayo Clin. Proc.</source>
+<year>2015</year>
+<volume>90</volume>
+<fpage>984</fpage>
+<lpage>988</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mayocp.2015.04.017</pub-id>
+<?supplied-pmid 26141336?><pub-id pub-id-type="pmid">26141336</pub-id></element-citation></ref><ref id="B90-nutrients-08-00697"><label>90.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xi</surname><given-names>B.</given-names></name><name><surname>Li</surname><given-names>S.</given-names></name><name><surname>Liu</surname><given-names>Z.</given-names></name><name><surname>Tian</surname><given-names>H.</given-names></name><name><surname>Yin</surname><given-names>X.</given-names></name><name><surname>Huai</surname><given-names>P.</given-names></name><name><surname>Tang</surname><given-names>W.</given-names></name><name><surname>Zhou</surname><given-names>D.</given-names></name><name><surname>Steffen</surname><given-names>L.M.</given-names></name></person-group>
+<article-title>Intake of fruit juice and incidence of type 2 diabetes: A systematic review and meta-analysis</article-title>
+<source>PLoS ONE</source>
+<year>2014</year>
+<volume>9</volume>
+<elocation-id>e93471</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0093471</pub-id>
+<?supplied-pmid 24682091?><pub-id pub-id-type="pmid">24682091</pub-id></element-citation></ref><ref id="B91-nutrients-08-00697"><label>91.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Tsilas</surname><given-names>C.S.</given-names></name><name><surname>de Souza</surname><given-names>R.J.</given-names></name><name><surname>Tawfik</surname><given-names>R.</given-names></name><name><surname>Blanco-Mejia</surname><given-names>S.</given-names></name><name><surname>Cozma</surname><given-names>A.I.</given-names></name><name><surname>Mirrahimi</surname><given-names>A.</given-names></name><name><surname>Jayalath</surname><given-names>V.</given-names></name><name><surname>Ha</surname><given-names>V.</given-names></name><name><surname>Beyene</surname><given-names>J.</given-names></name><name><surname>Kendall</surname><given-names>C.W.C.</given-names></name><etal/></person-group>
+<article-title>No relation between total sugars intake and incident diabetes: A systematic review and meta-anaylsis of cohorts</article-title>
+<source>Proceedings of the 32nd International Symposium on Diabetes and Nutrition</source>
+<conf-loc>Reykjavik, Iceland</conf-loc>
+<conf-date>25&#x02013;27 June 2014</conf-date>
+</element-citation></ref><ref id="B92-nutrients-08-00697"><label>92.</label><element-citation publication-type="journal">
+<article-title>The Interact Consortium, Consumption of sweet beverages and type 2 diabetes incidence in European adults: Results from epic-interact</article-title>
+<source>Diabetologia</source>
+<year>2013</year>
+<volume>56</volume>
+<fpage>1520</fpage>
+<lpage>1530</lpage>
+<pub-id pub-id-type="pmid">23620057</pub-id></element-citation></ref><ref id="B93-nutrients-08-00697"><label>93.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janket</surname><given-names>S.-J.</given-names></name><name><surname>Manson</surname><given-names>J.E.</given-names></name><name><surname>Sesso</surname><given-names>H.</given-names></name><name><surname>Buring</surname><given-names>J.E.</given-names></name><name><surname>Liu</surname><given-names>S.</given-names></name></person-group>
+<article-title>A prospective study of sugar intake and risk of type 2 diabetes in women</article-title>
+<source>Diabetes Care</source>
+<year>2003</year>
+<volume>26</volume>
+<fpage>1008</fpage>
+<lpage>1015</lpage>
+<pub-id pub-id-type="doi">10.2337/diacare.26.4.1008</pub-id>
+<?supplied-pmid 12663565?><pub-id pub-id-type="pmid">12663565</pub-id></element-citation></ref><ref id="B94-nutrients-08-00697"><label>94.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hodge</surname><given-names>A.M.</given-names></name><name><surname>English</surname><given-names>D.R.</given-names></name><name><surname>O&#x02019;Dea</surname><given-names>K.</given-names></name><name><surname>Giles</surname><given-names>G.G.</given-names></name></person-group>
+<article-title>Glycemic index and dietary fiber and the risk of type 2 diabetes</article-title>
+<source>Diabetes Care</source>
+<year>2004</year>
+<volume>27</volume>
+<fpage>2701</fpage>
+<lpage>2706</lpage>
+<pub-id pub-id-type="doi">10.2337/diacare.27.11.2701</pub-id>
+<?supplied-pmid 15505008?><pub-id pub-id-type="pmid">15505008</pub-id></element-citation></ref><ref id="B95-nutrients-08-00697"><label>95.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Meyer</surname><given-names>K.A.</given-names></name><name><surname>Kushi</surname><given-names>L.H.</given-names></name><name><surname>Jacobs</surname><given-names>D.R.</given-names><suffix>Jr.</suffix></name><name><surname>Slavin</surname><given-names>J.</given-names></name><name><surname>Sellers</surname><given-names>T.A.</given-names></name><name><surname>Folsom</surname><given-names>A.R.</given-names></name></person-group>
+<article-title>Carbohydrates, dietary fiber, and incident type 2 diabetes in older women</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2000</year>
+<volume>71</volume>
+<fpage>921</fpage>
+<lpage>930</lpage>
+<?supplied-pmid 10731498?><pub-id pub-id-type="pmid">10731498</pub-id></element-citation></ref><ref id="B96-nutrients-08-00697"><label>96.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Colditz</surname><given-names>G.A.</given-names></name><name><surname>Manson</surname><given-names>J.E.</given-names></name><name><surname>Stampfer</surname><given-names>M.J.</given-names></name><name><surname>Rosner</surname><given-names>B.</given-names></name><name><surname>Willett</surname><given-names>W.C.</given-names></name><name><surname>Speizer</surname><given-names>F.E.</given-names></name></person-group>
+<article-title>Diet and risk of clinical diabetes in women</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>1992</year>
+<volume>55</volume>
+<fpage>1018</fpage>
+<lpage>1023</lpage>
+<?supplied-pmid 1315120?><pub-id pub-id-type="pmid">1315120</pub-id></element-citation></ref><ref id="B97-nutrients-08-00697"><label>97.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aeberli</surname><given-names>I.</given-names></name><name><surname>Gerber</surname><given-names>P.A.</given-names></name><name><surname>Hochuli</surname><given-names>M.</given-names></name><name><surname>Kohler</surname><given-names>S.</given-names></name><name><surname>Haile</surname><given-names>S.R.</given-names></name><name><surname>Gouni-Berthold</surname><given-names>I.</given-names></name><name><surname>Berthold</surname><given-names>H.K.</given-names></name><name><surname>Spinas</surname><given-names>G.A.</given-names></name><name><surname>Berneis</surname><given-names>K.</given-names></name></person-group>
+<article-title>Low to moderate sugar-sweetened beverage consumption impairs glucose and lipid metabolism and promotes inflammation in healthy young men: A randomized controlled trial</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2011</year>
+<volume>94</volume>
+<fpage>479</fpage>
+<lpage>485</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.111.013540</pub-id>
+<?supplied-pmid 21677052?><pub-id pub-id-type="pmid">21677052</pub-id></element-citation></ref><ref id="B98-nutrients-08-00697"><label>98.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Aeberli</surname><given-names>I.</given-names></name><name><surname>Hochuli</surname><given-names>M.</given-names></name><name><surname>Gerber</surname><given-names>P.A.</given-names></name><name><surname>Sze</surname><given-names>L.</given-names></name><name><surname>Murer</surname><given-names>S.B.</given-names></name><name><surname>Tappy</surname><given-names>L.</given-names></name><name><surname>Spinas</surname><given-names>G.A.</given-names></name><name><surname>Berneis</surname><given-names>K.</given-names></name></person-group>
+<article-title>Moderate amounts of fructose consumption impair insulin sensitivity in healthy young men: A randomized controlled trial</article-title>
+<source>Diabetes Care</source>
+<year>2013</year>
+<volume>36</volume>
+<fpage>150</fpage>
+<lpage>156</lpage>
+<pub-id pub-id-type="doi">10.2337/dc12-0540</pub-id>
+<?supplied-pmid 22933433?><pub-id pub-id-type="pmid">22933433</pub-id></element-citation></ref><ref id="B99-nutrients-08-00697"><label>99.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moore</surname><given-names>M.C.</given-names></name><name><surname>Davis</surname><given-names>S.N.</given-names></name><name><surname>Mann</surname><given-names>S.L.</given-names></name><name><surname>Cherrington</surname><given-names>A.D.</given-names></name></person-group>
+<article-title>Acute fructose administration improves oral glucose tolerance in adults with type 2 diabetes</article-title>
+<source>Diabetes Care</source>
+<year>2001</year>
+<volume>24</volume>
+<fpage>1882</fpage>
+<lpage>1887</lpage>
+<pub-id pub-id-type="doi">10.2337/diacare.24.11.1882</pub-id>
+<?supplied-pmid 11679451?><pub-id pub-id-type="pmid">11679451</pub-id></element-citation></ref><ref id="B100-nutrients-08-00697"><label>100.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Sinnett</surname><given-names>S.</given-names></name><name><surname>Rippe</surname><given-names>J.</given-names></name></person-group>
+<article-title>No change in oral glucose tolerance tests as a result of ten weeks of consumption of various fructose containing sugars or glucose</article-title>
+<source>Proceedings of the Endocrine Society&#x02019;s 96th Annual Meeting and Expo</source>
+<conf-loc>Chicago, IL, USA</conf-loc>
+<conf-date>21&#x02013;24 June 2014</conf-date>
+</element-citation></ref><ref id="B101-nutrients-08-00697"><label>101.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Johnson</surname><given-names>R.K.</given-names></name><name><surname>Appel</surname><given-names>L.J.</given-names></name><name><surname>Brands</surname><given-names>M.</given-names></name><name><surname>Howard</surname><given-names>B.V.</given-names></name><name><surname>Lefevre</surname><given-names>M.</given-names></name><name><surname>Lustig</surname><given-names>R.H.</given-names></name><name><surname>Sacks</surname><given-names>F.</given-names></name><name><surname>Steffen</surname><given-names>L.M.</given-names></name><name><surname>Wylie-Rosett</surname><given-names>J.</given-names></name></person-group>
+<article-title>Dietary sugars intake and cardiovascular health: A scientific statement from the American heart association</article-title>
+<source>Circulation</source>
+<year>2009</year>
+<volume>120</volume>
+<fpage>1011</fpage>
+<lpage>1020</lpage>
+<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.109.192627</pub-id>
+<?supplied-pmid 19704096?><pub-id pub-id-type="pmid">19704096</pub-id></element-citation></ref><ref id="B102-nutrients-08-00697"><label>102.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.</given-names></name><name><surname>Stone</surname><given-names>N.</given-names></name><name><surname>Ballantye</surname><given-names>C.</given-names></name><name><surname>Bttiner</surname><given-names>V.</given-names></name><name><surname>Criqui</surname><given-names>M.</given-names></name><name><surname>Ginsberg</surname><given-names>H.</given-names></name><name><surname>Goldberg</surname><given-names>H.</given-names></name><name><surname>Howard</surname><given-names>W.</given-names></name><name><surname>Jacobson</surname><given-names>M.</given-names></name><name><surname>Kris Etherton</surname><given-names>P.</given-names></name><etal/></person-group>
+<article-title>Triglycerides and cardiovascular disease: A scientific statement from the American heart association</article-title>
+<source>Circulation</source>
+<year>2011</year>
+<volume>123</volume>
+<fpage>2292</fpage>
+<lpage>2333</lpage>
+<pub-id pub-id-type="doi">10.1161/CIR.0b013e3182160726</pub-id>
+<?supplied-pmid 21502576?><pub-id pub-id-type="pmid">21502576</pub-id></element-citation></ref><ref id="B103-nutrients-08-00697"><label>103.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Livesey</surname><given-names>G.</given-names></name><name><surname>Taylor</surname><given-names>R.</given-names></name></person-group>
+<article-title>Fructose consumption and consequences for glycation, plasma triacylglycerol, and body weight: Meta-analyses and meta-regression models of intervention studies</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2008</year>
+<volume>88</volume>
+<fpage>1419</fpage>
+<lpage>1437</lpage>
+<?supplied-pmid 18996880?><pub-id pub-id-type="pmid">18996880</pub-id></element-citation></ref><ref id="B104-nutrients-08-00697"><label>104.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>D.D.</given-names></name><name><surname>Sievenpiper</surname><given-names>J.L.</given-names></name><name><surname>de Souza</surname><given-names>R.J.</given-names></name><name><surname>Cozma</surname><given-names>A.I.</given-names></name><name><surname>Chiavaroli</surname><given-names>L.</given-names></name><name><surname>Ha</surname><given-names>V.</given-names></name><name><surname>Mirrahimi</surname><given-names>A.</given-names></name><name><surname>Carleton</surname><given-names>A.J.</given-names></name><name><surname>Di Buono</surname><given-names>M.</given-names></name><name><surname>Jenkins</surname><given-names>A.L.</given-names></name><etal/></person-group>
+<article-title>Effect of fructose on postprandial triglycerides: A systematic review and meta-analysis of controlled feeding trials</article-title>
+<source>Atherosclerosis</source>
+<year>2014</year>
+<volume>232</volume>
+<fpage>125</fpage>
+<lpage>133</lpage>
+<pub-id pub-id-type="doi">10.1016/j.atherosclerosis.2013.10.019</pub-id>
+<?supplied-pmid 24401226?><pub-id pub-id-type="pmid">24401226</pub-id></element-citation></ref><ref id="B105-nutrients-08-00697"><label>105.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Archer</surname><given-names>E.</given-names></name><name><surname>Pavela</surname><given-names>G.</given-names></name><name><surname>Lavie</surname><given-names>C.J.</given-names></name></person-group>
+<article-title>The inadmissibility of what we eat in America and nhanes dietary data in nutrition and obesity research and the scientific formulation of national dietary guidelines</article-title>
+<source>Mayo Clin. Proc.</source>
+<year>2015</year>
+<volume>90</volume>
+<fpage>911</fpage>
+<lpage>926</lpage>
+<pub-id pub-id-type="doi">10.1016/j.mayocp.2015.04.009</pub-id>
+<?supplied-pmid 26071068?><pub-id pub-id-type="pmid">26071068</pub-id></element-citation></ref><ref id="B106-nutrients-08-00697"><label>106.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yang</surname><given-names>Q.</given-names></name><name><surname>Zhang</surname><given-names>Z.</given-names></name><name><surname>Gregg</surname><given-names>E.W.</given-names></name><name><surname>Flanders</surname><given-names>W.D.</given-names></name><name><surname>Merritt</surname><given-names>R.</given-names></name><name><surname>Hu</surname><given-names>F.B.</given-names></name></person-group>
+<article-title>Added sugar intake and cardiovascular diseases mortality among us adults</article-title>
+<source>JAMA Intern. Med.</source>
+<year>2014</year>
+<volume>174</volume>
+<fpage>516</fpage>
+<lpage>524</lpage>
+<pub-id pub-id-type="doi">10.1001/jamainternmed.2013.13563</pub-id>
+<?supplied-pmid 24493081?><pub-id pub-id-type="pmid">24493081</pub-id></element-citation></ref><ref id="B107-nutrients-08-00697"><label>107.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanhope</surname><given-names>K.L.</given-names></name><name><surname>Medici</surname><given-names>V.</given-names></name><name><surname>Bremer</surname><given-names>A.A.</given-names></name><name><surname>Lee</surname><given-names>V.</given-names></name><name><surname>Lam</surname><given-names>H.D.</given-names></name><name><surname>Nunez</surname><given-names>M.V.</given-names></name><name><surname>Chen</surname><given-names>G.X.</given-names></name><name><surname>Keim</surname><given-names>N.L.</given-names></name><name><surname>Havel</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>A dose-response study of consuming high-fructose corn syrup&#x02013;sweetened beverages on lipid/lipoprotein risk factors for cardiovascular disease in young adults</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2015</year>
+<pub-id pub-id-type="doi">10.3945/ajcn.114.100461</pub-id>
+<?supplied-pmid 25904601?><pub-id pub-id-type="pmid">25904601</pub-id></element-citation></ref><ref id="B108-nutrients-08-00697"><label>108.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stanhope</surname><given-names>K.L.</given-names></name><name><surname>Havel</surname><given-names>P.J.</given-names></name></person-group>
+<article-title>Fructose consumption: Potential mechanisms for its effects to increase visceral adiposity and induce dyslipidemia and insulin resistance</article-title>
+<source>Curr. Opin. Lipidol.</source>
+<year>2008</year>
+<volume>19</volume>
+<fpage>16</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="doi">10.1097/MOL.0b013e3282f2b24a</pub-id>
+<?supplied-pmid 18196982?><pub-id pub-id-type="pmid">18196982</pub-id></element-citation></ref><ref id="B109-nutrients-08-00697"><label>109.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Te Morenga</surname><given-names>L.A.</given-names></name><name><surname>Howatson</surname><given-names>A.J.</given-names></name><name><surname>Jones</surname><given-names>R.M.</given-names></name><name><surname>Mann</surname><given-names>J.</given-names></name></person-group>
+<article-title>Dietary sugars and cardiometabolic risk: Systematic review and meta-analyses of randomized controlled trials of the effects on blood pressure and lipids</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2014</year>
+<volume>100</volume>
+<fpage>65</fpage>
+<lpage>79</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.113.081521</pub-id>
+<?supplied-pmid 24808490?><pub-id pub-id-type="pmid">24808490</pub-id></element-citation></ref><ref id="B110-nutrients-08-00697"><label>110.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bremer</surname><given-names>A.A.</given-names></name><name><surname>Auinger</surname><given-names>P.</given-names></name><name><surname>Byrd</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Relationship between insulin resistance-associated metabolic parameters and anthropometric measurements with sugar-sweetened beverage intake and physical activity levels in us adolescents: Findings from the 1999&#x02013;2004 national health and nutrition examination survey</article-title>
+<source>Arch. Pediatr. Adolesc. Med.</source>
+<year>2009</year>
+<volume>163</volume>
+<fpage>328</fpage>
+<lpage>335</lpage>
+<?supplied-pmid 19349561?><pub-id pub-id-type="pmid">19349561</pub-id></element-citation></ref><ref id="B111-nutrients-08-00697"><label>111.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dhingra</surname><given-names>R.</given-names></name><name><surname>Sullivan</surname><given-names>L.</given-names></name><name><surname>Jacques</surname><given-names>P.F.</given-names></name><name><surname>Wang</surname><given-names>T.J.</given-names></name><name><surname>Fox</surname><given-names>C.S.</given-names></name><name><surname>Meigs</surname><given-names>J.B.</given-names></name><name><surname>D&#x02019;Agostino</surname><given-names>R.B.</given-names></name><name><surname>Gaziano</surname><given-names>J.M.</given-names></name><name><surname>Vasan</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Soft drink consumption and risk of developing cardiometabolic risk factors and the metabolic syndrome in middle-aged adults in the community</article-title>
+<source>Circulation</source>
+<year>2007</year>
+<volume>116</volume>
+<fpage>480</fpage>
+<lpage>488</lpage>
+<pub-id pub-id-type="doi">10.1161/CIRCULATIONAHA.107.689935</pub-id>
+<?supplied-pmid 17646581?><pub-id pub-id-type="pmid">17646581</pub-id></element-citation></ref><ref id="B112-nutrients-08-00697"><label>112.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lenoir</surname><given-names>M.</given-names></name><name><surname>Serre</surname><given-names>F.</given-names></name><name><surname>Cantin</surname><given-names>L.</given-names></name><name><surname>Ahmed</surname><given-names>S.H.</given-names></name></person-group>
+<article-title>Intense sweetness surpasses cocaine reward</article-title>
+<source>PLoS ONE</source>
+<year>2007</year>
+<volume>2</volume>
+<elocation-id>e698</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0000698</pub-id>
+<?supplied-pmid 17668074?><pub-id pub-id-type="pmid">17668074</pub-id></element-citation></ref><ref id="B113-nutrients-08-00697"><label>113.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ross</surname><given-names>A.P.</given-names></name><name><surname>Bartness</surname><given-names>T.J.</given-names></name><name><surname>Mielke</surname><given-names>J.G.</given-names></name><name><surname>Parent</surname><given-names>M.B.</given-names></name></person-group>
+<article-title>A high fructose diet impairs spatial memory in male rats</article-title>
+<source>Neurobiol. Learn. Mem.</source>
+<year>2009</year>
+<volume>92</volume>
+<fpage>410</fpage>
+<lpage>416</lpage>
+<pub-id pub-id-type="doi">10.1016/j.nlm.2009.05.007</pub-id>
+<?supplied-pmid 19500683?><pub-id pub-id-type="pmid">19500683</pub-id></element-citation></ref><ref id="B114-nutrients-08-00697"><label>114.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Messier</surname><given-names>C.</given-names></name><name><surname>Whately</surname><given-names>K.</given-names></name><name><surname>Liang</surname><given-names>J.</given-names></name><name><surname>Du</surname><given-names>L.</given-names></name><name><surname>Puissant</surname><given-names>D.</given-names></name></person-group>
+<article-title>The effects of a high-fat, high-fructose, and combination diet on learning, weight, and glucose regulation in c57bl/6 mice</article-title>
+<source>Behav. Brain Res.</source>
+<year>2007</year>
+<volume>178</volume>
+<fpage>139</fpage>
+<lpage>145</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbr.2006.12.011</pub-id>
+<?supplied-pmid 17222919?><pub-id pub-id-type="pmid">17222919</pub-id></element-citation></ref><ref id="B115-nutrients-08-00697"><label>115.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Silva</surname><given-names>A.</given-names></name><name><surname>Salem</surname><given-names>V.</given-names></name><name><surname>Matthews</surname><given-names>P.M.</given-names></name><name><surname>Dhillo</surname><given-names>W.S.</given-names></name></person-group>
+<article-title>The use of functional MRI to study appetite control in the CNS</article-title>
+<source>Exp. Diabetes Res.</source>
+<year>2012</year>
+<volume>2012</volume>
+<fpage>764017</fpage>
+<pub-id pub-id-type="doi">10.1155/2012/764017</pub-id>
+<?supplied-pmid 22719753?><pub-id pub-id-type="pmid">22719753</pub-id></element-citation></ref><ref id="B116-nutrients-08-00697"><label>116.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Premack</surname><given-names>D.</given-names></name></person-group>
+<article-title>Human and animal cognition: Continuity and discontinuity</article-title>
+<source>Proc. Natl. Acad. Sci. USA</source>
+<year>2007</year>
+<volume>104</volume>
+<fpage>13861</fpage>
+<lpage>13867</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0706147104</pub-id>
+<?supplied-pmid 17717081?><pub-id pub-id-type="pmid">17717081</pub-id></element-citation></ref><ref id="B117-nutrients-08-00697"><label>117.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sarter</surname><given-names>M.</given-names></name></person-group>
+<article-title>Animal cognition: Defining the issues</article-title>
+<source>Neurosci. Biobehav. Rev.</source>
+<year>2004</year>
+<volume>28</volume>
+<fpage>645</fpage>
+<lpage>650</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neubiorev.2004.09.005</pub-id>
+<?supplied-pmid 15555674?><pub-id pub-id-type="pmid">15555674</pub-id></element-citation></ref><ref id="B118-nutrients-08-00697"><label>118.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Page</surname><given-names>K.A.</given-names></name><name><surname>Luo</surname><given-names>S.</given-names></name><name><surname>Romero</surname><given-names>A.</given-names></name><name><surname>Adam</surname><given-names>T.C.</given-names></name><name><surname>Hu</surname><given-names>H.</given-names></name><name><surname>Monterosso</surname><given-names>J.</given-names></name></person-group>
+<article-title>Fructose compared to glucose ingestion preferentially activates brain reward regions in response to high-calorie food cues in young, obese hispanic females</article-title>
+<source>Endocrinol. Rev.</source>
+<year>2012</year>
+<volume>33</volume>
+<fpage>1666</fpage>
+</element-citation></ref><ref id="B119-nutrients-08-00697"><label>119.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Purnell</surname><given-names>J.Q.</given-names></name><name><surname>Klopfenstein</surname><given-names>B.A.</given-names></name><name><surname>Stevens</surname><given-names>A.A.</given-names></name><name><surname>Havel</surname><given-names>P.J.</given-names></name><name><surname>Adams</surname><given-names>S.H.</given-names></name><name><surname>Dunn</surname><given-names>T.N.</given-names></name><name><surname>Krisky</surname><given-names>C.</given-names></name><name><surname>Rooney</surname><given-names>W.D.</given-names></name></person-group>
+<article-title>Brain functional magnetic resonance imaging response to glucose and fructose infusions in humans</article-title>
+<source>Diabetes Obes. Metab.</source>
+<year>2011</year>
+<volume>13</volume>
+<fpage>229</fpage>
+<lpage>234</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1463-1326.2010.01340.x</pub-id>
+<?supplied-pmid 21205113?><pub-id pub-id-type="pmid">21205113</pub-id></element-citation></ref><ref id="B120-nutrients-08-00697"><label>120.</label><element-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Pena-Gomez</surname><given-names>C.</given-names></name><name><surname>Alonso-Alonso</surname><given-names>M.</given-names></name><name><surname>Bravo</surname><given-names>S.</given-names></name><name><surname>Magerowski</surname><given-names>G.</given-names></name><name><surname>Sinnett</surname><given-names>S.</given-names></name><name><surname>Blackburn</surname><given-names>G.</given-names></name><name><surname>Rippe</surname><given-names>J.</given-names></name></person-group>
+<article-title>Hypothalamic fmri responses to different sugars under normal intake conditions: A pilot study</article-title>
+<source>Proceedings of the Obesity Society 32nd Annual Scientific Meeting (NAASO)</source>
+<conf-loc>Atlanta, GA, USA</conf-loc>
+<conf-date>11&#x02013;17 November 2013</conf-date>
+</element-citation></ref><ref id="B121-nutrients-08-00697"><label>121.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>G.J.</given-names></name><name><surname>Volkow</surname><given-names>N.D.</given-names></name><name><surname>Fowler</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>The role of dopamine in motivation for food in humans: Implications for obesity</article-title>
+<source>Expert Opin. Ther. Targets</source>
+<year>2002</year>
+<volume>6</volume>
+<fpage>601</fpage>
+<lpage>609</lpage>
+<pub-id pub-id-type="doi">10.1517/14728222.6.5.601</pub-id>
+<?supplied-pmid 12387683?><pub-id pub-id-type="pmid">12387683</pub-id></element-citation></ref><ref id="B122-nutrients-08-00697"><label>122.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blum</surname><given-names>K.</given-names></name><name><surname>Braverman</surname><given-names>E.R.</given-names></name><name><surname>Holder</surname><given-names>J.M.</given-names></name><name><surname>Lubar</surname><given-names>J.F.</given-names></name><name><surname>Monastra</surname><given-names>V.J.</given-names></name><name><surname>Miller</surname><given-names>D.</given-names></name><name><surname>Lubar</surname><given-names>J.O.</given-names></name><name><surname>Chen</surname><given-names>T.J.</given-names></name><name><surname>Comings</surname><given-names>D.E.</given-names></name></person-group>
+<article-title>Reward deficiency syndrome: A biogenetic model for the diagnosis and treatment of impulsive, addictive, and compulsive behaviors</article-title>
+<source>J. Psychoact. Drugs</source>
+<year>2000</year>
+<volume>32</volume>
+<issue>Suppl. i&#x02013;iv</issue>
+<fpage>1</fpage>
+<lpage>112</lpage>
+<pub-id pub-id-type="doi">10.1080/02791072.2000.10736099</pub-id>
+</element-citation></ref><ref id="B123-nutrients-08-00697"><label>123.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Rippe</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>No effect of sugar sweetened milk on performance of a battery of cognitive assessment tests</article-title>
+<source>FASEB J.</source>
+<year>2016</year>
+<volume>30</volume>
+<fpage>1160</fpage>
+<lpage>1163</lpage>
+</element-citation></ref><ref id="B124-nutrients-08-00697"><label>124.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lowndes</surname><given-names>J.</given-names></name><name><surname>Angelopoulos</surname><given-names>T.J.</given-names></name><name><surname>Rippe</surname><given-names>J.M.</given-names></name></person-group>
+<article-title>No effect of sugar sweetened or diet beverages on performance of a battery of cognitive assessment tests</article-title>
+<source>FASEB J.</source>
+<year>2016</year>
+<volume>30</volume>
+<fpage>1160</fpage>
+<lpage>1164</lpage>
+</element-citation></ref><ref id="B125-nutrients-08-00697"><label>125.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lustig</surname><given-names>R.H.</given-names></name><name><surname>Schmidt</surname><given-names>L.A.</given-names></name><name><surname>Brindis</surname><given-names>C.D.</given-names></name></person-group>
+<article-title>Public health: The toxic truth about sugar</article-title>
+<source>Nature</source>
+<year>2012</year>
+<volume>482</volume>
+<fpage>27</fpage>
+<lpage>29</lpage>
+<pub-id pub-id-type="doi">10.1038/482027a</pub-id>
+<?supplied-pmid 22297952?><pub-id pub-id-type="pmid">22297952</pub-id></element-citation></ref><ref id="B126-nutrients-08-00697"><label>126.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bocarsly</surname><given-names>M.E.</given-names></name><name><surname>Powell</surname><given-names>E.S.</given-names></name><name><surname>Avena</surname><given-names>N.M.</given-names></name><name><surname>Hoebel</surname><given-names>B.G.</given-names></name></person-group>
+<article-title>High-fructose corn syrup causes characteristics of obesity in rats: Increased body weight, body fat and triglyceride levels</article-title>
+<source>Pharmacol. Biochem. Behav.</source>
+<year>2010</year>
+<volume>97</volume>
+<fpage>101</fpage>
+<lpage>106</lpage>
+<pub-id pub-id-type="doi">10.1016/j.pbb.2010.02.012</pub-id>
+<?supplied-pmid 20219526?><pub-id pub-id-type="pmid">20219526</pub-id></element-citation></ref><ref id="B127-nutrients-08-00697"><label>127.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Avena</surname><given-names>N.M.</given-names></name><name><surname>Hoebel</surname><given-names>B.G.</given-names></name></person-group>
+<article-title>Bingeing, withdrawal and craving: An animal model of sugar addiction</article-title>
+<source>Food and Addiction: A Comprehension Handbook</source>
+<person-group person-group-type="editor"><name><surname>Gold</surname><given-names>M.</given-names></name><name><surname>Brownell</surname><given-names>K.</given-names></name></person-group>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2012</year>
+</element-citation></ref><ref id="B128-nutrients-08-00697"><label>128.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ziauddeen</surname><given-names>H.</given-names></name><name><surname>Farooqi</surname><given-names>I.</given-names></name><name><surname>Fletcher</surname><given-names>P.</given-names></name></person-group>
+<article-title>Obesity and the brain: How convincing is the addiction model?</article-title>
+<source>Nat. Rev.</source>
+<year>2012</year>
+<volume>13</volume>
+<fpage>279</fpage>
+<lpage>286</lpage>
+<pub-id pub-id-type="doi">10.1038/nrn3212</pub-id>
+<?supplied-pmid 22414944?><pub-id pub-id-type="pmid">22414944</pub-id></element-citation></ref><ref id="B129-nutrients-08-00697"><label>129.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benton</surname><given-names>D.</given-names></name></person-group>
+<article-title>The plausibility of sugar addiction and its role in obesity and eating disorders</article-title>
+<source>Clin. Nutr.</source>
+<year>2010</year>
+<volume>29</volume>
+<fpage>288</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="doi">10.1016/j.clnu.2009.12.001</pub-id>
+<?supplied-pmid 20056521?><pub-id pub-id-type="pmid">20056521</pub-id></element-citation></ref><ref id="B130-nutrients-08-00697"><label>130.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Corwin</surname><given-names>R.L.W.</given-names></name><name><surname>Hayes</surname><given-names>J.E.</given-names></name></person-group>
+<article-title>Are sugars addictive? Perspectives for practitioners</article-title>
+<source>Fructose, High Fructose Corn Syrup, Sucrose and Health</source>
+<person-group person-group-type="editor"><name><surname>Rippe</surname><given-names>J.</given-names></name></person-group>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2014</year>
+<fpage>199</fpage>
+<lpage>215</lpage>
+</element-citation></ref><ref id="B131-nutrients-08-00697"><label>131.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slavin</surname><given-names>J.</given-names></name></person-group>
+<article-title>Two more pieces to the 1000-piece carbohydrate puzzle</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2014</year>
+<volume>100</volume>
+<fpage>4</fpage>
+<lpage>5</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.114.090423</pub-id>
+<?supplied-pmid 24871474?><pub-id pub-id-type="pmid">24871474</pub-id></element-citation></ref><ref id="B132-nutrients-08-00697"><label>132.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Siri-Tarino</surname><given-names>P.W.</given-names></name><name><surname>Sun</surname><given-names>Q.</given-names></name><name><surname>Hu</surname><given-names>F.B.</given-names></name><name><surname>Krauss</surname><given-names>R.M.</given-names></name></person-group>
+<article-title>Meta-analysis of prospective cohort studies evaluating the association of saturated fat with cardiovascular disease</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2010</year>
+<volume>91</volume>
+<fpage>535</fpage>
+<lpage>546</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.2009.27725</pub-id>
+<?supplied-pmid 20071648?><pub-id pub-id-type="pmid">20071648</pub-id></element-citation></ref><ref id="B133-nutrients-08-00697"><label>133.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Oliveira Otto</surname><given-names>M.C.</given-names></name><name><surname>Mozaffarian</surname><given-names>D.</given-names></name><name><surname>Kromhout</surname><given-names>D.</given-names></name><name><surname>Bertoni</surname><given-names>A.G.</given-names></name><name><surname>Sibley</surname><given-names>C.T.</given-names></name><name><surname>Jacobs</surname><given-names>D.R.</given-names><suffix>Jr.</suffix></name><name><surname>Nettleton</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Dietary intake of saturated fat by food source and incident cardiovascular disease: The multi-ethnic study of atherosclerosis</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2012</year>
+<volume>96</volume>
+<fpage>397</fpage>
+<lpage>404</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.112.037770</pub-id>
+<?supplied-pmid 22760560?><pub-id pub-id-type="pmid">22760560</pub-id></element-citation></ref><ref id="B134-nutrients-08-00697"><label>134.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Astrup</surname><given-names>A.</given-names></name></person-group>
+<article-title>A changing view on saturated fatty acids and dairy: From enemy to friend</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2014</year>
+<volume>100</volume>
+<fpage>1407</fpage>
+<lpage>1408</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.114.099986</pub-id>
+<?supplied-pmid 25411273?><pub-id pub-id-type="pmid">25411273</pub-id></element-citation></ref><ref id="B135-nutrients-08-00697"><label>135.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Andon</surname><given-names>B.</given-names></name><name><surname>Anderson</surname><given-names>J.</given-names></name></person-group>
+<article-title>The oatmeal-cholesterol connection: 10 years later</article-title>
+<source>Am. J. Lifestyle Med.</source>
+<year>2008</year>
+<volume>2</volume>
+<fpage>51</fpage>
+<lpage>57</lpage>
+<pub-id pub-id-type="doi">10.1177/1559827607309130</pub-id>
+</element-citation></ref><ref id="B136-nutrients-08-00697"><label>136.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><collab>U.S. Department of Agriculture</collab><collab>U.S. Department of Health and Human Services</collab></person-group>
+<source>Report of the Advisory Committee on the Dietary Guidelines for Americans 2010</source>
+<edition>7th ed.</edition>
+<publisher-name>U.S. Government Printing Office</publisher-name>
+<publisher-loc>Washington, DC, USA</publisher-loc>
+<year>2010</year>
+</element-citation></ref></ref-list></back><floats-group><fig id="nutrients-08-00697-f001" position="float"><label>Figure 1</label><caption><p>Hierarchy of evidence in evidence based medicine.</p></caption><graphic xlink:href="nutrients-08-00697-g001"/></fig><table-wrap id="nutrients-08-00697-t001" position="float"><object-id pub-id-type="pii">nutrients-08-00697-t001_Table 1</object-id><label>Table 1</label><caption><p>Randomized Control Trials Included.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Type of Analysis </th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Findings</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lowndes et al. [<xref rid="B51-nutrients-08-00697" ref-type="bibr">51</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">50th percentile consumption of fructose containing sugars</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No increase in body weight over 10 weeks and no increase in triglycerides. No increase in risk factors for diabetes</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lowndes et al. [<xref rid="B52-nutrients-08-00697" ref-type="bibr">52</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Comparison between 10 and 20 percent of calories from either HFCS or sucrose in hypocaloric diets</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Significant weight loss occurred in all groups</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Lowndes et al. [<xref rid="B53-nutrients-08-00697" ref-type="bibr">53</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">RCT 355 men and women consuming 8%, 18% or 30% of kcals per days either sucrose or HFCS</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Average weight gain over 2 pounds over 10 week period. Mostly driven by 30% kcal per day group. No increased risk factors for diabetes. 10% increase in triglycerides confounded by 2 pound weight gain.</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Antar et al. [<xref rid="B54-nutrients-08-00697" ref-type="bibr">54</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Bantle et al. [<xref rid="B55-nutrients-08-00697" ref-type="bibr">55</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Black et al. [<xref rid="B56-nutrients-08-00697" ref-type="bibr">56</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cooper et al. [<xref rid="B57-nutrients-08-00697" ref-type="bibr">57</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Groen et al. [<xref rid="B58-nutrients-08-00697" ref-type="bibr">58</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Marckmann et al. [<xref rid="B59-nutrients-08-00697" ref-type="bibr">59</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sorensen et al. [<xref rid="B60-nutrients-08-00697" ref-type="bibr">60</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Stanhope et al. [<xref rid="B61-nutrients-08-00697" ref-type="bibr">61</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Randomized Control Trial</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Increase in fasting triglycerides from various levels of added sugar consumption</td></tr></tbody></table></table-wrap><table-wrap id="nutrients-08-00697-t002" position="float"><object-id pub-id-type="pii">nutrients-08-00697-t002_Table 2</object-id><label>Table 2</label><caption><p>Systematic Reviews and Meta-analyses Included.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Type of Analysis </th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Findings</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Sievenpiper et al. [<xref rid="B76-nutrients-08-00697" ref-type="bibr">76</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Aggregated randomized control trials looking at isocaloric exchange of either sugar or fructose with other macronutrients to assess effects on body weight in adults</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant effect of either sugar or fructose on body weight</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Te Morenga et al. [<xref rid="B46-nutrients-08-00697" ref-type="bibr">46</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Aggregated randomized control trials looking at isocaloric exchange of either sugar or fructose with other macronutrients to assess effects on body weight in adults</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant effect of either sugar or fructose on body weight</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Malik et al. [<xref rid="B77-nutrients-08-00697" ref-type="bibr">77</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Meta-analysis of 5 trials</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">2 of 5 trials resulted in significant weight loss from reducing sugar calories in one model but not another </td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dolan et al. [<xref rid="B78-nutrients-08-00697" ref-type="bibr">78</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Normal weight individuals. Interventional Studies utilizing the FDA guidance for evidence based reviews </td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No difference with regard to obesity from fructose consumption in normal weight individuals </td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Dolan et al. [<xref rid="B79-nutrients-08-00697" ref-type="bibr">79</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Obese individuals. Interventional Studies utilizing the FDA guidance for evidence based reviews</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No difference with regard to obesity from fructose consumption in obese individuals </td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cozma et al. [<xref rid="B82-nutrients-08-00697" ref-type="bibr">82</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Systematic review and meta-analysis of 18 RCTs</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Decrease in risk factors for diabetes such as glycosylated proteins </td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Malik et al. [<xref rid="B24-nutrients-08-00697" ref-type="bibr">24</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Meta-analysis of 8 cohort studies</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">4 did not find a significant effect of SSB on incidence of diabetes and 5 did not adjust findings for energy intake and body weight</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Ha et al. [<xref rid="B83-nutrients-08-00697" ref-type="bibr">83</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">15 studies involving 355 individuals</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Slight decreases in diastolic and mean blood pressure and isocaloric substitution or hypercaloric trials </td></tr></tbody></table></table-wrap><table-wrap id="nutrients-08-00697-t003" position="float"><object-id pub-id-type="pii">nutrients-08-00697-t003_Table 3</object-id><label>Table 3</label><caption><p>Cohort Studies Included.</p></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">
+</th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Type of Analysis </th><th align="center" valign="middle" style="border-top:solid thin;border-bottom:solid thin" rowspan="1" colspan="1">Findings</th></tr></thead><tbody><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Hodge et al. [<xref rid="B94-nutrients-08-00697" ref-type="bibr">94</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cohort Study</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No significant association between sugar intake and diabetes</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Meyer et al. [<xref rid="B95-nutrients-08-00697" ref-type="bibr">95</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cohort Study in Older women</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Significant negative association between sugar intake and diabetes</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Colditz et al. [<xref rid="B96-nutrients-08-00697" ref-type="bibr">96</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cohort Study in women</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No association between sugar intake and diabetes</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Interact [<xref rid="B92-nutrients-08-00697" ref-type="bibr">92</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Cohort Study in European Adults</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">No increase in diabetes risk with added sugars</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Archer et al. [<xref rid="B105-nutrients-08-00697" ref-type="bibr">105</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NHANES data analysis</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Individuals who consumed 25% or more of calories from added sugars experienced an increase associated risk of cardiovascular disease compared to individuals who consumed less than 10% of calories from added sugars</td></tr><tr><td align="center" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">Yang et al. [<xref rid="B106-nutrients-08-00697" ref-type="bibr">106</xref>]</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">NHANES data analysis</td><td align="left" valign="middle" style="border-bottom:solid thin" rowspan="1" colspan="1">CVD risk increased to 1.30 for individuals who consumed 10 to 24.9% of calories and 2.75 for those who consumed 25% or more calories for added sugars compared to individuals who consumed less than 10% of calories from added sugars</td></tr></tbody></table></table-wrap></floats-group></article>

@@ -1,0 +1,444 @@
+{
+  "id": [
+    "27445929"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27445929"
+  ],
+  "pmcid": [
+    "PMC4927571"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2016.00967"
+  ],
+  "title": [
+    "Effects of Mindfulness-Based Cognitive Therapy on Body Awareness in Patients with Chronic Pain and Comorbid Depression."
+  ],
+  "authorString": [
+    "de Jong M, Lazar SW, Hug K, Mehling WE, Hölzel BK, Sack AT, Peeters F, Ashih H, Mischoulon D, Gard T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "de Jong M"
+          ],
+          "firstName": [
+            "Marasha"
+          ],
+          "lastName": [
+            "de Jong"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Depression Clinical and Research Program, Massachusetts General Hospital, Harvard Medical SchoolBoston, MA, USA; Department of Psychiatry and Psychology, School of Mental Health and Neuroscience, Maastricht University Medical CenterMaastricht, Netherlands; MondriaanMaastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Lazar SW"
+          ],
+          "firstName": [
+            "Sara W"
+          ],
+          "lastName": [
+            "Lazar"
+          ],
+          "initials": [
+            "SW"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hug K"
+          ],
+          "firstName": [
+            "Kiran"
+          ],
+          "lastName": [
+            "Hug"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Psychosomatic Medicine, Medical Faculty, Medical Center-University of FreiburgFreiburg, Germany; Division of Clinical Psychology and Psychotherapy, Faculty of Psychology, University of BaselBasel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Mehling WE"
+          ],
+          "firstName": [
+            "Wolf E"
+          ],
+          "lastName": [
+            "Mehling"
+          ],
+          "initials": [
+            "WE"
+          ],
+          "affiliation": [
+            "Department of Family and Community Medicine, Osher Center for Integrative Medicine, University of California, San Francisco San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hölzel BK"
+          ],
+          "firstName": [
+            "Britta K"
+          ],
+          "lastName": [
+            "Hölzel"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical SchoolBoston, MA, USA; Department of Neuroradiology, Klinikum rechts der Isar, Technical University of MunichMunich, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Sack AT"
+          ],
+          "firstName": [
+            "Alexander T"
+          ],
+          "lastName": [
+            "Sack"
+          ],
+          "initials": [
+            "AT"
+          ],
+          "affiliation": [
+            "Department of Cognitive Neuroscience, Faculty of Psychology and Neuroscience, Maastricht University Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Peeters F"
+          ],
+          "firstName": [
+            "Frenk"
+          ],
+          "lastName": [
+            "Peeters"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychology, School of Mental Health and Neuroscience, Maastricht University Medical Center Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Ashih H"
+          ],
+          "firstName": [
+            "Heidi"
+          ],
+          "lastName": [
+            "Ashih"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Depression Clinical and Research Program, Massachusetts General Hospital, Harvard Medical School Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mischoulon D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Mischoulon"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Depression Clinical and Research Program, Massachusetts General Hospital, Harvard Medical School Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gard T"
+          ],
+          "firstName": [
+            "Tim"
+          ],
+          "lastName": [
+            "Gard"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical SchoolBoston, MA, USA; Institute for Complementary and Integrative Medicine, University Hospital Zurich, University of ZurichZurich, Switzerland; Translational Neuromodeling Unit, Institute for Biomedical Engineering, University of Zurich and Swiss Federal Institute of Technology (ETH)Zurich, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2534147"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "967"
+  ],
+  "abstractText": [
+    "Body awareness has been proposed as one of the major mechanisms of mindfulness interventions, and it has been shown that chronic pain and depression are associated with decreased levels of body awareness. We investigated the effect of Mindfulness-Based Cognitive Therapy (MBCT) on body awareness in patients with chronic pain and comorbid active depression compared to treatment as usual (TAU; N = 31). Body awareness was measured by a subset of the Multidimensional Assessment of Interoceptive Awareness (MAIA) scales deemed most relevant for the population. These included: Noticing, Not-Distracting, Attention Regulation, Emotional Awareness, and Self-Regulation. In addition, pain catastrophizing was measured by the Pain Catastrophizing Scale (PCS). These scales had adequate to high internal consistency in the current sample. Depression severity was measured by the Quick Inventory of Depressive Symptomatology-Clinician rated (QIDS-C16). Increases in the MBCT group were significantly greater than in the TAU group on the \"Self-Regulation\" and \"Not Distracting\" scales. Furthermore, the positive effect of MBCT on depression severity was mediated by \"Not Distracting.\" These findings provide preliminary evidence that a mindfulness-based intervention may increase facets of body awareness as assessed with the MAIA in a population of pain patients with depression. Furthermore, they are consistent with a long hypothesized mechanism for mindfulness and emphasize the clinical relevance of body awareness."
+  ],
+  "affiliation": [
+    "Depression Clinical and Research Program, Massachusetts General Hospital, Harvard Medical SchoolBoston, MA, USA; Department of Psychiatry and Psychology, School of Mental Health and Neuroscience, Maastricht University Medical CenterMaastricht, Netherlands; MondriaanMaastricht, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R34 AT007197"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AT006344"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Chronic pain",
+        "Mindfulness Meditation",
+        "Mediation",
+        "Mindfulness-based Cognitive Therapy",
+        "Body Awareness",
+        "Pain Catastrophizing",
+        "Interoceptive Awareness"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4927571?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4927571"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2016.00967"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-07-22"
+  ],
+  "dateOfCreation": [
+    "2016-07-22"
+  ],
+  "dateOfRevision": [
+    "2017-10-31"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-30"
+  ],
+  "firstPublicationDate": [
+    "2016-06-30"
+  ]
+}

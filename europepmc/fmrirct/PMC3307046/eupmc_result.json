@@ -1,0 +1,319 @@
+{
+  "id": [
+    "22457646"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22457646"
+  ],
+  "pmcid": [
+    "PMC3307046"
+  ],
+  "doi": [
+    "10.3389/fnhum.2012.00054"
+  ],
+  "title": [
+    "Meditation-induced changes in high-frequency heart rate variability predict smoking outcomes."
+  ],
+  "authorString": [
+    "Libby DJ, Worhunsky PD, Pilver CE, Brewer JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Libby DJ"
+          ],
+          "firstName": [
+            "Daniel J"
+          ],
+          "lastName": [
+            "Libby"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Yale University School of Medicine, New Haven CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Worhunsky PD"
+          ],
+          "firstName": [
+            "Patrick D"
+          ],
+          "lastName": [
+            "Worhunsky"
+          ],
+          "initials": [
+            "PD"
+          ]
+        },
+        {
+          "fullName": [
+            "Pilver CE"
+          ],
+          "firstName": [
+            "Corey E"
+          ],
+          "lastName": [
+            "Pilver"
+          ],
+          "initials": [
+            "CE"
+          ]
+        },
+        {
+          "fullName": [
+            "Brewer JA"
+          ],
+          "firstName": [
+            "Judson A"
+          ],
+          "lastName": [
+            "Brewer"
+          ],
+          "initials": [
+            "JA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1899491"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "54"
+  ],
+  "abstractText": [
+    "High-frequency heart rate variability (HF-HRV) is a measure of parasympathetic nervous system (PNS) output that has been associated with enhanced self-regulation. Low resting levels of HF-HRV are associated with nicotine dependence and blunted stress-related changes in HF-HRV are associated with decreased ability to resist smoking. Meditation has been shown to increase HF-HRV. However, it is unknown whether tonic levels of HF-HRV or acute changes in HF-HRV during meditation predict treatment responses in addictive behaviors such as smoking cessation.To investigate the relationship between HF-HRV and subsequent smoking outcomes.HF-HRV during resting baseline and during mindfulness meditation was measured within two weeks of completing a 4-week smoking cessation intervention in a sample of 31 community participants. Self-report measures of smoking were obtained at a follow up 17-weeks after the initiation of treatment.Regression analyses indicated that individuals exhibiting acute increases in HF-HRV from resting baseline to meditation smoked fewer cigarettes at follow-up than those who exhibited acute decreases in HF-HRV (b = -4.89, p = 0.008).Acute changes in HF-HRV in response to meditation may be a useful tool to predict smoking cessation treatment response."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Yale University School of Medicine, New Haven CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "heart rate variability",
+        "Smoking Cessation",
+        "Mindfulness",
+        "Meditation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3307046?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3307046"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22457646/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22457646/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2012.00054"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-03-29"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2012-03-19"
+  ],
+  "firstPublicationDate": [
+    "2012-03-19"
+  ]
+}

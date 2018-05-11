@@ -1,0 +1,964 @@
+{
+  "id": [
+    "26527536"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26527536"
+  ],
+  "pmcid": [
+    "PMC4630875"
+  ],
+  "doi": [
+    "10.1186/s13063-015-0986-5"
+  ],
+  "title": [
+    "Kava for the treatment of generalised anxiety disorder (K-GAD): study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Savage KM, Stough CK, Byrne GJ, Scholey A, Bousman C, Murphy J, Macdonald P, Suo C, Hughes M, Thomas S, Teschke R, Xing C, Sarris J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Savage KM"
+          ],
+          "firstName": [
+            "Karen M"
+          ],
+          "lastName": [
+            "Savage"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "Swinburne University of Technology, Centre for Human Psychopharmacology, Swinburne, Australia. ksavage@unimelb.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Stough CK"
+          ],
+          "firstName": [
+            "Con K"
+          ],
+          "lastName": [
+            "Stough"
+          ],
+          "initials": [
+            "CK"
+          ],
+          "affiliation": [
+            "Swinburne University of Technology, Centre for Human Psychopharmacology, Swinburne, Australia. cstough@swin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Byrne GJ"
+          ],
+          "firstName": [
+            "Gerard J"
+          ],
+          "lastName": [
+            "Byrne"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Queensland, Melbourne, Australia. gerard.byrne@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Scholey A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Scholey"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Swinburne University of Technology, Centre for Human Psychopharmacology, Swinburne, Australia. ascholey@swin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Bousman C"
+          ],
+          "firstName": [
+            "Chad"
+          ],
+          "lastName": [
+            "Bousman"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of General Practice, The University of Melbourne, Parkville, Australia. cbousman@unimelb.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Murphy J"
+          ],
+          "firstName": [
+            "Jenifer"
+          ],
+          "lastName": [
+            "Murphy"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The University of Melbourne, Department of Psychiatry, The Melbourne Clinic, Melbourne, Australia. jenifer.murphy@unimelb.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Macdonald P"
+          ],
+          "firstName": [
+            "Patricia"
+          ],
+          "lastName": [
+            "Macdonald"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, The University of Queensland, Melbourne, Australia. p.macdonald@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Suo C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Suo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Brain and Mental Health Laboratory, School of Psychological Science, Monash University, Monash, Australia. chao.suo@monash.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes M"
+          ],
+          "firstName": [
+            "Matthew"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Swinburne University of Technology, Brain and Psychological Sciences Centre, Swinburne, Australia. matthewhughes@swin.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas S"
+          ],
+          "firstName": [
+            "Stuart"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Psychological Science, Monash University, Monash, Australia. stuartthomas10@icloud.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Teschke R"
+          ],
+          "firstName": [
+            "Rolf"
+          ],
+          "lastName": [
+            "Teschke"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Internal Medicine II, Section of Gastroenterology and Hepatology, Klinikum Hanau, Teaching Hospital of the Johann Wolfgang Goethe University of Frankfurt/Main, Frankfurt, Germany. rolf.teschke@gmx.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing C"
+          ],
+          "firstName": [
+            "Chengguo"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Medicinal Chemistry, College of Pharmacy, University of Minnesota, Duluth, USA. xingx009@umn.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarris J"
+          ],
+          "firstName": [
+            "Jerome"
+          ],
+          "lastName": [
+            "Sarris"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Swinburne University of Technology, Centre for Human Psychopharmacology, Swinburne, Australia. jsarris@unimelb.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2476817"
+      ],
+      "dateOfPublication": [
+        "2015 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "493"
+  ],
+  "abstractText": [
+    "Generalised anxiety disorder (GAD) is a chronic and pervasive condition that generates high levels of psychological stress, and it is difficult to treat in the long term. Current pharmacotherapeutic options for GAD are in some cases only modestly effective, and may elicit undesirable side effects. Through targeted actions on the gamma-aminobutyric acid (GABA) pathway, the South Pacific medicinal plant kava (Piper methysticum) is a non-addictive, non-hypnotic anxiolytic with the potential to treat GAD. The evidence for the efficacy of kava for treating anxiety has been affirmed through clinical trials and meta-analyses. Recent research has also served to lessen safety concerns regarding the use of kava due to hepatotoxic risk, which is reflected in a recent German court overturning the previous kava ban in that country (which may in turn influence a reinstatement by the European Union). The aim of current research is to assess the efficacy of an 'aqueous noble cultivar rootstock extract' of kava in GAD in a larger longer term study. In addition, we plan to investigate the pharmacogenomic influence of GABA transporters on response, effects of kava on gene expression, and for the first time, the neurobiological correlates of treatment response via functional and metabolic imaging.This clinical trial is funded by the Australian National Health and Medical Research Council (APP1063383) and co-funded by MediHerb (Integria Healthcare (Australia) Pty. Ltd). The study is a phase III, multi-site, two-arm, 18-week, randomised, double-blind, placebo-controlled study using an aqueous extract of noble kava cultivar (standardised to 240 mg of kavalactones per day) versus matching placebo in 210 currently anxious participants with diagnosed GAD who are non-medicated. The study takes place at two sites: the Centre for Human Psychopharmacology (Swinburne University of Technology), Hawthorn, Melbourne, Australia; and the Academic Discipline of Psychiatry (The University of Queensland) based at the Royal Brisbane and Women's Hospital, Herston, Brisbane, Australia. Written informed consent will be obtained from each participant prior to commencement in the study. The primary outcome is the Structured Interview Guide for the Hamilton Anxiety Rating Scale (SIGH-A). The secondary outcomes involve a range of scales that assess affective disorder symptoms and quality of life outcomes, in addition to the study of mediating biomarkers of response (assessed via genomics and neuroimaging).If this study demonstrates positive findings in support of the superiority of kava over placebo in the treatment of GAD, and also is shown to be safe, then this plant-medicine can be considered a 'first-line' therapy for GAD. Genomic and neuroimaging data may reveal clinical response patterns and provide more evidence of the neurobiological activity of the plant extract.ClinicalTrials.gov: NCT02219880 Date: 13 August 2014:."
+  ],
+  "affiliation": [
+    "Swinburne University of Technology, Centre for Human Psychopharmacology, Swinburne, Australia. ksavage@unimelb.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Clinical Trial, Phase III",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kava"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CH"
+                  ],
+                  "qualifierName": [
+                    "chemistry"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Roots"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plants, Medicinal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anti-Anxiety Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Plant Extracts"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IP"
+                  ],
+                  "qualifierName": [
+                    "isolation & purification"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phytotherapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Registries"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatric Status Rating Scales"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pharmacogenetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Polymorphism, Genetic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Queensland"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Victoria"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "GABA Plasma Membrane Transport Proteins"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surveys and Questionnaires"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Plant Extracts"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Anti-Anxiety Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "GABA Plasma Membrane Transport Proteins"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4630875?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4630875"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-015-0986-5"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-07-11"
+  ],
+  "dateOfCreation": [
+    "2015-11-03"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-02"
+  ],
+  "firstPublicationDate": [
+    "2015-11-02"
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "id": [
+    "28009675"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28009675"
+  ],
+  "pmcid": [
+    "PMC5437711"
+  ],
+  "doi": [
+    "10.11124/jbisrir-2016-003229"
+  ],
+  "title": [
+    "Effects of foot and ankle devices on balance, gait and falls in adults with sensory perception loss: a systematic review."
+  ],
+  "authorString": [
+    "Paton J, Hatton AL, Rome K, Kent B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Paton J"
+          ],
+          "firstName": [
+            "Joanne"
+          ],
+          "lastName": [
+            "Paton"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "1School of Health Professions, Plymouth University, Plymouth, Devon, United Kingdom 2School of Health and Rehabilitation Sciences, The University of Queensland, Brisbane, Queensland, Australia 3Health and Rehabilitation Research Institute, Faculty of Health and Environmental Sciences, Auckland University of Technology, Auckland 1010, New Zealand 4The University of Plymouth Centre for Innovations in Health and Social Care: a Joanna Briggs Institute Centre of Excellence 5School of Nursing and Midwifery, Plymouth University, Plymouth, Devon, United Kingdom."
+          ]
+        },
+        {
+          "fullName": [
+            "Hatton AL"
+          ],
+          "firstName": [
+            "Anna L"
+          ],
+          "lastName": [
+            "Hatton"
+          ],
+          "initials": [
+            "AL"
+          ]
+        },
+        {
+          "fullName": [
+            "Rome K"
+          ],
+          "firstName": [
+            "Keith"
+          ],
+          "lastName": [
+            "Rome"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Kent B"
+          ],
+          "firstName": [
+            "Bridie"
+          ],
+          "lastName": [
+            "Kent"
+          ],
+          "initials": [
+            "B"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2508044"
+      ],
+      "dateOfPublication": [
+        "2016 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "JBI database of systematic reviews and implementation reports"
+          ],
+          "ISOAbbreviation": [
+            "JBI Database System Rev Implement Rep"
+          ],
+          "medlineAbbreviation": [
+            "JBI Database System Rev Implement Rep"
+          ],
+          "NLMid": [
+            "101648258"
+          ],
+          "ISSN": [
+            "2202-4433"
+          ],
+          "ESSN": [
+            "2202-4433"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "127-162"
+  ],
+  "abstractText": [
+    "Foot and ankle devices are being developed as a method of preventing people with sensory perception loss sustaining a fall. Such devices are believed to work by reducing the likelihood of a fall by improving the balance and gait of the user.The objective of the review was to evaluate the effectiveness of foot and ankle devices for the prevention of falls and the improvement of balance and gait in adults with sensory perception loss.Participants were community-dwelling adults with bilateral pathological sensory perception loss.The current review evaluated any foot or ankle device, including but not restricted to, all types of footwear (therapeutic and retail), insoles (customized and prefabricated) and ankle-foot orthoses (AFOs).In the absence of randomized controlled trials (RCT), the review considered experimental and epidemiological study designs, except case series, individual case reports and descriptive cross-sectional studies.The primary outcome was number of falls. Secondary outcome measures were clinical or laboratory measures of balance or gait.A search for published and unpublished literature from inception to March 2015 written in the English language was conducted across a number of major electronic databases. A three-step search strategy was developed using MeSH terminology and keywords to ensure all that relevant materials are captured.Methodological quality of included studies was assessed by two reviewers, who appraised each study independently, using standardized Joanna Briggs Institute (JBI) critical appraisal tools.Quantitative data were extracted from the studies that were identified as meeting the criteria for methodological quality using the standardized JBI data extraction tools.Due to the heterogeneity of populations, interventions and outcome measures, meta-analyses were not possible and results are presented in narrative form.Nine trials (from 10 papers) involving 238 participants, (14 with multiple sclerosis and 16 with idiopathic peripheral neuropathy, 150 with diabetic neuropathy) and 58 controls were included in the review. No study reported falls as an outcome measure. The results of the included studies found that in people with sensory perception loss, postural sway improved with vibrating insoles and AFO, altering the softness and texture of the top cover had no effect on postural sway, wearing footwear over long distances or AFOs improved step-to-step consistency, and no foot and ankle device was reported to have a negative effect on the balance or gait of people with sensory perception loss. The methodological quality of the included studies was poor. No study used a randomized controlled trial (RCT) methodology. No study incorporated a follow-up period or tested the intervention within the context of the intended clinical environment.There is limited evidence to suggest that footwear and insole devices can artificially alter postural stability and may reduce the step-to-step variability in adults with sensory perception loss. Varying the material properties of an insole does not notably affect static balance or gait."
+  ],
+  "affiliation": [
+    "1School of Health Professions, Plymouth University, Plymouth, Devon, United Kingdom 2School of Health and Rehabilitation Sciences, The University of Queensland, Brisbane, Queensland, Australia 3Health and Rehabilitation Research Institute, Faculty of Health and Environmental Sciences, Auckland University of Technology, Auckland 1010, New Zealand 4The University of Plymouth Centre for Innovations in Health and Social Care: a Joanna Briggs Institute Centre of Excellence 5School of Nursing and Midwifery, Plymouth University, Plymouth, Devon, United Kingdom."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CAT/CL10/007"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5437711?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5437711"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.11124/JBISRIR-2016-003229"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "N"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-12-23"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "firstPublicationDate": [
+    "2016-12-01"
+  ]
+}

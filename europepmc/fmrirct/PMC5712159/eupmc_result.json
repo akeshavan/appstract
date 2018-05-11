@@ -1,0 +1,378 @@
+{
+  "id": [
+    "29197412"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29197412"
+  ],
+  "pmcid": [
+    "PMC5712159"
+  ],
+  "doi": [
+    "10.1186/s13063-017-2328-2"
+  ],
+  "title": [
+    "Does motivation matter in upper-limb rehabilitation after stroke? ArmeoSenso-Reward: study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Widmer M, Held JP, Wittmann F, Lambercy O, Lutz K, Luft AR."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Widmer M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Widmer"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7693-123X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, University Hospital of Zurich, Zurich, Switzerland. mario.widmer@cereneo.ch."
+          ]
+        },
+        {
+          "fullName": [
+            "Held JP"
+          ],
+          "firstName": [
+            "Jeremia P"
+          ],
+          "lastName": [
+            "Held"
+          ],
+          "initials": [
+            "JP"
+          ],
+          "affiliation": [
+            "Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, University Hospital of Zurich, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Wittmann F"
+          ],
+          "firstName": [
+            "Frieder"
+          ],
+          "lastName": [
+            "Wittmann"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Rehabilitation Engineering Laboratory, ETH Zurich, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Lambercy O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Lambercy"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Rehabilitation Engineering Laboratory, ETH Zurich, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Lutz K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Lutz"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, University Hospital of Zurich, Zurich, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Luft AR"
+          ],
+          "firstName": [
+            "Andreas R"
+          ],
+          "lastName": [
+            "Luft"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "affiliation": [
+            "Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, University Hospital of Zurich, Zurich, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7693-123X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2623660"
+      ],
+      "dateOfPublication": [
+        "2017 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "580"
+  ],
+  "abstractText": [
+    "Fifty percent of all stroke survivors remain with functional impairments of their upper limb. While there is a need to improve the effectiveness of rehabilitative training, so far no new training approach has proven to be clearly superior to conventional therapy. As training with rewarding feedback has been shown to improve motor learning in humans, it is hypothesized that rehabilitative arm training could be enhanced by rewarding feedback. In this paper, we propose a trial protocol investigating rewards in the form of performance feedback and monetary gains as ways to improve effectiveness of rehabilitative training.This multicentric, assessor-blinded, randomized controlled trial uses the ArmeoSenso virtual reality rehabilitation system to train 74 first-ever stroke patients (< 100 days post stroke) to lift their impaired upper limb against gravity and to improve the workspace of the paretic arm. Three sensors are attached to forearm, upper arm, and trunk to track arm movements in three-dimensional space while controlling for trunk compensation. Whole-arm movements serve as input for a therapy game. The reward group (n = 37) will train with performance feedback and contingent monetary reward. The control group (n = 37) uses the same system but without monetary reward and with reduced performance feedback. Primary outcome is the change in the hand workspace in the transversal plane. Standard clinical assessments are used as secondary outcome measures.This randomized controlled trial will be the first to directly evaluate the effect of rewarding feedback, including monetary rewards, on the recovery process of the upper limb following stroke. This could pave the way for novel types of interventions with significantly improved treatment benefits, e.g., for conditions that impair reward processing (stroke, Parkinson's disease).ClinicalTrials.gov, ID: NCT02257125 . Registered on 30 September 2014."
+  ],
+  "affiliation": [
+    "Division of Vascular Neurology and Neurorehabilitation, Department of Neurology, University Hospital of Zurich, Zurich, Switzerland. mario.widmer@cereneo.ch."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "ET-17 13-2"
+          ],
+          "agency": [
+            "ETH Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Feedback",
+        "Rehabilitation",
+        "Upper extremity",
+        "Virtual reality",
+        "Stroke",
+        "Arm",
+        "Reward"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5712159?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5712159"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-017-2328-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-12-04"
+  ],
+  "dateOfRevision": [
+    "2018-02-07"
+  ],
+  "electronicPublicationDate": [
+    "2017-12-02"
+  ],
+  "firstPublicationDate": [
+    "2017-12-02"
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "id": [
+    "24860466"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24860466"
+  ],
+  "pmcid": [
+    "PMC4029020"
+  ],
+  "doi": [
+    "10.3389/fnhum.2014.00245"
+  ],
+  "title": [
+    "Structural changes induced by daily music listening in the recovering brain after middle cerebral artery stroke: a voxel-based morphometry study."
+  ],
+  "authorString": [
+    "Särkämö T, Ripollés P, Vepsäläinen H, Autti T, Silvennoinen HM, Salli E, Laitinen S, Forsblom A, Soinila S, Rodríguez-Fornells A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Särkämö T"
+          ],
+          "firstName": [
+            "Teppo"
+          ],
+          "lastName": [
+            "Särkämö"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1470-4530",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cognitive Brain Research Unit, Cognitive Science, Institute of Behavioural Sciences, University of Helsinki , Helsinki , Finland ; Finnish Centre of Interdisciplinary Music Research, University of Helsinki , Helsinki , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Ripollés P"
+          ],
+          "firstName": [
+            "Pablo"
+          ],
+          "lastName": [
+            "Ripollés"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Cognition and Brain Plasticity Group, Bellvitge Biomedical Research Institute (IDIBELL), L'Hospitalet de Llobregat , Barcelona , Spain ; Department of Basic Psychology, University of Barcelona , Barcelona , Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Vepsäläinen H"
+          ],
+          "firstName": [
+            "Henna"
+          ],
+          "lastName": [
+            "Vepsäläinen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0177-3609",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cognitive Brain Research Unit, Cognitive Science, Institute of Behavioural Sciences, University of Helsinki , Helsinki , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Autti T"
+          ],
+          "firstName": [
+            "Taina"
+          ],
+          "lastName": [
+            "Autti"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Radiology, HUS Medical Imaging Center, Helsinki University Central Hospital, University of Helsinki , Helsinki , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Silvennoinen HM"
+          ],
+          "firstName": [
+            "Heli M"
+          ],
+          "lastName": [
+            "Silvennoinen"
+          ],
+          "initials": [
+            "HM"
+          ],
+          "affiliation": [
+            "Department of Radiology, HUS Medical Imaging Center, Helsinki University Central Hospital, University of Helsinki , Helsinki , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Salli E"
+          ],
+          "firstName": [
+            "Eero"
+          ],
+          "lastName": [
+            "Salli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Radiology, HUS Medical Imaging Center, Helsinki University Central Hospital, University of Helsinki , Helsinki , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Laitinen S"
+          ],
+          "firstName": [
+            "Sari"
+          ],
+          "lastName": [
+            "Laitinen"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Miina Sillanpää Foundation , Helsinki , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Forsblom A"
+          ],
+          "firstName": [
+            "Anita"
+          ],
+          "lastName": [
+            "Forsblom"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Music, University of Jyväskylä , Jyväskylä , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Soinila S"
+          ],
+          "firstName": [
+            "Seppo"
+          ],
+          "lastName": [
+            "Soinila"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Turku University Hospital , Turku , Finland."
+          ]
+        },
+        {
+          "fullName": [
+            "Rodríguez-Fornells A"
+          ],
+          "firstName": [
+            "Antoni"
+          ],
+          "lastName": [
+            "Rodríguez-Fornells"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3249-6931",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Cognition and Brain Plasticity Group, Bellvitge Biomedical Research Institute (IDIBELL), L'Hospitalet de Llobregat , Barcelona , Spain ; Department of Basic Psychology, University of Barcelona , Barcelona , Spain ; Institució Catalana de Recerca i Estudis Avançats (ICREA) , Barcelona , Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0177-3609",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1470-4530",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3249-6931",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120175"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "245"
+  ],
+  "abstractText": [
+    "Music is a highly complex and versatile stimulus for the brain that engages many temporal, frontal, parietal, cerebellar, and subcortical areas involved in auditory, cognitive, emotional, and motor processing. Regular musical activities have been shown to effectively enhance the structure and function of many brain areas, making music a potential tool also in neurological rehabilitation. In our previous randomized controlled study, we found that listening to music on a daily basis can improve cognitive recovery and improve mood after an acute middle cerebral artery stroke. Extending this study, a voxel-based morphometry (VBM) analysis utilizing cost function masking was performed on the acute and 6-month post-stroke stage structural magnetic resonance imaging data of the patients (n = 49) who either listened to their favorite music [music group (MG), n = 16] or verbal material [audio book group (ABG), n = 18] or did not receive any listening material [control group (CG), n = 15] during the 6-month recovery period. Although all groups showed significant gray matter volume (GMV) increases from the acute to the 6-month stage, there was a specific network of frontal areas [left and right superior frontal gyrus (SFG), right medial SFG] and limbic areas [left ventral/subgenual anterior cingulate cortex (SACC) and right ventral striatum (VS)] in patients with left hemisphere damage in which the GMV increases were larger in the MG than in the ABG and in the CG. Moreover, the GM reorganization in the frontal areas correlated with enhanced recovery of verbal memory, focused attention, and language skills, whereas the GM reorganization in the SACC correlated with reduced negative mood. This study adds on previous results, showing that music listening after stroke not only enhances behavioral recovery, but also induces fine-grained neuroanatomical changes in the recovering brain."
+  ],
+  "affiliation": [
+    "Cognitive Brain Research Unit, Cognitive Science, Institute of Behavioural Sciences, University of Helsinki , Helsinki , Finland ; Finnish Centre of Interdisciplinary Music Research, University of Helsinki , Helsinki , Finland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rehabilitation",
+        "Stroke",
+        "Neuroplasticity",
+        "Environmental enrichment",
+        "music",
+        "Magnetic Resonance Imaging",
+        "Speech",
+        "Voxel-based Morphometry"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4029020?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4029020"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24860466/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24860466/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2014.00245"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "26"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-05-26"
+  ],
+  "dateOfCreation": [
+    "2014-05-26"
+  ],
+  "dateOfRevision": [
+    "2014-05-28"
+  ],
+  "electronicPublicationDate": [
+    "2014-04-17"
+  ],
+  "firstPublicationDate": [
+    "2014-04-17"
+  ]
+}

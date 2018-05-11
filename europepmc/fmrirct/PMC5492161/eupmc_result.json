@@ -1,0 +1,411 @@
+{
+  "id": [
+    "28713255"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28713255"
+  ],
+  "pmcid": [
+    "PMC5492161"
+  ],
+  "doi": [
+    "10.3389/fnhum.2017.00344"
+  ],
+  "title": [
+    "The Impact of Aerobic Exercise on Fronto-Parietal Network Connectivity and Its Relation to Mobility: An Exploratory Analysis of a 6-Month Randomized Controlled Trial."
+  ],
+  "authorString": [
+    "Hsu CL, Best JR, Wang S, Voss MW, Hsiung RGY, Munkacsy M, Cheung W, Handy TC, Liu-Ambrose T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hsu CL"
+          ],
+          "firstName": [
+            "Chun L"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Center for Hip Health and Mobility, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Best JR"
+          ],
+          "firstName": [
+            "John R"
+          ],
+          "lastName": [
+            "Best"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Center for Hip Health and Mobility, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang S"
+          ],
+          "firstName": [
+            "Shirley"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Center for Hip Health and Mobility, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Voss MW"
+          ],
+          "firstName": [
+            "Michelle W"
+          ],
+          "lastName": [
+            "Voss"
+          ],
+          "initials": [
+            "MW"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Iowa, Iowa CityIA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsiung RGY"
+          ],
+          "firstName": [
+            "Robin G Y"
+          ],
+          "lastName": [
+            "Hsiung"
+          ],
+          "initials": [
+            "RGY"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of British Columbia, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Munkacsy M"
+          ],
+          "firstName": [
+            "Michelle"
+          ],
+          "lastName": [
+            "Munkacsy"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Center for Hip Health and Mobility, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Cheung W"
+          ],
+          "firstName": [
+            "Winnie"
+          ],
+          "lastName": [
+            "Cheung"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Center for Hip Health and Mobility, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Handy TC"
+          ],
+          "firstName": [
+            "Todd C"
+          ],
+          "lastName": [
+            "Handy"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of British Columbia, VancouverBC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu-Ambrose T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Liu-Ambrose"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Center for Hip Health and Mobility, VancouverBC, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2550584"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "344"
+  ],
+  "abstractText": [
+    "Impaired mobility is a major concern for older adults and has significant consequences. While the widely accepted belief is that improved physical function underlies the effectiveness of targeted exercise training in improving mobility and reducing falls, recent evidence suggests cognitive and neural benefits gained through exercise may also play an important role in promoting mobility. However, the underlying neural mechanisms of this relationship are currently unclear. Thus, we hypothesize that 6 months of progressive aerobic exercise training would alter frontoparietal network (FPN) connectivity during a motor task among older adults with mild subcortical ischemic vascular cognitive impairment (SIVCI)-and exercise-induced changes in FPN connectivity would correlate with changes in mobility. We focused on the FPN as it is involved in top-down attentional control as well as motor planning and motor execution. Participants were randomized either to usual-care (CON), which included monthly educational materials about VCI and healthy diet; or thrice-weekly aerobic training (AT), which was walking outdoors with progressive intensity. Functional magnetic resonance imaging was acquired at baseline and trial completion, where the participants were instructed to perform bilateral finger tapping task. At trial completion, compared with AT, CON showed significantly increased FPN connectivity strength during right finger tapping (p < 0.05). Across the participants, reduced FPN connectivity was associated with greater cardiovascular capacity (p = 0.05). In the AT group, reduced FPN connectivity was significantly associated with improved mobility performance, as measured by the Timed-Up-and-Go test (r = 0.67, p = 0.02). These results suggest progressive AT may improve mobility in older adults with SIVCI via maintaining intra-network connectivity of the FPN."
+  ],
+  "affiliation": [
+    "Center for Hip Health and Mobility, VancouverBC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aging",
+        "fMRI",
+        "Functional Connectivity",
+        "Vascular cognitive impairment",
+        "Fronto-parietal Network",
+        "Impaired Mobility"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5492161?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5492161"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2017.00344"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28900392"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "Front Hum Neurosci. 2017 Sep 05;11:449"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "74"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-07-17"
+  ],
+  "dateOfRevision": [
+    "2017-09-13"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-30"
+  ],
+  "firstPublicationDate": [
+    "2017-06-30"
+  ]
+}

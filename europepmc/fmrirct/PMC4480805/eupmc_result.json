@@ -1,0 +1,389 @@
+{
+  "id": [
+    "26170869"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26170869"
+  ],
+  "pmcid": [
+    "PMC4480805"
+  ],
+  "doi": [
+    "10.1155/2015/103570"
+  ],
+  "title": [
+    "The Anti-Inflammatory Actions of Auricular Point Acupressure for Chronic Low Back Pain."
+  ],
+  "authorString": [
+    "Lin WC, Yeh CH, Chien LC, Morone NE, Glick RM, Albers KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lin WC"
+          ],
+          "firstName": [
+            "Wei-Chun"
+          ],
+          "lastName": [
+            "Lin"
+          ],
+          "initials": [
+            "WC"
+          ],
+          "affiliation": [
+            "School of Nursing, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Yeh CH"
+          ],
+          "firstName": [
+            "Chao Hsing"
+          ],
+          "lastName": [
+            "Yeh"
+          ],
+          "initials": [
+            "CH"
+          ],
+          "affiliation": [
+            "School of Nursing, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chien LC"
+          ],
+          "firstName": [
+            "Lung-Chang"
+          ],
+          "lastName": [
+            "Chien"
+          ],
+          "initials": [
+            "LC"
+          ],
+          "affiliation": [
+            "Department of Biostatistics, University of Texas, School of Public Health at San Antonio Regional Campus, University of Texas Health Science Center at San Antonio Regional Campus, Research to Advance Community Health Center, Houston, TX 77025, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Morone NE"
+          ],
+          "firstName": [
+            "Natalia E"
+          ],
+          "lastName": [
+            "Morone"
+          ],
+          "initials": [
+            "NE"
+          ],
+          "affiliation": [
+            "Division of General Internal Medicine, Department of Medicine, School of Medicine, University of Pittsburgh and Geriatric Research Education and Clinical Center, Veterans Administration Pittsburgh Healthcare System, Pittsburgh, PA 15213, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Glick RM"
+          ],
+          "firstName": [
+            "Ronald M"
+          ],
+          "lastName": [
+            "Glick"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry, Physical Medicine, and Rehabilitation, School of Medicine, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Albers KM"
+          ],
+          "firstName": [
+            "Kathryn M"
+          ],
+          "lastName": [
+            "Albers"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4597-9323",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurobiology, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-4597-9323",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2263831"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "103570"
+  ],
+  "abstractText": [
+    "Background. Auricular point acupressure (APA) is a promising treatment for pain management. Few studies have investigated the physiological mechanisms of APA analgesics. Method. In this pilot randomized clinical trial (RCT), a 4-week APA treatment was used to manage chronic low back pain (CLBP). Sixty-one participants were randomized into a real APA group (n = 32) or a sham APA group (n = 29). Blood samples, pain intensity, and physical function were collected at baseline and after 4 weeks of treatment. Results. Subjects in the real APA group reported a 56% reduction of pain intensity and a 26% improvement in physical function. Serum blood samples showed (1) a decrease in IL-1β, IL-2, IL-6, and calcitonin gene-related peptide [CGRP] and (2) an increase in IL-4. In contrast, subjects in the sham APA group (1) reported a 9% reduction in pain and a 2% improvement in physical function and (2) exhibited minimal changes of inflammatory cytokines and neuropeptides. Statistically significant differences in IL-4 and CGRP expression between the real and sham APA groups were verified. Conclusion. These findings suggest that APA treatment affects pain intensity through modulation of the immune system, as reflected by APA-induced changes in serum inflammatory cytokine and neuropeptide levels."
+  ],
+  "affiliation": [
+    "School of Nursing, University of Pittsburgh, Pittsburgh, PA 15213, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "KL2 TR000146"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "UL1 TR000005"
+          ],
+          "agency": [
+            "NCATS NIH HHS"
+          ],
+          "acronym": [
+            "TR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS033730"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4480805?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4480805"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/103570"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-14"
+  ],
+  "dateOfCreation": [
+    "2015-07-14"
+  ],
+  "dateOfRevision": [
+    "2016-10-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-11"
+  ],
+  "firstPublicationDate": [
+    "2015-06-11"
+  ]
+}

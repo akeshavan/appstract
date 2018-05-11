@@ -1,0 +1,398 @@
+{
+  "id": [
+    "27703434"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27703434"
+  ],
+  "pmcid": [
+    "PMC5028840"
+  ],
+  "doi": [
+    "10.3389/fpsyt.2016.00154"
+  ],
+  "title": [
+    "A Pilot Study of Mindfulness-Based Exposure Therapy in OEF/OIF Combat Veterans with PTSD: Altered Medial Frontal Cortex and Amygdala Responses in Social-Emotional Processing."
+  ],
+  "authorString": [
+    "King AP, Block SR, Sripada RK, Rauch SA, Porter KE, Favorite TK, Giardino N, Liberzon I."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "King AP"
+          ],
+          "firstName": [
+            "Anthony P"
+          ],
+          "lastName": [
+            "King"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0764-9625",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Mental Health Service, VA Ann Arbor Health System, Ann Arbor, MI, USA; Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Block SR"
+          ],
+          "firstName": [
+            "Stefanie R"
+          ],
+          "lastName": [
+            "Block"
+          ],
+          "initials": [
+            "SR"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Michigan , Ann Arbor, MI , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sripada RK"
+          ],
+          "firstName": [
+            "Rebecca K"
+          ],
+          "lastName": [
+            "Sripada"
+          ],
+          "initials": [
+            "RK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2844-3458",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA; VA Center for Clinical Management Research, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rauch SA"
+          ],
+          "firstName": [
+            "Sheila A M"
+          ],
+          "lastName": [
+            "Rauch"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, USA; Mental Health Service, Atlanta VA Medical Center, Atlanta, GA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Porter KE"
+          ],
+          "firstName": [
+            "Katherine E"
+          ],
+          "lastName": [
+            "Porter"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "Mental Health Service, VA Ann Arbor Health System , Ann Arbor, MI , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Favorite TK"
+          ],
+          "firstName": [
+            "Todd K"
+          ],
+          "lastName": [
+            "Favorite"
+          ],
+          "initials": [
+            "TK"
+          ],
+          "affiliation": [
+            "Mental Health Service, VA Ann Arbor Health System, Ann Arbor, MI, USA; Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA; Mary A. Rackham Institute (MARI), University of Michigan, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Giardino N"
+          ],
+          "firstName": [
+            "Nicholas"
+          ],
+          "lastName": [
+            "Giardino"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Michigan , Ann Arbor, MI , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Liberzon I"
+          ],
+          "firstName": [
+            "Israel"
+          ],
+          "lastName": [
+            "Liberzon"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Mental Health Service, VA Ann Arbor Health System, Ann Arbor, MI, USA; Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2844-3458",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0764-9625",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2378305"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "NLMid": [
+            "101545006"
+          ],
+          "ISSN": [
+            "1664-0640"
+          ],
+          "ESSN": [
+            "1664-0640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "154"
+  ],
+  "abstractText": [
+    "Combat-related posttraumatic stress disorder (PTSD) is common among returning veterans, and is a serious and debilitating disorder. While highly effective treatments involving trauma exposure exist, difficulties with engagement and early drop may lead to sub-optimal outcomes. Mindfulness training may provide a method for increasing emotional regulation skills that may improve engagement in trauma-focused therapy. Here, we examine potential neural correlates of mindfulness training and in vivo exposure (non-trauma focused) using a novel group therapy [mindfulness-based exposure therapy (MBET)] in Afghanistan (OEF) or Iraq (OIF) combat veterans with PTSD. OEF/OIF combat veterans with PTSD (N = 23) were treated with MBET (N = 14) or a comparison group therapy [Present-centered group therapy (PCGT), N = 9]. PTSD symptoms were assessed at pre- and post-therapy with Clinician Administered PTSD scale. Functional neuroimaging (3-T fMRI) before and after therapy examined responses to emotional faces (angry, fearful, and neutral faces). Patients treated with MBET had reduced PTSD symptoms (effect size d = 0.92) but effect was not significantly different from PCGT (d = 0.43). Improvement in PTSD symptoms from pre- to post-treatment in both treatment groups was correlated with increased activity in rostral anterior cingulate cortex, dorsal medial prefrontal cortex (mPFC), and left amygdala. The MBET group showed greater increases in amygdala and fusiform gyrus responses to Angry faces, as well as increased response in left mPFC to Fearful faces. These preliminary findings provide intriguing evidence that MBET group therapy for PTSD may lead to changes in neural processing of social-emotional threat related to symptom reduction."
+  ],
+  "affiliation": [
+    "Mental Health Service, VA Ann Arbor Health System, Ann Arbor, MI, USA; Department of Psychiatry, University of Michigan, Ann Arbor, MI, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Amygdala",
+        "Mindfulness",
+        "Ptsd",
+        "Exposure Therapy",
+        "Fmri Bold",
+        "Dorsal Anterior Cingulate Cortex"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5028840?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5028840"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyt.2016.00154"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-10-05"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-09-20"
+  ],
+  "firstPublicationDate": [
+    "2016-09-20"
+  ]
+}

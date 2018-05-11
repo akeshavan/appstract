@@ -1,0 +1,512 @@
+{
+  "id": [
+    "24803733"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24803733"
+  ],
+  "pmcid": [
+    "PMC4006612"
+  ],
+  "doi": [
+    "10.1155/2014/815215"
+  ],
+  "title": [
+    "rTMS in the treatment of drug addiction: an update about human studies."
+  ],
+  "authorString": [
+    "Bellamoli E, Manganotti P, Schwartz RP, Rimondo C, Gomma M, Serpelloni G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bellamoli E"
+          ],
+          "firstName": [
+            "Elisa"
+          ],
+          "lastName": [
+            "Bellamoli"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Addiction Department, ULSS 20, Via Germania 20, 37136 Verona, Italy ; Department of Neurological and Movement Sciences, University of Verona, Piazzale L.A. Scuro 10, 37134 Verona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Manganotti P"
+          ],
+          "firstName": [
+            "Paolo"
+          ],
+          "lastName": [
+            "Manganotti"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Neurological and Movement Sciences, University of Verona, Piazzale L.A. Scuro 10, 37134 Verona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz RP"
+          ],
+          "firstName": [
+            "Robert P"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "affiliation": [
+            "Friends Research Institute, Inc., 1040 Park Avenue, Suite 103, Baltimore, MD 21201, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rimondo C"
+          ],
+          "firstName": [
+            "Claudia"
+          ],
+          "lastName": [
+            "Rimondo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "National Coordination Centre for NIDA Collaborations, Via Germania 20, 37136 Verona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Gomma M"
+          ],
+          "firstName": [
+            "Maurizio"
+          ],
+          "lastName": [
+            "Gomma"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Addiction Department, ULSS 20, Via Germania 20, 37136 Verona, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Serpelloni G"
+          ],
+          "firstName": [
+            "Giovanni"
+          ],
+          "lastName": [
+            "Serpelloni"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "' Department for Anti-Drug Policies of the Presidency of Ministers' Council of Italy, Via dei Laterani 34, 00184 Roma, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2157358"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Behavioural neurology"
+          ],
+          "ISOAbbreviation": [
+            "Behav Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Behav Neurol"
+          ],
+          "NLMid": [
+            "8914585"
+          ],
+          "ISSN": [
+            "0953-4180"
+          ],
+          "ESSN": [
+            "1875-8584"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "815215"
+  ],
+  "abstractText": [
+    "Drug addiction can be a devastating and chronic relapsing disorder with social, psychological, and physical consequences, and more effective treatment options are needed. Repetitive transcranial magnetic stimulation (rTMS) is a noninvasive brain stimulation technique that has been assessed in a growing number of studies for its therapeutic potential in treating addiction. This review paper offers an overview on the current state of clinical research in treating drug addiction with rTMS. Because of the limited research in this area, all studies (including case reports) that evaluated the therapeutic use of rTMS in nicotine, alcohol, or illicit drug addiction were included in this review. Papers published prior to December 2012 were found through an NCBI PubMed search. A total of eleven studies were identified that met review criteria. There is nascent evidence that rTMS could be effective in reducing cocaine craving and nicotine and alcohol craving and consumption and might represent a potential therapeutic tool for treating addiction. Further studies are needed to identify the optimal parameters of stimulation for the most effective treatment of drug addiction, to improve our comprehension of the treatment neurophysiological effects, and to conduct rigorous, controlled efficacy studies with adequate power."
+  ],
+  "affiliation": [
+    "Addiction Department, ULSS 20, Via Germania 20, 37136 Verona, Italy ; Department of Neurological and Movement Sciences, University of Verona, Piazzale L.A. Scuro 10, 37134 Verona, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Substance-Related Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Behavior, Addictive"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4006612?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4006612"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24803733/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24803733/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/815215"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "18"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-12-24"
+  ],
+  "dateOfCreation": [
+    "2014-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2014-01-23"
+  ],
+  "firstPublicationDate": [
+    "2014-01-23"
+  ]
+}

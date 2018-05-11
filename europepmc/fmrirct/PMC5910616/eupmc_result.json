@@ -1,0 +1,403 @@
+{
+  "id": [
+    "29678195"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29678195"
+  ],
+  "pmcid": [
+    "PMC5910616"
+  ],
+  "doi": [
+    "10.1186/s13063-018-2609-4"
+  ],
+  "title": [
+    "Does sensorimotor upper limb therapy post stroke alter behavior and brain connectivity differently compared to motor therapy? Protocol of a phase II randomized controlled trial."
+  ],
+  "authorString": [
+    "De Bruyn N, Essers B, Thijs L, Van Gils A, Tedesco Triccas L, Meyer S, Alaerts K, Verheyden G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "De Bruyn N"
+          ],
+          "firstName": [
+            "Nele"
+          ],
+          "lastName": [
+            "De Bruyn"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8011-1303",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium. nele.debruyn@kuleuven.be."
+          ]
+        },
+        {
+          "fullName": [
+            "Essers B"
+          ],
+          "firstName": [
+            "Bea"
+          ],
+          "lastName": [
+            "Essers"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Thijs L"
+          ],
+          "firstName": [
+            "Liselot"
+          ],
+          "lastName": [
+            "Thijs"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Van Gils A"
+          ],
+          "firstName": [
+            "Annick"
+          ],
+          "lastName": [
+            "Van Gils"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Tedesco Triccas L"
+          ],
+          "firstName": [
+            "Lisa"
+          ],
+          "lastName": [
+            "Tedesco Triccas"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Meyer S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Meyer"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Alaerts K"
+          ],
+          "firstName": [
+            "Kaat"
+          ],
+          "lastName": [
+            "Alaerts"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Verheyden G"
+          ],
+          "firstName": [
+            "Geert"
+          ],
+          "lastName": [
+            "Verheyden"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8011-1303",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2666637"
+      ],
+      "dateOfPublication": [
+        "2018 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "242"
+  ],
+  "abstractText": [
+    "The role of somatosensory feedback in motor performance has been warranted in the literature. Although sensorimotor deficits are common after stroke, current rehabilitation approaches primarily focus on restoring upper limb motor ability. Evidence for integrative sensorimotor rehabilitation approaches is scarce, as is knowledge about neural correlates of somatosensory impairments after stroke and the effect of rehabilitation on brain connectivity level. Therefore, we aim to investigate changes in sensorimotor function and brain connectivity following a sensorimotor therapy program compared to an attention-matched motor therapy program for the upper limb after stroke.An assessor-blinded randomized controlled trial will be conducted. Sixty inpatient rehabilitation patients up to eight weeks after stroke will be included. Patients will be randomized to either an experimental group receiving sensorimotor therapy or a control group receiving attention-matched motor therapy for the upper limb, with both groups receiving conventional therapy. Thus, all patients will receive extra therapy, a total of 16 1-h sessions over four weeks. Patients will be assessed at baseline, after four weeks of training, and after four weeks of follow-up. Primary outcome measure is the Action Research Arm Test. Secondary outcome measures will consist of somatosensory, motor and cognitive assessments, and a standardized resting-state functional magnetic resonance imaging protocol.The integration of sensory and motor rehabilitation into one therapy model might provide the added value of this therapy to improve sensorimotor performance post stroke. Insight in the behavioral and brain connectivity changes post therapy will lead to a better understanding of working mechanisms of therapy and will provide new knowledge for patient-tailored therapy approaches.ClinicalTrials.gov, NCT03236376 . Registered on 8 August 2017."
+  ],
+  "affiliation": [
+    "KU Leuven - University of Leuven, Department of Rehabilitation Sciences, Tervuursevest 101, box 1501, 3001, Leuven, Belgium. nele.debruyn@kuleuven.be."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "1189817N"
+          ],
+          "agency": [
+            "Fonds Wetenschappelijk Onderzoek"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stroke",
+        "Randomized controlled trial",
+        "Upper Limb",
+        "Functional Connectivity",
+        "Sensorimotor Function"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5910616?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5910616"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-018-2609-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-04-22"
+  ],
+  "dateOfRevision": [
+    "2018-05-03"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-20"
+  ],
+  "firstPublicationDate": [
+    "2018-04-20"
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "id": [
+    "22239911"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22239911"
+  ],
+  "pmcid": [
+    "PMC3402920"
+  ],
+  "doi": [
+    "10.1186/1745-6215-13-8"
+  ],
+  "title": [
+    "A GO intervention program for enhancing elementary school children's cognitive functions and control abilities of emotion and behavior: study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Tachibana Y, Yoshida J, Ichinomiya M, Nouchi R, Miyauchi C, Takeuchi H, Tomita N, Arai H, Kawashima R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tachibana Y"
+          ],
+          "firstName": [
+            "Yoshiyuki"
+          ],
+          "lastName": [
+            "Tachibana"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Yoshida J"
+          ],
+          "firstName": [
+            "Jiro"
+          ],
+          "lastName": [
+            "Yoshida"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Ichinomiya M"
+          ],
+          "firstName": [
+            "Masahito"
+          ],
+          "lastName": [
+            "Ichinomiya"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Nouchi R"
+          ],
+          "firstName": [
+            "Rui"
+          ],
+          "lastName": [
+            "Nouchi"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Miyauchi C"
+          ],
+          "firstName": [
+            "Carlos"
+          ],
+          "lastName": [
+            "Miyauchi"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Takeuchi H"
+          ],
+          "firstName": [
+            "Hikaru"
+          ],
+          "lastName": [
+            "Takeuchi"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Tomita N"
+          ],
+          "firstName": [
+            "Naoki"
+          ],
+          "lastName": [
+            "Tomita"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Arai H"
+          ],
+          "firstName": [
+            "Hiroyuki"
+          ],
+          "lastName": [
+            "Arai"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Kawashima R"
+          ],
+          "firstName": [
+            "Ryuta"
+          ],
+          "lastName": [
+            "Kawashima"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "1900845"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "8"
+  ],
+  "abstractText": [
+    "BACKGROUND: Executive function is critical for children's healthy development. We propose an intervention program to enhance children's executive function using the game, GO. Many neuroimaging studies have revealed that playing GO is related to executive function. In addition, previous studies also revealed that executive function can be enhanced by training. We will perform a randomized controlled trial to investigate the effectiveness of a GO intervention group and a control group without intervention. METHODS/DESIGN: 35 elementary school children aged 8 to 10 were recruited from Edogawa elementary school in Tokyo, Japan. They will be randomized into two groups; either the 5-week GO intervention group or no-intervention control group. We will ask the participants of the intervention group to join the GO course which will be held once every week for five weeks (total: six times). In the GO course, the children will be taught GO by the GO masters of the Nihon Ki-in and enjoy it for an hour. Besides the course, the participants will perform GO problems about twenty minutes a day, three times a week during the intervention period. We will use the Stroop task, the digit span, the Raven's colored progressive matrices, the Span-board task, and the Behavioral inhibition/behavioral activation scale for the outcome measures. Outcomes will be measured at a baseline (Assessment 1) and 5 weeks after the intervention program started (Assessment 2). The intervention group will be compared with the control group using one-way analyses of covariance with the difference between Assessment 1 and Assessment 2 measures as dependent variables and pretest scores as covariates. DISCUSSION: To our knowledge, this study will be the first RCT to investigate the efficacy of a GO intervention program for elementary school children. If this intervention is effective, we will be able to take the next steps in making an educational program to enhance children's executive function and other cognitive abilities using GO. In addition, we further will investigate the transfer effects of the GO intervention program through executive function. We also will investigate neuroplasticity with the GO intervention using neuroimaging."
+  ],
+  "affiliation": [
+    "Department of Child and Adolescent Psychiatry, University of Manchester and Manchester Academic Health Sciences Centre, Psychiatry Research Group, Oxford Road, Manchester, M13 9PL, UK. yoshiyuki-tatibana@hotmail.co.jp"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Behavior Control"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Child Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Emotions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Child Development"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuronal Plasticity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Play and Playthings"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Japan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Executive Function"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuroimaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3402920?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3402920"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22239911/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22239911/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1745-6215-13-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-05-15"
+  ],
+  "dateOfCreation": [
+    "2012-03-01"
+  ],
+  "dateOfRevision": [
+    "2013-06-26"
+  ],
+  "electronicPublicationDate": [
+    "2012-01-12"
+  ],
+  "firstPublicationDate": [
+    "2012-01-12"
+  ]
+}

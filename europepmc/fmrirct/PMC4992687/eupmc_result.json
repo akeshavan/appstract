@@ -1,0 +1,412 @@
+{
+  "id": [
+    "27597820"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27597820"
+  ],
+  "pmcid": [
+    "PMC4992687"
+  ],
+  "doi": [
+    "10.3389/fnhum.2016.00406"
+  ],
+  "title": [
+    "Attachment, Neurobiology, and Mentalizing along the Psychosis Continuum."
+  ],
+  "authorString": [
+    "Debbané M, Salaminios G, Luyten P, Badoud D, Armando M, Solida Tozzi A, Fonagy P, Brent BK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Debbané M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Debbané"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4677-8753",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Faculty of Psychology and Educational Sciences, University of GenevaGeneva, Switzerland; Research Department of Clinical, Educational and Health Psychology, University College LondonLondon, UK; Office Médico-PédagogiqueGeneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Salaminios G"
+          ],
+          "firstName": [
+            "George"
+          ],
+          "lastName": [
+            "Salaminios"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Research Department of Clinical, Educational and Health Psychology, University College London London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Luyten P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Luyten"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Research Department of Clinical, Educational and Health Psychology, University College LondonLondon, UK; Faculty of Psychology and Educational Sciences, University of LeuvenLeuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Badoud D"
+          ],
+          "firstName": [
+            "Deborah"
+          ],
+          "lastName": [
+            "Badoud"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Faculty of Psychology and Educational Sciences, University of Geneva Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Armando M"
+          ],
+          "firstName": [
+            "Marco"
+          ],
+          "lastName": [
+            "Armando"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Office Médico-Pédagogique Geneva, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Solida Tozzi A"
+          ],
+          "firstName": [
+            "Alessandra"
+          ],
+          "lastName": [
+            "Solida Tozzi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Lausanne University Hospital (CHUV) Lausanne, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Fonagy P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Fonagy"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Research Department of Clinical, Educational and Health Psychology, University College London London, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Brent BK"
+          ],
+          "firstName": [
+            "Benjamin K"
+          ],
+          "lastName": [
+            "Brent"
+          ],
+          "initials": [
+            "BK"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Massachusetts General Hospital, Harvard Medical School Boston, MA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3491-0083",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4677-8753",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2390596"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "406"
+  ],
+  "abstractText": [
+    "In this review article, we outline the evidence linking attachment adversity to psychosis, from the premorbid stages of the disorder to its clinical forms. To better understand the neurobiological mechanisms through which insecure attachment may contribute to psychosis, we identify at least five neurobiological pathways linking attachment to risk for developing psychosis. Besides its well documented influence on the hypothalamic-pituary-adrenal (HPA) axis, insecure attachment may also contribute to neurodevelopmental risk through the dopaminergic and oxytonergic systems, as well as bear influence on neuroinflammation and oxidative stress responses. We further consider the neuroscientific and behavioral studies that underpin mentalization as a suite of processes potentially moderating the risk to transition to psychotic disorders. In particular, mentalization may help the individual compensate for endophenotypical impairments in the integration of sensory and metacognitive information. We propose a model where embodied mentalization would lie at the core of a protective, resilience response mitigating the adverse and potentially pathological influence of the neurodevelopmental cascade of risk for psychosis."
+  ],
+  "affiliation": [
+    "Faculty of Psychology and Educational Sciences, University of GenevaGeneva, Switzerland; Research Department of Clinical, Educational and Health Psychology, University College LondonLondon, UK; Office Médico-PédagogiqueGeneva, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NF-SI-0514-10157"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Schizophrenia",
+        "Theory Of Mind",
+        "Self",
+        "Mentalizing",
+        "Schizotypy",
+        "Hpa",
+        "Uhr"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4992687?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4992687"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2016.00406"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-09-06"
+  ],
+  "dateOfCreation": [
+    "2016-09-06"
+  ],
+  "dateOfRevision": [
+    "2016-09-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-22"
+  ],
+  "firstPublicationDate": [
+    "2016-08-22"
+  ]
+}

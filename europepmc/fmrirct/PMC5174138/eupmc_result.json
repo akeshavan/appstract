@@ -1,0 +1,415 @@
+{
+  "id": [
+    "27324026"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27324026"
+  ],
+  "pmcid": [
+    "PMC5174138"
+  ],
+  "doi": [
+    "10.1007/s00394-016-1227-8"
+  ],
+  "title": [
+    "Controversies about sugars consumption: state of the science."
+  ],
+  "authorString": [
+    "Rippe JM, Marcos A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rippe JM"
+          ],
+          "firstName": [
+            "James M"
+          ],
+          "lastName": [
+            "Rippe"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "University of Central Florida, 4000 Central Florida Boulevard, Orlando, FL, 32816, USA. jrippe@rippelifestyle.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Marcos A"
+          ],
+          "firstName": [
+            "Ascensión"
+          ],
+          "lastName": [
+            "Marcos"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Metabolism and Nutrition, Institute of Food Science, Technology and Nutrition (ICTAN), Spanish National Research Council (CSIC), C/José Antonio Novais, 10, 28040, Madrid, Spain."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl 2"
+      ],
+      "volume": [
+        "55"
+      ],
+      "journalIssueId": [
+        "2507060"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of nutrition"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Nutr"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Nutr"
+          ],
+          "NLMid": [
+            "100888704"
+          ],
+          "ISSN": [
+            "1436-6207"
+          ],
+          "ESSN": [
+            "1436-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "11-16"
+  ],
+  "abstractText": [
+    "Few topics in nutrition generate more controversy and debate than the putative associations between added sugars and health. With this as background, a group of researchers in the area of sugars and health gathered at the European Nutrition Conference (FENS) in 2015 to discuss these controversies and provide evidence-based science. The purpose of the current article was to provide a brief summary of some of the highlights from each of the presenters and serve as an Introduction to the supplement which contains full articles based on their presentations."
+  ],
+  "affiliation": [
+    "University of Central Florida, 4000 Central Florida Boulevard, Orlando, FL, 32816, USA. jrippe@rippelifestyle.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Introductory Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Diabetes Mellitus, Type 2"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Metabolic Syndrome X"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dietary Sucrose"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fructose"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Risk Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Status"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Energy Intake"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nutritional Physiological Phenomena"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Sucrose",
+        "High-fructose Corn Syrup",
+        "Isoglucose"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Fructose"
+          ],
+          "registryNumber": [
+            "30237-26-4"
+          ]
+        },
+        {
+          "name": [
+            "Dietary Sucrose"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5174138?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5174138"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00394-016-1227-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-02-14"
+  ],
+  "dateOfCreation": [
+    "2016-06-21"
+  ],
+  "dateOfRevision": [
+    "2017-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-20"
+  ],
+  "firstPublicationDate": [
+    "2016-06-20"
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "id": [
+    "26177378"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26177378"
+  ],
+  "pmcid": [
+    "PMC4503717"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0132989"
+  ],
+  "title": [
+    "Sham Acupressure Controls Used in Randomized Controlled Trials: A Systematic Review and Critique."
+  ],
+  "authorString": [
+    "Tan JY, Suen LK, Wang T, Molassiotis A, Molassiotis A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tan JY"
+          ],
+          "firstName": [
+            "Jing-Yu"
+          ],
+          "lastName": [
+            "Tan"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1609-6890",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Nursing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China; School of Nursing, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Suen LK"
+          ],
+          "firstName": [
+            "Lorna K P"
+          ],
+          "lastName": [
+            "Suen"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "School of Nursing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "The Second Affiliated People's Hospital, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Molassiotis A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Molassiotis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6351-9991",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Nursing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Molassiotis A"
+          ],
+          "firstName": [
+            "Alexander"
+          ],
+          "lastName": [
+            "Molassiotis"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5225-1739",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Nursing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5225-1739",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1609-6890",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6351-9991",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "7"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2402657"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e0132989"
+  ],
+  "abstractText": [
+    "To explore the commonly utilized sham acupressure procedures in existing acupressure trials, and to assess whether different types of sham interventions yield different therapeutic outcomes, and, as far as possible, to identify directions for the future development of an adequate sham acupressure method.Randomized controlled trials comparing true acupressure with sham interventions were included. Thirteen electronic databases were adopted to locate relevant studies from inception to July 3, 2014. Meanwhile, eight Chinese journals on complementary and alternative medicine were manually searched to locate eligible articles. In addition, eligible studies listed in the reference lists of the included papers and other related systematic reviews on acupressure were also screened to further search any potentially eligible trials. Methodological quality of the included studies was evaluated using the risk of bias assessment tool developed by the Cochrane Back Review Group. Descriptive analysis was adopted to summarize the therapeutic outcomes.Sixty-six studies with 7265 participants were included. Methodological quality of the included trials was generally satisfactory. Six types of sham acupressure approaches were identified and \"non-acupoint\" stimulation was the most frequently utilized sham point while an acupressure device was the most commonly used approach for administering sham treatments. Acupressure therapy was a beneficial approach in managing a variety of health problems and the therapeutic effect was found to be more effective in the true acupressure groups than that in the sham comparative groups. No clear association could be identified between different sham acupressure modalities and the reported treatment outcomes.A great diversity of sham acupressure controls have been used in clinical practice and research. A solid conclusion whether different sham alternatives are related to different treatment outcomes cannot be derived because of significant clinical heterogeneity among the analyzed trials. Non-acupoints are generally recommended but the definite locations should be identified with caution. For studies using single sham acupoints on hands or legs, it is suggested to apply identical acupressure devices on the same acupoint as in the active intervention without any stimulation. While for studies on pain, stimulation of sham acupoints should be avoided."
+  ],
+  "affiliation": [
+    "School of Nursing, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong SAR, China; School of Nursing, Fujian University of Traditional Chinese Medicine, Fuzhou, Fujian, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupressure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Control Groups"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4503717?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4503717"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0132989"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "doi"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-04-25"
+  ],
+  "dateOfCreation": [
+    "2015-07-16"
+  ],
+  "dateOfRevision": [
+    "2018-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-15"
+  ],
+  "firstPublicationDate": [
+    "2015-07-15"
+  ]
+}

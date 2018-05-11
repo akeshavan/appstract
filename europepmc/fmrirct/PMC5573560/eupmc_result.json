@@ -1,0 +1,471 @@
+{
+  "id": [
+    "28867940"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28867940"
+  ],
+  "pmcid": [
+    "PMC5573560"
+  ],
+  "title": [
+    "Genetics of generalized anxiety disorder and related traits."
+  ],
+  "authorString": [
+    "Gottschalk MG, Domschke K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gottschalk MG"
+          ],
+          "firstName": [
+            "Michael G"
+          ],
+          "lastName": [
+            "Gottschalk"
+          ],
+          "initials": [
+            "MG"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2386-3701",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Psychosomatics and Psychotherapy, Center of Mental Health, University Hospital of Würzburg, Würzburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Domschke K"
+          ],
+          "firstName": [
+            "Katharina"
+          ],
+          "lastName": [
+            "Domschke"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, Medical Center, University of Freiburg, Faculty of Medicine, University of Freiburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2386-3701",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "19"
+      ],
+      "journalIssueId": [
+        "2592169"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dialogues in clinical neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "NLMid": [
+            "101238198"
+          ],
+          "ISSN": [
+            "1294-8322"
+          ],
+          "ESSN": [
+            "1958-5969"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "159-168"
+  ],
+  "abstractText": [
+    "This review serves as a systematic guide to the genetics of generalized anxiety disorder (GAD) and further focuses on anxiety-relevant endophenotypes, such as pathological worry fear of uncertainty, and neuroticism. We inspect clinical genetic evidence for the familialityl heritability of GAD and cross-disorder phenotypes based on family and twin studies. Recent advances of linkage studies, genome-wide association studies, and candidate gene studies (eg, 5-HTT, 5-HT1A, MAOA, BDNF) are outlined. Functional and structural neuroimaging and neurophysiological readouts relating to peripheral stress markers and psychophysiology are further integrated, building a multilevel disease framework. We explore etiologic factors in gene-environment interaction approaches investigating childhood trauma, environmental adversity, and stressful life events in relation to selected candidate genes (5-HTT, NPSR1, COMT, MAOA, CRHR1, RGS2), Additionally, the pharmacogenetics of selective serotonin reuptake inhibitor/serotonin-norepinephrine reuptake inhibitor treatment are summarized (5-HTT, 5-HT2A, COMT, CRHR1). Finally, GAD and trait anxiety research challenges and perspectives in the field of genetics, including epigenetics, are discussed."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Psychosomatics and Psychotherapy, Center of Mental Health, University Hospital of Würzburg, Würzburg, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Norepinephrine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AI"
+                  ],
+                  "qualifierName": [
+                    "antagonists & inhibitors"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Serotonin Uptake Inhibitors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phenotype"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Genome-Wide Association Study"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene-Environment Interaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuroimaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genomics",
+        "Generalized Anxiety",
+        "Pharmacogenetics",
+        "Genome-wide Association",
+        "Anxiety Disorder",
+        "Genetic Association",
+        "Gene-environment Interaction",
+        "Neuroticism",
+        "Treatment Response",
+        "Imaging Genetics"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Serotonin Uptake Inhibitors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Norepinephrine"
+          ],
+          "registryNumber": [
+            "X4W3ENH1CV"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5573560?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5573560"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp",
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-01-18"
+  ],
+  "dateOfCreation": [
+    "2017-09-05"
+  ],
+  "dateOfRevision": [
+    "2018-01-18"
+  ],
+  "firstPublicationDate": [
+    "2017-06-01"
+  ]
+}

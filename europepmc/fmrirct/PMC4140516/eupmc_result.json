@@ -1,0 +1,515 @@
+{
+  "id": [
+    "25152661"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25152661"
+  ],
+  "pmcid": [
+    "PMC4140516"
+  ],
+  "title": [
+    "Patient-reported outcomes in obsessive-compulsive disorder."
+  ],
+  "authorString": [
+    "Subramaniam M, Soh P, Ong C, Esmond Seow LS, Picco L, Vaingankar JA, Chong SA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Subramaniam M"
+          ],
+          "firstName": [
+            "Mythily"
+          ],
+          "lastName": [
+            "Subramaniam"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Soh P"
+          ],
+          "firstName": [
+            "Pauline"
+          ],
+          "lastName": [
+            "Soh"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Ong C"
+          ],
+          "firstName": [
+            "Clarissa"
+          ],
+          "lastName": [
+            "Ong"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Esmond Seow LS"
+          ],
+          "firstName": [
+            "Lee Seng"
+          ],
+          "lastName": [
+            "Esmond Seow"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Picco L"
+          ],
+          "firstName": [
+            "Louisa"
+          ],
+          "lastName": [
+            "Picco"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Vaingankar JA"
+          ],
+          "firstName": [
+            "Janhavi Ajit"
+          ],
+          "lastName": [
+            "Vaingankar"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Chong SA"
+          ],
+          "firstName": [
+            "Siow Ann"
+          ],
+          "lastName": [
+            "Chong"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Research Division, Institute of Mental Health, Singapore."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2193430"
+      ],
+      "dateOfPublication": [
+        "2014 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Dialogues in clinical neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Dialogues Clin Neurosci"
+          ],
+          "NLMid": [
+            "101238198"
+          ],
+          "ISSN": [
+            "1294-8322"
+          ],
+          "ESSN": [
+            "1958-5969"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "239-254"
+  ],
+  "abstractText": [
+    "The purpose of the article was to provide an overview of patient-reported outcomes (PROs) and related measures that have been examined in the context of obsessive-compulsive disorder (OCD). The current review focused on patient-reported outcome measures (PROMs) that evaluated three broad outcome domains: functioning, health-related quality of life (HRQoL), and OCD-related symptoms. The present review ultimately included a total of 155 unique articles and 22 PROMs. An examination of the PROs revealed that OCD patients tend to suffer from significant functional disability, and report lower HRQoL than controls. OCD patients report greater symptom severity than patients with other mental disorders and evidence indicates that PROMs are sensitive to change and may be even better than clinician-rated measures at predicting treatment outcomes. Nonetheless, it should be noted that the measures reviewed lacked patient input in their development. Future research on PROMs must involve patient perspectives and include rigorous psychometric evaluation of these measures."
+  ],
+  "affiliation": [
+    "Research Division, Institute of Mental Health, Singapore."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obsessive-Compulsive Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychiatric Status Rating Scales"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Databases, Factual"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Self Report"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Patient Outcome Assessment"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Symptom",
+        "Functioning",
+        "Health-related Quality Of Life",
+        "Obsessive-compulsive Disorder",
+        "Patient-reported Outcome"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4140516?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4140516"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25152661/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25152661/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-04-22"
+  ],
+  "dateOfCreation": [
+    "2014-08-25"
+  ],
+  "firstPublicationDate": [
+    "2014-06-01"
+  ]
+}

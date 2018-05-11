@@ -1,0 +1,620 @@
+{
+  "id": [
+    "24367726"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24367726"
+  ],
+  "pmcid": [
+    "PMC3866714"
+  ],
+  "doi": [
+    "10.1155/2013/356275"
+  ],
+  "title": [
+    "Brain reorganization following intervention in children with congenital hemiplegia: a systematic review."
+  ],
+  "authorString": [
+    "Inguaggiato E, Sgandurra G, Perazza S, Guzzetta A, Cioni G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Inguaggiato E"
+          ],
+          "firstName": [
+            "E"
+          ],
+          "lastName": [
+            "Inguaggiato"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Scuola Superiore Sant'Anna, Piazza Martiri della Libertà, I-56127 Pisa, Italy ; Department of Developmental Neuroscience, IRCCS Stella Maris Scientific Institute, Via dei Giacinti 2, Calambrone, I-56128 Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sgandurra G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Sgandurra"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1081-1766",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Developmental Neuroscience, IRCCS Stella Maris Scientific Institute, Via dei Giacinti 2, Calambrone, I-56128 Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Perazza S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Perazza"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Developmental Neuroscience, IRCCS Stella Maris Scientific Institute, Via dei Giacinti 2, Calambrone, I-56128 Pisa, Italy ; Physical and Rehabilitation Medicine, University of Rome Tor Vergata, I-00173 Rome, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Guzzetta A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Guzzetta"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Developmental Neuroscience, IRCCS Stella Maris Scientific Institute, Via dei Giacinti 2, Calambrone, I-56128 Pisa, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Cioni G"
+          ],
+          "firstName": [
+            "G"
+          ],
+          "lastName": [
+            "Cioni"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6526-5566",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Developmental Neuroscience, IRCCS Stella Maris Scientific Institute, Via dei Giacinti 2, Calambrone, I-56128 Pisa, Italy ; Department of Clinical and Experimental Medicine, University of Pisa, I-56126 Pisa, Italy."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1081-1766",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6526-5566",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2013"
+      ],
+      "journalIssueId": [
+        "2009539"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural plasticity"
+          ],
+          "ISOAbbreviation": [
+            "Neural Plast."
+          ],
+          "medlineAbbreviation": [
+            "Neural Plast"
+          ],
+          "NLMid": [
+            "100883417"
+          ],
+          "ISSN": [
+            "2090-5904"
+          ],
+          "ESSN": [
+            "1687-5443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "356275"
+  ],
+  "abstractText": [
+    "Noninvasive rehabilitation strategies for children with unilateral cerebral palsy are routinely used to improve hand motor function, activity, and participation. Nevertheless, the studies exploring their effects on brain structure and function are very scarce. Recently, structural neuroplasticity was demonstrated in adult poststroke patients, in response to neurorehabilitation. Our purpose is to review current evidence on the effects of noninvasive intervention strategies on brain structure or function, in children with unilateral cerebral palsy. The main literature databases were searched up to October 2013. We included studies where the effects of upper limb training were evaluated at neurofunctional and/or neurostructural levels. Only seven studies met our selection criteria; selected studies were case series, six using the intervention of the constraint-induced movement therapy (CIMT) and one used virtual reality therapy (VR). CIMT and VR seem to produce measurable neuroplastic changes in sensorimotor cortex associated with enhancement of motor skills in the affected limb. However, the level of evidence is limited, due to methodological weaknesses and small sample sizes of available studies. Well-designed and larger experimental studies, in particular RCTs, are needed to strengthen the generalizability of the findings and to better understand the mechanism of intervention-related brain plasticity in children with brain injury."
+  ],
+  "affiliation": [
+    "Scuola Superiore Sant'Anna, Piazza Martiri della Libertà, I-56127 Pisa, Italy ; Department of Developmental Neuroscience, IRCCS Stella Maris Scientific Institute, Via dei Giacinti 2, Calambrone, I-56128 Pisa, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Upper Extremity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hemiplegia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CN"
+                  ],
+                  "qualifierName": [
+                    "congenital"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electric Stimulation Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recovery of Function"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Laterality"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3866714?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3866714"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24367726/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24367726/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2013/356275"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "16"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-07-22"
+  ],
+  "dateOfCreation": [
+    "2013-12-24"
+  ],
+  "dateOfRevision": [
+    "2016-03-16"
+  ],
+  "electronicPublicationDate": [
+    "2013-12-03"
+  ],
+  "firstPublicationDate": [
+    "2013-12-03"
+  ]
+}
