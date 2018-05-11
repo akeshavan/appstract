@@ -13,7 +13,7 @@
     <div class="main pt-3">
 
       <div id="game" class="abtext">
-        <h4>How many participants?</h4>
+        <h4 class="text-left">How many participants?</h4>
         <b-alert show dismissible v-if="userInfo.isAnonymous" variant="danger">
           <router-link to="/login"> Log In</router-link> or <router-link to="/signup"> Sign Up</router-link> now to compete on the leaderboard!
         </b-alert>
@@ -129,6 +129,13 @@
     height: 250px;
     position: absolute;
   }
+
+  @media (min-width: 768px) {
+    .bshelf {
+      left: 0;
+      right: 0;
+    }
+   }
 
   .text-justify{
     padding-bottom: 40px;
