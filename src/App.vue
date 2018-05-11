@@ -14,7 +14,7 @@
 
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
 
-      <b-navbar-brand to="/"></b-navbar-brand>
+      <b-navbar-brand to="/">appstract.</b-navbar-brand>
 
       <!-- If the viewport is small, the navbar collapses.
           Everything in b-collapse is what gets collapsed.
@@ -59,42 +59,7 @@
 
       </b-collapse>
 
-      <b-navbar-nav is-nav-bar class="ml-auto pl-3 pr-2" v-show="$route.path.indexOf('/play') == 0">
 
-        <b-nav-form>
-          <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
-          <b-button size="md"
-           class="my-2 my-sm-0" variant="default" v-b-modal.manualModal> <!-- v-b-tooltip.hover.focus.bottom="'Manual entry'">-->
-            <i class="fa fa-pencil"></i>
-          </b-button>
-
-        </b-nav-form>
-
-      </b-navbar-nav>
-
-      <b-navbar-nav is-nav-bar class="ml-auto" v-show="$route.path.indexOf('/play') == 0">
-
-        <b-nav-form>
-          <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
-          <b-button size="md" class="my-2 my-sm-0" v-on:click="next">
-            <span v-if="status === 'loading'">
-              <i class="fa fa-spinner fa-spin"></i>
-            </span>
-            <span v-else>
-              <span v-if="N">
-                Submit {{N}}
-              </span>
-              <span v-else>
-                Next
-              </span>
-            </span>
-
-            <!-- TODO: spinner here -->
-          </b-button>
-
-        </b-nav-form>
-
-      </b-navbar-nav>
 
 
 
@@ -106,6 +71,7 @@
       <b-form @submit="preventSubmit">
         <b-input v-model="N"></b-input>
         <b-button class="mt-3" @click="caseStudy">Case Study (n=1)</b-button>
+        <b-button class="mt-3" @click="submit">Submit {{N}}</b-button>
       </b-form>
     </b-modal>
 
@@ -123,7 +89,7 @@
                    />
     </div>
   </div>
-    <div class="footer bg-dark">
+    <!--<div class="footer bg-dark">
       <table style="height: 200px; width: 100%;">
         <tbody>
           <tr>
@@ -144,7 +110,7 @@
           </tr>
         </tbody>
       </table>
-    </div>
+    </div>-->
 
   </div>
 </template>
@@ -294,9 +260,14 @@ export default {
     updateN(N) {
       this.N = N;
     },
+    submit() {
+      this.$refs.manual.hide();
+      this.next();
+    },
     caseStudy() {
       this.N = 1;
       this.$refs.manual.hide();
+      this.next();
     },
     updateStatus(status) {
       console.log('updating status');

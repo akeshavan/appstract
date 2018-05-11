@@ -1,5 +1,6 @@
 <template name="play">
-  <div id="play" class="container">
+  <div id="play">
+    <div  class="container">
     <!-- Modal Component -->
     <b-modal id="levelUp" ref="levelUp" title="You've Levelled Up!" ok-only>
       <p class="my-4">
@@ -11,7 +12,7 @@
 
     <div class="main pt-3">
 
-      <div id="game">
+      <div id="game" class="abtext">
         <h4>How many people took part in the study?</h4>
         <b-alert show dismissible v-if="userInfo.isAnonymous" variant="danger">
           <router-link to="/login"> Log In</router-link> or <router-link to="/signup"> Sign Up</router-link> now to compete on the leaderboard!
@@ -23,7 +24,8 @@
 
         </div>
 
-  </div>
+      </div>
+
       <b-alert :show="dismissCountDown"
          :variant="score.variant"
          class="toast"
@@ -35,9 +37,64 @@
     </div>
 
   </div>
+  <b-navbar toggleable="md" type="dark" variant="danger"
+    class="navbar-fixed-bottom" id="bottonNav"
+    style="">
+    <b-navbar-nav is-nav-bar class="ml-auto">
+      <b-nav-form>
+        <b-button size="md"
+         class="my-2 my-sm-0" variant="default" v-b-modal.manualModal> <!-- v-b-tooltip.hover.focus.bottom="'Manual entry'">-->
+          <i class="fa fa-pencil"></i>
+        </b-button>
+
+      </b-nav-form>
+    </b-navbar-nav>
+
+    <b-navbar-nav>
+      <b-nav-form>
+        <!--<b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>-->
+        <b-button size="md" class="my-2 my-sm-0 ml-2" v-on:click="next">
+          <span v-if="status === 'loading'">
+            <i class="fa fa-spinner fa-spin"></i>
+          </span>
+          <span v-else>
+            <span v-if="N">
+              Submit {{N}}
+            </span>
+            <span v-else>
+              Next
+            </span>
+          </span>
+        </b-button>
+
+      </b-nav-form>
+    </b-navbar-nav>
+
+
+
+    <!--<b-navbar-nav is-nav-bar class="ml-auto">
+      <b-nav-form>
+        <b-form-input size="sm" class="mr-sm-2" type="text" placeholder="Search"/>
+        <b-button size="sm" class="my-2 my-sm-0">Undo</b-button>
+      </b-nav-form>
+    </b-navbar-nav>-->
+  </b-navbar>
+  </div>
 </template>
 
 <style>
+
+#bottonNav {
+  position: fixed !important;
+  bottom: 0;
+  width: 100%;
+  height: 56px;
+}
+
+.abtext {
+  padding-bottom: 60px;
+}
+
   h4.left-align {
     text-align: left;
     padding-top: 30px;
