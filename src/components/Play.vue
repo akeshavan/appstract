@@ -14,8 +14,8 @@
       <div id="game">
         <h4>Click on the sample size</h4>
         <small>hit Next if the information isn't available</small>
-        <div v-if="status === 'loading'">
-          <i class="fa fa-spinner fa-spin"></i>
+        <div v-if="!abstract || status === 'loading'" class="bshelf">
+          <bookshelf></bookshelf>
         </div>
         <div v-else class="text-justify mt-3" v-html="nlpAbstract">
 
@@ -52,6 +52,10 @@
     border-color: #dc3545;
     }
 
+  .bshelf {
+    height: 250px;
+  }
+
 </style>
 
 <script>
@@ -63,6 +67,7 @@
   import GridLoader from 'vue-spinner/src/PulseLoader';
   import { db } from '../firebaseConfig';
   import config from '../config';
+  import bookshelf from './bookshelf';
 
   nlp.plugin({
     regex: {
@@ -175,7 +180,7 @@
       this.startTime = new Date();
       this.setCurrentAbstract();
     },
-    components: { GridLoader },
+    components: { GridLoader, bookshelf },
     directives: {
     },
     methods: {
