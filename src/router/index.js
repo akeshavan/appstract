@@ -8,13 +8,9 @@ import Play from '@/components/Play';
 import Login from '@/components/Login';
 import SignUp from '@/components/SignUp';
 import Terms from '@/components/Terms';
-// import Upload from '@/components/Upload';
 import Unauthorized from '@/components/Unauthorized';
 import Leaderboard from '@/components/Leaderboard';
 import Tutorial from '@/components/Tutorial';
-// import Viz from '@/components/Viz';
-import Images from '@/components/Images';
-import Listen from '@/components/Listen';
 import firebase from 'firebase';
 import config from '../config';
 
@@ -58,25 +54,7 @@ const router = new Router({
       name: 'Play',
       component: Play,
       meta: {
-        requiresAuth: true,
-      },
-    },
-    /* {
-      path: '/upload',
-      name: 'Upload',
-      component: Upload,
-      meta: {
-        requiresAuth: true,
-        requiresAdmin: true,
-      },
-    }, */
-    {
-      path: '/images',
-      name: 'Images',
-      component: Images,
-      meta: {
-        requiresAuth: true,
-        requiresAdmin: true,
+        requiresAuth: false,
       },
     },
     {
@@ -109,16 +87,6 @@ const router = new Router({
       name: 'Tutorial',
       component: Tutorial,
     },
-    /* {
-      path: '/viz',
-      name: 'Viz',
-      component: Viz,
-    }, */
-    {
-      path: '/listen/:key',
-      name: 'Listen',
-      component: Listen,
-    },
   ],
 });
 
@@ -134,8 +102,10 @@ router.beforeEach((to, from, next) => {
       firebase.database().ref(`/users/${currentUser.displayName}`).once('value')
         .then((snap) => {
           const data = snap.val();
-          if (!data.taken_tutorial && config.needsTutorial) {
-            next('tutorial');
+          if (data) {
+            if (!data.taken_tutorial && config.needsTutorial) {
+              next('tutorial');
+            }
           }
         });
     } else {

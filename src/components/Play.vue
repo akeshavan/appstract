@@ -80,6 +80,18 @@
     return Math.floor(Math.random() * ((max - min) + 1)) + min;
   }
 
+  const ALPHABET = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+
+  const ID_LENGTH = 8;
+
+  const generate = function() {
+    var rtn = '';
+    for (var i = 0; i < ID_LENGTH; i++) {
+      rtn += ALPHABET.charAt(Math.floor(Math.random() * ALPHABET.length));
+    }
+    return rtn;
+  }
+
 
   export default {
     name: 'play',
@@ -181,14 +193,27 @@
           .child('num_votes')
           .set(count + 1);
 
-        const entry = { vote: this.N, user: this.userData['.key'], pmid: this.currentCount['.key'] };
+        let user;
+        if (this.userInfo.isAnonymous) {
+          user = generate();
+        } else {
+          user = this.userData['.key'];
+        }
+        const entry = { vote: this.N,
+          user,
+          pmid: this.currentCount['.key'],
+        };
+
         db.ref('votes')
           .push(entry);
 
-        db.ref('users')
-          .child(this.userData['.key'])
-          .child('score')
-          .set(this.userData.score + 1);
+        // you only get on the leaderboard if you're not anonymous
+        if (!this.userInfo.isAnonymous) {
+          db.ref('users')
+            .child(this.userData['.key'])
+            .child('score')
+            .set(this.userData.score + 1);
+        }
 
         this.setCurrentAbstract();
       },

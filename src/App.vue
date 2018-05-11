@@ -32,7 +32,7 @@
 
         <b-navbar-nav class="ml-auto">
           <!-- This part only displays if the user is authenticated -->
-          <b-nav-item-dropdown right v-if="userInfo">
+          <b-nav-item-dropdown right v-if="userInfo && !userInfo.isAnonymous">
             <template slot="button-content">
               <em>{{userInfo.displayName}}</em>
             </template>
@@ -236,6 +236,12 @@ export default {
   },
 
   mounted() {
+    firebase.auth().signInAnonymously().catch(function(error) {
+      // Handle Errors here.
+      var errorCode = error.code;
+      var errorMessage = error.message;
+      // ...
+    });
   },
 
   firebase: {
