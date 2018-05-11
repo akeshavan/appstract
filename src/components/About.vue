@@ -3,7 +3,19 @@
     <h1> About appstract. </h1>
 
     <b-container>
-      <p>Important stuff</p>
+      <p> <b>Why are we doing this?</b>
+Free  text descriptions of studies are messy and it is really hard to separate the  content into valuable nuggets of metadata. To do this on our own would take  hundreds of years. With your help we can get the answers in only a few days!
+Apparently,  the number of people participating in research studies is increasing - but is  this actually true? We don't know, because we don’t have the data. By tracking  the number of participants used in studies over time we can answer this  question and get a greater understanding of how research is evolving over time.
+Once  we have proved that we can get this data with participant size we can start to  fry bigger fish - like statistics. By understanding sample size and study power  together, we can truly understand the quality of a study.
+
+<b>How you're helping.</b>
+It's  not about any number, it's about the number of people who took part in a study.  To figure out that you need to takin into account the context around the  number. Computers really struggle to do this sort of thing, but humans are  great at it. That's why we need you!
+
+By  breaking down this information you are:
+<ul>
+  <li>Helping researchers - by accelerating their research your helping science advance faster.</li>
+  <li>Helping computers - with enough human input we can create a 'training' dataset that we can use to help teach computers how to do this work.</li>
+</ul> </p>
 
       <p>
         You can unlock the following animals based on the number of points you have:

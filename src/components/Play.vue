@@ -196,13 +196,11 @@
     computed: {
       nlpAbstract() {
         if (this.abstract) {
-          const r = nlp(this.abstract);
-          return r.out('html');
-          /* console.log(r.values().toNumber().out('array'));
-          if (r.if('#Value').found) {
-            return r.if('#Value').out('html');
-          }
-          return this.abstracts[this.currentIdx]; */
+          const strippedAbstract = this.abstract
+            .replace(/([a-zA-Z]+[\,\.\)\}\]\!\?]+)(\d)/g, "$1 $2")
+            .replace(/(\d+[\,\.\)\}\]\!\?]+)([a-zA-Z]+)/g, "$1 $2")
+            .replace(/([a-zA-Z]+)\s?\=\s?(\d)/g, "$1 = $2")
+          return nlp(strippedAbstract).out('html');
         }
         return null;
       },
