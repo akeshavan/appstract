@@ -9,10 +9,10 @@
       </p>
     </b-modal>
 
-    <div class="main">
+    <div class="main pt-3">
 
       <div id="game">
-        <h4>Click on the sample size</h4>
+        <h4>How many people took part in the study?</h4>
         <small>hit Next if the information isn't available</small>
         <div v-if="!abstract || status === 'loading'" class="bshelf">
           <bookshelf></bookshelf>
@@ -36,6 +36,11 @@
 </template>
 
 <style>
+  h4.left-align {
+    text-align: left;
+    padding-top: 30px;
+  }
+
   .nl-Value {
     color: #dc3545;
     cursor: pointer;
@@ -54,6 +59,10 @@
 
   .bshelf {
     height: 250px;
+  }
+
+  .text-justify{
+    padding-bottom: 40px;
   }
 
 </style>
