@@ -18,3 +18,7 @@ selenium-debug.log
 
 # firebase
 src/firebaseConfig.js
+
+# europepmc
+europepmc/fmrirct/PMC*/fulltext.xml
+
