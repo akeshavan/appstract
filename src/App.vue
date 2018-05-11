@@ -360,18 +360,7 @@ export default {
 
   }
 
- .form-inline button{
-   background-color: #f8f9fa;
-   color: black;
- }
 
- .form-inline button:hover{
-   background-color: #f8f9fa;
- }
-
- .my-2 .my-sm-0{
-   color: black;
- }
 
 
 </style>

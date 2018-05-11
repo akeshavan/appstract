@@ -13,14 +13,14 @@
     <div class="main pt-3">
 
       <div id="game" class="abtext">
-        <h4>How many people took part in the study?</h4>
+        <h4>How many participants?</h4>
         <b-alert show dismissible v-if="userInfo.isAnonymous" variant="danger">
           <router-link to="/login"> Log In</router-link> or <router-link to="/signup"> Sign Up</router-link> now to compete on the leaderboard!
         </b-alert>
         <div v-if="!abstract || status === 'loading'" class="bshelf">
           <bookshelf></bookshelf>
         </div>
-        <div v-else class="text-justify mt-3" v-html="nlpAbstract">
+        <div v-else class="text-left mt-3" v-html="nlpAbstract">
 
         </div>
 
@@ -84,6 +84,10 @@
 </template>
 
 <style>
+
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
 
 #bottonNav {
   position: fixed !important;
