@@ -67,13 +67,6 @@
 
     <!-- The content is in the router view -->
     <!-- the modal -->
-    <b-modal id="manualModal" title="Enter a number" hide-footer ref="manual">
-      <b-form @submit="preventSubmit">
-        <b-input v-model="N"></b-input>
-        <b-button class="mt-3" @click="caseStudy">Case Study (n=1)</b-button>
-        <b-button class="mt-3" @click="submit">Submit {{N}}</b-button>
-      </b-form>
-    </b-modal>
 
     <div class="router">
       <router-view :userInfo="userInfo"

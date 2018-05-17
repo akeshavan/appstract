@@ -1,6 +1,6 @@
 export default {
   needsTutorial: false,
-  imageBaseUrl: 'https://s3.eu-west-2.amazonaws.com/appstract0/uploads',
+  imageBaseUrl: 'https://d2ndgqavqxbnim.cloudfront.net/autism',
   imageExt: 'json',
-  N: 8817,
+  N: 1730,
 };

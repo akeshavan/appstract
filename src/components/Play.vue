@@ -20,7 +20,7 @@
         <div v-if="!abstract || status === 'loading'" class="bshelf">
           <bookshelf></bookshelf>
         </div>
-        <div v-else class="text-left mt-3" v-html="nlpAbstract">
+        <div v-else class="text-left mt-3" v-html="nlpAbstract" v-hammer:swipe.horizontal="onSwipe">
 
         </div>
 
@@ -37,17 +37,31 @@
     </div>
 
   </div>
+
+  <b-modal id="manualModal" title="Flag As" hide-footer ref="manual">
+    <b-form @submit="preventSubmit">
+      <b-button class="mt-3 w-100" @click="flag('review')">Review Article</b-button>
+      <b-button class="mt-3 w-100" @click="flag('N/A')">Not Available/Skip</b-button>
+      <b-button class="mt-3 w-100" @click="flag('n1')">Case Study (n=1)</b-button>
+      <b-button class="mt-3 w-100" @click="flag('not_relevant')">Not Relevant</b-button>
+    </b-form>
+  </b-modal>
+
   <b-navbar toggleable="md" type="dark" variant="danger"
     class="navbar-fixed-bottom" id="bottonNav"
     style="">
-    <b-navbar-nav is-nav-bar class="ml-auto">
-      <b-nav-form>
-        <!--<b-button size="md"
-         class="my-2 my-sm-0" variant="default" v-b-modal.manualModal> <!-- v-b-tooltip.hover.focus.bottom="'Manual entry'">
-          <i class="fa fa-pencil"></i>
-        </b-button>-->
-        <b-input v-model="N" class="inputManual"></b-input>
 
+    <b-navbar-nav is-nav-bar class="">
+      <b-nav-form>
+        <b-button size="md" class="my-2 my-sm-0 ml-2 ml-auto" v-b-modal.manualModal>
+          <i class="fa fa-flag"></i>
+        </b-button>
+      </b-nav-form>
+    </b-navbar-nav>
+
+    <b-navbar-nav is-nav-bar class="mx-auto">
+      <b-nav-form @submit="preventSubmit">
+        <b-input v-model="N" class="inputManual"></b-input>
       </b-nav-form>
     </b-navbar-nav>
 
@@ -63,7 +77,7 @@
               Submit {{N}}
             </span>
             <span v-else>
-              Next
+              Skip
             </span>
           </span>
         </b-button>
@@ -120,6 +134,48 @@
     border-width: thin;
     }
 
+    .nl-Disease {
+      color: #007BF5;
+    }
+
+    .nl-StudyType {
+      color: #0c5460;
+      background: #e9ecef6e;
+      padding: 1px;
+      border-radius: 5px;
+    }
+
+    .nl-Animal {
+        color: #0c5460;
+        background: #e9ecef;
+        padding: 1px;
+        border-radius: 5px;
+    }
+
+    .nl-Method {
+        color: #0c5460;
+        background: #e9ecef;
+        padding: 1px;
+        border-radius: 5px;
+    }
+
+
+
+    .nl-Instrumentation {
+        color: #1b1e21;
+        /* background-color: #80bdff6e; */
+        /* padding: 3px; */
+        border-bottom-style: solid;
+        border-bottom-width: initial;
+        border-right-style: none;
+        border-left-style: none;
+        border-top-style: none;
+        /* border-style: solid; */
+        border-color: #dc35458f;
+        border-radius: 5px;
+        /* border-width: thin; */
+    }
+
   .selectedNumber {
     border-width: thick;
     border-color: #dc3545;
@@ -174,6 +230,20 @@
   export default {
     name: 'play',
     props: ['userInfo', 'userData', 'levels', 'currentLevel', 'anonID'],
+    firebase: {
+      imageCount: {
+        source: db.ref('imageCount').orderByChild('num_votes').limitToFirst(30),
+        readyCallback() {
+          console.log('is ready', this.imageCount);
+          this.status = 'loading';
+          /*_.map(this.imageCount, (v) => {
+            this.preloadImage(v['.key']);
+            console.log('preloaded', v['.key']);
+          });*/
+          this.setCurrentAbstract();
+        },
+      },
+    },
     data() {
       return {
         currentImage: {
@@ -185,7 +255,7 @@
         dismissSecs: 1,
         pointsAward: null,
         dismissCountDown: 0,
-        currentAudio: null,
+        currentCount: {},
         score: {
           variant: 'warning',
           message: '',
@@ -197,10 +267,47 @@
       nlpAbstract() {
         if (this.abstract) {
           const strippedAbstract = this.abstract
-            .replace(/([a-zA-Z]+[\,\.\)\}\]\!\?]+)(\d)/g, "$1 $2")
-            .replace(/(\d+[\,\.\)\}\]\!\?]+)([a-zA-Z]+)/g, "$1 $2")
-            .replace(/([a-zA-Z]+)\s?\=\s?(\d)/g, "$1 = $2")
-          return nlp(strippedAbstract).out('html');
+            .replace(/([a-zA-Z]+[\,\.\)\}\]\!\?]+)(\d)/g, '$1 $2')
+            .replace(/(\d+[\,\.\)\}\]\!\?]+)([a-zA-Z]+)/g, '$1 $2')
+            .replace(/([a-zA-Z]+)\s?\=\s?(\d)/g, '$1 = $2');
+          // console.log(nlp(strippedAbstract).match('autism').out('html'));
+          const myWords={
+            'autism':'Disease',
+            'autism spectrum':'Disease',
+            'autistic':'Disease',
+            'asperger':'Disease',
+            'ASD':'Disease',
+            'ASC':'Disease',
+            'review':'StudyType',
+            'reviews':'StudyType',
+            'meta analysis':'StudyType',
+            'meta-analysis':'StudyType',
+            'mice':'Animal',
+            'fmri': 'MRISequence',
+            'voxel-based morphometry': 'Method',
+            'voxel based morphometry': 'Method',
+            'VBM': 'Method',
+            'Transcranial Magnetic Stimulation': 'Instrumentation',
+            'TMS': 'Instrumentation',
+            'EEG': 'Instrumentation',
+            'functional magnetic resonance': 'Instrumentation',
+            'magnetic resonance': 'Instrumentation',
+            'structural resonance': 'Instrumentation',
+            'diffusion tensor': 'Instrumentation',
+            'diffusion': 'Instrumentation',
+            'neuroimaging': 'Instrumentation',
+            'MRI': 'Instrumentation',
+            'DT- MRI': 'Instrumentation',
+            'DT-MRI': 'Instrumentation',
+            'T1': 'Instrumentation',
+            'T2': 'Instrumentation',
+            'FLAIR': 'Instrumentation',
+            'PD': 'Instrumentation',
+            'T1-weighted': 'Instrumentation',
+            'T(1)-weighted': 'Instrumentation',
+            'T1 weighted': 'Instrumentation',
+          };
+          return nlp(strippedAbstract, myWords).out('html');
         }
         return null;
       },
@@ -221,8 +328,8 @@
       },
       currentImage() {
         axios.get(this.currentImage).then((resp) => {
-          console.log('getting data', resp.data);
-          this.abstract = resp.data.abstract[0];
+          // console.log('getting data', resp.data);
+          this.abstract = resp.data.abstract;
         });
       },
 
@@ -255,6 +362,37 @@
     directives: {
     },
     methods: {
+      flag(inp) {
+        switch (inp) {
+          case 'n1':
+            this.N = 1;
+            break;
+          case 'N/A':
+            this.N = 0;
+            break;
+          case 'review':
+            this.N = -1;
+            break;
+          case 'not_relevant':
+            this.N = -2;
+            break;
+          default:
+            break;
+        }
+        this.$refs.manual.hide();
+        this.next();
+      },
+      preventSubmit(e) {
+        e.preventDefault();
+        this.next();
+      },
+      onSwipe(evt) {
+        if (evt.direction === 2) {
+          this.$refs.manual.show();
+        } else {
+          this.next();
+        }
+      },
       next() {
         const totalTime = new Date() - this.startTime;
         console.log('setting N', this.N);
@@ -300,26 +438,29 @@
         this.$emit('updatedN', this.N);
         this.status = 'loading';
         this.abstract = '';
-        if (!config.N) {
+        if (!config.N || !this.userInfo.isAnonymous) {
+          console.log('prioritizing unseen images')
           const fdata = _.filter(this.imageCount,
             val => val.num_votes === this.imageCount[0].num_votes);
+          console.log('fdata', fdata)
           const N = fdata.length;
           this.currentIndex = randomInt(0, N - 1);
+          this.currentCount = this.imageCount[this.currentIndex];
           let key = this.currentCount['.key'];
           if (key === this.prevImage) {
             this.currentIndex += 1;
+            this.currentCount = this.imageCount[this.currentIndex];
             key = this.currentCount['.key'];
           } else {
             this.prevImage = key;
           }
-          console.log('key is', key);
           this.startTime = new Date();
           this.currentImage = `${this.imageBaseUrl}/${key}.${config.imageExt}`;
-          console.log(this.currentImage);
           this.status = 'ready';
         } else {
+          console.log('Random Sampling');
           const idx = randomInt(0, config.N - 1);
-          console.log('getting a totally random image', idx);
+          // console.log('getting a totally random image', idx);
           db.ref('imageCount').orderByChild('idx').startAt(idx)
             .limitToFirst(1)
             .once('value')
