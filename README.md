@@ -46,10 +46,11 @@ imageCount: 1
 }
 ```
 
-where each pmid key is the pmid of the abstract you want to annotate
+where each pmid key is the pmid of the abstract you want to annotate. For example see: https://github.com/akeshavan/appstract/blob/master/autism_manifest.json#L1 .
 
-8. Also host your images somewhere else (like S3), it will be cheaper to pull images from there instead of firebase. The images will be found at: `https://yourS3bucket/pmid.json`
-9. Edit the `imageBaseUrl` here https://github.com/akeshavan/appstract/blob/master/src/config.js#L3 to point to your images
+8. Also host your images somewhere else (like S3), it will be cheaper to pull images from there instead of firebase. The images will be found at: `https://yourS3bucket/pmid.json` . The content of the json file should look like: https://d2ndgqavqxbnim.cloudfront.net/autism/21192986.json
+
+9. Edit the `imageBaseUrl` here https://github.com/akeshavan/appstract/blob/master/src/config.js#L3 to point to your abstract json files
 
 10. Start playing to test that it works
 
@@ -61,7 +62,7 @@ cd firebase
 firebase init
 ```
 
-only select the hosting option here. Then choose your project, and say yes to everything else. Then do:
+ONLY select the hosting option here. Then choose your project, and say yes to everything else. Then do:
 
 ```
 cd ..
