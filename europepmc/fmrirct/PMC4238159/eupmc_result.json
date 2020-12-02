@@ -1,0 +1,376 @@
+{
+  "id": [
+    "25422632"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25422632"
+  ],
+  "pmcid": [
+    "PMC4238159"
+  ],
+  "doi": [
+    "10.4103/1673-5374.143408"
+  ],
+  "title": [
+    "Transcranial magnetic stimulation: potential treatment for co-occurring alcohol, traumatic brain injury and posttraumatic stress disorders."
+  ],
+  "authorString": [
+    "Herrold AA, Kletzel SL, Harton BC, Chambers RA, Jordan N, Pape TL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Herrold AA"
+          ],
+          "firstName": [
+            "Amy A"
+          ],
+          "lastName": [
+            "Herrold"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "Edward Hines Jr. VA Hospital, Research Service PO Box 5000 (M/C 151H), Hines, IL, USA ; The Department of Veterans Affairs (VA), Center for Innovation for Complex Chronic Healthcare, Edward Hines Jr. VA Hospital, PO Box 5000 (M/C 151H), Hines, IL, USA ; Department of Psychiatry & Behavioral Sciences, Northwestern University Feinberg School of Medicine, 446 East Ontario, #7-200, Chicago, IL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Kletzel SL"
+          ],
+          "firstName": [
+            "Sandra L"
+          ],
+          "lastName": [
+            "Kletzel"
+          ],
+          "initials": [
+            "SL"
+          ],
+          "affiliation": [
+            "The Department of Veterans Affairs (VA), Center for Innovation for Complex Chronic Healthcare, Edward Hines Jr. VA Hospital, PO Box 5000 (M/C 151H), Hines, IL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Harton BC"
+          ],
+          "firstName": [
+            "Brett C"
+          ],
+          "lastName": [
+            "Harton"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0036-2920",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Chicago Association for Research and Education in Science, Hines, IL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Chambers RA"
+          ],
+          "firstName": [
+            "R Andrew"
+          ],
+          "lastName": [
+            "Chambers"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Laboratory for Translational Neuroscience of Dual Diagnosis & Development, Neuroscience Research Center, Indiana University School of Medicine, 320 West 15 Street, Indianapolis, IN, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Jordan N"
+          ],
+          "firstName": [
+            "Neil"
+          ],
+          "lastName": [
+            "Jordan"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "The Department of Veterans Affairs (VA), Center for Innovation for Complex Chronic Healthcare, Edward Hines Jr. VA Hospital, PO Box 5000 (M/C 151H), Hines, IL, USA ; Department of Psychiatry & Behavioral Sciences, Northwestern University Feinberg School of Medicine, 446 East Ontario, #7-200, Chicago, IL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pape TL"
+          ],
+          "firstName": [
+            "Theresa Louise-Bender"
+          ],
+          "lastName": [
+            "Pape"
+          ],
+          "initials": [
+            "TL"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7738-5963",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Edward Hines Jr. VA Hospital, Research Service PO Box 5000 (M/C 151H), Hines, IL, USA ; The Department of Veterans Affairs (VA), Center for Innovation for Complex Chronic Healthcare, Edward Hines Jr. VA Hospital, PO Box 5000 (M/C 151H), Hines, IL, USA ; Northwestern University Feinberg School of Medicine, Department of Physical Medicine and Rehabilitation, Office of Medical Educ. (1574), 345 E. Superior St., Chicago, IL, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0036-2920",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7738-5963",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "19"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2222558"
+      ],
+      "dateOfPublication": [
+        "2014 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural regeneration research"
+          ],
+          "ISOAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "medlineAbbreviation": [
+            "Neural Regen Res"
+          ],
+          "NLMid": [
+            "101316351"
+          ],
+          "ISSN": [
+            "1673-5374"
+          ],
+          "ESSN": [
+            "1876-7958"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "1712-1730"
+  ],
+  "abstractText": [
+    "Alcohol use disorder (AUD), mild traumatic brain injury (mTBI), and posttraumatic stress disorder (PTSD) commonly co-occur (AUD + mTBI + PTSD). These conditions have overlapping symptoms which are, in part, reflective of overlapping neuropathology. These conditions become problematic because their co-occurrence can exacerbate symptoms. Therefore, treatments must be developed that are inclusive to all three conditions. Repetitive transcranial magnetic stimulation (rTMS) is non-invasive and may be an ideal treatment for co-occurring AUD + mTBI + PTSD. There is accumulating evidence on rTMS as a treatment for people with AUD, mTBI, and PTSD each alone. However, there are no published studies to date on rTMS as a treatment for co-occurring AUD + mTBI + PTSD. This review article advances the knowledge base for rTMS as a treatment for AUD + mTBI + PTSD. This review provides background information about these co-occurring conditions as well as rTMS. The existing literature on rTMS as a treatment for people with AUD, TBI, and PTSD each alone is reviewed. Finally, neurobiological findings in support of a theoretical model are discussed to inform TMS as a treatment for co-occurring AUD + mTBI + PTSD. The peer-reviewed literature was identified by targeted literature searches using PubMed and supplemented by cross-referencing the bibliographies of relevant review articles. The existing evidence on rTMS as a treatment for these conditions in isolation, coupled with the overlapping neuropathology and symptomology of these conditions, suggests that rTMS may be well suited for the treatment of these conditions together."
+  ],
+  "affiliation": [
+    "Edward Hines Jr. VA Hospital, Research Service PO Box 5000 (M/C 151H), Hines, IL, USA ; The Department of Veterans Affairs (VA), Center for Innovation for Complex Chronic Healthcare, Edward Hines Jr. VA Hospital, PO Box 5000 (M/C 151H), Hines, IL, USA ; Department of Psychiatry & Behavioral Sciences, Northwestern University Feinberg School of Medicine, 446 East Ontario, #7-200, Chicago, IL, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "IK2 RX000949"
+          ],
+          "agency": [
+            "RRD VA"
+          ],
+          "acronym": [
+            "RX"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcranial magnetic stimulation",
+        "Treatment",
+        "Traumatic brain injury",
+        "Addiction",
+        "Posttraumatic Stress Disorder",
+        "Substance Use Disorders",
+        "Co-morbidity",
+        "Neuroimaging",
+        "Behavioral Health",
+        "Mental Health Disorders",
+        "Non-invasive Brain Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4238159"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4103/1673-5374.143408"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-sa"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-11-25"
+  ],
+  "dateOfCreation": [
+    "2014-11-25"
+  ],
+  "dateOfRevision": [
+    "2016-10-25"
+  ],
+  "firstPublicationDate": [
+    "2014-10-01"
+  ]
+}

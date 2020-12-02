@@ -1,0 +1,336 @@
+{
+  "id": [
+    "24517388"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24517388"
+  ],
+  "pmcid": [
+    "PMC4029608"
+  ],
+  "doi": [
+    "10.1186/2045-5380-3-20"
+  ],
+  "title": [
+    "Emotion regulation in social anxiety disorder: behavioral and neural responses to three socio-emotional tasks."
+  ],
+  "authorString": [
+    "Ziv M, Goldin PR, Jazaieri H, Hahn KS, Gross JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ziv M"
+          ],
+          "firstName": [
+            "Michal"
+          ],
+          "lastName": [
+            "Ziv"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychology, Stanford University, Jordan Hall, Bldg, 420, 94305-2130 Stanford, CA, USA. ziv.michal@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Goldin PR"
+          ],
+          "firstName": [
+            "Philippe R"
+          ],
+          "lastName": [
+            "Goldin"
+          ],
+          "initials": [
+            "PR"
+          ]
+        },
+        {
+          "fullName": [
+            "Jazaieri H"
+          ],
+          "firstName": [
+            "Hooria"
+          ],
+          "lastName": [
+            "Jazaieri"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Hahn KS"
+          ],
+          "firstName": [
+            "Kevin S"
+          ],
+          "lastName": [
+            "Hahn"
+          ],
+          "initials": [
+            "KS"
+          ]
+        },
+        {
+          "fullName": [
+            "Gross JJ"
+          ],
+          "firstName": [
+            "James J"
+          ],
+          "lastName": [
+            "Gross"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2501373"
+      ],
+      "dateOfPublication": [
+        "2013 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Biology of mood & anxiety disorders"
+          ],
+          "ISOAbbreviation": [
+            "Biol Mood Anxiety Disord"
+          ],
+          "medlineAbbreviation": [
+            "Biol Mood Anxiety Disord"
+          ],
+          "NLMid": [
+            "101580606"
+          ],
+          "ISSN": [
+            "2045-5380"
+          ],
+          "ESSN": [
+            "2045-5380"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "20"
+  ],
+  "abstractText": [
+    "Social anxiety disorder (SAD) is thought to involve deficits in emotion regulation, and more specifically, deficits in cognitive reappraisal. However, evidence for such deficits is mixed.Using functional magnetic resonance imaging (fMRI) of blood oxygen-level dependent (BOLD) signal, we examined reappraisal-related behavioral and neural responses in 27 participants with generalized SAD and 27 healthy controls (HC) during three socio-emotional tasks: (1) looming harsh faces (Faces); (2) videotaped actors delivering social criticism (Criticism); and (3) written autobiographical negative self-beliefs (Beliefs).Behaviorally, compared to HC, participants with SAD had lesser reappraisal-related reduction in negative emotion in the Beliefs task. Neurally, compared to HC, participants with SAD had lesser BOLD responses in reappraisal-related brain regions when reappraising faces, in visual and attention related regions when reappraising criticism, and in the left superior temporal gyrus when reappraising beliefs. Examination of the temporal dynamics of BOLD responses revealed late reappraisal-related increased responses in HC, compared to SAD. In addition, the dorsomedial prefrontal cortex (DMPFC), which showed reappraisal-related increased activity in both groups, had similar temporal dynamics in SAD and HC during the Faces and Criticism tasks, but greater late response increases in HC, compared to SAD, during the Beliefs task. Reappraisal-related greater late DMPFC responses were associated with greater percent reduction in negative emotion ratings in SAD patients.These results suggest a dysfunction of cognitive reappraisal in SAD patients, with overall reduced late brain responses in prefrontal regions, particularly when reappraising faces. Decreased late activity in the DMPFC might be associated with deficient reappraisal and greater negative reactivity.ClinicalTrials.gov identifier: NCT00380731."
+  ],
+  "affiliation": [
+    "Department of Psychology, Stanford University, Jordan Hall, Bldg, 420, 94305-2130 Stanford, CA, USA. ziv.michal@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4029608?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4029608"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24517388/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24517388/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/2045-5380-3-20"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-02-12"
+  ],
+  "dateOfCreation": [
+    "2014-02-12"
+  ],
+  "dateOfRevision": [
+    "2017-02-21"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-04"
+  ],
+  "firstPublicationDate": [
+    "2013-11-04"
+  ]
+}

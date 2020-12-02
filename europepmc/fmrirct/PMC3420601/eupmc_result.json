@@ -1,0 +1,284 @@
+{
+  "id": [
+    "22966447"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22966447"
+  ],
+  "pmcid": [
+    "PMC3420601"
+  ],
+  "doi": [
+    "10.1155/2012/815315"
+  ],
+  "title": [
+    "Neurocognitive and social cognitive approaches for improving functional outcome in early psychosis: theoretical considerations and current state of evidence."
+  ],
+  "authorString": [
+    "Bartholomeusz CF, Allott K."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bartholomeusz CF"
+          ],
+          "firstName": [
+            "Cali F"
+          ],
+          "lastName": [
+            "Bartholomeusz"
+          ],
+          "initials": [
+            "CF"
+          ],
+          "affiliation": [
+            "Melbourne Neuropsychiatry Centre, Department of Psychiatry, National Neuroscience Facility, The University of Melbourne, Level 2-3 Alan Gilbert Building, 161 Barry Street, Carlton South, VIC 3053, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Allott K"
+          ],
+          "firstName": [
+            "Kelly"
+          ],
+          "lastName": [
+            "Allott"
+          ],
+          "initials": [
+            "K"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2012"
+      ],
+      "journalIssueId": [
+        "1964488"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Schizophrenia research and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Schizophr Res Treatment"
+          ],
+          "medlineAbbreviation": [
+            "Schizophr Res Treatment"
+          ],
+          "NLMid": [
+            "101576450"
+          ],
+          "ISSN": [
+            "2090-2085"
+          ],
+          "ESSN": [
+            "2090-2093"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "815315"
+  ],
+  "abstractText": [
+    "Improving functional outcome, in addition to alleviating psychotic symptoms, is now a major treatment objective in schizophrenia research. Given the large body of evidence suggesting pharmacological treatments generally have minimal effects on indices of functioning, research has turned to psychosocial rehabilitation programs. Among these, neurocognitive and social cognitive interventions are at the forefront of this field and are argued to target core deficits inherent to the schizophrenia illness. However, to date, research trials have primarily focused on chronic schizophrenia populations, neglecting the early psychosis groups who are often as severely impaired in social and occupational functioning. This theoretical paper will outline the rationale for investigating adjunctive cognitive-based interventions in the early phases of psychotic illness, critically examine the current approach strategies used in these interventions, and assess the evidence supporting certain training programs for improving functional outcome in early psychosis. Potential pathways for future research will be discussed."
+  ],
+  "affiliation": [
+    "Melbourne Neuropsychiatry Centre, Department of Psychiatry, National Neuroscience Facility, The University of Melbourne, Level 2-3 Alan Gilbert Building, 161 Barry Street, Carlton South, VIC 3053, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3420601?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3420601"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22966447/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22966447/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2012/815315"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-09-12"
+  ],
+  "dateOfCreation": [
+    "2012-09-11"
+  ],
+  "dateOfRevision": [
+    "2016-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2012-04-05"
+  ],
+  "firstPublicationDate": [
+    "2012-04-05"
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "id": [
+    "26170668"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26170668"
+  ],
+  "pmcid": [
+    "PMC4492646"
+  ],
+  "doi": [
+    "10.2147/ndt.s67477"
+  ],
+  "title": [
+    "Transcranial magnetic stimulation for the treatment of major depression."
+  ],
+  "authorString": [
+    "Janicak PG, Dokucu ME."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Janicak PG"
+          ],
+          "firstName": [
+            "Philip G"
+          ],
+          "lastName": [
+            "Janicak"
+          ],
+          "initials": [
+            "PG"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Dokucu ME"
+          ],
+          "firstName": [
+            "Mehmet E"
+          ],
+          "lastName": [
+            "Dokucu"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2272092"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychiatric disease and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "NLMid": [
+            "101240304"
+          ],
+          "ISSN": [
+            "1176-6328"
+          ],
+          "ESSN": [
+            "1178-2021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1549-1560"
+  ],
+  "abstractText": [
+    "Major depression is often difficult to diagnose accurately. Even when the diagnosis is properly made, standard treatment approaches (eg, psychotherapy, medications, or their combination) are often inadequate to control acute symptoms or maintain initial benefit. Additional obstacles involve safety and tolerability problems, which frequently preclude an adequate course of treatment. This leaves an important gap in our ability to properly manage major depression in a substantial proportion of patients, leaving them vulnerable to ensuing complications (eg, employment-related disability, increased risk of suicide, comorbid medical disorders, and substance abuse). Thus, there is a need for more effective and better tolerated approaches. Transcranial magnetic stimulation is a neuromodulation technique increasingly used to partly fill this therapeutic void. In the context of treating depression, we critically review the development of transcranial magnetic stimulation, focusing on the results of controlled and pragmatic trials for depression, which consider its efficacy, safety, and tolerability."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Behavioral Sciences, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcranial magnetic stimulation",
+        "Major Depression",
+        "Electroconvulsive Therapy",
+        "Treatment-resistant Depression"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4492646?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4492646"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/NDT.S67477"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-07-14"
+  ],
+  "dateOfCreation": [
+    "2015-07-14"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2015-06-26"
+  ],
+  "firstPublicationDate": [
+    "2015-06-26"
+  ]
+}

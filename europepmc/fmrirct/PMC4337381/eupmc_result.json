@@ -1,0 +1,577 @@
+{
+  "id": [
+    "25756039"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25756039"
+  ],
+  "pmcid": [
+    "PMC4337381"
+  ],
+  "doi": [
+    "10.3389/fped.2015.00001"
+  ],
+  "title": [
+    "Autism as a disorder of biological and behavioral rhythms: toward new therapeutic perspectives."
+  ],
+  "authorString": [
+    "Tordjman S, Davlantis KS, Georgieff N, Geoffray MM, Speranza M, Anderson GM, Xavier J, Botbol M, Oriol C, Bellissant E, Vernay-Leconte J, Fougerou C, Hespel A, Tavenard A, Cohen D, Kermarrec S, Coulon N, Bonnot O, Dawson G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tordjman S"
+          ],
+          "firstName": [
+            "Sylvie"
+          ],
+          "lastName": [
+            "Tordjman"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratoire Psychologie de la Perception, Université Paris Descartes, CNRS, UMR 8158 , Paris , France ; Pôle Hospitalo-Universitaire de Psychiatrie de l'Enfant et de l'Adolescent (PHUPEA), Centre Hospitalier Guillaume Régnier, Université de Rennes 1 , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Davlantis KS"
+          ],
+          "firstName": [
+            "Katherine S"
+          ],
+          "lastName": [
+            "Davlantis"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine , Durham, NC , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Georgieff N"
+          ],
+          "firstName": [
+            "Nicolas"
+          ],
+          "lastName": [
+            "Georgieff"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Centre Hospitalier Le Vinatier , Lyon , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Geoffray MM"
+          ],
+          "firstName": [
+            "Marie-Maude"
+          ],
+          "lastName": [
+            "Geoffray"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Centre Hospitalier Le Vinatier , Lyon , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Speranza M"
+          ],
+          "firstName": [
+            "Mario"
+          ],
+          "lastName": [
+            "Speranza"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Centre Hospitalier de Versailles, Université de Versailles Saint-Quentin-en-Yvelines , Le Chensay , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson GM"
+          ],
+          "firstName": [
+            "George M"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "GM"
+          ],
+          "affiliation": [
+            "Child Study Center, Yale University School of Medicine , New Haven, CT , USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Xavier J"
+          ],
+          "firstName": [
+            "Jean"
+          ],
+          "lastName": [
+            "Xavier"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Assistance Publique - Hôpitaux de Paris, Groupe Hospitalier Pitié-Salpêtrière, CNRS FRE 2987, University Pierre and Marie Curie , Paris , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Botbol M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Botbol"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Laboratoire Psychologie de la Perception, Université Paris Descartes, CNRS, UMR 8158 , Paris , France ; Service Hospitalo-Universitaire de Psychiatrie de l'Enfant et de l'Adolescent, CHU de Brest, Université de Bretagne Occidentale , Brest , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Oriol C"
+          ],
+          "firstName": [
+            "Cécile"
+          ],
+          "lastName": [
+            "Oriol"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Pôle Hospitalo-Universitaire de Psychiatrie de l'Enfant et de l'Adolescent (PHUPEA), Centre Hospitalier Guillaume Régnier, Université de Rennes 1 , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bellissant E"
+          ],
+          "firstName": [
+            "Eric"
+          ],
+          "lastName": [
+            "Bellissant"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Clinical Investigation Center, INSERM CIC 0203, University Hospital, Rennes 1 University , Rennes , France ; Department of Clinical Pharmacology, University Hospital, Rennes 1 University , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Vernay-Leconte J"
+          ],
+          "firstName": [
+            "Julie"
+          ],
+          "lastName": [
+            "Vernay-Leconte"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Pôle Hospitalo-Universitaire de Psychiatrie Adulte (PHUPA), Centre Hospitalier Guillaume Régnier, Université de Rennes 1 , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Fougerou C"
+          ],
+          "firstName": [
+            "Claire"
+          ],
+          "lastName": [
+            "Fougerou"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Clinical Investigation Center, INSERM CIC 0203, University Hospital, Rennes 1 University , Rennes , France ; Department of Clinical Pharmacology, University Hospital, Rennes 1 University , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Hespel A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Hespel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Clinical Investigation Center, INSERM CIC 0203, University Hospital, Rennes 1 University , Rennes , France ; Department of Clinical Pharmacology, University Hospital, Rennes 1 University , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Tavenard A"
+          ],
+          "firstName": [
+            "Aude"
+          ],
+          "lastName": [
+            "Tavenard"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Clinical Investigation Center, INSERM CIC 0203, University Hospital, Rennes 1 University , Rennes , France ; Department of Clinical Pharmacology, University Hospital, Rennes 1 University , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Assistance Publique - Hôpitaux de Paris, Groupe Hospitalier Pitié-Salpêtrière, CNRS FRE 2987, University Pierre and Marie Curie , Paris , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Kermarrec S"
+          ],
+          "firstName": [
+            "Solenn"
+          ],
+          "lastName": [
+            "Kermarrec"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Laboratoire Psychologie de la Perception, Université Paris Descartes, CNRS, UMR 8158 , Paris , France ; Pôle Hospitalo-Universitaire de Psychiatrie de l'Enfant et de l'Adolescent (PHUPEA), Centre Hospitalier Guillaume Régnier, Université de Rennes 1 , Rennes , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Coulon N"
+          ],
+          "firstName": [
+            "Nathalie"
+          ],
+          "lastName": [
+            "Coulon"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Laboratoire Psychologie de la Perception, Université Paris Descartes, CNRS, UMR 8158 , Paris , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Bonnot O"
+          ],
+          "firstName": [
+            "Olivier"
+          ],
+          "lastName": [
+            "Bonnot"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0005-4765",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratoire Psychologie de la Perception, Université Paris Descartes, CNRS, UMR 8158 , Paris , France."
+          ]
+        },
+        {
+          "fullName": [
+            "Dawson G"
+          ],
+          "firstName": [
+            "Geraldine"
+          ],
+          "lastName": [
+            "Dawson"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Duke University School of Medicine , Durham, NC , USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0005-4765",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2254789"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "Front Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "Front Pediatr"
+          ],
+          "NLMid": [
+            "101615492"
+          ],
+          "ISSN": [
+            "2296-2360"
+          ],
+          "ESSN": [
+            "2296-2360"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1"
+  ],
+  "abstractText": [
+    "There is a growing interest in the role of biological and behavioral rhythms in typical and atypical development. Recent studies in cognitive and developmental psychology have highlighted the importance of rhythmicity and synchrony of motor, emotional, and interpersonal rhythms in early development of social communication. The synchronization of rhythms allows tuning and adaptation to the external environment. The role of melatonin in the ontogenetic establishment of circadian rhythms and the synchronization of the circadian clocks network suggests that this hormone might be also involved in the synchrony of motor, emotional, and interpersonal rhythms. Autism provides a challenging model of physiological and behavioral rhythm disturbances and their possible effects on the development of social communication impairments and repetitive behaviors and interests. This article situates autism as a disorder of biological and behavioral rhythms and reviews the recent literature on the role of rhythmicity and synchrony of rhythms in child development. Finally, the hypothesis is developed that an integrated approach focusing on biological, motor, emotional, and interpersonal rhythms may open interesting therapeutic perspectives for children with autism. More specifically, promising avenues are discussed for potential therapeutic benefits in autism spectrum disorder of melatonin combined with developmental behavioral interventions that emphasize synchrony, such as the Early Start Denver Model."
+  ],
+  "affiliation": [
+    "Laboratoire Psychologie de la Perception, Université Paris Descartes, CNRS, UMR 8158 , Paris , France ; Pôle Hospitalo-Universitaire de Psychiatrie de l'Enfant et de l'Adolescent (PHUPEA), Centre Hospitalier Guillaume Régnier, Université de Rennes 1 , Rennes , France."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Melatonin",
+        "Therapeutics",
+        "Motor",
+        "Autism Spectrum Disorder",
+        "Biological Rhythms",
+        "Early Start Denver Model",
+        "Emotional And Relational Rhythms",
+        "Synchronization Of Rhythms"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4337381?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4337381"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fped.2015.00001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "22"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-03-10"
+  ],
+  "dateOfCreation": [
+    "2015-03-10"
+  ],
+  "dateOfRevision": [
+    "2015-03-12"
+  ],
+  "electronicPublicationDate": [
+    "2015-02-23"
+  ],
+  "firstPublicationDate": [
+    "2015-02-23"
+  ]
+}

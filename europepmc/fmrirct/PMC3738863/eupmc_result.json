@@ -1,0 +1,325 @@
+{
+  "id": [
+    "23950745"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23950745"
+  ],
+  "pmcid": [
+    "PMC3738863"
+  ],
+  "doi": [
+    "10.3389/fphar.2013.00099"
+  ],
+  "title": [
+    "Comorbid obsessive-compulsive symptoms in schizophrenia: contributions of pharmacological and genetic factors."
+  ],
+  "authorString": [
+    "Schirmbeck F, Zink M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schirmbeck F"
+          ],
+          "firstName": [
+            "Frederike"
+          ],
+          "lastName": [
+            "Schirmbeck"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1700-0958",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Central Institute of Mental Health, Department of Psychiatry and Psychotherapy, Faculty Medicine Mannheim, Heidelberg University Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Zink M"
+          ],
+          "firstName": [
+            "Mathias"
+          ],
+          "lastName": [
+            "Zink"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1700-0958",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2003509"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in pharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Front Pharmacol"
+          ],
+          "NLMid": [
+            "101548923"
+          ],
+          "ISSN": [
+            "1663-9812"
+          ],
+          "ESSN": [
+            "1663-9812"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "99"
+  ],
+  "abstractText": [
+    "A large subgroup of around 25% of schizophrenia patients suffers from obsessive-compulsive symptoms (OCS) and about 12% fulfill the diagnostic criteria of an obsessive-compulsive disorder (OCD). The additional occurrence of OCS is associated with high subjective burden of disease, additional neurocognitive impairment, poorer social and vocational functioning, greater service utilization and high levels of anxiety and depression. Comorbid patients can be assigned to heterogeneous subgroups. One hypothesis assumes that second generation antipsychotics (SGAs), most importantly clozapine, might aggravate or even induce second-onset OCS. Several arguments support this assumption, most importantly the observed chronological order of first psychotic manifestation, start of treatment with clozapine and onset of OCS. In addition, correlations between OCS-severity and dose and serum levels and duration of clozapine treatment hint toward a dose-dependent side effect. It has been hypothesized that genetic risk-factors dispose patients with schizophrenia to develop OCS. One study in a South Korean sample reported associations with polymorphisms in the gene SLC1A1 (solute carrier family 1A1) and SGA-induced OCS. However, this finding could not be replicated in European patients. Preliminary results also suggest an involvement of polymorphisms in the BDNF gene (brain-derived neurotrophic factor) and an interaction between markers of SLC1A1 and the gene DLGAP3 (disc large associated protein 3) as well as GRIN2B (N-methyl-D-aspartate receptor subunit 2B). Further research of well-defined samples, in particular studies investigating possible interactions of genetic risk-constellations and pharmacodynamic properties, are needed to clarify the assumed development of SGA-induced OCS. Results might improve pathogenic concepts and facilitate the definition of at risk populations, early detection and monitoring of OCS as well as multimodal therapeutic interventions."
+  ],
+  "affiliation": [
+    "Central Institute of Mental Health, Department of Psychiatry and Psychotherapy, Faculty Medicine Mannheim, Heidelberg University Mannheim, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genetics",
+        "Schizophrenia",
+        "antipsychotic agents",
+        "Clozapine",
+        "Compulsion",
+        "Slc1a1",
+        "Comorbidity",
+        "Obsession"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3738863?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3738863"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23950745/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23950745/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fphar.2013.00099"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "17"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2013-08-16"
+  ],
+  "dateOfCreation": [
+    "2013-08-16"
+  ],
+  "dateOfRevision": [
+    "2015-02-09"
+  ],
+  "electronicPublicationDate": [
+    "2013-08-09"
+  ],
+  "firstPublicationDate": [
+    "2013-08-09"
+  ]
+}

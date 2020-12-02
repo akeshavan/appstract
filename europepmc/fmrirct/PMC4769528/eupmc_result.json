@@ -1,0 +1,911 @@
+{
+  "id": [
+    "26921267"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26921267"
+  ],
+  "pmcid": [
+    "PMC4769528"
+  ],
+  "doi": [
+    "10.1186/s12906-016-1068-2"
+  ],
+  "title": [
+    "Cost-utility and biological underpinnings of Mindfulness-Based Stress Reduction (MBSR) versus a psychoeducational programme (FibroQoL) for fibromyalgia: a 12-month randomised controlled trial (EUDAIMON study)."
+  ],
+  "authorString": [
+    "Feliu-Soler A, Borràs X, Peñarrubia-María MT, Rozadilla-Sacanell A, D'Amico F, Moss-Morris R, Howard MA, Fayed N, Soriano-Mas C, Puebla-Guedea M, Serrano-Blanco A, Pérez-Aranda A, Tuccillo R, Luciano JV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Feliu-Soler A"
+          ],
+          "firstName": [
+            "Albert"
+          ],
+          "lastName": [
+            "Feliu-Soler"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2810-7670",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Biomedical Research in Mental Health, CIBERSAM, Madrid, Spain. a.feliu@pssjd.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Borràs X"
+          ],
+          "firstName": [
+            "Xavier"
+          ],
+          "lastName": [
+            "Borràs"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3972-1385",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Stress and Health Research Group, Faculty of Psychology, Universitat Autònoma de Barcelona, Bellaterra, Barcelona, Spain. xavier.borras@uab.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Peñarrubia-María MT"
+          ],
+          "firstName": [
+            "María T"
+          ],
+          "lastName": [
+            "Peñarrubia-María"
+          ],
+          "initials": [
+            "MT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0322-4961",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Primary Care Prevention and Health Promotion Research Network (RedIAPP), Madrid, Spain. 32829mpm@comb.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Rozadilla-Sacanell A"
+          ],
+          "firstName": [
+            "Antoni"
+          ],
+          "lastName": [
+            "Rozadilla-Sacanell"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Rheumatology Service, Parc Sanitari Sant Joan de Déu, Sant Boi de Llobregat, Spain. antoni.rozadilla@pssjd.org."
+          ]
+        },
+        {
+          "fullName": [
+            "D'Amico F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "D'Amico"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5289-9300",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Personal Social Services Research Unit, London School of Economics and Political Science, London, UK. F.D'Amico@lse.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Moss-Morris R"
+          ],
+          "firstName": [
+            "Rona"
+          ],
+          "lastName": [
+            "Moss-Morris"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2927-3446",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Health Psychology Section, Department of Psychology, Institute of Psychiatry, Psychology, & Neuroscience, King's College London, London, UK. rona.moss-morris@kcl.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Howard MA"
+          ],
+          "firstName": [
+            "Matthew A"
+          ],
+          "lastName": [
+            "Howard"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9359-3057",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neuroimaging, Institute of Psychiatry, Psychology & Neuroscience, King's College London, London, UK. Matthew.Howard@kcl.ac.uk."
+          ]
+        },
+        {
+          "fullName": [
+            "Fayed N"
+          ],
+          "firstName": [
+            "Nicolás"
+          ],
+          "lastName": [
+            "Fayed"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Magnetic Resonance Unit, Department of Radiology, Hospital Quironsalud Zaragoza, Zaragoza, Spain. nicola33fr@yahoo.es."
+          ]
+        },
+        {
+          "fullName": [
+            "Soriano-Mas C"
+          ],
+          "firstName": [
+            "Carles"
+          ],
+          "lastName": [
+            "Soriano-Mas"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4574-6597",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychobiology and Methodology of Health Sciences, Universitat Autònoma de Barcelona, Barcelona, Spain. csoriano@idibell.cat."
+          ]
+        },
+        {
+          "fullName": [
+            "Puebla-Guedea M"
+          ],
+          "firstName": [
+            "Marta"
+          ],
+          "lastName": [
+            "Puebla-Guedea"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Aragon Institute of Health Sciences (I+CS), Zaragoza, Spain. martapueblag@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Serrano-Blanco A"
+          ],
+          "firstName": [
+            "Antoni"
+          ],
+          "lastName": [
+            "Serrano-Blanco"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6123-0633",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Primary Care Prevention and Health Promotion Research Network (RedIAPP), Madrid, Spain. aserrano@pssjd.org."
+          ]
+        },
+        {
+          "fullName": [
+            "Pérez-Aranda A"
+          ],
+          "firstName": [
+            "Adrián"
+          ],
+          "lastName": [
+            "Pérez-Aranda"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Teaching, Research & Innovation Unit, Parc Sanitari Sant Joan de Déu, C/Dr. Antoni Pujadas 42, 08830, Sant Boi de Llobregat, Barcelona, Spain. adrian.peara@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Tuccillo R"
+          ],
+          "firstName": [
+            "Raffaele"
+          ],
+          "lastName": [
+            "Tuccillo"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Hospital de Sant Pau, Barcelona, Spain. raffaele_tuccillo@hotmail.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Luciano JV"
+          ],
+          "firstName": [
+            "Juan V"
+          ],
+          "lastName": [
+            "Luciano"
+          ],
+          "initials": [
+            "JV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0750-1599",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Primary Care Prevention and Health Promotion Research Network (RedIAPP), Madrid, Spain. jvluciano@pssjd.org."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0322-4961",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4574-6597",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2810-7670",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-0750-1599",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5289-9300",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3972-1385",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6123-0633",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2927-3446",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9359-3057",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2477215"
+      ],
+      "dateOfPublication": [
+        "2016 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "81"
+  ],
+  "abstractText": [
+    "The EUDAIMON study focuses on fibromyalgia syndrome (FMS), a prevalent chronic condition characterized by pain, fatigue, cognitive problems and distress. According to recent reviews and meta-analyses, Mindfulness-Based Stress Reduction (MBSR) is a promising therapeutic approach for patients with FMS. The measurement of biomarkers as part of the analysis of MBSR effects would help to identify the neurobiological underpinnings of MBSR and increase our knowledge of FMS pathophysiology. The main objectives of this 12-month RCT are: firstly, to examine the effectiveness and cost-utility for FMS patients of MBSR as an add-on to treatment as usual (TAU) versus TAU + the psychoeducational programme FibroQoL, and versus TAU only; secondly, to examine pre-post differences in brain structure and function, as well as levels of specific inflammatory markers in the three study arms and; thirdly, to analyse the role of some psychological variables as mediators of 12-month clinical outcomes.Effectiveness, cost-utility, and neurobiological analyses performed alongside a 12-month RCT. The participants will be 180 adult patients with FMS recruited at the Sant Joan de Déu hospital (St. Boi de Llobregat, Spain), randomly allocated to one of the three study arms: TAU + MBSR vs. TAU + FibroQol vs. TAU. A comprehensive assessment to collect functional, quality of life, distress, costs, and psychological variables will be conducted pre-, post-intervention, and at 12-month post-intervention. Fifty per cent of study participants will be evaluated at pre- and post-treatment using Voxel-Based Morphometry, Diffusion Tensor Imaging, pseudo-continuous Arterial Spin Labeling, and resting state fMRI. A cytokine multiplex kit of high-sensitivity will be applied (cytokines IL-6, IL-8, IL-10 + high-sensitivity CRP test).The findings obtained from this RCT will indicate whether MBSR is potentially cost-effective for FMS and contribute to knowledge of any brain and inflammatory changes associated with MBSR in FMS patients. Specifically, we will determine whether there are morphometric and functional changes associated with participation in MBSR in brain regions related to meta-awareness, body awareness, memory consolidation-reconsolidation, emotion regulation and in networks postulated to underpin the sensory-discriminative, cognitive-evaluative and affective-motivational aspects of the pain experience.NCT02561416 . Registered 23 September 2015."
+  ],
+  "affiliation": [
+    "Centre for Biomedical Research in Mental Health, CIBERSAM, Madrid, Spain. a.feliu@pssjd.org."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fibromyalgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Inflammation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytokines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Meditation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotherapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Education as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mindfulness"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cytokines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4769528?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4769528"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12906-016-1068-2"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-09-19"
+  ],
+  "dateOfCreation": [
+    "2016-02-27"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-27"
+  ],
+  "firstPublicationDate": [
+    "2016-02-27"
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "id": [
+    "29040687"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29040687"
+  ],
+  "pmcid": [
+    "PMC5888924"
+  ],
+  "doi": [
+    "10.1093/ndt/gfx277"
+  ],
+  "title": [
+    "Mortality risk in patients on hemodiafiltration versus hemodialysis: a 'real-world' comparison from the DOPPS."
+  ],
+  "authorString": [
+    "Locatelli F, Karaboyas A, Pisoni RL, Robinson BM, Fort J, Vanholder R, Rayner HC, Kleophas W, Jacobson SH, Combe C, Port FK, Tentori F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Locatelli F"
+          ],
+          "firstName": [
+            "Francesco"
+          ],
+          "lastName": [
+            "Locatelli"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Nephrology and Dialysis, Alessandro Manzoni Hospital, ASST Lecco, Lecco, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Karaboyas A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Karaboyas"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Arbor Research Collaborative for Health, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Pisoni RL"
+          ],
+          "firstName": [
+            "Ronald L"
+          ],
+          "lastName": [
+            "Pisoni"
+          ],
+          "initials": [
+            "RL"
+          ],
+          "affiliation": [
+            "Arbor Research Collaborative for Health, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Robinson BM"
+          ],
+          "firstName": [
+            "Bruce M"
+          ],
+          "lastName": [
+            "Robinson"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Arbor Research Collaborative for Health, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fort J"
+          ],
+          "firstName": [
+            "Joan"
+          ],
+          "lastName": [
+            "Fort"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Nephrology Department, University Hospital Vall d'Hebron, Barcelona, Spain."
+          ]
+        },
+        {
+          "fullName": [
+            "Vanholder R"
+          ],
+          "firstName": [
+            "Raymond"
+          ],
+          "lastName": [
+            "Vanholder"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Department of Nephrology, University Hospital, Ghent, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Rayner HC"
+          ],
+          "firstName": [
+            "Hugh C"
+          ],
+          "lastName": [
+            "Rayner"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "Heart of England NHS Foundation Trust, Birmingham, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Kleophas W"
+          ],
+          "firstName": [
+            "Werner"
+          ],
+          "lastName": [
+            "Kleophas"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "MVZ DaVita Rhein-Ruhr, Dusseldorf, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Jacobson SH"
+          ],
+          "firstName": [
+            "Stefan H"
+          ],
+          "lastName": [
+            "Jacobson"
+          ],
+          "initials": [
+            "SH"
+          ],
+          "affiliation": [
+            "Division of Nephrology, Karolinska Institute, Danderyd Hospital, Stockholm, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Combe C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Combe"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centre Hospitalier Universitaire de Bordeaux, Bordeaux, France."
+          ]
+        },
+        {
+          "fullName": [
+            "Port FK"
+          ],
+          "firstName": [
+            "Friedrich K"
+          ],
+          "lastName": [
+            "Port"
+          ],
+          "initials": [
+            "FK"
+          ],
+          "affiliation": [
+            "Arbor Research Collaborative for Health, Ann Arbor, MI, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Tentori F"
+          ],
+          "firstName": [
+            "Francesca"
+          ],
+          "lastName": [
+            "Tentori"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Arbor Research Collaborative for Health, Ann Arbor, MI, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "journalIssueId": [
+        "2608893"
+      ],
+      "dateOfPublication": [
+        "2017 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association"
+          ],
+          "ISOAbbreviation": [
+            "Nephrol. Dial. Transplant."
+          ],
+          "medlineAbbreviation": [
+            "Nephrol Dial Transplant"
+          ],
+          "NLMid": [
+            "8706402"
+          ],
+          "ISSN": [
+            "0931-0509"
+          ],
+          "ESSN": [
+            "1460-2385"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "With its convective component, hemodiafiltration (HDF) provides better middle molecule clearance compared with hemodialysis (HD) and is postulated to improve survival. A previous analysis of Dialysis Outcomes and Practice Patterns Study (DOPPS) data in 1998-2001 found lower mortality rates for high replacement fluid volume HDF versus HD. Randomized controlled trials have not shown uniform survival advantage for HDF; in secondary (non-randomized) analyses, better outcomes were observed in patients receiving the highest convection volumes.In a 'real-world' setting, we analyzed patients on dialysis >90 days from seven European countries in DOPPS Phases 4 and 5 (2009-15). Adjusted Cox regression was used to study HDF (versus HD) and mortality, overall and by replacement fluid volume.Among 8567 eligible patients, 2012 (23%) were on HDF, ranging from 42% in Sweden to 12% in Germany. Median follow-up was 1.5 years during which 1988 patients died. The adjusted mortality hazard ratio (95% confidence interval) was 1.14 (1.00-1.29) for any HDF versus HD and 1.08 (0.92-1.28) for HDF >20 L replacement fluid volume versus HD. Similar results were found for cardiovascular and infection-related mortality. In an additional analysis aiming to avoid treatment-by-indication bias, we did not observe lower mortality rates in facilities using more HDF (versus HD).Our results do not support the notion that HDF provides superior patient survival. Further trials designed to test the effect of high-volume HDF (versus lower volume HDF versus HD) on clinical outcomes are needed to adequately inform clinical practices."
+  ],
+  "affiliation": [
+    "Department of Nephrology and Dialysis, Alessandro Manzoni Hospital, ASST Lecco, Lecco, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 DK087762"
+          ],
+          "agency": [
+            "NIDDK NIH HHS"
+          ],
+          "acronym": [
+            "DK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Anemia",
+        "Dialysis",
+        "Hemodiafiltration",
+        "Chronic Kidney Disease",
+        "High-flux Dialysis"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5888924?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5888924"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1093/ndt/gfx277"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-18"
+  ],
+  "dateOfRevision": [
+    "2018-04-12"
+  ],
+  "electronicPublicationDate": [
+    "2017-10-11"
+  ],
+  "firstPublicationDate": [
+    "2017-10-11"
+  ]
+}

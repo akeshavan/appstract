@@ -1,0 +1,945 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName JATS-journalpublishing1.dtd?><?SourceDTD.Version 1.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Alzheimers Dis</journal-id><journal-id journal-id-type="iso-abbrev">J. Alzheimers Dis</journal-id><journal-id journal-id-type="publisher-id">JAD</journal-id><journal-title-group><journal-title>Journal of Alzheimer's Disease</journal-title></journal-title-group><issn pub-type="ppub">1387-2877</issn><issn pub-type="epub">1875-8908</issn><issn-l>1387-2877</issn-l><publisher><publisher-name>IOS Press</publisher-name><publisher-loc>Nieuwe Hemweg 6B, 1013 BG Amsterdam, The Netherlands</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4927867</article-id><article-id pub-id-type="publisher-id">JAD150767</article-id><article-id pub-id-type="doi">10.3233/JAD-150767</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group></article-categories><title-group><article-title>Effect of Anserine/Carnosine Supplementation on Verbal Episodic Memory in Elderly People</article-title><alt-title alt-title-type="left-running-head">T. Hisatsune et&#x000a0;al.</alt-title><alt-title alt-title-type="right-running-head">Anserine and Carnosine on Verbal Memory</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hisatsune</surname><given-names>Tatsuhiro</given-names></name><xref ref-type="aff" rid="aff1">a</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Kaneko</surname><given-names>Jun</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Kurashige</surname><given-names>Hiroki</given-names></name><xref ref-type="aff" rid="aff1">a</xref></contrib><contrib contrib-type="author"><name><surname>Cao</surname><given-names>Yuan</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Satsu</surname><given-names>Hideo</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Totsuka</surname><given-names>Mamoru</given-names></name><xref ref-type="aff" rid="aff2">b</xref></contrib><contrib contrib-type="author"><name><surname>Katakura</surname><given-names>Yoshinori</given-names></name><xref ref-type="aff" rid="aff3">c</xref></contrib><contrib contrib-type="author"><name><surname>Imabayashi</surname><given-names>Etsuko</given-names></name><xref ref-type="aff" rid="aff4">d</xref></contrib><contrib contrib-type="author"><name><surname>Matsuda</surname><given-names>Hiroshi</given-names></name><xref ref-type="aff" rid="aff4">d</xref></contrib><aff id="aff1"><label>a</label>Department of Integrated Biosciences, Graduate School of Frontier Sciences, <institution>The University of Tokyo</institution>, Kashiwa, <country>Japan</country></aff><aff id="aff2"><label>b</label>Department of Applied Biochemistry, Graduate School of Agriculture and Life Sciences, <institution>The University of Tokyo</institution>, Kashiwa, <country>Japan</country></aff><aff id="aff3"><label>c</label>Graduate School of Systems Life Sciences, <institution>Kyushu University</institution>, Higashi-ku, Fukuoka, <country>Japan</country></aff><aff id="aff4"><label>d</label>Integrative Brain Imaging Center (IBIC), <institution>National Center of Neurology and Psychiatry</institution>, Tokyo, <country>Japan</country></aff></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Asada</surname><given-names>Takashi</given-names></name><role>Handling Associate Editor</role></contrib></contrib-group><author-notes><corresp id="cor1"><label>*</label>Correspondence to: Tatsuhiro Hisatsune, PhD, Department of Integrated Biosciences, Graduate School of Frontier Sciences, The University of Tokyo, 5-1-5 Kashiwanoha, BioBldg Rm402, Kashiwa, Chiba 277-8562, Japan. Tel.: +81 4 7136 3632; Fax: +81 4 7136 3633; E-mail: <email>hisatsune@k.u-tokyo.ac.jp</email>.</corresp></author-notes><pub-date date-type="pub" publication-format="electronic"><day>8</day><month>12</month><year>2015</year></pub-date><pub-date date-type="collection" publication-format="electronic"><year>2016</year></pub-date><volume>50</volume><issue>1</issue><fpage>149</fpage><lpage>159</lpage><history><date date-type="accepted"><day>12</day><month>10</month><year>2015</year></date></history><permissions><copyright-statement>IOS Press and the authors. All rights reserved</copyright-statement><copyright-year>2016</copyright-year><license xlink:href="https://creativecommons.org/licenses/by-nc/4.0/" license-type="open-access"><license-p>This is an open access article distributed under the terms of the <ext-link ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution Non-Commercial (CC BY-NC 4.0) License</ext-link>, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><p>Our goal in this study was to determine whether or not anserine/carnosine supplementation (ACS) is capable of preserving cognitive function of elderly people. In a double-blind randomized controlled trial, volunteers were randomly assigned to an ACS or placebo group at a 1:1 ratio. The ACS group took 1.0&#x0200a;g of an anserine/carnosine (3:1) formula daily for 3 months. Participants were evaluated by psychological tests before and after the 3-month supplementation period. Thirty-nine healthy elderly volunteers (60&#x02013;78 years old) completed the follow-up tests. Among the tests, delayed recall verbal memory assessed by the Wechsler Memory Scale-Logical Memory showed significant preservation in the ACS group, compared to the placebo group (<italic>p</italic>&#x0200a;=&#x0200a;0.0128). Blood analysis revealed a decreased secretion of inflammatory cytokines, including CCL-2 and IL-8, in the ACS group. MRI analysis using arterial spin labeling showed a suppression in the age-related decline in brain blood flow in the posterior cingulate cortex area in the ACS group, compared to the placebo group (<italic>p</italic>&#x0200a;=&#x0200a;0.0248). In another randomized controlled trial, delayed recall verbal memory showed significant preservation in the ACS group, compared to the placebo group (<italic>p</italic>&#x0200a;=&#x0200a;0.0202). These results collectively suggest that ACS may preserve verbal episodic memory and brain perfusion in elderly people, although further study is needed.</p></abstract><kwd-group><label>Keywords</label><kwd>Alzheimer&#x02019;s disease</kwd><kwd>anserine and carnosine</kwd><kwd>cognitive function</kwd><kwd>dementia</kwd><kwd>elderly people</kwd><kwd>inflammatory cytokine</kwd><kwd>perfusion MRI</kwd><kwd>randomized controlled trial</kwd><kwd>verbal memory</kwd></kwd-group></article-meta></front><body><sec id="sec0005"><title>INTRODUCTION</title><p>The number of people worldwide living with dementia is estimated to be 47 million in 2015, and Alzheimer&#x02019;s disease (AD) is the most common form of dementia [<xref rid="ref001" ref-type="bibr">1</xref>]. Diagnosis and intervention at early stages of dementia may greatly reduce the number of individuals suffering from AD. The onset of its symptoms typically begins with a subtle decline in memory and progresses to global deterioration. Lifestyle improvements, including increased intellectual and physical activity, and nutritional improvement [<xref rid="ref002" ref-type="bibr">2&#x02013;4</xref>], that decelerate this process may delay or prevent the onset of AD. Among them, dietary improvements can help decelerate a decline in memory and may prevent AD [<xref rid="ref004" ref-type="bibr">4, 5</xref>]. Here, we investigated the effects of dietary supplementation with anserine (beta-alanyl-1-methyl-L-histidine) and carnosine (beta-alanyl-L-histidine), functional dipeptides from animal meat, which also referred to as imidazole-containing dipeptides, on healthy elderly people.</p><p>Carnosine is an endogenous dipeptide consisting of beta-alanine and histidine, present in the milimolar range in skeletal muscle and in the hundred-micromolar range in the vertebrate brain [<xref rid="ref006" ref-type="bibr">6</xref>]. Carnosine has many biochemical functions, including buffering, metal ion chelating, antioxidant, and anti-glycation activities, and a wide variety of physiological functions, mainly in excitable cells, including skeletal, cardiac, and smooth muscle cells, and nerve cells [<xref rid="ref006" ref-type="bibr">6,&#x000a0;7</xref>]. We previously reported that carnosine supplementation prevents memory deficit in a transgenic AD mouse model fed a high-fat diet [<xref rid="ref008" ref-type="bibr">8</xref>]. These mice show an increased expression of RAGE (receptor for advanced glycation end product) in blood vessels, which is inhibited by carnosine supplementation, suggesting that carnosine suppresses microvascular brain damage in this mouse model [<xref rid="ref008" ref-type="bibr">8</xref>].</p><p>Carnosine is cleaved by carnosinase to beta-alanine and histidine. In rodents, serum carnosinase activity is low, so carnosine administration elevates the plasma carnosine level. However, in humans, high serum carnosinase activity limits the biomedical effectiveness of carnosine supplementation. Anserine is a natural carnosine derivative that is not cleaved by carnosinase. Anserine (beta-alanyl-1-methyl-L-histidine) is a methylated form of carnosine that is present at high levels in the breast skeletal muscle of chicken. Owing to their identical chemical structures, except for anserine&#x02019;s methylation, anserine and carnosine have equivalent reported physiological functions [<xref rid="ref006" ref-type="bibr">6</xref>]. At present, anserine alone is not commercially available, but we could obtain an anserine/carnosine mixture prepared from chicken meat. In a clinical study, Szcze&#x0015b;niak et&#x000a0;al. [<xref rid="ref009" ref-type="bibr">9</xref>] suggested that anserine and carnosine supplementation (ACS) has beneficial effects on physical capacity and cognitive functioning in elderly people.</p><p>In this study, we examined the effect of ACS on the preservation and/or improvement of a subtle memory decline in elderly people. We recruited elderly volunteers (&#x02265;60 years old) in the Tokyo area and evaluated the effects of ACS in a double-blind pilot randomized controlled trial (RCT). To this end, we evaluated the participants&#x02019; verbal episodic memory function by the use of the Wechsler Memory Scale-Logical Memory (WMS-R LM) [<xref rid="ref010" ref-type="bibr">10, 11</xref>]. In addition, normal aging is associated with diminished brain perfusion measured as cerebral blood flow, and a study using a perfusion MRI method, arterial spin labeling (ASL), showed a clear age-dependent decrease in blood flow, most noticeably in the posterior cingulate cortex (PCC) region [<xref rid="ref012" ref-type="bibr">12</xref>]. Therefore, to elucidate the effect of ACS, we also examined the participants&#x02019; brain perfusion.</p></sec><sec id="sec0010"><title>MATERIALS AND METHODS</title><sec id="sec0015"><title>Participants</title><p>Sixty-nine healthy participants (41&#x02013;78 years of age) were recruited from June 2012 to November 2013 from the Tokyo metropolitan area (<xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;1</xref>). The participants were required to visit the study site twice, 3 months apart. Written informed consent was obtained from all participants. Subjects with the following indications were excluded from the study: 1) individuals with a neuropsychiatric disorder or head injury; 2) individuals with a local lesion, such as a brain tumor or cerebral infarction, which could affect cognitive function; and 3) individuals with metal or electrical implants or claustrophobia that could prevent MRI scanning. The accepted participants were randomized to the ACS or placebo group. RCT-consistent assignment to the ACS or placebo group was determined by age and gender and performed by Imepro Inc. (Tokyo, Japan). All clinical and coordinating personnel and participants were blinded to the group assignments for the duration of the study. The study was approved by the Ethics Committees of the University of Tokyo and of the National Center of Neurology and Psychiatry, in 2012. The present report is of an age-restricted (&#x02265;60 years old) sub-analysis from this healthy volunteer study, and used the data from 39 elderly volunteers (&#x02265;60 years old) who completed the study (<xref ref-type="table" rid="jad-50-jad150767-t001">Table&#x000a0;1</xref>).</p><p>In another RCT, healthy participants (60&#x02013;80 years of age) were recruited from April 2014 to August 2014 from the Tokyo metropolitan area. The participants were required to visit the study site twice, 6 months apart. Written informed consent was obtained from all participants as above mentioned. The accepted participants were randomized to the ACS or placebo group.</p></sec><sec id="sec0020"><title>Testing formulae</title><p>The test formula was a powder containing anserine and carnosine (3:1) derived from chicken meat, provided by NH Foods Ltd., Japan. Participants in the ACS group received twice-daily doses of the imidazole dipeptide formula (500&#x0200a;mg/dose). The safety of this formula was previously verified by two independent studies [<xref rid="ref013" ref-type="bibr">13, 14</xref>]. The placebo formula contained an equivalent amount of essential amino acids as in the test formula (43&#x0200a;mg/day L-lysine) and 150&#x0200a;mg/day L-histidine, because the enzymatic digestion of carnosine (250&#x0200a;mg/day) generates L-histidine (150&#x0200a;mg/day) and beta-alanine. Both treatments were granular solids taken orally over a 3-month period.</p></sec><sec id="sec0025"><title>Inventory of food intake during the 3-month test period</title><p>A dietary survey was conducted using a semi-quantitative method as reported elsewhere [<xref rid="ref015" ref-type="bibr">15</xref>]. At the time of follow-up, the participants filled out a self-administered questionnaire on the frequency of animal meat (chicken, pork, and beef) and fish meat (red meat fish represented by tuna, white fish by salmon, blue-back fish by mackerel, and eel) intake over the previous 3 months. In Japan, this three-item fish consumption inquiry is most popular, and salmon is classified into white fish even though its meat color is pink. The representative fish in each category was based on the national consumption survey. The average anserine and carnosine concentrations in these animal and fish meats were obtained from Boldyrev et&#x000a0;al. [<xref rid="ref006" ref-type="bibr">6</xref>], and dietary intake was estimated from the responses to the questionnaire.</p></sec><sec id="sec0030"><title>Cognitive testing</title><p>The following cognitive evaluation tools and self-reported questionnaires were used to assess the effects of ACS on cognitive function, mental status, and general health: 1) the Japanese version of the Wechsler Memory Scale-Revised Logical Memory immediate recall (WMS-LM1) and delayed recall (WMS-LM2) tests [<xref rid="ref010" ref-type="bibr">10, 11</xref>], and 2) the Japanese version of a cognitive subscale of the Alzheimer&#x02019;s Disease Assessment Scale (ADAScog) [<xref rid="ref017" ref-type="bibr">17</xref>]. Mood and subjective states were assessed by the Japanese version of the Beck Depression Inventory (BDI) [<xref rid="ref018" ref-type="bibr">18, 19</xref>]. In addition, mental and physical functional well-being was assessed by the Medical Outcomes Study, 36-item Short Form (SF-36) [<xref rid="ref020" ref-type="bibr">20, 21</xref>]. The Mental Health Component Summary (MCS) score and Physical Health Component Summary (PCS) score were calculated, with higher scores indicating better functioning. The cognitive and psychological tests were performed under double-blind conditions. A Mini-Mental State Examination (MMSE) was also conducted, to assess baseline cognitive function [<xref rid="ref022" ref-type="bibr">22</xref>].</p></sec><sec id="sec0035"><title>Blood sampling and immunoassays</title><p>The concentrations of 27 cytokines in serum samples collected from the volunteers at the baseline and during the follow-up test were measured by a Luminex-based multiplex beads array assay using the Bio-Plex Pro Human Cytokine Group I 27-plex panel (Bio-Rad Laboratories, Inc; Hercules, CA, USA), according to the manufacturer&#x02019;s instructions. The cytokine panel included interleukin (IL)-1&#x003b2;, IL-1R<italic>&#x003b1;</italic>, IL-2, IL-4, IL-5, IL-6, IL-7, IL-8 (CXCL8), IL-9, IL-10, IL-12, IL-13, IL-17, CCL-2 (MCP-1), CCL-3 (MIP-1<italic>&#x003b1;</italic>), CCL-4 (MIP-1&#x003b2;), CCL-5 (RANTES), CCL-11 (Eotaxin), CXCL10 (IP-10), FGF-basic, G-CSF, GM-CSF, IFN-<italic>&#x003b3;</italic>, PDGF-bb, TNF-<italic>&#x003b1;</italic>, and VEGF. Cytokine levels below the lower limit of detection were reported as the mid-point between the lowest concentration measured and zero, as reported elsewhere [<xref rid="ref023" ref-type="bibr">23</xref>]. IL-15 was omitted from further analysis because it was beneath the detection limit in all cases. The false discovery rate method (FDR) [<xref rid="ref024" ref-type="bibr">24</xref>] was used to correct for multiple comparisons for cytokines. <italic>P</italic>-values less than 0.01 were considered significant.</p></sec><sec id="sec0040"><title>Microarray analysis</title><p>Peripheral blood mononuclear cells (PBMCs) from volunteers were used for total RNA extraction. The total RNA quality was assessed using the Agilent system according to the manufacturer&#x02019;s protocol. We eliminated one RNA sample from the Active group from further analysis. The total RNA was reverse transcribed to synthesize the first-strand cDNA, followed by second-strand synthesis. Double-stranded cDNAs were used to synthesize biotin-labeled complementary mRNA (cRNA). The cRNA samples from the volunteers were hybridized onto a Whole Human Genome oligo DNA Microarray Ver2.0 (Agilent Technologies, Inc., CA, USA), as described elsewhere [<xref rid="ref025" ref-type="bibr">25</xref>]. The rawsignal intensities and Flags for each probe were calculated from the hybridization intensities (gProcessedSignal) and spot information (gIsSaturated, etc.), according to the procedures recommended by Agilent. The raw signal intensities of 120 samples were normalized by the quantile algorithm in the &#x02018;preprocessCore&#x02019; library package [<xref rid="ref026" ref-type="bibr">26</xref>] in the Bioconductor software [<xref rid="ref027" ref-type="bibr">27</xref>]. The log fold-change of each selected probe in paired samples was calculated, and Student&#x02019;s <italic>t</italic>-test was applied using the MeV software [<xref rid="ref028" ref-type="bibr">28</xref>]. The criteria for significantly different gene expressions was <italic>p</italic>&#x0200a;&#x0003c; &#x0200a;0.01.</p></sec><sec id="sec0045"><title>Acquisition of human MRI data and MRI data analysis</title><p>MRI analyses were performed with a 3 T scanner (Siemens, MAGNETOM Verio 3.0T), using a 32-channel phased array head coil. MRI data of the study participants were collected at two time points: prior to and after supplementation. During MRI scanning, headgear and earplugs were used to limit head motion and reduce scanner noise. For each participant, 3D T1-weighted magnetization-prepared rapid gradient echo (MPRAGE) images were collected, using the following parameters: TR&#x0200a;=&#x0200a;1900&#x0200a;ms, TE&#x0200a;=&#x0200a;2.52&#x0200a;ms, TI&#x0200a;=&#x0200a;90&#x0200a;ms, flip angle&#x0200a;=&#x0200a;9&#x000b0;, field of view (FoV)&#x0200a;=&#x0200a;256&#x000d7;256&#x0200a;mm, acquisition matrix&#x0200a;=&#x0200a;256&#x000d7;256, slice thickness&#x0200a;=&#x0200a;1.0&#x0200a;mm, slice gap&#x0200a;=&#x0200a;0&#x0200a;mm, slice number&#x0200a;=&#x0200a;192 [<xref rid="ref029" ref-type="bibr">29</xref>]. The 3D pulsed ASL (pASL) perfusion images were collected by turbo gradient spin echo using the following parameters: TR&#x0200a;=&#x0200a;5000&#x0200a;ms, TE&#x0200a;=&#x0200a;38.8&#x0200a;ms, TI&#x0200a;=&#x0200a;2350&#x0200a;ms, flip angle&#x0200a;=&#x0200a;180&#x000b0;, FoV&#x0200a;=&#x0200a;192&#x000d7;192&#x0200a;mm, acquisition matrix&#x0200a;=&#x0200a;64&#x000d7;64, slice thickness&#x0200a;=&#x0200a;3.0&#x0200a;mm, slice gap&#x0200a;=&#x0200a;1.5&#x0200a;mm, slice number&#x0200a;=&#x0200a;40, bolus duration&#x0200a;=&#x0200a;700&#x0200a;ms. The 3D pASL data calculated from the MRI data collected before and after supplementation were analyzed using the statistical parametric mapping 12 (SPM12) system. The data were spatially normalized to the MNI coordinates using the DARTEL method [<xref rid="ref030" ref-type="bibr">30</xref>], and then smoothed with a full width parameter at half-maximal resolution of 12&#x0200a;mm&#x000d7;12&#x0200a;mm&#x000d7;12&#x0200a;mm for 3D pASL as reported before [<xref rid="ref012" ref-type="bibr">12</xref>]. To compare the perfusion changes that occurred over the 3-month supplementation period between the ACS and placebo groups, these spatially normalized with the 3D T1-weighted image (WI) data and smoothed pASL data were subjected to a two-way intra-subject analysis assessing the time and group interaction.</p><p>For additional MRI examinations, diffusion MRI, resting-state (rs) fMRI, and T2-FLAIR data were obtained from the participants. The diffusion tensor images were collected by EPI-diffusion with the following parameters: TR&#x0200a;=&#x0200a;14100&#x0200a;ms, TE&#x0200a;=&#x0200a;81&#x0200a;ms, flip angle&#x0200a;=&#x0200a;90&#x000b0;, FoV&#x0200a;=&#x0200a;224&#x000d7;224&#x0200a;mm, acquisition matrix&#x0200a;=&#x0200a;114&#x000d7;114, slice thickness&#x0200a;=&#x0200a;2.0&#x0200a;mm, slice number&#x0200a;=&#x0200a;75, axes&#x0200a;=&#x0200a;30, b-factor&#x0200a;=&#x0200a;0 and 1000&#x0200a;s/mm<sup>2</sup>. The rsfMRI scans were acquired using a gradient-echo echo-planar sequence with repetition time TR&#x0200a;=&#x0200a;3000&#x0200a;ms; echo time TE&#x0200a;=&#x0200a;30&#x0200a;ms; flip angle 80&#x000b0;; with 48 axial slices; 3.3-mm slice thickness with no gap; each slice consisted of 64&#x000d7;64 voxels, resulting in a 3.30&#x000d7;3.31&#x000d7;3.31 voxel dimension. T2-fluid-attenuated inversion-recovery (FLAIR) scans were acquired with a repetition time TR&#x0200a;=&#x0200a;11000&#x0200a;ms; echo time TE&#x0200a;=&#x0200a;94&#x0200a;ms; inversion time TI&#x0200a;=&#x0200a;2800&#x0200a;ms; with 20 axial slices; FoV&#x0200a;=&#x0200a;198&#x000d7;220&#x0200a;mm, and were used to confirm that there were no neurological or inflammatory disorders (e.g., multiple sclerosis).</p></sec></sec><sec id="sec0050"><title>RESULTS</title><sec id="sec0055"><title>Participants</title><p>This analysis used the data from elderly (&#x02265;60 years of age) volunteers who completed the study. The subjects were randomly assigned to the ACS and placebo groups. As shown in <xref ref-type="fig" rid="jad-50-jad150767-g001">Fig.&#x000a0;1</xref>, thirty-nine elderly participants completed both the baseline and follow-up tests. The group characteristics are summarized in <xref ref-type="table" rid="jad-50-jad150767-t001">Table&#x000a0;1</xref>. The two groups did not differ significantly with respect to age, gender, body mass index, education, or MMSE score, although there was a slight age difference between the two groups due to random drop-out. The baseline MMSE score of all of the participants was greater than 23.</p><p>The purpose of this study was to test the effect of anserine/carnosine supplementation, but these dipeptides are also obtained from the diet. To estimate daily intake from the diet, we estimated the anserine+carnosine intake from animal and fish meats using a 7-item meat intake frequency questionnaire (<xref ref-type="fig" rid="jad-50-jad150767-g002">Fig.&#x000a0;2</xref> and <xref ref-type="table" rid="jad-50-jad150767-t002">Table&#x000a0;2</xref>). There was no statistical difference in the daily anserine/carnosine intake from the diet between the two groups. Taking the dietary intake into account, the ACS group took in approximately 3 times more anserine/carnosine than the placebo group.</p></sec><sec id="sec0060"><title>Cognitive tests</title><p>To evaluate cognitive function at baseline and follow-up, we performed two neuropsychological tests (<xref ref-type="table" rid="jad-50-jad150767-t003">Table&#x000a0;3</xref>). For the WMS-LM2 test, used to assess the delayed recall of verbal memory, we used two different stories (story A and story B) for the baseline and follow-up tests, respectively. Data were analyzed using a two-way repeated ANOVA (Time [baseline or follow-up]&#x000d7;Variant [ACS or placebo]). The interaction Time&#x000d7;Variant was significant before (F[1,37]&#x0200a;=&#x0200a;9.067, <italic>p</italic>&#x0200a;=&#x0200a;0.0047; <xref ref-type="fig" rid="jad-50-jad150767-g003">Fig.&#x000a0;3</xref>) and after adjusting for age (F[1]&#x0200a;=&#x0200a;6.8588, <italic>p</italic>&#x0200a;=&#x0200a;0.0128). There was an effect of time (F[1,37]&#x0200a;=&#x0200a;15.29, <italic>p</italic>&#x0200a;=&#x0200a;0.0001), but not of variant (F[1,37]&#x0200a;=&#x0200a;0.2621, <italic>p</italic>&#x0200a;=&#x0200a;0.61). After a Bonferroni <italic>post-hoc</italic> test, we observed a significant decrease in the score for the placebo group (DF[37], t[4.958], <italic>p</italic>&#x0200a;&#x0003c; &#x0200a;0.0001), but not for the ACS group (DF[37], t[0.6281], <italic>p</italic>&#x0200a;&#x0003e; &#x0200a;0.9999). In the WMS-LM1 test, used to assess the immediate recall of verbal memory, we did not see any difference between the two groups: the interaction Time&#x000d7;Variant was not significant (F[1,37]&#x0200a;=&#x0200a;0.7871, <italic>p</italic>&#x0200a;=&#x0200a;0.3807).</p><p>In the ADAScog test, the interaction Time&#x000d7;Variant was not significant (F[1,37]&#x0200a;=&#x0200a;0.5000, <italic>p</italic>&#x0200a;=&#x0200a;0.4839). There was no effect of time (F[1,37]&#x0200a;=&#x0200a;0.2280, <italic>p</italic>&#x0200a;=&#x0200a;0.6358) or of variant (F[1,37]&#x0200a;=&#x0200a;0.005572, <italic>p</italic>&#x0200a;=&#x0200a;0.9409). In the BDI test, the interaction Time&#x000d7;Variant was not significant (F[1,37]&#x0200a;=&#x0200a;1.641, <italic>p</italic>&#x0200a;=&#x0200a;0.2082). There was an effect of time (F[1,37]&#x0200a;=&#x0200a;9.337, <italic>p</italic>&#x0200a;=&#x0200a;0.0042), but not variant (F[1,37]&#x0200a;=&#x0200a;0.005905, <italic>p</italic>&#x0200a;=&#x0200a;0.8093). After the Bonferroni <italic>post-hoc</italic> test, we observed a significant decrease in the score in the ACS group (DF[37], t[3.028], <italic>p</italic>&#x0200a;=&#x0200a;0.0089), but not in the placebo group (DF[37], t[1.271], <italic>p</italic>&#x0200a;=&#x0200a;0.4231). In the MCS score from SF-36, the interaction Time&#x000d7;Variant was not significant (F[1,37]&#x0200a;=&#x0200a;1.024, <italic>p</italic>&#x0200a;=&#x0200a;0.3182). There was no effect of time (F[1,37]&#x0200a;=&#x0200a;0.9854, <italic>p</italic>&#x0200a;=&#x0200a;0.3273) or variant (F[1,37]&#x0200a;=&#x0200a;1.234, <italic>p</italic>&#x0200a;=&#x0200a;0.2737). In the PCS score from SF-36, the interaction Time&#x000d7;Variant was not significant (F[1,37]&#x0200a;=&#x0200a;0.4426, <italic>p</italic>&#x0200a;=&#x0200a;0.5100). There was no effect of time (F[1,37]&#x0200a;=&#x0200a;0.02027, <italic>p</italic>&#x0200a;=&#x0200a;0.8876) or variant (F[1,37]&#x0200a;=&#x0200a;0.01733, <italic>p</italic>&#x0200a;=&#x0200a;0.8960).</p></sec><sec id="sec0065"><title>Cytokine and microarray analysis</title><p>Among 26 cytokines tested, three (CCL-2 (MCP-1), IL-8, and IL-5) showed significant decrease (FDR; <italic>p</italic>&#x0200a;&#x0003c; &#x0200a;0.01) in the sera from ACS volunteers at thefollow-up (<xref ref-type="fig" rid="jad-50-jad150767-g004">Fig.&#x000a0;4</xref>), and no cytokine was increased at the follow-up. In the placebo group, no significant changes were detected in any cytokines between the baseline and follow-up time points. All data (mean&#x000b1;SD) for the baseline and follow-up time points for the two groups are shown in <xref ref-type="supplementary-material" rid="S1">Supplementary Table&#x000a0;2</xref>.</p><p>We performed a microarray analysis of the blood samples obtained from volunteers at the baseline and follow-up time points. For the analysis, we focused on the genes categorized as encoding &#x02018;inflammatory related genes including soluble factors such as chemokines and cytokines&#x02019;, which would be expected to affect nerve cells or cerebrovascular cells. <xref ref-type="supplementary-material" rid="S1">Supplementary Figure&#x000a0;1</xref> shows the changes in expression of &#x02018;inflammatory related&#x02019; genes by microarray analysis, even if the significance level was below the multiple correction level. We also examined the gene expression levels for the 26 cytokines analyzed above, to evaluate changes between the baseline and follow-up time points in each patient, but we did not detect any significant differences in their gene expression levels in PBMCs (data not shown).</p></sec><sec id="sec0070"><title>MRI analysis</title><p>Participants were evaluated by a perfusion MRI method, pulsed arterial spin labeling (pASL). To assess longitudinal brain perfusion changes induced by the supplementation, we compared 3D pASL data between the ACS and placebo groups, using the baseline and follow-up test data. Whole brain pASL data analysis revealed a tendency for brain perfusion preservation at the PCC area in the ACS group (<xref ref-type="fig" rid="jad-50-jad150767-g005">Fig.&#x000a0;5</xref>), whereas the inverse calculation did not reveal any findings. By using a PCC ROI offered by the toolbox wfu_pickatlas in the SPM software, we observed a significant preservation of brain perfusion in the ACS group (<italic>p</italic>&#x0200a;=&#x0200a;0.0228; <xref ref-type="fig" rid="jad-50-jad150767-g006">Fig.&#x000a0;6</xref>), after adjusting for age (F[1]&#x0200a;=&#x0200a;5.5051, <italic>p</italic>&#x0200a;=&#x0200a;0.0248).</p></sec><sec id="sec0075"><title>Another set of RCT</title><p>To confirm whether ACS would preserve verbal memory in elderly people, we recruited healthy participants (60&#x02013;80 years of age) and tested the WMS-LM2 test at the baseline and the 6-month follow-up. The group characteristics are summarized in <xref ref-type="table" rid="jad-50-jad150767-t004">Table&#x000a0;4</xref>. The two groups did not differ significantly with respect to age, gender, body mass index, education, or MMSE score. For the WMS-LM2 test, we used story A for the baseline and the follow-up tests. Data were analyzed using a two-way repeated ANOVA (Time [baseline or 6-month follow-up]&#x000d7;Variant [ACS or placebo]). The interaction Time&#x000d7;Variant was significant before (F[1,82]&#x0200a;=&#x0200a;5.509, <italic>p</italic>&#x0200a;=&#x0200a;0.0213; <xref ref-type="fig" rid="jad-50-jad150767-g007">Fig.&#x000a0;7</xref>), and afteradjusting for age (F[1]&#x0200a;=&#x0200a;5.6125, <italic>p</italic>&#x0200a;=&#x0200a;0.0202).</p></sec></sec><sec id="sec0080"><title>DISCUSSION</title><p>In this study, we detected a significant preservation of verbal episodic memory function in healthy elderly people treated with an anserine/carnosine supplement in the two separate tests. Using a WMS-LM test to evaluate cognitive function [<xref rid="ref011" ref-type="bibr">11, 31</xref>], we obtained significant results in the delayed recall (WMS-LM2) test, but not in the immediate recall (WMS-LM1) test, suggesting that ACS may have a beneficial effect on verbal memory registration, but not on short-term working verbal memory. We also applied a set of psychological tests and health questionnaires, including the ADAScog, BDI, and SF-36 (both mental and physiological domains), to evaluate the effect of ACS on the cognitive and mental functions of the elderlyvolunteers, as we expected we did not detect any significant differences between the ACS and placebo groups. We assessed the effect of the supplementation on cognitive function using the data from all of the volunteers (age 41&#x02013;78 years), but we did not detect any significant differences between the ACS and placebo group (data not shown).</p><p>Given that the delayed-recall tests of verbal memory, such as the WMS-LM delayed recall (WMS-LM2) test or the free and cue selective reminding test (FCSRT) [<xref rid="ref032" ref-type="bibr">32&#x02013;34</xref>], are considered a sensitive battery for detecting a cognitive decline of elderly people, our findings indicate that ACS may inhibit a cognitive decline, as detected by the verbal memory test. In line with our data, Szcze&#x0015b;niak et&#x000a0;al. [<xref rid="ref009" ref-type="bibr">9</xref>] also suggested that ACS inhibits the decline in delayed recall, but not immediate recall, of memory in elderly people, as assessed using the STMS test [<xref rid="ref032" ref-type="bibr">32</xref>].</p><p>To evaluate brain perfusion, especially in the PCC region, where an age-dependent decline in perfusion is reported to occur [<xref rid="ref012" ref-type="bibr">12, 35, 36</xref>], we used a perfusion MRI method, 3D-pulsed ASL, with a FAIR labeling scheme [<xref rid="ref037" ref-type="bibr">37</xref>] and a post-label delay time of 2350&#x0200a;ms. With this long delay time, capillary components rather than artery components contribute to the signal, according to the model proposed by Li et&#x000a0;al. [<xref rid="ref038" ref-type="bibr">38</xref>].</p><p>Given this background, we examined the level of inflammatory cytokines in serum, which may reflect atherosclerotic changes in the body&#x02019;s cardiovascular system. We detected significant decreases in theconcentrations of IL8 and CCL2 in the ACS group after supplementation, in agreement with our previous finding that carnosine treatment decreases the production of IL8 in TNF-treated cells [<xref rid="ref039" ref-type="bibr">39</xref>]. CCL2 is upregulated during inflammation and can disrupt the integrity of the brain-blood barrier [<xref rid="ref040" ref-type="bibr">40</xref>]. Our microarray analysis of the blood cells from the volunteers did not reveal any decline in the gene expression levels of inflammatory cytokines, suggesting that the decrease in the blood concentration of IL8 and CCL2 may have resulted from regulation at the cardiovascular cells, such as endothelial cells or smooth muscle cells, rather than at the blood cells.</p><p>To explore alternative scenarios for the effect of ACS on verbal episodic memory learning as assessed by the WMS-LM2 delayed recall, we performed a number of MRI scans, including VBM and DTI. Although previous studies showed a correlation of the verbal episodic memory score with a decline in hippocampal volume [<xref rid="ref041" ref-type="bibr">41, 42</xref>] or with white matter microstructural change [<xref rid="ref043" ref-type="bibr">43</xref>], we did not observe any significant difference in these brain structures between the two groups. Taken together, it is reasonable to speculate that ACS has a preservative effect against a cognitive decline through its ability to suppress neurovascular damage.</p><p>How ACS suppresses neurovascular damage and maintains brain blood flow is still unknown. In humans, the concentration of carnosine and its derivatives, such as anserine, is high in muscle tissues, in the milimolar range [<xref rid="ref006" ref-type="bibr">6, 44, 45</xref>]. In our immunoassay, we detected a decrease in the serum concentration of inflammatory cytokines, but we did not detect a change in their gene expression level in PBMCs, suggesting that the difference emerged, not from blood cells, but from cardiovascular cells, such as pericytes. Recently, Zlokovic and his colleagues elegantly demonstrated the role of brain blood vessel pericytes in enabling brain micro-capillaries to maintain brain blood flow and suggested that pericyte degeneration contributes to the etiology of AD [<xref rid="ref046" ref-type="bibr">46, 47</xref>]. It can be speculated that ingested anserine and carnosine are taken up by the pericytes of brain microcapillaries, where they inhibit degenerative cellular changes; however, further studies are required to determine the precise mechanisms by which ACS affects brain function.</p><p>Our study has various limitations. The sample size was limited, and represented an age-based subgroup analysis from a larger original group that included data from younger subjects. To confirm main effect of ACS on verbal memory, we added an interim data from another RCT in this communication. In this study, we used a mixture of anserine and carnosine from chicken meat extract, which also contained a small amount of creatinine that induced a transient increase in the blood creatinine level. Anserine and carnosine were also ingested through the subjects&#x02019; normal diet. In this study, we tried to estimate the participants&#x02019; dietary intake of anserine and carnosine by using a questionnaire. Although the survey results indicated that the anserine and carnosine consumption from the diet was equivalent between the ACS and placebo groups in our study, a better method is needed to estimate their levels more accurately.</p></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data" id="S1"><caption><title>Supplementary Material</title></caption><media xlink:href="jad-50-jad150767-s001.pptx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><title>ACKNOWLEDGMENTS</title><p>This study was supported by the Scientific Technique Research Promotion Program for Agriculture, Forestry, Fisheries and Food Industry (Grant# 25012A), from the Ministry of Agriculture, Forestry, and Fishery (MAFF), the government of Japan, and by a Grant-in-Aid for Scientific Research on Innovative Areas (Memory Dynamism), from the Japan Society for the Promotion of Science. The authors thank the CRC Company, Imepro Inc. (Tokyo, Japan) for assigning the study groups and NH Foods Ltd. (Osaka, Japan) for preparing the anserine/carnosine supplement and placebos.</p><p>Authors&#x02019; disclosures available online (<ext-link ext-link-type="uri" xlink:href="http://j-alz.com/manuscript-disclosures/15-0767r1">http://j-alz.com/manuscript-disclosures/15-0767r1</ext-link>).</p></ack><app-group><app><title>Appendix</title><supplementary-material content-type="local-data"><p>The supplementary material is available in the electronic version of this article: <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.3233/JAD-150767">http://dx.doi.org/10.3233/JAD-150767</ext-link>.</p></supplementary-material></app></app-group><ref-list><title>REFERENCES</title><ref id="ref001"><label>[1]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Baumgart</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Snyder</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Carrillo</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Fazio</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Johns</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Summary of the evidence on modifiable risk factors for cognitive decline and dementia: A population-based perspective</article-title>. <source>Alzheimers Dement</source>
+<volume>11</volume>, <fpage>718</fpage>&#x02013;<lpage>726</lpage>.<pub-id pub-id-type="pmid">26045020</pub-id></mixed-citation></ref><ref id="ref002"><label>[2]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lindenberger</surname>
+<given-names>U</given-names>
+</string-name> (<year>2014</year>) <article-title>Human cognitive aging: Corriger la fortune?</article-title>. <source>Science</source>
+<volume>346</volume>, <fpage>572</fpage>&#x02013;<lpage>578</lpage>.<pub-id pub-id-type="pmid">25359964</pub-id></mixed-citation></ref><ref id="ref003"><label>[3]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gutchess</surname>
+<given-names>A</given-names>
+</string-name> (<year>2014</year>) <article-title>Plasticity of the aging brain: New directions in cognitive neuroscience</article-title>. <source>Science</source>
+<volume>346</volume>, <fpage>579</fpage>&#x02013;<lpage>582</lpage>.<pub-id pub-id-type="pmid">25359965</pub-id></mixed-citation></ref><ref id="ref004"><label>[4]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Cooper</surname>
+<given-names>JK</given-names>
+</string-name> (<year>2014</year>) <article-title>Nutrition and the brain: What advice should we give?</article-title>. <source>Neurobiol Aging</source>
+<volume>(Suppl 2) 35</volume>, <fpage>S79</fpage>&#x02013;<lpage>S83</lpage>.<pub-id pub-id-type="pmid">24925810</pub-id></mixed-citation></ref><ref id="ref005"><label>[5]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Far&#x000ed;as</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Guzm&#x000e1;n-Mart&#x000ed;nez</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Delgado</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Maccioni</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2014</year>) <article-title>Nutraceuticals: A novel concept in prevention and treatment of Alzheimer&#x02019;s disease and related disorders</article-title>. <source>J Alzheimers Dis</source>
+<volume>42</volume>, <fpage>357</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">24927706</pub-id></mixed-citation></ref><ref id="ref006"><label>[6]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Boldyrev</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Aldini</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Derave</surname>
+<given-names>W</given-names>
+</string-name> (<year>2013</year>) <article-title>Physiology and pathophysiology of carnosine</article-title>. <source>Physiol Rev</source>
+<volume>93</volume>, <fpage>1803</fpage>&#x02013;<lpage>1845</lpage>.<pub-id pub-id-type="pmid">24137022</pub-id></mixed-citation></ref><ref id="ref007"><label>[7]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Hipkiss</surname>
+<given-names>AR</given-names>
+</string-name> (<year>2007</year>) <article-title>Could carnosine or related structures suppress Alzheimer&#x02019;s disease?</article-title>. <source>J Alzheimers Dis</source>
+<volume>11</volume>, <fpage>229</fpage>&#x02013;<lpage>240</lpage>.<pub-id pub-id-type="pmid">17522447</pub-id></mixed-citation></ref><ref id="ref008"><label>[8]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Herculano</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tamura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ohba</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shimatani</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kutsuna</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hisatsune</surname>
+<given-names>T</given-names>
+</string-name> (<year>2013</year>) <article-title>&#x003b2;-alanyl-L-histidine rescues cognitive deficits caused by feeding a high fat diet in a transgenic mouse model of Alzheimer&#x02019;s disease</article-title>. <source>J Alzheimers Dis</source>
+<volume>33</volume>, <fpage>983</fpage>&#x02013;<lpage>997</lpage>.<pub-id pub-id-type="pmid">23099816</pub-id></mixed-citation></ref><ref id="ref009"><label>[9]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Szcze&#x0015b;niak</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Budze&#x00144;</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kope&#x00107;</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Rymaszewska</surname>
+<given-names>J</given-names>
+</string-name> (<year>2014</year>) <article-title>Anserine and carnosine supplementation in the elderly: Effects on cognitive functioning and physical capacity</article-title>. <source>Arch Gerontol Geriatr</source>
+<volume>59</volume>, <fpage>485</fpage>&#x02013;<lpage>490</lpage>.<pub-id pub-id-type="pmid">24880197</pub-id></mixed-citation></ref><ref id="ref010"><label>[10]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Sugishita</surname>
+<given-names>M</given-names>
+</string-name> (<year>2001</year>) <source>Wechsler Memory Scale-Revised (Japanese)</source>, <publisher-name>Nihon Bunka Kagakusha</publisher-name>, <publisher-loc>Tokyo</publisher-loc>.</mixed-citation></ref><ref id="ref011"><label>[11]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kawano</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Awata</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ijuin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Iwamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ozaki</surname>
+<given-names>N</given-names>
+</string-name> (<year>2013</year>) <article-title>Necessity of normative data on the Japanese version of the Wechsler Memory Scale-Revised Logical Memory subtest for old-old people</article-title>. <source>Geriatr Gerontol Int</source>
+<volume>13</volume>, <fpage>726</fpage>&#x02013;<lpage>730</lpage>.<pub-id pub-id-type="pmid">23279764</pub-id></mixed-citation></ref><ref id="ref012"><label>[12]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Feinberg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Guenther</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gregori</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Schuff</surname>
+<given-names>N</given-names>
+</string-name> (<year>2012</year>) <article-title>Arterial spin labeling MRI study of age and gender effects on brain perfusion hemodynamics</article-title>. <source>Magn Reson Med</source>
+<volume>68</volume>, <fpage>912</fpage>&#x02013;<lpage>922</lpage>.<pub-id pub-id-type="pmid">22139957</pub-id></mixed-citation></ref><ref id="ref013"><label>[13]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Aoyagi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sugino</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kajimoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nishitani</surname>
+<given-names>M</given-names>
+</string-name> (<year>2008</year>) <article-title>Safety of long-term administration of CBEX-Dr-containing drink of healthy people</article-title>. <source>Jpn Pharmacol Ther</source>
+<volume>36</volume>, <fpage>213</fpage>&#x02013;<lpage>224</lpage>.</mixed-citation></ref><ref id="ref014"><label>[14]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Aoyagi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sugino</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kajimoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nishitani</surname>
+<given-names>M</given-names>
+</string-name> (<year>2008</year>) <article-title>Safety of excess administration of CBEX-Dr-containing drink of healthy people</article-title>. <source>Jpn Pharmacol Ther</source>
+<volume>36</volume>, <fpage>225</fpage>&#x02013;<lpage>235</lpage>.</mixed-citation></ref><ref id="ref015"><label>[15]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kiyohara</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Shinohara</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kato</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Shirota</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kubo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tanizaki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fujishima</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Iida</surname>
+<given-names>M</given-names>
+</string-name> (<year>2003</year>) <article-title>Dietary factors and development of impaired glucose tolerance and diabetes in a general Japanese population: The Hisayama Study</article-title>. <source>J Epidemiology</source>
+<volume>13</volume>, <fpage>251</fpage>&#x02013;<lpage>258</lpage>.</mixed-citation></ref><ref id="ref016"><label>[16]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Homma</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fukuzawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Tsukada</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ishii</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hasegawa</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Mohs</surname>
+<given-names>RC</given-names>
+</string-name> (<year>1992</year>) <article-title>Development of a Japanese version of Alzheimer&#x02019;s disease Assessment Scale (ADAS)</article-title>. <source>Jpn J Geriatr Psychiatry</source>
+<volume>3</volume>, <fpage>647</fpage>&#x02013;<lpage>655</lpage>.</mixed-citation></ref><ref id="ref017"><label>[17]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Mohs</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Rosen</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>KL</given-names>
+</string-name> (<year>1983</year>) <article-title>The Alzheimer&#x02019;sDisease Assessment Scale: An instrument for assessing treatment efficacy</article-title>. <source>Psychopharmacol Bull</source>
+<volume>19</volume>, <fpage>448</fpage>&#x02013;<lpage>450</lpage>.<pub-id pub-id-type="pmid">6635122</pub-id></mixed-citation></ref><ref id="ref018"><label>[18]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Beck</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Steer</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>GK</given-names>
+</string-name> (<year>1996</year>) <source>Manual for the Beck Depression Inventory</source>, <edition>2nd Ed</edition>, <publisher-name>Pearson</publisher-name>, <publisher-loc>Texas</publisher-loc>.</mixed-citation></ref><ref id="ref019"><label>[19]</label><mixed-citation publication-type="book">
+<string-name>
+<surname>Kojima</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Furukawa</surname>
+<given-names>TA</given-names>
+</string-name> (<year>2003</year>) <source>Japanese manual of the Beck Depression Inventory</source>, <edition>2nd ed</edition>, <publisher-name>Nihon Bunka Kagakusha</publisher-name>, <publisher-loc>Tokyo</publisher-loc>.</mixed-citation></ref><ref id="ref020"><label>[20]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ware</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Sherbourne</surname>
+<given-names>CD</given-names>
+</string-name> (<year>1992</year>) <article-title>The MOS 36-item short-form health survey (SF-36). I. Conceptual framework and item selection</article-title>. <source>Med Care</source>
+<volume>30</volume>, <fpage>474</fpage>&#x02013;<lpage>483</lpage>.</mixed-citation></ref><ref id="ref021"><label>[21]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nyunt</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Gwee</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kua</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>TP</given-names>
+</string-name> (<year>2012</year>) <article-title>Life event stress and chronic obstructive pulmonary disease (COPD): Associations with mental well-being and quality of life in a population-based study</article-title>. <source>BMJ Open</source>
+<volume>2</volume>, <fpage>e001674</fpage>.</mixed-citation></ref><ref id="ref022"><label>[22]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Uchida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Shan</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Tabuse</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Nishimura</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hirokawa</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Mizukami</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Akatsu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Meno</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Asada</surname>
+<given-names>T</given-names>
+</string-name> (<year>2015</year>) <article-title>Amyloid-&#x003b2; sequester proteins as blood-based biomarkers of cognitive decline</article-title>. <source>Alzheimers Dement (Amst)</source>
+<volume>1</volume>, <fpage>270</fpage>&#x02013;<lpage>280</lpage>.<pub-id pub-id-type="pmid">27239510</pub-id></mixed-citation></ref><ref id="ref023"><label>[23]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Archary</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Liebenberg</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Werner</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tulsi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Majola</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Naicker</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Dlamini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hope</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Samsunder</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Abdool Karim</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Passmore</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Garrett</surname>
+<given-names>NJ</given-names>
+</string-name> (<year>2015</year>) <article-title>Randomized cross-sectional study to compare HIV-1 specific antibody and cytokine concentrations in female genital secretions obtained by menstrual cup and cervicovaginal lavage</article-title>. <source>PLoS One</source>
+<volume>10</volume>, <fpage>e0131906</fpage>.<pub-id pub-id-type="pmid">26147923</pub-id></mixed-citation></ref><ref id="ref024"><label>[24]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Benjamini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hochberg</surname>
+<given-names>Y</given-names>
+</string-name> (<year>1995</year>) <article-title>Controlling false discovery rate: A practical and powerful approach to multiple testing</article-title>. <source>J R Statist Soc ser B</source>
+<volume>57</volume>, <fpage>289</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="ref025"><label>[25]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>da Conceicao</surname>
+<given-names>VN</given-names>
+</string-name>, <string-name>
+<surname>Dyer</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Gandhi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Gupta</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Saksena</surname>
+<given-names>NK</given-names>
+</string-name> (<year>2014</year>) <article-title>Genome-wide analysis of primary peripheral blood mononuclear cells from HIV + patients-pre-and post- HAART show immune activation and inflammation the main drivers of host gene expression</article-title>. <source>Mol Cell Ther</source>
+<volume>2</volume>, <fpage>11</fpage>.<pub-id pub-id-type="pmid">26056580</pub-id></mixed-citation></ref><ref id="ref026"><label>[26]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bolstad</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Irizarry</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Astrand</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Speed</surname>
+<given-names>TP</given-names>
+</string-name> (<year>2003</year>) <article-title>A comparison of normalization methods for high density oligonucleotide array data based on variance and bias</article-title>. <source>Bioinformatics</source>
+<volume>19</volume>, <fpage>185</fpage>&#x02013;<lpage>193</lpage>.<pub-id pub-id-type="pmid">12538238</pub-id></mixed-citation></ref><ref id="ref027"><label>[27]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Gentleman</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Carey</surname>
+<given-names>VJ</given-names>
+</string-name>, <string-name>
+<surname>Bates</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Bolstad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Dettling</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dudoit</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ellis</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gautier</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ge</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gentry</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hornik</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hothorn</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Iacus</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Irizarry</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Leisch</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Maechler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rossini</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Sawitzki</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Smyth</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Tierney</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>J</given-names>
+</string-name> (<year>2004</year>) <article-title>Bioconductor: Open software development for computational biology and bioinformatics</article-title>. <source>Genome Biol</source>
+<volume>5</volume>, <fpage>R80</fpage>.<pub-id pub-id-type="pmid">15461798</pub-id></mixed-citation></ref><ref id="ref028"><label>[28]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Saeed</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Sharov</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Bhagabati</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Braisted</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Klapa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Currier</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Thiagarajan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sturn</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Snuffin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rezantsev</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Popov</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ryltsov</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kostukovich</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Borisovsky</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Vinsavich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Trush</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Quackenbush</surname>
+<given-names>J</given-names>
+</string-name> (<year>2003</year>) <article-title>TM4: A free, open-source system for microarray data management and analysis</article-title>. <source>BioTechniques</source>
+<volume>34</volume>, <fpage>374</fpage>&#x02013;<lpage>378</lpage>.<pub-id pub-id-type="pmid">12613259</pub-id></mixed-citation></ref><ref id="ref029"><label>[29]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Matsuda</surname>
+<given-names>H</given-names>
+</string-name> (<year>2013</year>) <article-title>Voxel-based morphometry of brain MRI in normal aging and Alzheimer&#x02019;s disease</article-title>. <source>Aging Dis</source>
+<volume>4</volume>, <fpage>29</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">23423504</pub-id></mixed-citation></ref><ref id="ref030"><label>[30]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Ashburner</surname>
+<given-names>J</given-names>
+</string-name> (<year>2007</year>) <article-title>A fast diffeomorphic image registration algorithm</article-title>. <source>Neuroimage</source>
+<volume>38</volume>, <fpage>95</fpage>&#x02013;<lpage>113</lpage>.<pub-id pub-id-type="pmid">17761438</pub-id></mixed-citation></ref><ref id="ref031"><label>[31]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Goto</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Abe</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Miyati</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yoshikawa</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hayashi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Takao</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Inano</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kabasawa</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kunimatsu</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Aoki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ino</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Iida</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Yano</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ohtomo</surname>
+<given-names>K</given-names>
+</string-name> (<year>2011</year>) <article-title>Entorhinal cortex volume measured with 3T MRI is positively correlated with the Wechsler Memory Scale-Revised logical/verbal memory score for healthy subjects</article-title>. <source>Neuroradiology</source>
+<volume>53</volume>, <fpage>617</fpage>&#x02013;<lpage>622</lpage>.<pub-id pub-id-type="pmid">21455719</pub-id></mixed-citation></ref><ref id="ref032"><label>[32]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Lonie</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Tierney</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Ebmeier</surname>
+<given-names>KP</given-names>
+</string-name> (<year>2009</year>) <article-title>Screening for mild cognitive impairment: A systematic review</article-title>. <source>Int J Geriatr Psychiatry</source>
+<volume>24</volume>, <fpage>902</fpage>&#x02013;<lpage>915</lpage>.<pub-id pub-id-type="pmid">19226524</pub-id></mixed-citation></ref><ref id="ref033"><label>[33]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Grober</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Hall</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lipton</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2010</year>) <article-title>Free and cued selective reminding identifies very mild dementia in primary care</article-title>. <source>Alzheimer Dis Assoc Disord</source>
+<volume>24</volume>, <fpage>284</fpage>&#x02013;<lpage>290</lpage>.<pub-id pub-id-type="pmid">20683186</pub-id></mixed-citation></ref><ref id="ref034"><label>[34]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Derby</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Burns</surname>
+<given-names>LC</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Zimmerman</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>L&#x02019;italien</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Berman</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Lipton</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2013</year>) <article-title>Screening for predementia AD: Time-dependent operating characteristics of episodic memory tests</article-title>. <source>Neurology</source>
+<volume>80</volume>, <fpage>1307</fpage>&#x02013;<lpage>1314</lpage>.<pub-id pub-id-type="pmid">23468542</pub-id></mixed-citation></ref><ref id="ref035"><label>[35]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Liu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Yuan</surname>
+<given-names>H</given-names>
+</string-name> (<year>2015</year>) <article-title>Different post label delay cerebral blood flow measurements in patients with Alzheimer&#x02019;s disease using 3D arterial spin labeling</article-title>. <source>Magn Reson Imaging</source>
+<volume>33</volume>, <fpage>1019</fpage>&#x02013;<lpage>1025</lpage>.<pub-id pub-id-type="pmid">26113261</pub-id></mixed-citation></ref><ref id="ref036"><label>[36]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Xekardaki</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Montandon</surname>
+<given-names>M-L</given-names>
+</string-name>, <string-name>
+<surname>Toma</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tombeur</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Herrmann</surname>
+<given-names>FR</given-names>
+</string-name>, <string-name>
+<surname>Zekry</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Lovblad</surname>
+<given-names>KO</given-names>
+</string-name>, <string-name>
+<surname>Barkhof</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Giannakopoulos</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Haller</surname>
+<given-names>S</given-names>
+</string-name> (<year>2015</year>) <article-title>Arterial spin labeling may contribute to the prediction of cognitive deterioration in healthy elderly individuals</article-title>. <source>Radiology</source>
+<volume>274</volume>, <fpage>490</fpage>&#x02013;<lpage>499</lpage>.<pub-id pub-id-type="pmid">25291458</pub-id></mixed-citation></ref><ref id="ref037"><label>[37]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Kim</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Tsekos</surname>
+<given-names>NV</given-names>
+</string-name>, <string-name>
+<surname>Ashe</surname>
+<given-names>J</given-names>
+</string-name> (<year>1997</year>) <article-title>Multi-slice perfusion-based functional MRI using the FAIR technique: Comparison of CBF and BOLD effects</article-title>. <source>NMR Biomed</source>
+<volume>10</volume>, <fpage>191</fpage>&#x02013;<lpage>196</lpage>.<pub-id pub-id-type="pmid">9430347</pub-id></mixed-citation></ref><ref id="ref038"><label>[38]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Li</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Hylton</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Jahng</surname>
+<given-names>GH</given-names>
+</string-name>, <string-name>
+<surname>Weiner</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Schuff</surname>
+<given-names>N</given-names>
+</string-name> (<year>2005</year>) <article-title>Four-phase single-capillary stepwise model for kinetics in arterial spin labeling MRI</article-title>. <source>Magn Reson Med</source>
+<volume>53</volume>, <fpage>511</fpage>&#x02013;<lpage>518</lpage>.<pub-id pub-id-type="pmid">15723393</pub-id></mixed-citation></ref><ref id="ref039"><label>[39]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Son</surname>
+<given-names>DO</given-names>
+</string-name>, <string-name>
+<surname>Satsu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kiso</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Totsuka</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shimizu</surname>
+<given-names>M</given-names>
+</string-name> (<year>2008</year>) <article-title>Inhibitory effect of carnosine on interleukin-8 production in intestinal epithelial cells through translational regulation</article-title>. <source>Cytokine</source>
+<volume>42</volume>, <fpage>265</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">18397832</pub-id></mixed-citation></ref><ref id="ref040"><label>[40]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Yao</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tsirka</surname>
+<given-names>SE</given-names>
+</string-name> (<year>2014</year>) <article-title>Monocyte chemoattractant protein-1 and the blood&#x02013;brain barrier</article-title>. <source>Cell Mol Life Sci</source>
+<volume>71</volume>, <fpage>683</fpage>&#x02013;<lpage>697</lpage>.<pub-id pub-id-type="pmid">24051980</pub-id></mixed-citation></ref><ref id="ref041"><label>[41]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Zimmerman</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Hetherington</surname>
+<given-names>HP</given-names>
+</string-name>, <string-name>
+<surname>Katz</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Verghese</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Buschke</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Derby</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Lipton</surname>
+<given-names>RB</given-names>
+</string-name> (<year>2008</year>) <article-title>Hippocampal neurochemistry, neuromorphometry, andverbal memory in nondemented older adults</article-title>. <source>Neurology</source>
+<volume>70</volume>, <fpage>1594</fpage>&#x02013;<lpage>1600</lpage>.<pub-id pub-id-type="pmid">18367703</pub-id></mixed-citation></ref><ref id="ref042"><label>[42]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Travis</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Fujiwara</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Radomski</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Olsen</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Carter</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Seres</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Malykhin</surname>
+<given-names>NV</given-names>
+</string-name> (<year>2014</year>) <article-title>High field structural MRI reveals specific episodic memory correlates in the subfields of the hippocampus</article-title>. <source>Neuropsychologia</source>
+<volume>53</volume>, <fpage>233</fpage>&#x02013;<lpage>245</lpage>.<pub-id pub-id-type="pmid">24296251</pub-id></mixed-citation></ref><ref id="ref043"><label>[43]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>McDonald</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Leyden</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Hagler</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Kucukboyaci</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Kemmotsu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tecoma</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Iragui</surname>
+<given-names>VJ</given-names>
+</string-name> (<year>2014</year>) <article-title>White matter microstructure complements morphometry for predicting verbal memory in epilepsy</article-title>. <source>Cortex</source>
+<volume>58</volume>, <fpage>139</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">25016097</pub-id></mixed-citation></ref><ref id="ref044"><label>[44]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Crush</surname>
+<given-names>KG</given-names>
+</string-name> (<year>1970</year>) <article-title>Carnosine and related substances in animal tissues</article-title>. <source>Comp Biochem Physiol</source>
+<volume>34</volume>, <fpage>3</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">4988625</pub-id></mixed-citation></ref><ref id="ref045"><label>[45]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Suzuki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hirano</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Suyama</surname>
+<given-names>M</given-names>
+</string-name> (<year>1987</year>) <article-title>Free imidazole compounds in white and dark muscles of migratory marine fish</article-title>. <source>Comp Biochem Physiol B</source>
+<volume>87</volume>, <fpage>615</fpage>&#x02013;<lpage>619</lpage>.<pub-id pub-id-type="pmid">3621916</pub-id></mixed-citation></ref><ref id="ref046"><label>[46]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Bell</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Winkler</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Deane</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Holtzman</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Betsholtz</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Armulik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Sallstrom</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Berk</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2012</year>) <article-title>Apolipoprotein E controls cerebrovascular integrity via cyclophilin A</article-title>. <source>Nature</source>
+<volume>485</volume>, <fpage>512</fpage>&#x02013;<lpage>516</lpage>.<pub-id pub-id-type="pmid">22622580</pub-id></mixed-citation></ref><ref id="ref047"><label>[47]</label><mixed-citation publication-type="journal">
+<string-name>
+<surname>Montagne</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barnes</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Sweeney</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Halliday</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Sagare</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Toga</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Amezcua</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Chui</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Law</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Zlokovic</surname>
+<given-names>BV</given-names>
+</string-name> (<year>2015</year>) <article-title>Blood-brain barrier breakdown in the aging human hippocampus</article-title>. <source>Neuron</source>
+<volume>85</volume>, <fpage>296</fpage>&#x02013;<lpage>302</lpage>.<pub-id pub-id-type="pmid">25611508</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="jad-50-jad150767-g001" orientation="portrait" position="float"><label>Fig.1</label><caption><p>Flow diagram showing the number of elderly participants (&#x02265;60 years old) during the study. 1st test: baseline. 2nd test: 3 months after supplementation.</p></caption><graphic xlink:href="jad-50-jad150767-g001"/></fig><fig id="jad-50-jad150767-g002" orientation="portrait" position="float"><label>Fig.2</label><caption><p>Chemical structures of anserine and carnosine. Anserine (&#x003b2;-Alanyl-L-Methyl-Histidine) and carnosine (&#x003b2;-Alanyl-L-Histidine) are sometimes called as imidazole-containing dipeptides.</p></caption><graphic xlink:href="jad-50-jad150767-g002"/></fig><fig id="jad-50-jad150767-g003" orientation="portrait" position="float"><label>Fig.3</label><caption><p>Longitudinal change in score of WMS-LM2 between the two groups. Box plot of WMS-LM2 data described in <xref ref-type="table" rid="jad-50-jad150767-t003">Table 3</xref>. Each black dot represents the change of score in each volunteer. Active (<italic>n</italic>&#x0200a;=&#x0200a;19), Placebo (<italic>n</italic>&#x0200a;=&#x0200a;20). Solid bar shows median, and box shows 25&#x02013;75 percentile. BL, Baseline; FU, Follow-up. We observed a significant improvement of WMS-LM2 score in the ACS group before (F[1,37]&#x0200a;=&#x0200a;9.067, <italic>p</italic>&#x0200a;=&#x0200a;0.0047), after adjusting for age (F[1]&#x0200a;=&#x0200a;6.8588, <italic>p</italic>&#x0200a;=&#x0200a;0.0128).</p></caption><graphic xlink:href="jad-50-jad150767-g003"/></fig><fig id="jad-50-jad150767-g004" orientation="portrait" position="float"><label>Fig.4</label><caption><p>Significant decreases in inflammatory cytokines in the ACS Group. Of 26 cytokines tested, three (IL-8, CCL-2 (MCP-1), and IL-5) were significantly decreased (<italic>p</italic>&#x0200a;&#x0003c; &#x0200a;0.01, after FDR) in the sera of the ACS group. No cytokines significantly decreased in the placebo group. Each black dot represents the concentration of cytokine in each volunteer at the indicated test. Active (<italic>n</italic>&#x0200a;=&#x0200a;19), Placebo (<italic>n</italic>&#x0200a;=&#x0200a;20). Red bar shows median, and red error bar shows 25&#x02013;75 percentile. BL, Baseline; FU, Follow-up.</p></caption><graphic xlink:href="jad-50-jad150767-g004"/></fig><fig id="jad-50-jad150767-g005" orientation="portrait" position="float"><label>Fig.5</label><caption><p>Analysis and location of longitudinal brain perfusion changes. Color indicates the brain region that showed a difference in brain perfusion changes between the two groups, after repeated two-way ANOVA, interaction Time&#x000d7;Variant (active&#x0200a;&#x0003e; &#x0200a;placebo, <italic>p</italic>&#x0200a;&#x0003c; &#x0200a;0.01, Voxel threshold&#x0200a;&#x0003e; &#x0200a;500). Due to low image quality, we eliminated one individual from the ACS group; therefore, we compared 38 participants in the ACS (<italic>n</italic>&#x0200a;=&#x0200a;18) and placebo (<italic>n</italic>&#x0200a;=&#x0200a;20) groups. Inverse calculation showed no plot. The locations are plotted on a template human brain. Red arrows with PCC (BA29) shows a cluster of perfusion preservation after supplementation (Cluster Size: 797; Peak (x, y, z)&#x0200a;=&#x0200a;(&#x02013;8, &#x02013;58, 16) at Z-score of 3.51).</p></caption><graphic xlink:href="jad-50-jad150767-g005"/></fig><fig id="jad-50-jad150767-g006" orientation="portrait" position="float"><label>Fig.6</label><caption><p>Longitudinal change in PCC perfusion change between the two groups. We used a PCC ROI defined by a public domain program for the SPM software: toolbox, wfu_pickatlas, and performed a ROI analysis. We observed a significant preservation of the brain perfusion of the PCC in the ACS group (<italic>p</italic>&#x0200a;=&#x0200a;0.0228). After adjusting for age, we detected a significant difference between the two groups (F(1)&#x0200a;=&#x0200a;5.5051, <italic>p</italic>&#x0200a;=&#x0200a;0.0248).</p></caption><graphic xlink:href="jad-50-jad150767-g006"/></fig><fig id="jad-50-jad150767-g007" orientation="portrait" position="float"><label>Fig.7</label><caption><p>Longitudinal change in score of WMS-LM2 between the two groups in another RCT. Each black dot represents the change of score in each volunteer between the baseline score and the 6 month follow-up score. Active (<italic>n</italic>&#x0200a;=&#x0200a;42), Placebo (<italic>n</italic>&#x0200a;=&#x0200a;42). Solid bar shows median, and box shows 25&#x02013;75 percentile. BL, Baseline; FU, 6 Month Follow-up. We observed a significant improvement of WMS-LM2 score in the ACS group before (F[1,82]&#x0200a;=&#x0200a;5.509, <italic>p</italic>&#x0200a;=&#x0200a;0.0213), and after adjusting for age (F[1]&#x0200a;=&#x0200a;5.6125, <italic>p</italic>&#x0200a;=&#x0200a;0.0202).</p></caption><graphic xlink:href="jad-50-jad150767-g007"/></fig><table-wrap id="jad-50-jad150767-t001" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics of participants who completed 3 month-test</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Active (19)</td><td rowspan="1" colspan="1">Placebo (20)</td><td rowspan="1" colspan="1"><italic>p</italic></td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Age (mean&#x000b1;SD)</td><td rowspan="1" colspan="1">67.8&#x000b1;5.6</td><td rowspan="1" colspan="1">70.6&#x000b1;5.1</td><td rowspan="1" colspan="1">0.12</td></tr><tr><td rowspan="1" colspan="1">Gender (M/F)</td><td rowspan="1" colspan="1">8/11</td><td rowspan="1" colspan="1">9/10</td><td rowspan="1" colspan="1">0.74</td></tr><tr><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">21.6&#x000b1;3.0</td><td rowspan="1" colspan="1">21.0&#x000b1;5.4</td><td rowspan="1" colspan="1">0.68</td></tr><tr><td rowspan="1" colspan="1">Education (y)</td><td rowspan="1" colspan="1">14.9&#x000b1;2.5</td><td rowspan="1" colspan="1">15.2&#x000b1;2.4</td><td rowspan="1" colspan="1">0.80</td></tr><tr><td rowspan="1" colspan="1">MMSE</td><td rowspan="1" colspan="1">28.6&#x000b1;1.6</td><td rowspan="1" colspan="1">29.0&#x000b1;1.1</td><td rowspan="1" colspan="1">0.48</td></tr></tbody></table><table-wrap-foot><p>Significance was determined according to Student <italic>t</italic>-test, and chi-square test (for gender).</p></table-wrap-foot></table-wrap><table-wrap id="jad-50-jad150767-t002" orientation="portrait" position="float"><label>Table 2</label><caption><p>Estimated intake of anserine and carnosine in each group</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Food</td><td rowspan="1" colspan="1">Active Group Ave.&#x000b1;SD</td><td rowspan="1" colspan="1">Placebo Group Ave.&#x000b1;SD</td><td rowspan="1" colspan="1"><italic>p</italic> value</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Anserine (mg/day)</td><td rowspan="1" colspan="1">Poultry</td><td rowspan="1" colspan="1">217&#x000b1;179</td><td rowspan="1" colspan="1">198&#x000b1;167</td><td rowspan="1" colspan="1">0.73</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Pork</td><td rowspan="1" colspan="1">9.3&#x000b1;8.0</td><td rowspan="1" colspan="1">4.4&#x000b1;3.1</td><td rowspan="1" colspan="1">0.02</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Beef</td><td rowspan="1" colspan="1">7.9&#x000b1;7.9</td><td rowspan="1" colspan="1">7.2&#x000b1;9.7</td><td rowspan="1" colspan="1">0.79</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Eel</td><td rowspan="1" colspan="1">0&#x000b1;0</td><td rowspan="1" colspan="1">0&#x000b1;0</td><td rowspan="1" colspan="1">N. D.</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">White fish</td><td rowspan="1" colspan="1">120&#x000b1;138</td><td rowspan="1" colspan="1">98&#x000b1;86</td><td rowspan="1" colspan="1">0.56</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Blue back Fish</td><td rowspan="1" colspan="1">1.2&#x000b1;1.2</td><td rowspan="1" colspan="1">1.5&#x000b1;1.6</td><td rowspan="1" colspan="1">0.48</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Red meat Fish</td><td rowspan="1" colspan="1">54.9&#x000b1;53.3</td><td rowspan="1" colspan="1">67.0&#x000b1;63.5</td><td rowspan="1" colspan="1">0.53</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Anserine from daily food</td><td rowspan="1" colspan="1">
+<bold>411</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>278</bold></td><td rowspan="1" colspan="1">
+<bold>377</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>271</bold></td><td rowspan="1" colspan="1">0.70</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Anserine from supplementation</td><td rowspan="1" colspan="1">
+<bold>750</bold></td><td rowspan="1" colspan="1">
+<bold>0</bold></td><td rowspan="1" colspan="1">N. D.</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Anserine (Total)</td><td rowspan="1" colspan="1">
+<bold>1,161</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>278</bold></td><td rowspan="1" colspan="1">
+<bold>377</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>271</bold></td><td rowspan="1" colspan="1">9.5E-11</td></tr><tr><td rowspan="1" colspan="1">Carnosine (mg/day)</td><td rowspan="1" colspan="1">Poultry</td><td rowspan="1" colspan="1">60.9&#x000b1;50.3</td><td rowspan="1" colspan="1">55.6&#x000b1;46.9</td><td rowspan="1" colspan="1">0.73</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Pork</td><td rowspan="1" colspan="1">124&#x000b1;106</td><td rowspan="1" colspan="1">58.8&#x000b1;41.4</td><td rowspan="1" colspan="1">0.02</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Beef</td><td rowspan="1" colspan="1">38.6&#x000b1;38.3</td><td rowspan="1" colspan="1">34.9&#x000b1;46.9</td><td rowspan="1" colspan="1">0.79</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Eel</td><td rowspan="1" colspan="1">7.4&#x000b1;5.3</td><td rowspan="1" colspan="1">6.1&#x000b1;1.7</td><td rowspan="1" colspan="1">0.34</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">White fish</td><td rowspan="1" colspan="1">0&#x000b1;0</td><td rowspan="1" colspan="1">0&#x000b1;0</td><td rowspan="1" colspan="1">N. D.</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Blue back Fish</td><td rowspan="1" colspan="1">32.5&#x000b1;33.4</td><td rowspan="1" colspan="1">41.4&#x000b1;43.7</td><td rowspan="1" colspan="1">0.48</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Red meat Fish</td><td rowspan="1" colspan="1">4.3&#x000b1;4.2</td><td rowspan="1" colspan="1">5.3&#x000b1;5.0</td><td rowspan="1" colspan="1">0.53</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Carnosine from daily food</td><td rowspan="1" colspan="1">
+<bold>268</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>135</bold></td><td rowspan="1" colspan="1">
+<bold>202</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>110</bold></td><td rowspan="1" colspan="1">0.10</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Carnosine from supplementation</td><td rowspan="1" colspan="1">
+<bold>250</bold></td><td rowspan="1" colspan="1">
+<bold>0</bold></td><td rowspan="1" colspan="1">N. D.</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Carnosine (Total)</td><td rowspan="1" colspan="1">
+<bold>518</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>135</bold></td><td rowspan="1" colspan="1">
+<bold>202</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>110</bold></td><td rowspan="1" colspan="1">1.3E-09</td></tr><tr><td rowspan="1" colspan="1">Anserine+Carnosine (mg/day)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+<bold>1,679</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>384</bold></td><td rowspan="1" colspan="1">
+<bold>579</bold>&#x0200a;<bold>&#x000b1;</bold>&#x0200a;<bold>360</bold></td><td rowspan="1" colspan="1">
+<bold>4.0E-11</bold></td></tr></tbody></table><table-wrap-foot><p>Estimated intake of anserine and carnosine was calculated from the results of a 7-item food frequency questionnaires filled out by each volunteer (Materials and Methods section 2.3. Inventory of food intake during 3-month test period) and the average amount of anserine and carnosine in various types of meat described by Boldyrev et&#x000a0;al. [<xref rid="ref006" ref-type="bibr">6</xref>].</p></table-wrap-foot></table-wrap><table-wrap id="jad-50-jad150767-t003" orientation="portrait" position="float"><label>Table 3</label><caption><p>Scores of neuropsychological tests of the ACS and placebo groups</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td colspan="2" align="center" rowspan="1">Baseline (ave.&#x000b1;SD)</td><td colspan="2" align="center" rowspan="1">Follow-up (ave.&#x000b1;SD)</td><td colspan="2" align="center" rowspan="1">Change (ave.&#x000b1;SD)</td><td colspan="2" align="center" rowspan="1">Interaction (df&#x0200a;=&#x0200a;1)</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Active</td><td rowspan="1" colspan="1">Placebo</td><td rowspan="1" colspan="1">Active</td><td rowspan="1" colspan="1">Placebo</td><td rowspan="1" colspan="1">Active</td><td rowspan="1" colspan="1">Placebo</td><td rowspan="1" colspan="1">F</td><td rowspan="1" colspan="1"><italic>p</italic> value</td></tr></thead><tbody><tr><td rowspan="1" colspan="1">WMS-LM1</td><td rowspan="1" colspan="1">13.4&#x000b1;4.2</td><td rowspan="1" colspan="1">13.2&#x000b1;3.9</td><td rowspan="1" colspan="1">11.4&#x000b1;3.6</td><td rowspan="1" colspan="1">10.2&#x000b1;3.7</td><td rowspan="1" colspan="1">&#x02013;2.0&#x000b1;4.2</td><td rowspan="1" colspan="1">&#x02013;3.0&#x000b1;2.8</td><td rowspan="1" colspan="1">0.787</td><td rowspan="1" colspan="1">0.3807</td></tr><tr><td rowspan="1" colspan="1">WMS-LM2</td><td rowspan="1" colspan="1">11.9&#x000b1;4.1</td><td rowspan="1" colspan="1">13.1&#x000b1;3.6</td><td rowspan="1" colspan="1">11.4&#x000b1;3.6</td><td rowspan="1" colspan="1">9.1&#x000b1;4.1</td><td rowspan="1" colspan="1">0.5&#x000b1;3.8</td><td rowspan="1" colspan="1">4.1&#x000b1;3.5</td><td rowspan="1" colspan="1">9.067</td><td rowspan="1" colspan="1">0.0047<sup>&#x000a0;**</sup></td></tr><tr><td rowspan="1" colspan="1">ADAScog</td><td rowspan="1" colspan="1">9.6&#x000b1;3.7</td><td rowspan="1" colspan="1">9.1&#x000b1;9.2</td><td rowspan="1" colspan="1">8.8&#x000b1;4.6</td><td rowspan="1" colspan="1">9.2&#x000b1;4.7</td><td rowspan="1" colspan="1">&#x02013;0.80&#x000b1;3.5</td><td rowspan="1" colspan="1">0.16&#x000b1;4.9</td><td rowspan="1" colspan="1">0.500</td><td rowspan="1" colspan="1">0.4839</td></tr><tr><td rowspan="1" colspan="1">BDI</td><td rowspan="1" colspan="1">10.2&#x000b1;6.4</td><td rowspan="1" colspan="1">8.8&#x000b1;6.9</td><td rowspan="1" colspan="1">6.8&#x000b1;4.8</td><td rowspan="1" colspan="1">7.4&#x000b1;4.4</td><td rowspan="1" colspan="1">&#x02013;3.4&#x000b1;4.2</td><td rowspan="1" colspan="1">&#x02013;1.4&#x000b1;5.6</td><td rowspan="1" colspan="1">1.641</td><td rowspan="1" colspan="1">0.2082</td></tr><tr><td rowspan="1" colspan="1">SF-36 MCS</td><td rowspan="1" colspan="1">54.0&#x000b1;8.6</td><td rowspan="1" colspan="1">50.6&#x000b1;7.0</td><td rowspan="1" colspan="1">54.0&#x000b1;7.5</td><td rowspan="1" colspan="1">52.8&#x000b1;5.9</td><td rowspan="1" colspan="1">&#x02013;0.02&#x000b1;6.5</td><td rowspan="1" colspan="1">2.12&#x000b1;6.8</td><td rowspan="1" colspan="1">1.024</td><td rowspan="1" colspan="1">0.3182</td></tr><tr><td rowspan="1" colspan="1">SF-36 PCS</td><td rowspan="1" colspan="1">47.4&#x000b1;8.1</td><td rowspan="1" colspan="1">48.0&#x000b1;7.3</td><td rowspan="1" colspan="1">48.5&#x000b1;5.9</td><td rowspan="1" colspan="1">47.3&#x000b1;9.3</td><td rowspan="1" colspan="1">1.04&#x000b1;8.0</td><td rowspan="1" colspan="1">&#x02013;0.67&#x000b1;8.0</td><td rowspan="1" colspan="1">0.443</td><td rowspan="1" colspan="1">0.5100</td></tr></tbody></table><table-wrap-foot><p>Scores of the baseline and follow-up tests are shown (mean&#x000b1;SD). Active: ACS group. Change: score at follow-up &#x02013;score at baseline. Significance was determined by two-way repeated ANOVA (Time [baseline or follow-up]&#x000d7;Variant [ACS or placebo]), by utilizing GraphPad Prism (GraphPad Software, Inc. La Jolla, CA. <ext-link ext-link-type="uri" xlink:href="www.graphpad.com">www.graphpad.com</ext-link>). The F(df1) and <italic>P</italic> value obtained after the interaction analysis (Time&#x000d7;Variant) are shown. <sup>&#x000a0;**</sup><italic>p</italic>&#x0200a;&#x0003c; &#x0200a;0.01 between the two groups without any adjustment. After age-adjustment, F(1)&#x0200a;=&#x0200a;6.8588 and <italic>p</italic>&#x0200a;=&#x0200a;0.0128 between the two groups.</p></table-wrap-foot></table-wrap><table-wrap id="jad-50-jad150767-t004" orientation="portrait" position="float"><label>Table 4</label><caption><p>Baseline characteristics of another RCT participants who completed 6 month-test</p></caption><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead valign="top"><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Active (42)</td><td rowspan="1" colspan="1">Placebo (42)</td><td rowspan="1" colspan="1"><italic>p</italic></td></tr></thead><tbody><tr><td rowspan="1" colspan="1">Age (mean&#x000b1;SD)</td><td rowspan="1" colspan="1">69.4&#x000b1;5.9</td><td rowspan="1" colspan="1">70.4&#x000b1;5.7</td><td rowspan="1" colspan="1">0.43</td></tr><tr><td rowspan="1" colspan="1">Gender (M/F)</td><td rowspan="1" colspan="1">19/23</td><td rowspan="1" colspan="1">18/24</td><td rowspan="1" colspan="1">0.83</td></tr><tr><td rowspan="1" colspan="1">BMI</td><td rowspan="1" colspan="1">22.9&#x000b1;2.7</td><td rowspan="1" colspan="1">22.3&#x000b1;2.7</td><td rowspan="1" colspan="1">0.29</td></tr><tr><td rowspan="1" colspan="1">Education (y)</td><td rowspan="1" colspan="1">14.9&#x000b1;1.9</td><td rowspan="1" colspan="1">14.6&#x000b1;3.0</td><td rowspan="1" colspan="1">0.52</td></tr><tr><td rowspan="1" colspan="1">MMSE</td><td rowspan="1" colspan="1">27.7&#x000b1;1.7</td><td rowspan="1" colspan="1">27.7&#x000b1;1.9</td><td rowspan="1" colspan="1">0.85</td></tr></tbody></table><table-wrap-foot><p>Significance was determined according to Student <italic>t</italic>-test, and chi-square test (for gender).</p></table-wrap-foot></table-wrap></floats-group></article>

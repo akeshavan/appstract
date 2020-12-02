@@ -1,0 +1,296 @@
+{
+  "id": [
+    "24298249"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24298249"
+  ],
+  "pmcid": [
+    "PMC3828556"
+  ],
+  "doi": [
+    "10.3389/fnhum.2013.00780"
+  ],
+  "title": [
+    "Novel insights in the rehabilitation of neglect."
+  ],
+  "authorString": [
+    "Fasotti L, van Kessel M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fasotti L"
+          ],
+          "firstName": [
+            "Luciano"
+          ],
+          "lastName": [
+            "Fasotti"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Rehabilitation Medical Centre Groot Klimmendaal, SIZA Support and Rehabilitation , Arnhem , Netherlands ; Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen , Nijmegen , Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Kessel M"
+          ],
+          "firstName": [
+            "Marlies"
+          ],
+          "lastName": [
+            "van Kessel"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004142"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "780"
+  ],
+  "abstractText": [
+    "Visuospatial neglect due to right hemisphere damage, usually a stroke, is a major cause of disability, impairing the ability to perform a whole range of everyday life activities. Conventional and long-established methods for the rehabilitation of neglect like visual scanning training, optokinetic stimulation, or limb activation training have produced positive results, with varying degrees of generalization to (un)trained tasks, lasting from several minutes up to various months after training. Nevertheless, some promising novel approaches to the remediation of left visuospatial neglect have emerged in the last decade. These new therapy methods can be broadly classified into four categories. First, non-invasive brain stimulation techniques by means of transcranial magnetic stimulation (TMS) or transcranial direct current stimulation (tDCS), after a period of mainly diagnostic utilization, are increasingly applied as neurorehabilitative tools. Second, two classes of drugs, dopaminergic and noradrenergic, have been investigated for their potential effectiveness in rehabilitating neglect. Third, prism adaptation treatment has been shown to improve several neglect symptoms consistently, sometimes during longer periods of time. Finally, virtual reality technologies hold new opportunities for the development of effective training techniques for neglect. They provide realistic, rich, and highly controllable training environments. In this paper the degree of effectiveness and the evidence gathered to support the therapeutic claims of these new approaches is reviewed and discussed. The conclusion is that for all these approaches there still is insufficient unbiased evidence to support their effectiveness. Further neglect rehabilitation research should focus on the maintenance of therapy results over time, on a more functional evaluation of treatment effects, on the design and execution of true replication studies and on the exploration of optimal combinations of treatments."
+  ],
+  "affiliation": [
+    "Rehabilitation Medical Centre Groot Klimmendaal, SIZA Support and Rehabilitation , Arnhem , Netherlands ; Donders Institute for Brain, Cognition and Behaviour, Radboud University Nijmegen , Nijmegen , Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rehabilitation",
+        "Stroke",
+        "Treatment outcome",
+        "Novel Treatments",
+        "Visuospatial Neglect"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3828556?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3828556"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24298249/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24298249/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2013.00780"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "18"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2013-12-03"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-15"
+  ],
+  "firstPublicationDate": [
+    "2013-11-15"
+  ]
+}

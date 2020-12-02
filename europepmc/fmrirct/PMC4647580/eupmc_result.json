@@ -1,0 +1,656 @@
+{
+  "id": [
+    "26573324"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26573324"
+  ],
+  "pmcid": [
+    "PMC4647580"
+  ],
+  "doi": [
+    "10.1186/s12888-015-0674-8"
+  ],
+  "title": [
+    "A systematic review for the antidepressant effects of sleep deprivation with repetitive transcranial magnetic stimulation."
+  ],
+  "authorString": [
+    "Tang Q, Li G, Wang A, Liu T, Feng S, Guo Z, Chen H, He B, McClure MA, Ou J, Xing G, Mu Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tang Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. tangqingzoe@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Li G"
+          ],
+          "firstName": [
+            "Guangming"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Oncology, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. guangmingliyz@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang A"
+          ],
+          "firstName": [
+            "Anguo"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Urology Surgery, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. nczxyywanganguo@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu T"
+          ],
+          "firstName": [
+            "Tao"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Cardiology, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. nczxyytaoliu@yeah.net."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng S"
+          ],
+          "firstName": [
+            "Shenggang"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Nephrology, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. shenggangfeng@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo Z"
+          ],
+          "firstName": [
+            "Zhiwei"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. zwguo1128@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen H"
+          ],
+          "firstName": [
+            "Huaping"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. ncchchp@163.com."
+          ]
+        },
+        {
+          "fullName": [
+            "He B"
+          ],
+          "firstName": [
+            "Bin"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. 2469437831@qq.com."
+          ]
+        },
+        {
+          "fullName": [
+            "McClure MA"
+          ],
+          "firstName": [
+            "Morgan A"
+          ],
+          "lastName": [
+            "McClure"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "affiliation": [
+            "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. mamcclure10@hotmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Ou J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Ou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. 87240156@qq.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Xing G"
+          ],
+          "firstName": [
+            "Guoqiang"
+          ],
+          "lastName": [
+            "Xing"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Lotus Biotech.com LLC., John Hopkins University-MCC, 9601 Medical Center Drive, Rockville, MD, 20850, USA. gxing99@yahoo.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Mu Q"
+          ],
+          "firstName": [
+            "Qiwen"
+          ],
+          "lastName": [
+            "Mu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Peking University Third Hospital, 49 Garden North Road, Haidian District, Beijing, 100080, China. muqiwen99@yahoo.com."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2269475"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "282"
+  ],
+  "abstractText": [
+    "Sleep deprivation (SD) and repetitive transcranial magnetic stimulation (rTMS) have been commonly used to treat depression. Recent studies suggest that co-therapy with rTMS and SD may produce better therapeutic effects than either therapy alone. Therefore, this study was to review the current findings to determine if rTMS can augment the therapeutic effects of SD on depression.Embase, JSTOR, Medline, PubMed, ScienceDirect, and the Cochrane Central Register of Controlled Trials were searched for clinical studies published between January 1985 and March 2015 using the search term \"rTMS/repetitive transcranial magnetic stimulation AND sleep deprivation AND depress*\". Only randomized and sham-controlled trials (RCTs) involving the combined use of rTMS and SD in depression patients were included in this systematic review. The scores of the Hamilton Rating Scale for Depression were extracted as primary outcome measures.Three RCTs with 72 patients that met the inclusion criteria were included for the systematic review. One of the trials reported skewed data and was described alone. The other two studies, which involved 30 patients in the experimental group (SD + active rTMS) and 22 patients in the control group (SD + sham rTMS), reported normally distributed data. The primary outcome measures showed different results among the three publications: two of which showed great difference between the experimental and the control subjects, and the other one showed non-significant antidepressant effect of rTMS on SD. In addition, two of the included studies reported secondary outcome measures with Clinical Global Impression Rating Scale and a self-reported well-being scale which presented good improvement for the depressive patients in the experiment group when compared with the control. The follow-up assessments in two studies indicated maintained results with the immediate measurements.From this study, an overview of the publications concerning the combined use of rTMS and SD is presented, which provides a direction for future research of therapies for depression. More studies are needed to confirm whether there is an augmentative antidepressant effect of rTMS on SD."
+  ],
+  "affiliation": [
+    "Department of Radiology & Imaging Institute of Rehabilitation and Development of Brain Function, North Sichuan Medical University Nanchong Central Hospital, 97 South Renmin Road, Shunqing District, Nanchong, 637000, Sichuan, China. tangqingzoe@126.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antidepressive Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Combined Modality Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sleep"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self Report"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antidepressive Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4647580?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4647580"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-015-0674-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-20"
+  ],
+  "dateOfCreation": [
+    "2015-11-17"
+  ],
+  "dateOfRevision": [
+    "2015-11-21"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-14"
+  ],
+  "firstPublicationDate": [
+    "2015-11-14"
+  ]
+}

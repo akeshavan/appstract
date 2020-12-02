@@ -1,0 +1,378 @@
+{
+  "id": [
+    "28928708"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28928708"
+  ],
+  "pmcid": [
+    "PMC5591400"
+  ],
+  "doi": [
+    "10.3389/fneur.2017.00452"
+  ],
+  "title": [
+    "Neural Patterns of Reorganization after Intensive Robot-Assisted Virtual Reality Therapy and Repetitive Task Practice in Patients with Chronic Stroke."
+  ],
+  "authorString": [
+    "Saleh S, Fluet G, Qiu Q, Merians A, Adamovich SV, Tunik E."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Saleh S"
+          ],
+          "firstName": [
+            "Soha"
+          ],
+          "lastName": [
+            "Saleh"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Human Performance and Engineering Research, Kessler Foundation, West Orange, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Fluet G"
+          ],
+          "firstName": [
+            "Gerard"
+          ],
+          "lastName": [
+            "Fluet"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation and Movement Science, Rutgers University, Newark, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu Q"
+          ],
+          "firstName": [
+            "Qinyin"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation and Movement Science, Rutgers University, Newark, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Merians A"
+          ],
+          "firstName": [
+            "Alma"
+          ],
+          "lastName": [
+            "Merians"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation and Movement Science, Rutgers University, Newark, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Adamovich SV"
+          ],
+          "firstName": [
+            "Sergei V"
+          ],
+          "lastName": [
+            "Adamovich"
+          ],
+          "initials": [
+            "SV"
+          ],
+          "affiliation": [
+            "Department of Biomedical Engineering, NJIT, Newark, NJ, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Tunik E"
+          ],
+          "firstName": [
+            "Eugene"
+          ],
+          "lastName": [
+            "Tunik"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Biology, Northeastern University, Boston, MA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2550588"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "452"
+  ],
+  "abstractText": [
+    "Several approaches to rehabilitation of the hand following a stroke have emerged over the last two decades. These treatments, including repetitive task practice (RTP), robotically assisted rehabilitation and virtual rehabilitation activities, produce improvements in hand function but have yet to reinstate function to pre-stroke levels-which likely depends on developing the therapies to impact cortical reorganization in a manner that favors or supports recovery. Understanding cortical reorganization that underlies the above interventions is therefore critical to inform how such therapies can be utilized and improved and is the focus of the current investigation. Specifically, we compare neural reorganization elicited in stroke patients participating in two interventions: a hybrid of robot-assisted virtual reality (RAVR) rehabilitation training and a program of RTP training. Ten chronic stroke subjects participated in eight 3-h sessions of RAVR therapy. Another group of nine stroke subjects participated in eight sessions of matched RTP therapy. Functional magnetic resonance imaging (fMRI) data were acquired during paretic hand movement, before and after training. We compared the difference between groups and sessions (before and after training) in terms of BOLD intensity, laterality index of activation in sensorimotor areas, and the effective connectivity between ipsilesional motor cortex (iMC), contralesional motor cortex, ipsilesional primary somatosensory cortex (iS1), ipsilesional ventral premotor area (iPMv), and ipsilesional supplementary motor area. Last, we analyzed the relationship between changes in fMRI data and functional improvement measured by the Jebsen Taylor Hand Function Test (JTHFT), in an attempt to identify how neurophysiological changes are related to motor improvement. Subjects in both groups demonstrated motor recovery after training, but fMRI data revealed RAVR-specific changes in neural reorganization patterns. First, BOLD signal in multiple regions of interest was reduced and re-lateralized to the ipsilesional side. Second, these changes correlated with improvement in JTHFT scores. Our findings suggest that RAVR training may lead to different neurophysiological changes when compared with traditional therapy. This effect may be attributed to the influence that augmented visual and haptic feedback during RAVR training exerts over higher-order somatosensory and visuomotor areas."
+  ],
+  "affiliation": [
+    "Human Performance and Engineering Research, Kessler Foundation, West Orange, NJ, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K01 HD059983"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 NS085122"
+          ],
+          "agency": [
+            "NINDS NIH HHS"
+          ],
+          "acronym": [
+            "NS"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HD058301"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rehabilitation",
+        "Virtual reality",
+        "Stroke",
+        "Motor Control And Learning/plasticity",
+        "Connectivity Analysis",
+        "Functional Magnetic Resonance Imaging Neuroimaging"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5591400?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5591400"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2017.00452"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-20"
+  ],
+  "dateOfRevision": [
+    "2017-09-23"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-04"
+  ],
+  "firstPublicationDate": [
+    "2017-09-04"
+  ]
+}

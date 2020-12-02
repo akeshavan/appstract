@@ -1,0 +1,507 @@
+{
+  "id": [
+    "22143005"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22143005"
+  ],
+  "pmcid": [
+    "PMC3317062"
+  ],
+  "doi": [
+    "10.1038/mp.2011.165"
+  ],
+  "title": [
+    "A review of research trends in physiological abnormalities in autism spectrum disorders: immune dysregulation, inflammation, oxidative stress, mitochondrial dysfunction and environmental toxicant exposures."
+  ],
+  "authorString": [
+    "Rossignol DA, Frye RE."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Rossignol DA"
+          ],
+          "firstName": [
+            "D A"
+          ],
+          "lastName": [
+            "Rossignol"
+          ],
+          "initials": [
+            "DA"
+          ]
+        },
+        {
+          "fullName": [
+            "Frye RE"
+          ],
+          "firstName": [
+            "R E"
+          ],
+          "lastName": [
+            "Frye"
+          ],
+          "initials": [
+            "RE"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "1917487"
+      ],
+      "dateOfPublication": [
+        "2012 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Mol Psychiatry"
+          ],
+          "NLMid": [
+            "9607835"
+          ],
+          "ISSN": [
+            "1359-4184"
+          ],
+          "ESSN": [
+            "1476-5578"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "389-401"
+  ],
+  "abstractText": [
+    "Recent studies have implicated physiological and metabolic abnormalities in autism spectrum disorders (ASD) and other psychiatric disorders, particularly immune dysregulation or inflammation, oxidative stress, mitochondrial dysfunction and environmental toxicant exposures ('four major areas'). The aim of this study was to determine trends in the literature on these topics with respect to ASD. A comprehensive literature search from 1971 to 2010 was performed in these four major areas in ASD with three objectives. First, publications were divided by several criteria, including whether or not they implicated an association between the physiological abnormality and ASD. A large percentage of publications implicated an association between ASD and immune dysregulation/inflammation (416 out of 437 publications, 95%), oxidative stress (all 115), mitochondrial dysfunction (145 of 153, 95%) and toxicant exposures (170 of 190, 89%). Second, the strength of evidence for publications in each area was computed using a validated scale. The strongest evidence was for immune dysregulation/inflammation and oxidative stress, followed by toxicant exposures and mitochondrial dysfunction. In all areas, at least 45% of the publications were rated as providing strong evidence for an association between the physiological abnormalities and ASD. Third, the time trends in the four major areas were compared with trends in neuroimaging, neuropathology, theory of mind and genetics ('four comparison areas'). The number of publications per 5-year block in all eight areas was calculated in order to identify significant changes in trends. Prior to 1986, only 12 publications were identified in the four major areas and 51 in the four comparison areas (42 for genetics). For each 5-year period, the total number of publications in the eight combined areas increased progressively. Most publications (552 of 895, 62%) in the four major areas were published in the last 5 years (2006-2010). Evaluation of trends between the four major areas and the four comparison areas demonstrated that the largest relative growth was in immune dysregulation/inflammation, oxidative stress, toxicant exposures, genetics and neuroimaging. Research on mitochondrial dysfunction started growing in the last 5 years. Theory of mind and neuropathology research has declined in recent years. Although most publications implicated an association between the four major areas and ASD, publication bias may have led to an overestimation of this association. Further research into these physiological areas may provide insight into general or subset-specific processes that could contribute to the development of ASD and other psychiatric disorders."
+  ],
+  "affiliation": [
+    "International Child Development Resource Center, Melbourne, FL 32934, USA. rossignolmd@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mitochondrial Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immune System Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hazardous Substances"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Development Disorders, Pervasive"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oxidative Stress"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Publication Bias"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Hazardous Substances"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3317062"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22143005/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/mp.2011.165"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "139"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-02"
+  ],
+  "dateOfCreation": [
+    "2012-03-26"
+  ],
+  "dateOfRevision": [
+    "2013-06-27"
+  ],
+  "electronicPublicationDate": [
+    "2011-12-06"
+  ],
+  "firstPublicationDate": [
+    "2011-12-06"
+  ]
+}

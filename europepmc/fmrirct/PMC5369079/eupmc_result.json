@@ -1,0 +1,391 @@
+{
+  "id": [
+    "28257071"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28257071"
+  ],
+  "pmcid": [
+    "PMC5369079"
+  ],
+  "doi": [
+    "10.3390/ijerph14030243"
+  ],
+  "title": [
+    "A Novel Therapy for People Who Attempt Suicide and Why We Need New Models of Suicide."
+  ],
+  "authorString": [
+    "Michel K, Valach L, Gysin-Maillart A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Michel K"
+          ],
+          "firstName": [
+            "Konrad"
+          ],
+          "lastName": [
+            "Michel"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "University Hospital of Psychiatry, Outpatient Department, 3008 Bern, Switzerland. konrad.michel@spk.unibe.ch."
+          ]
+        },
+        {
+          "fullName": [
+            "Valach L"
+          ],
+          "firstName": [
+            "Ladislav"
+          ],
+          "lastName": [
+            "Valach"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Private Practice, 3400 Burgdorf, Switzerland. ladislav.valach@hispeed.ch."
+          ]
+        },
+        {
+          "fullName": [
+            "Gysin-Maillart A"
+          ],
+          "firstName": [
+            "Anja"
+          ],
+          "lastName": [
+            "Gysin-Maillart"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1990-5582",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "University Hospital of Psychiatry, Outpatient Department, 3008 Bern, Switzerland. anja.maillart@spk.unibe.ch."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1990-5582",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2529769"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of environmental research and public health"
+          ],
+          "ISOAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "medlineAbbreviation": [
+            "Int J Environ Res Public Health"
+          ],
+          "NLMid": [
+            "101238455"
+          ],
+          "ISSN": [
+            "1661-7827"
+          ],
+          "ESSN": [
+            "1660-4601"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "This paper presents a model of suicidal behaviour based on suicide as a goal-directed action, and its implications. An action theoretical model has guided the authors in the development of a brief therapy for individuals who attempt suicide (ASSIP-Attempted Suicide Short Intervention Program). Key elements are an early therapeutic alliance, narrative interviewing, psychoeducation, a joint case conceptualization, safety planning, and regular letters over 24 months. In a randomized controlled trial, ASSIP was highly effective in reducing the risk of suicide reattempts. The therapeutic elements in this treatment are described and possible implications for future directions in clinical suicide prevention discussed."
+  ],
+  "affiliation": [
+    "University Hospital of Psychiatry, Outpatient Department, 3008 Bern, Switzerland. konrad.michel@spk.unibe.ch."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "other",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Suicide, Attempted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Behavior Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Models, Theoretical"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Suicidal Ideation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Suicide",
+        "Suicide Prevention",
+        "Attempted Suicide",
+        "psychotherapy",
+        "Action Theory",
+        "Narrative Interview"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5369079?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5369079"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijerph14030243"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-06-19"
+  ],
+  "dateOfCreation": [
+    "2017-03-04"
+  ],
+  "dateOfRevision": [
+    "2018-01-17"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-01"
+  ],
+  "firstPublicationDate": [
+    "2017-03-01"
+  ]
+}

@@ -1,0 +1,540 @@
+{
+  "id": [
+    "24555788"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24555788"
+  ],
+  "pmcid": [
+    "PMC3933504"
+  ],
+  "doi": [
+    "10.1186/1472-6882-14-69"
+  ],
+  "title": [
+    "Effect of acupuncture on Deqi traits and pain intensity in primary dysmenorrhea: analysis of data from a larger randomized controlled trial."
+  ],
+  "authorString": [
+    "Shi GX, Li QQ, Liu CZ, Zhu J, Wang LP, Wang J, Han LL, Guan LP, Wu MM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shi GX"
+          ],
+          "firstName": [
+            "Guang-Xia"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "GX"
+          ]
+        },
+        {
+          "fullName": [
+            "Li QQ"
+          ],
+          "firstName": [
+            "Qian-Qian"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "QQ"
+          ]
+        },
+        {
+          "fullName": [
+            "Liu CZ"
+          ],
+          "firstName": [
+            "Cun-Zhi"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "CZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8031-5667",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Acupuncture and Moxibustion Department, Beijing Hospital of Traditional Chinese Medicine, affiliated to Capital Medical University, 23 Meishuguanhou Street, Dongcheng District, Beijing 100010, China. lcz623780@126.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu J"
+          ],
+          "firstName": [
+            "Jiang"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang LP"
+          ],
+          "firstName": [
+            "Lin-Peng"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "LP"
+          ]
+        },
+        {
+          "fullName": [
+            "Wang J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Han LL"
+          ],
+          "firstName": [
+            "Li-Li"
+          ],
+          "lastName": [
+            "Han"
+          ],
+          "initials": [
+            "LL"
+          ]
+        },
+        {
+          "fullName": [
+            "Guan LP"
+          ],
+          "firstName": [
+            "Li-Ping"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "LP"
+          ]
+        },
+        {
+          "fullName": [
+            "Wu MM"
+          ],
+          "firstName": [
+            "Meng-Meng"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "MM"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8031-5667",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2127692"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC complementary and alternative medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Complement Altern Med"
+          ],
+          "NLMid": [
+            "101088661"
+          ],
+          "ISSN": [
+            "1472-6882"
+          ],
+          "ESSN": [
+            "1472-6882"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "69"
+  ],
+  "abstractText": [
+    "BACKGROUND: Deqi is a central concept in traditional Chinese acupuncture. We performed a secondary analysis on data from a larger randomized controlled trial (RCT) in order to assess the effect of acupuncture on deqi traits and pain intensity in primary dysmenorrhea. METHODS: A total of 60 primary dysmenorrhea patients were enrolled and randomly assigned to one of three treatment groups. Acupuncture was given at SP6, GB39 or nonacupoint. Subjective pain was measured by a 100-mm visual analogue scale (VAS) before and after acupuncture. The Massachusetts General Hospital acupuncture sensation scales (MASS) with minor modification was used to rate deqi sensations during acupuncture. RESULTS: The results showed that VAS scores of pain after acupuncture were significantly decreased comparing to before acupuncture treatment in all three groups (P = 0.000). However, no significant differences were found among three groups at the beginning or end of acupuncture treatment (P = 0.928, P = 0.419). CONCLUSIONS: There was no statistical difference among three groups in terms of intensity of deqi feeling. The types of sensation were similar across the groups with only minor differences among them. TRIAL REGISTRATION:  TRIAL REGISTRATION NUMBER: Controlled-Trials.com ISRCTN24863192."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pain"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dysmenorrhea"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupuncture Points"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Sensation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Qi"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3933504?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3933504"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24555788/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24555788/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1472-6882-14-69"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-04-27"
+  ],
+  "dateOfCreation": [
+    "2014-02-25"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-21"
+  ],
+  "firstPublicationDate": [
+    "2014-02-21"
+  ]
+}

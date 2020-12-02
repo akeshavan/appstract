@@ -1,0 +1,357 @@
+{
+  "id": [
+    "21835050"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21835050"
+  ],
+  "pmcid": [
+    "PMC3155109"
+  ],
+  "doi": [
+    "10.1186/1756-6614-4-s1-s3"
+  ],
+  "title": [
+    "Hypothyroidism and mood disorders: integrating novel insights from brain imaging techniques."
+  ],
+  "authorString": [
+    "Pilhatsch M, Marxen M, Winter C, Smolka MN, Bauer M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pilhatsch M"
+          ],
+          "firstName": [
+            "Maximilian"
+          ],
+          "lastName": [
+            "Pilhatsch"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Marxen M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Marxen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8870-0041",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Winter C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Winter"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Smolka MN"
+          ],
+          "firstName": [
+            "Michael N"
+          ],
+          "lastName": [
+            "Smolka"
+          ],
+          "initials": [
+            "MN"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5398-5569",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bauer M"
+          ],
+          "firstName": [
+            "Michael"
+          ],
+          "lastName": [
+            "Bauer"
+          ],
+          "initials": [
+            "M"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8870-0041",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5398-5569",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4 Suppl 1"
+      ],
+      "journalIssueId": [
+        "1856344"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Thyroid research"
+          ],
+          "ISOAbbreviation": [
+            "Thyroid Res"
+          ],
+          "medlineAbbreviation": [
+            "Thyroid Res"
+          ],
+          "NLMid": [
+            "101469037"
+          ],
+          "ISSN": [
+            "1756-6614"
+          ],
+          "ESSN": [
+            "1756-6614"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "S3"
+  ],
+  "abstractText": [
+    "Thyroid hormones play a critical role in brain development but also in the adult human brain by modulating metabolic activity. Hypothyroid states are associated with both functional and structural brain alterations also seen in patients with major depression. Recent animal experimental and preclinical data indicate subtle changes in myelination, microvascular density, local neurogenesis, and functional networks. The translational validity of such studies is obviously limited. Clinical evidence for neurobiological correlates of different stages and severities of hypothyroidism and effects of pharmacological intervention is lacking but may be achieved using advanced imaging techniques, e.g. functional and quantitative MRI techniques applied to patients with hypothyroidism before and after hormone replacement therapy."
+  ],
+  "affiliation": [
+    "Department of Psychiatry and Psychotherapy, University Hospital Carl Gustav Carus, Technische Universität Dresden, Dresden, Germany. michael.bauer@uniklinikum-dresden.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3155109?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3155109"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21835050/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21835050/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1756-6614-4-S1-S3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-10"
+  ],
+  "dateOfCreation": [
+    "2011-08-12"
+  ],
+  "dateOfRevision": [
+    "2012-11-09"
+  ],
+  "electronicPublicationDate": [
+    "2011-08-03"
+  ],
+  "firstPublicationDate": [
+    "2011-08-03"
+  ]
+}

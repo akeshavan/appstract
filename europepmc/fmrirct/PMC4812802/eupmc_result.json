@@ -1,0 +1,465 @@
+{
+  "id": [
+    "26411963"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26411963"
+  ],
+  "pmcid": [
+    "PMC4812802"
+  ],
+  "doi": [
+    "10.2174/1570159x13666150309233556"
+  ],
+  "title": [
+    "The Neuropharmacology of Cluster Headache and other Trigeminal Autonomic Cephalalgias."
+  ],
+  "authorString": [
+    "Costa A, Antonaci F, Ramusino MC, Nappi G."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Costa A"
+          ],
+          "firstName": [
+            "Alfredo"
+          ],
+          "lastName": [
+            "Costa"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "National Institute of Neurology IRCCS C. Mondino Foundation, University of Pavia, via Mondino 2, 27100 Pavia, Italy. alfredo.costa@mondino.it."
+          ]
+        },
+        {
+          "fullName": [
+            "Antonaci F"
+          ],
+          "firstName": [
+            "Fabio"
+          ],
+          "lastName": [
+            "Antonaci"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ramusino MC"
+          ],
+          "firstName": [
+            "Matteo Cotta"
+          ],
+          "lastName": [
+            "Ramusino"
+          ],
+          "initials": [
+            "MC"
+          ]
+        },
+        {
+          "fullName": [
+            "Nappi G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Nappi"
+          ],
+          "initials": [
+            "G"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2327284"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Current neuropharmacology"
+          ],
+          "ISOAbbreviation": [
+            "Curr Neuropharmacol"
+          ],
+          "medlineAbbreviation": [
+            "Curr Neuropharmacol"
+          ],
+          "NLMid": [
+            "101157239"
+          ],
+          "ISSN": [
+            "1570-159X"
+          ],
+          "ESSN": [
+            "1875-6190"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "304-323"
+  ],
+  "abstractText": [
+    "Trigeminal autonomic cephalalgias (TACs) are a group of primary headaches including cluster headache (CH), paroxysmal hemicrania (PH) and short-lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT). Another form, hemicrania continua (HC), is also included this group due to its clinical and pathophysiological similarities. CH is the most common of these syndromes, the others being infrequent in the general population. The pathophysiology of the TACs has been partly elucidated by a number of recent neuroimaging studies, which implicate brain regions associated with nociception (pain matrix). In addition, the hypothalamic activation observed in the course of TAC attacks and the observed efficacy of hypothalamic neurostimulation in CH patients suggest that the hypothalamus is another key structure. Hypothalamic activation may indeed be involved in attack initiation, but it may also lead to a condition of central facilitation underlying the recurrence of pain episodes. The TACs share many pathophysiological features, but are characterised by differences in attack duration and frequency, and to some extent treatment response. Although alternative strategies for the TACs, especially CH, are now emerging (such as neurostimulation techniques), this review focuses on the available pharmacological treatments complying with the most recent guidelines. We discuss the clinical efficacy and tolerability of the currently used drugs. Due to the low frequency of most TACs, few randomised controlled trials have been conducted. The therapies of choice in CH continue to be the triptans and oxygen for acute treatment, and verapamil and lithium for prevention, but promising results have recently been obtained with novel modes of administration of the triptans and other agents, and several other treatments are currently under study. Indomethacin is extremely effective in PH and HC, while antiepileptic drugs (especially lamotrigine) appear to be increasingly useful in SUNCT. We highlight the need for appropriate studies investigating treatments for these rare, but lifelong and disabling conditions."
+  ],
+  "affiliation": [
+    "National Institute of Neurology IRCCS C. Mondino Foundation, University of Pavia, via Mondino 2, 27100 Pavia, Italy. alfredo.costa@mondino.it."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cluster Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Headache"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Neuropharmacology"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "SUNCT Syndrome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Paroxysmal Hemicrania"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Trigeminal Autonomic Cephalalgias"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4812802?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4812802"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2174/1570159X13666150309233556"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-09"
+  ],
+  "dateOfCreation": [
+    "2015-09-28"
+  ],
+  "dateOfRevision": [
+    "2016-04-20"
+  ],
+  "firstPublicationDate": [
+    "2015-01-01"
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "id": [
+    "24648738"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24648738"
+  ],
+  "pmcid": [
+    "PMC3956689"
+  ],
+  "doi": [
+    "10.2147/ndt.s45143"
+  ],
+  "title": [
+    "Combotherapy and current concepts as well as future strategies for the treatment of Alzheimer's disease."
+  ],
+  "authorString": [
+    "Fan LY, Chiu MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fan LY"
+          ],
+          "firstName": [
+            "Ling-Yun"
+          ],
+          "lastName": [
+            "Fan"
+          ],
+          "initials": [
+            "LY"
+          ],
+          "affiliation": [
+            "Department of Neurology, En Chu Kong Hospital, Taipei, Taiwan ; Department of Neurology, College of Medicine, Graduate Institute of Brain and Mind Sciences, Taipei, Taiwan."
+          ]
+        },
+        {
+          "fullName": [
+            "Chiu MJ"
+          ],
+          "firstName": [
+            "Ming-Jang"
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4158-4423",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology, College of Medicine, Graduate Institute of Brain and Mind Sciences, Taipei, Taiwan ; Graduate Institute of Psychology, National Taiwan University Hospital, Taipei, Taiwan ; Graduate Institute of Biomedical Engineering and Bioinformatics, National Taiwan University Hospital, Taipei, Taiwan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4158-4423",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2108546"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychiatric disease and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "NLMid": [
+            "101240304"
+          ],
+          "ISSN": [
+            "1176-6328"
+          ],
+          "ESSN": [
+            "1178-2021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "439-451"
+  ],
+  "abstractText": [
+    "It has been estimated that 35.6 million people globally had dementia in 2010 and the prevalence of dementia has been predicted to double every 20 years. Thus, 115.4 million people may be living with dementia in 2050. Alzheimer's disease (AD) is the leading cause of dementia and is present in 60%-70% of people with dementia. Unfortunately, there are few approved drugs that can alleviate the cognitive or behavioral symptoms of AD dementia. Recent studies have revealed that pathophysiological changes related to AD occur decades before the appearance of clinical symptoms of dementia. This extended preclinical phase of AD provides a critical chance for disease-modifying agents to halt or delay the relentless process of AD. Although several trials targeting various pathological processes are ongoing, the examination of the combined use of different approaches to combat AD seems warranted. In this article, we will review current therapies, future strategies, and ongoing clinical trials for the treatment of AD with a special focus on combination therapies. Furthermore, preventive strategies for cognitively normal subjects in the presymptomatic stages of AD will also be addressed. In this review, we discuss current hypotheses of the disease process. In the decades since the approval of cholinesterase inhibitors, no new drug has ultimately demonstrated clear success in clinical trials. Given the difficulties that have been encountered in attempts to identify a single drug that can treat AD, we must pursue effective multi-target strategies, ie, combination therapies. The combination of cholinesterase inhibitors and memantine is considered well tolerated and safe, and this combination benefits patients with moderate-to-severe AD. In contrast, with the exception of adjuvant therapies of conventional drugs, combinations of different disease-modifying agents with different mechanisms may have promising synergic effects and benefit cognition, behavior, and daily living function."
+  ],
+  "affiliation": [
+    "Department of Neurology, En Chu Kong Hospital, Taipei, Taiwan ; Department of Neurology, College of Medicine, Graduate Institute of Brain and Mind Sciences, Taipei, Taiwan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer’s disease",
+        "Combination therapy",
+        "Disease-modifying Agent"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3956689?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3956689"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24648738/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24648738/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/NDT.S45143"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-03-20"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2014-03-11"
+  ],
+  "firstPublicationDate": [
+    "2014-03-11"
+  ]
+}

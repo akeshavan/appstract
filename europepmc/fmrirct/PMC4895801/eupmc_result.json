@@ -1,0 +1,556 @@
+{
+  "id": [
+    "27268415"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27268415"
+  ],
+  "pmcid": [
+    "PMC4895801"
+  ],
+  "doi": [
+    "10.1186/s40359-016-0139-y"
+  ],
+  "title": [
+    "Efficacy of the Video-feedback Intervention to promote Positive Parenting and Sensitive Discipline in Twin Families (VIPP-Twins): Study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Euser S, Bakermans-Kranenburg MJ, van den Bulk BG, Linting M, Damsteegt RC, Vrijhof CI, van Wijk IC, Crone EA, van IJzendoorn MH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Euser S"
+          ],
+          "firstName": [
+            "Saskia"
+          ],
+          "lastName": [
+            "Euser"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Leiden Consortium on Individual Development, Leiden University, P.O. Box 9555, Leiden, 2300 RB, Netherlands. s.euser@fsw.leidenuniv.nl."
+          ]
+        },
+        {
+          "fullName": [
+            "Bakermans-Kranenburg MJ"
+          ],
+          "firstName": [
+            "Marian J"
+          ],
+          "lastName": [
+            "Bakermans-Kranenburg"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Leiden Institute for Brain and Cognition, P.O. Box 9600, Leiden, 2300 RC, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van den Bulk BG"
+          ],
+          "firstName": [
+            "Bianca G"
+          ],
+          "lastName": [
+            "van den Bulk"
+          ],
+          "initials": [
+            "BG"
+          ],
+          "affiliation": [
+            "Leiden Institute for Brain and Cognition, P.O. Box 9600, Leiden, 2300 RC, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Linting M"
+          ],
+          "firstName": [
+            "Mariëlle"
+          ],
+          "lastName": [
+            "Linting"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6303-3251",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Child and Family Studies, Leiden University, P.O. Box 9555, Leiden, 2300 RB, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Damsteegt RC"
+          ],
+          "firstName": [
+            "Rani C"
+          ],
+          "lastName": [
+            "Damsteegt"
+          ],
+          "initials": [
+            "RC"
+          ],
+          "affiliation": [
+            "Leiden Consortium on Individual Development, Leiden University, P.O. Box 9555, Leiden, 2300 RB, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Vrijhof CI"
+          ],
+          "firstName": [
+            "Claudia I"
+          ],
+          "lastName": [
+            "Vrijhof"
+          ],
+          "initials": [
+            "CI"
+          ],
+          "affiliation": [
+            "Leiden Consortium on Individual Development, Leiden University, P.O. Box 9555, Leiden, 2300 RB, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Wijk IC"
+          ],
+          "firstName": [
+            "Ilse C"
+          ],
+          "lastName": [
+            "van Wijk"
+          ],
+          "initials": [
+            "IC"
+          ],
+          "affiliation": [
+            "Leiden Institute for Brain and Cognition, P.O. Box 9600, Leiden, 2300 RC, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Crone EA"
+          ],
+          "firstName": [
+            "Eveline A"
+          ],
+          "lastName": [
+            "Crone"
+          ],
+          "initials": [
+            "EA"
+          ],
+          "affiliation": [
+            "Institute of Psychology, Brain and Development Lab, Leiden University, P.O. Box 9555, Leiden, 2300 RB, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van IJzendoorn MH"
+          ],
+          "firstName": [
+            "Marinus H"
+          ],
+          "lastName": [
+            "van IJzendoorn"
+          ],
+          "initials": [
+            "MH"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1144-454X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Leiden Institute for Brain and Cognition, P.O. Box 9600, Leiden, 2300 RC, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6303-3251",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1144-454X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2477726"
+      ],
+      "dateOfPublication": [
+        "2016 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychol"
+          ],
+          "NLMid": [
+            "101627676"
+          ],
+          "ISSN": [
+            "2050-7283"
+          ],
+          "ESSN": [
+            "2050-7283"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "33"
+  ],
+  "abstractText": [
+    "Intervention programs with the aim of enhancing parenting quality have been found to be differentially effective in decreasing negative child outcomes such as externalizing behavioral problems, resulting in modest overall effect sizes. Here we present the protocol for a randomized controlled trial to examine the efficacy of the Video-feedback Intervention to promote Positive Parenting and Sensitive Discipline for Twin Families (VIPP-Twins) on parenting quality and children's behavioral control and social competence. In addition, we aim to test the differential susceptibility theory; we examine differential efficacy of the intervention based on genetic make-up or temperament for both parents and children. Lastly, we explore neurobiological mechanisms underlying intervention effects on children's developmental outcomes.The original VIPP-SD was adapted for use in families with twins. The VIPP-Twins consists of five biweekly sessions in which the families are visited at home, parent-child interactions are videotaped and parents receive positive feedback on selected video fragments. Families (N = 225) with a same sex twin (mean age = 3.6 years) were recruited to participate in the study. The study consists of four assessments. After two baseline assessments in year 1 and year 2, a random 40 % of the sample will receive the VIPP-Twins program. The first post-test assessment will be carried out one month after the intervention and there will be a long term follow-up assessment two years after the intervention. Measures include observational assessments of parenting and children's social competence and behavioral control, and neurobiological assessments (i.e., hormonal functioning and neural (re-)activity).Results of the study will provide insights in the efficacy of the VIPP-Twins and reveal moderators and mediators of program efficacy. Overall the randomized controlled trial is an experimental test of the differential susceptibility theory.Dutch Trial Register: NTR5312 ; Date registered: July 20, 2015."
+  ],
+  "affiliation": [
+    "Leiden Consortium on Individual Development, Leiden University, P.O. Box 9555, Leiden, 2300 RB, Netherlands. s.euser@fsw.leidenuniv.nl."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Twin Study",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Feedback, Psychological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child Development"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Temperament"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Parent-Child Relations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Parenting"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Education, Nonprofessional"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Video Recording"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child, Preschool"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "intervention",
+        "Parenting",
+        "Rct",
+        "Social Competence",
+        "Differential Susceptibility",
+        "Behavioral Control"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4895801?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4895801"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s40359-016-0139-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-01-26"
+  ],
+  "dateOfCreation": [
+    "2016-06-09"
+  ],
+  "dateOfRevision": [
+    "2017-01-26"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-06"
+  ],
+  "firstPublicationDate": [
+    "2016-06-06"
+  ]
+}

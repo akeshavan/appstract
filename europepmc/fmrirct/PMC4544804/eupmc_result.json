@@ -1,0 +1,908 @@
+{
+  "id": [
+    "26286324"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26286324"
+  ],
+  "pmcid": [
+    "PMC4544804"
+  ],
+  "doi": [
+    "10.1186/s12883-015-0381-6"
+  ],
+  "title": [
+    "Mitii™ ABI: study protocol of a randomised controlled trial of a web-based multi-modal training program for children and adolescents with an Acquired Brain Injury (ABI)."
+  ],
+  "authorString": [
+    "Boyd RN, Baque E, Piovesana A, Ross S, Ziviani J, Sakzewski L, Barber L, Lloyd O, McKinlay L, Whittingham K, Smith AC, Rose S, Fiori S, Cunnington R, Ware R, Lewis M, Comans TA, Scuffham PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Boyd RN"
+          ],
+          "firstName": [
+            "Roslyn N"
+          ],
+          "lastName": [
+            "Boyd"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. r.boyd@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Baque E"
+          ],
+          "firstName": [
+            "Emmah"
+          ],
+          "lastName": [
+            "Baque"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. e.baque@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Piovesana A"
+          ],
+          "firstName": [
+            "Adina"
+          ],
+          "lastName": [
+            "Piovesana"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. a.piovesana@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Ross S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Ross"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. stephanie.ross@health.qld.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Ziviani J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Ziviani"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Health and Rehabilitation Sciences, The University of Queensland, Brisbane, Queensland, Australia. j.ziviani@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Sakzewski L"
+          ],
+          "firstName": [
+            "Leanne"
+          ],
+          "lastName": [
+            "Sakzewski"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5395-544X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. l.sakzewski1@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Barber L"
+          ],
+          "firstName": [
+            "Lee"
+          ],
+          "lastName": [
+            "Barber"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. l.barber@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Lloyd O"
+          ],
+          "firstName": [
+            "Owen"
+          ],
+          "lastName": [
+            "Lloyd"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Children's Allied Health Research, Children's Health Queensland, Brisbane, Queensland, Australia. Owen.Lloyd@health.qld.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "McKinlay L"
+          ],
+          "firstName": [
+            "Lynne"
+          ],
+          "lastName": [
+            "McKinlay"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Children's Allied Health Research, Children's Health Queensland, Brisbane, Queensland, Australia. Lynne_McKinlay@health.qld.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Whittingham K"
+          ],
+          "firstName": [
+            "Koa"
+          ],
+          "lastName": [
+            "Whittingham"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5344-9907",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. koawhittingham@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Smith AC"
+          ],
+          "firstName": [
+            "Anthony C"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7756-5136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Online Health, The University of Queensland, Brisbane, Australia. asmith@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Rose S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Rose"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "CSIRO, ICT - Australian e-Health Research Centre, Royal Brisbane and Women's Hospital Centre for Clinical Research, The University of Queensland, Brisbane, Queensland, Australia. Stephen.Rose@csiro.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Fiori S"
+          ],
+          "firstName": [
+            "Simona"
+          ],
+          "lastName": [
+            "Fiori"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Developmental Neuroscience, IRCCS Stella Maris, Pisa, Italy. s.fiori@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Cunnington R"
+          ],
+          "firstName": [
+            "Ross"
+          ],
+          "lastName": [
+            "Cunnington"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7423-4809",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Psychology, The University of Queensland, Brisbane, Queensland, Australia. r.cunnington@uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Ware R"
+          ],
+          "firstName": [
+            "Robert"
+          ],
+          "lastName": [
+            "Ware"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6129-6736",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Population Health, The University of Queensland, Brisbane, Queensland, Australia. r.ware@sph.uq.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis M"
+          ],
+          "firstName": [
+            "Melinda"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Children's Allied Health Research, Children's Health Queensland, Brisbane, Queensland, Australia. melinda.lewis@health.qld.gov.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Comans TA"
+          ],
+          "firstName": [
+            "Tracy A"
+          ],
+          "lastName": [
+            "Comans"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2840-3496",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Griffith Health Institute and School of Medicine, Griffith University, Brisbane, Queensland, Australia. t.comans@griffith.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Scuffham PA"
+          ],
+          "firstName": [
+            "Paul A"
+          ],
+          "lastName": [
+            "Scuffham"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5931-642X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Griffith Health Institute and School of Medicine, Griffith University, Brisbane, Queensland, Australia. p.scuffham@griffith.edu.au."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6129-6736",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5344-9907",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5395-544X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7756-5136",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2840-3496",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7423-4809",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5931-642X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2476424"
+      ],
+      "dateOfPublication": [
+        "2015 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC neurology"
+          ],
+          "ISOAbbreviation": [
+            "BMC Neurol"
+          ],
+          "medlineAbbreviation": [
+            "BMC Neurol"
+          ],
+          "NLMid": [
+            "100968555"
+          ],
+          "ISSN": [
+            "1471-2377"
+          ],
+          "ESSN": [
+            "1471-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "140"
+  ],
+  "abstractText": [
+    "Acquired brain injury (ABI) refers to multiple disabilities arising from damage to the brain acquired after birth. Children with an ABI may experience physical, cognitive, social and emotional-behavioural impairments which can impact their ability to participate in activities of daily living (ADL). Recent developments in technology have led to the emergence of internet-delivered therapy programs. \"Move it to improve it\" (Mitii™) is a web-based multi-modal therapy that comprises upper limb (UL) and cognitive training within the context of meaningful physical activity. The proposed study aims to compare the efficacy of Mitii™ to usual care to improve ADL motor and processing skills, gross motor capacity, UL and executive functioning in a randomised waitlist controlled trial.Sixty independently ambulant children (30 in each group) at least 12 months post ABI will be recruited to participate in this trial. Children will be matched in pairs at baseline and randomly allocated to receive either 20 weeks of Mitii™ training (30 min per day, six days a week, with a potential total dose of 60 h) immediately, or be waitlisted for 20 weeks. Outcomes will be assessed at baseline, immediately post-intervention and at 20 weeks post-intervention. The primary outcomes will be the Assessment of Motor and Process Skills and 30 s repetition maximum of functional strength exercises (sit-to-stand, step-ups and half kneel to stand). Measures of body structure and functions, activity, participation and quality of life will assess the efficacy of Mitii™ across all domains of the International Classification of Functioning, Disability and Health framework. A subset of children will undertake three tesla (3T) magnetic resonance imaging scans to evaluate functional neurovascular changes, structural imaging, diffusion imaging and resting state functional connectivity before and after intervention.Mitii™ provides an alternative approach to deliver intensive therapy for children with an ABI in the convenience of the home environment. If Mitii™ is found to be effective, it may offer an accessible and inexpensive intervention option to increase therapy dose.ANZCTR12613000403730."
+  ],
+  "affiliation": [
+    "Queensland Cerebral Palsy and Rehabilitation Research Centre, School of Medicine, The University of Queensland, Brisbane, Queensland, Australia. r.boyd@uq.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Upper Extremity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain Injuries"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Internet"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Waiting Lists"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Telerehabilitation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4544804?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4544804"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12883-015-0381-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-14"
+  ],
+  "dateOfCreation": [
+    "2015-08-19"
+  ],
+  "dateOfRevision": [
+    "2016-11-14"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-19"
+  ],
+  "firstPublicationDate": [
+    "2015-08-19"
+  ]
+}

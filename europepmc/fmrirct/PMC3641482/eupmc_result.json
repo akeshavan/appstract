@@ -1,0 +1,528 @@
+{
+  "id": [
+    "23578686"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23578686"
+  ],
+  "pmcid": [
+    "PMC3641482"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2013-002853"
+  ],
+  "title": [
+    "Move it to improve it (Mitii): study protocol of a randomised controlled trial of a novel web-based multimodal training program for children and adolescents with cerebral palsy."
+  ],
+  "authorString": [
+    "Boyd RN, Mitchell LE, James ST, Ziviani J, Sakzewski L, Smith A, Rose S, Cunnington R, Whittingham K, Ware RS, Comans TA, Scuffham PA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Boyd RN"
+          ],
+          "firstName": [
+            "Roslyn N"
+          ],
+          "lastName": [
+            "Boyd"
+          ],
+          "initials": [
+            "RN"
+          ],
+          "affiliation": [
+            "School of Medicine, Queensland Cerebral Palsy and Rehabilitation Research Centre, The University of Queensland, Brisbane, Queensland, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Mitchell LE"
+          ],
+          "firstName": [
+            "Louise E"
+          ],
+          "lastName": [
+            "Mitchell"
+          ],
+          "initials": [
+            "LE"
+          ]
+        },
+        {
+          "fullName": [
+            "James ST"
+          ],
+          "firstName": [
+            "Sarah T"
+          ],
+          "lastName": [
+            "James"
+          ],
+          "initials": [
+            "ST"
+          ]
+        },
+        {
+          "fullName": [
+            "Ziviani J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Ziviani"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Sakzewski L"
+          ],
+          "firstName": [
+            "Leanne"
+          ],
+          "lastName": [
+            "Sakzewski"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5395-544X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Smith A"
+          ],
+          "firstName": [
+            "Anthony"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7756-5136",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Rose S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Rose"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Cunnington R"
+          ],
+          "firstName": [
+            "Ross"
+          ],
+          "lastName": [
+            "Cunnington"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7423-4809",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Whittingham K"
+          ],
+          "firstName": [
+            "Koa"
+          ],
+          "lastName": [
+            "Whittingham"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5344-9907",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ware RS"
+          ],
+          "firstName": [
+            "Robert S"
+          ],
+          "lastName": [
+            "Ware"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6129-6736",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Comans TA"
+          ],
+          "firstName": [
+            "Tracey A"
+          ],
+          "lastName": [
+            "Comans"
+          ],
+          "initials": [
+            "TA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2840-3496",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scuffham PA"
+          ],
+          "firstName": [
+            "Paul A"
+          ],
+          "lastName": [
+            "Scuffham"
+          ],
+          "initials": [
+            "PA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5931-642X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2840-3496",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5395-544X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7756-5136",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-6129-6736",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5931-642X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7423-4809",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-5344-9907",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2025258"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "abstractText": [
+    "Persons with cerebral palsy require a lifetime of costly and resource intensive interventions which are often limited by equity of access. With increasing burden being placed on health systems, new methods to deliver intensive rehabilitation therapies are needed. Move it to improve it (Mitii) is an internet-based multimodal programme comprising upper-limb and cognitive training with physical activity. It can be accessed in the client's home at their convenience. The proposed study aims to test the efficacy of Mitii in improving upper-limb function and motor planning. Additionally, this study hopes to further our understanding of the central neurovascular mechanisms underlying the proposed changes and determine the cost effectiveness of Mitii.Children with congenital hemiplegia will be recruited to participate in this waitlist control, matched pairs, single-blind randomised trial. Children be matched at baseline and randomly allocated to receive 20 weeks of 30 min of daily Mitii training immediately, or waitlisted for 20 weeks before receiving the same Mitii training (potential total dose=70 h). Outcomes will be assessed at 20 weeks after the start of Mitii, and retention effects tested at 40 weeks. The primary outcomes will be the Assessment of Motor and Process Skills (AMPS), the Assisting Hand Assessment (AHA) and unimanual upper-limb capacity using the Jebsen-Taylor Test of Hand Function (JTTHF). Advanced brain imaging will assess use-dependant neuroplasticity. Measures of body structure and functions, activity, participation and quality of life will be used to assess Mitii efficacy across all domains of the International Classification of Functioning, Disability and Health framework.This project has received Ethics Approval from the Medical Ethics Committee of The University of Queensland (2011000608) and the Royal Children's Hospital Brisbane (HREC/11/QRCH/35). Findings will be disseminated widely through conference presentations, seminars and peer-reviewed scientific journals.ACTRN12611001174976."
+  ],
+  "affiliation": [
+    "School of Medicine, Queensland Cerebral Palsy and Rehabilitation Research Centre, The University of Queensland, Brisbane, Queensland, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3641482?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3641482"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23578686/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23578686/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2013-002853"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "13"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-04-15"
+  ],
+  "dateOfCreation": [
+    "2013-04-12"
+  ],
+  "dateOfRevision": [
+    "2016-06-03"
+  ],
+  "electronicPublicationDate": [
+    "2013-04-10"
+  ],
+  "firstPublicationDate": [
+    "2013-04-10"
+  ]
+}

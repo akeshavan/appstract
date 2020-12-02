@@ -1,0 +1,518 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Archiving and Interchange DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName archivearticle3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 2?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bipolar Disord</journal-id><journal-id journal-id-type="iso-abbrev">Bipolar Disord</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1399-5618</journal-id><journal-id journal-id-type="publisher-id">BDI</journal-id><journal-title-group><journal-title>Bipolar Disorders</journal-title></journal-title-group><issn pub-type="ppub">1398-5647</issn><issn pub-type="epub">1399-5618</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5089565</article-id><article-id pub-id-type="doi">10.1111/bdi.12390</article-id><article-id pub-id-type="publisher-id">BDI12390</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Blue&#x02010;blocking glasses as additive treatment for mania: a randomized placebo&#x02010;controlled trial</article-title><alt-title alt-title-type="left-running-head">Henriksen et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="bdi12390-cr-0001" contrib-type="author" corresp="yes"><name><surname>Henriksen</surname><given-names>Tone EG</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="bdi12390-cr-0002" contrib-type="author"><name><surname>Skrede</surname><given-names>Silje</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0004">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="bdi12390-cr-0003" contrib-type="author"><name><surname>Fasmer</surname><given-names>Ole B</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="bdi12390-cr-0004" contrib-type="author"><name><surname>Schoeyen</surname><given-names>Helle</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="bdi12390-cr-0005" contrib-type="author"><name><surname>Leskauskaite</surname><given-names>Ieva</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="bdi12390-cr-0006" contrib-type="author"><name><surname>Bj&#x000f8;rke&#x02010;Bertheussen</surname><given-names>Jeanette</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="bdi12390-cr-0007" contrib-type="author"><name><surname>Assmus</surname><given-names>J&#x000f6;rg</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="bdi12390-cr-0008" contrib-type="author"><name><surname>Hamre</surname><given-names>B&#x000f8;rge</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="bdi12390-cr-0009" contrib-type="author"><name><surname>Gr&#x000f8;nli</surname><given-names>Janne</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0011">
+<sup>11</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="bdi12390-cr-0010" contrib-type="author"><name><surname>Lund</surname><given-names>Anders</given-names></name><xref ref-type="aff" rid="bdi12390-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="bdi12390-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="bdi12390-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Section&#x000a0;for Psychiatry</named-content><named-content content-type="organisation-division">Department of Clinical Medicine</named-content><institution>Faculty of Medicine and Dentistry</institution><institution>University of Bergen</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Division of Mental Health Care</named-content><named-content content-type="organisation-division">Valen Hospital</named-content><institution>Fonna Local Health Authority</institution><named-content content-type="city">Valen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Moodnet Research Group</named-content><named-content content-type="organisation-division">Division of Psychiatry</named-content><institution>Haukeland University Hospital</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Dr. Einar Martens Research Group for Biological Psychiatry</named-content><institution>Center for Medical Genetics and Molecular Medicine</institution><institution>Haukeland University Hospital</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">The Norwegian Centre for Mental Disorder Research (Norment)</named-content><named-content content-type="organisation-division">The KG Jebsen Centre for Psychosis Research</named-content><named-content content-type="organisation-division">Department of Clinical Science</named-content><institution>University of Bergen</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">The KG Jebsen Centre for Research on Neuropsychiatric Disorders</named-content><named-content content-type="organisation-division">Department of Clinical Science</named-content><institution>University of Bergen</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Division of Psychiatry</named-content><institution>Stavanger University Hospital</institution><named-content content-type="city">Stavanger</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0008"><label><sup>8</sup></label><named-content content-type="organisation-division">Division of Mental Health Care</named-content><institution>Haugesund Hospital</institution><institution>Fonna Local Health Authority</institution><named-content content-type="city">Valen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0009"><label><sup>9</sup></label><named-content content-type="organisation-division">Centre for Clinical Research</named-content><institution>Haukeland University Hospital</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0010"><label><sup>10</sup></label><named-content content-type="organisation-division">Department of Physics and Technology</named-content><institution>University of Bergen</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0011"><label><sup>11</sup></label><named-content content-type="organisation-division">Department of Biological and Medical Psychology</named-content><institution>Faculty of Psychology</institution><institution>University of Bergen</institution><named-content content-type="city">Bergen</named-content><country country="NO">Norway</country></aff><aff id="bdi12390-aff-0012"><label><sup>12</sup></label><named-content content-type="organisation-division">Sleep and Performance Research Center</named-content><institution>Washington State University</institution><named-content content-type="street">Spokane</named-content><named-content content-type="city">Washington</named-content><country country="US">USA</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Corresponding author:<break/>
+Tone E. G. Henriksen Valen Sjukehus Sjukehusvegen 26 Valen 5451 Norway<break/>
+Fax: +4753466401<break/>
+E&#x02010;mail: <email>tgjo@helse-fonna.no</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2016</year></pub-date><volume>18</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/bdi.2016.18.issue-3</issue-id><fpage>221</fpage><lpage>232</lpage><history><date date-type="received"><day>17</day><month>1</month><year>2016</year></date><date date-type="rev-recd"><day>19</day><month>3</month><year>2016</year></date><date date-type="accepted"><day>08</day><month>4</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons A/S <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Bipolar Disorders</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BDI-18-221.pdf"/><abstract id="bdi12390-abs-0001"><sec id="bdi12390-sec-0001"><title>Objectives</title><p>The discovery of the blue lightsensitive retinal photoreceptor responsible for signaling daytime to the brain suggested that light to the circadian system could be inhibited by using blue&#x02010;blocking orange tinted glasses. Blue&#x02010;blocking (<styled-content style="fixed-case">BB</styled-content>) glasses are a potential treatment option for bipolar mania. We examined the effectiveness of <styled-content style="fixed-case">BB</styled-content> glasses in hospitalized patients with bipolar disorder in a manic state.</p></sec><sec id="bdi12390-sec-0002"><title>Methods</title><p>In a single&#x02010;blinded, randomized, placebo&#x02010;controlled trial (<styled-content style="fixed-case">RCT</styled-content>), eligible patients (with bipolar mania; age 18&#x02013;70&#x000a0;years) were recruited from five clinics in Norway. Patients were assigned to <styled-content style="fixed-case">BB</styled-content> glasses or placebo (clear glasses) from 6 p.m. to 8 a.m. for 7&#x000a0;days, in addition to treatment as usual. Symptoms were assessed daily by use of the Young Mania Rating Scale (<styled-content style="fixed-case">YMRS</styled-content>). Motor activity was assessed by actigraphy, and compared to data from a healthy control group. Wearing glasses for one evening/night qualified for inclusion in the intention&#x02010;to&#x02010;treat analysis.</p></sec><sec id="bdi12390-sec-0003"><title>Results</title><p>From February 2012 to February 2015, 32 patients were enrolled. Eight patients dropped out and one was excluded, resulting in 12 patients in the <styled-content style="fixed-case">BB</styled-content> group and 11 patients in the placebo group. The mean decline in <styled-content style="fixed-case">YMRS</styled-content> score was 14.1 [95% confidence interval (<styled-content style="fixed-case">CI</styled-content>): 9.7&#x02013;18.5] in the <styled-content style="fixed-case">BB</styled-content> group, and 1.7 (95% <styled-content style="fixed-case">CI</styled-content>: &#x02212;4.0 to 7.4) in the placebo group, yielding an effect size of 1.86 (Cohen's <italic>d</italic>). In the <styled-content style="fixed-case">BB</styled-content> group, one patient reported headache and two patients experienced easily reversible depressive symptoms.</p></sec><sec id="bdi12390-sec-0004"><title>Conclusions</title><p>This <styled-content style="fixed-case">RCT</styled-content> shows that <styled-content style="fixed-case">BB</styled-content> glasses are effective and feasible as add&#x02010;on treatment for bipolar mania.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bdi12390-kwd-0001">activation</kwd><kwd id="bdi12390-kwd-0002">bipolar disorder</kwd><kwd id="bdi12390-kwd-0003">blue&#x02010;blockers</kwd><kwd id="bdi12390-kwd-0004">chronotherapy</kwd><kwd id="bdi12390-kwd-0005">dark therapy</kwd><kwd id="bdi12390-kwd-0006">actigraph</kwd><kwd id="bdi12390-kwd-0007">mania</kwd><kwd id="bdi12390-kwd-0008"><styled-content style="fixed-case">RCT</styled-content></kwd><kwd id="bdi12390-kwd-0009">virtual darkness</kwd></kwd-group><funding-group><award-group><funding-source>Fonna Local Health Authority</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Western Norway Regional Health Authority</funding-source></award-group></funding-group><funding-group><award-group><funding-source>MoodNet</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Haukeland University Hospital</funding-source></award-group></funding-group><counts><page-count count="12"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bdi12390</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.6 mode:remove_FC converted:01.11.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bdi12390-cit-1001">
+<string-name>
+<surname>Henriksen</surname>
+<given-names>TEG</given-names>
+</string-name>, <string-name>
+<surname>Skrede</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fasmer</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Schoeyen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Leskauskaite</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Bj&#x000f8;rke&#x02010;Bertheussen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Assmus</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hamre</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000f8;nli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lund</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Blue&#x02010;blocking glasses as additive treatment for mania: a randomized placebo&#x02010;controlled trial</article-title>. <source>Bipolar Disord</source>
+<year>2016</year>: <volume>18</volume>: <fpage>221</fpage>&#x02013;<lpage>232</lpage>. &#x000a9; 2016 The Authors. Bipolar Disorders Published by John Wiley &#x00026; Sons Ltd.<pub-id pub-id-type="pmid">27226262</pub-id></mixed-citation>
+</p></notes></front><body><p>Bipolar disorder is a serious mental illness with a prevalence of approximately 1% <xref rid="bdi12390-bib-0001" ref-type="ref">1</xref>. Bipolar I disorder is characterized by manic and depressive mood swings. Patients in an episode of mania present with symptoms of elevated mood, irritability, increased energy, risk&#x02010;taking behaviour, sleep disturbances, and changes in thoughts and perception, sometimes to the level of psychosis. Patients with bipolar disorder have the highest suicide rate (20%) amongst all those with psychiatric disorders <xref rid="bdi12390-bib-0002" ref-type="ref">2</xref>. Manic episodes are associated with a particularly high risk of injury and death from accidents, as well as social, economic and professional damage <xref rid="bdi12390-bib-0003" ref-type="ref">3</xref>. A full&#x02010;blown psychotic mania also increases the risk of a subsequent depressive episode <xref rid="bdi12390-bib-0004" ref-type="ref">4</xref>, <xref rid="bdi12390-bib-0005" ref-type="ref">5</xref>. Effective treatment of manic episodes is therefore of high clinical importance.</p><p>Current treatment of bipolar mania rests heavily on the use of mood&#x02010;stabilizing and antipsychotic agents, the effects of which are slow in onset. The duration of manic episodes is several weeks on average <xref rid="bdi12390-bib-0006" ref-type="ref">6</xref>, <xref rid="bdi12390-bib-0007" ref-type="ref">7</xref>. This fact alone is a strong indication that the current treatment options do not target the most elemental mania&#x02010;sustaining mechanisms.</p><p>Recent research supports the common clinical experience that bipolar episodes are provoked by changes in light conditions <xref rid="bdi12390-bib-0008" ref-type="ref">8</xref>, <xref rid="bdi12390-bib-0009" ref-type="ref">9</xref>. Also, there is supporting evidence for seasonality in bipolar disorder, and symptoms of bipolar disorder are closely linked to abnormal circadian rhythms <xref rid="bdi12390-bib-0010" ref-type="ref">10</xref>, <xref rid="bdi12390-bib-0011" ref-type="ref">11</xref>.</p><p>The light/dark cycle is the strongest synchronizing environmental signal to the &#x02018;master clock&#x02019; of circadian rhythms, the suprachiasmatic nucleus (SCN) located in the hypothalamus. Light through the eye signals daytime to the SCN, which in turn inhibits production of the &#x02018;dark hormone&#x02019; melatonin in the pineal gland <xref rid="bdi12390-bib-0012" ref-type="ref">12</xref>.</p><p>Dark therapy (DT) aims to synchronize circadian rhythms by placing patients with mania in a completely dark room for 14&#x000a0;hours during the night. DT has been described to have striking effects in two case reports and one pilot study <xref rid="bdi12390-bib-0013" ref-type="ref">13</xref>, <xref rid="bdi12390-bib-0014" ref-type="ref">14</xref>, <xref rid="bdi12390-bib-0015" ref-type="ref">15</xref>. However, total darkness provides a broad range of sensory deprivation that may cause serious adherence problems, particularly for patients in a manic state.</p><p>During the last three decades, a specialized retinal ganglion cell type responsible for detecting and conveying the daylight signal to the brain has been identified and characterized. These cells, termed intrinsically photo&#x02010;responsive retinal ganglion cells (ipRGCs), contain the blue light&#x02010;sensitive photo&#x02010;pigment melanopsin <xref rid="bdi12390-bib-0016" ref-type="ref">16</xref>. In addition to direct signalling of the light/dark status of the environment via ipRGC&#x02010;SCN projections, ipRGCs connect with several other regions of the brain, including the limbic system, striatum and brain stem <xref rid="bdi12390-bib-0016" ref-type="ref">16</xref>. Aberrant light conditions have been demonstrated to affect mood and cognition both through the fast&#x02010;acting direct pathways in the ipRGC circuits and indirectly via effects on circadian rhythms and sleep <xref rid="bdi12390-bib-0016" ref-type="ref">16</xref>.</p><p>The fact that a narrow spectrum of light (blue light) constitutes the daylight signal can be exploited in a therapeutic setting. Preventing blue light from entering the eye has been demonstrated to create a state of virtual darkness in the brain. Wearing orange glasses (blue&#x02010;blockers) in white&#x02010;light environments <xref rid="bdi12390-bib-0017" ref-type="ref">17</xref>, <xref rid="bdi12390-bib-0018" ref-type="ref">18</xref>, or using light during the night&#x02010;time without wavelengths below 530&#x000a0;nm <xref rid="bdi12390-bib-0019" ref-type="ref">19</xref>, has been shown to preserve melatonin production, similar to the melatonin profile for subjects in darkness.</p><p>In a 21&#x02010;patient case series describing euthymic patients with bipolar disorder wearing orange glasses in the evening, 50% of the patients reported improved sleep during the intervention <xref rid="bdi12390-bib-0020" ref-type="ref">20</xref>. Similar findings have been reported in one patient with schizoaffective disorder <xref rid="bdi12390-bib-0021" ref-type="ref">21</xref>, in one patient with mania <xref rid="bdi12390-bib-0022" ref-type="ref">22</xref>, and in one patient with bipolar II disorder <xref rid="bdi12390-bib-0023" ref-type="ref">23</xref>.</p><p>In this RCT, we examined the effectiveness and feasibility of blue&#x02010;blocking (BB) glasses as an add&#x02010;on treatment in reducing symptoms of mania in hospitalized patients with bipolar disorder. The main hypotheses were: BB is effective in treating manic symptoms and, furthermore, BB is feasible as a treatment for patients in a manic episode. The primary outcome was change in manic symptoms. The secondary outcome was change in motor activity. Finally, the feasibility of BB was assessed through a patient experience self&#x02010;report form and monitoring of side effects.</p><sec id="bdi12390-sec-0006"><title>Patients and methods</title><sec id="bdi12390-sec-0007"><title>Study design</title><p>The study was a multicentre randomized placebo&#x02010;controlled single&#x02010;blinded study. Patients were recruited from five hospitals in the southwest of Norway, latitude 58&#x02013;59&#x02032;N. Patients were recruited from Valen Hospital and Folgefonn District Hospital from 1 February 2012, from Haugesund Hospital and Haugaland District Hospital from 20 August 2012, and from Stavanger University Hospital from 20 August 2014. Healthy controls were recruited from the same locations and in the same periods of time as the patients. The study was terminated on 15 February 2015.</p><p>Eligible patients were those admitted to hospital with manic symptoms and bipolar disorder according to the Diagnostic and Statistical Manual of Mental Disorders, 4<sup>th</sup> edition, Text Revision (DSM&#x02010;IV&#x02010;TR) criteria <xref rid="bdi12390-bib-0024" ref-type="ref">24</xref>, and aged 18&#x02013;70&#x000a0;years. Exclusion criteria were previous knowledge of BB glasses, not consenting to participate, daily use of beta blockers, nonsteroidal anti&#x02010;inflammatory drugs (NSAIDs) or calcium antagonists, and severe eye disease or traumatic injury affecting both eyes. In the case of withdrawal symptoms from any drug or alcohol at the time of admission, the start of the intervention was delayed until withdrawal symptoms had ceased. Recruiting doctors were not involved in the ordinary treatment of the participants. Inclusion criteria for healthy controls were age 18&#x02013;70&#x000a0;years and written informed consent to participation. Exclusion criteria were diagnosis of bipolar disorder and previous or current night&#x02010;shift work, and were otherwise the same as for patients. Previous knowledge of BB glasses was not an exclusion criterion for healthy controls.</p><p>Data from the literature were scarce with regard to previous trials using DT and nonexistent with regard to BB in patients with mania, making power analysis difficult. Based on the DT study (large effect sizes 0.9&#x02013;1.6; Cohen's <italic>d</italic>), a power analysis indicated that, for a probability level of 0.05 (two&#x02010;tailed) and power set at 0.80, 21 patients in each group would be sufficient to detect a significant difference <xref rid="bdi12390-bib-0015" ref-type="ref">15</xref>.</p><p>However, after 3&#x000a0;years of recruitment and with a total number of 24 patients included for the intention&#x02010;to&#x02010;treat analysis, inclusion was ended due to the increasing risk of a selection bias because of the growing public awareness of the effects of blue light and BB glasses.</p><p>All patients who adhered to the protocol (used the glasses from 6 p.m. to 8 a.m.) for at least one evening, night and early morning were included in the intention&#x02010;to&#x02010;treat analysis. One patient in the BB group was excluded from the analysis because of withdrawal symptoms from benzodiazepines at the start of the intervention.</p></sec><sec id="bdi12390-sec-0008"><title>Ethics</title><p>The procedures were approved by The Regional Ethical Committee in Norway (REK) and were in accordance with the Helsinki Declaration. REK approved the use of delayed consent for the participating patients. All subjects granted written informed consent after receiving a full description of the study.</p></sec><sec id="bdi12390-sec-0009"><title>Randomization and masking</title><p>Included patients were randomly assigned to wearing either orange glasses (BB) or clear glasses (placebo), by use of manual drawing from a fixed number of folded patches. Secretaries not otherwise involved in the trial made the allocation. The participants were masked to group assignment by receiving identical limited information about the purpose of the study: testing the effectiveness of different types of glasses in reducing manic symptoms by blocking different wavelengths of light. No patient observed other patients wearing glasses of a different colour during the trial. Patients did not have access to the internet. The persons assessing day&#x02010;to&#x02010;day mania symptoms and analysing the data were not blinded to group assignment.</p></sec><sec id="bdi12390-sec-0010"><title>Procedures</title><p>Patients were diagnosed by experienced psychiatrists trained in the use of the Mini International Neuropsychiatric Interview&#x02010;Plus <xref rid="bdi12390-bib-0025" ref-type="ref">25</xref>. All patients were physically examined for severe impairment of vision. The BB group wore orange glasses (LowBlueLights.com, University Heights, OH, USA), and the placebo group wore clear&#x02010;lensed glasses (Uvex, Furth, Germany and 3M, Austin, TX, USA) from 6 p.m. to 8 a.m. for seven consecutive days. The transmittance spectra of the intervention glasses are shown in <italic>Supplementary Fig.&#x000a0;1</italic>. For both groups, the intervention was given in addition to treatment as usual (TAU) (Table&#x000a0;<xref rid="bdi12390-tbl-0001" ref-type="table-wrap">1</xref>). Participants were instructed that the glasses could be taken off when turning out the light at bedtime and should be put on if turning on the light before 8 a.m. In both groups, the patients were offered a choice between different models of glasses.</p><table-wrap id="bdi12390-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Individual medications and outcomes for patients assigned to blue&#x02010;blocking glasses or clear glasses (placebo)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Patient no.</th><th align="char" valign="top" rowspan="1" colspan="1">Antipsychotics Mean dosage (mg/day)</th><th align="char" valign="top" rowspan="1" colspan="1">Anticonvulsants Mean dosage (mg/day)</th><th align="char" valign="top" rowspan="1" colspan="1">Lithium Mean dosage (mg/day)</th><th align="char" valign="top" rowspan="1" colspan="1">Anxiolytics/hypnotics/sedatives Mean dosage (mg/day)</th><th align="char" valign="top" rowspan="1" colspan="1">Day of study exit</th><th align="char" valign="top" rowspan="1" colspan="1">Delta YMRS</th></tr></thead><tbody><tr><td align="left" colspan="7" rowspan="1">Clear glasses (placebo)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">
+Olanzapine 5.6<break/>
+Quetiapine 600.0
+</td><td align="char" rowspan="1" colspan="1">Valproate 837.5</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">
+Diazepam 21.3<break/>
+Zopiclone 15
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2<xref ref-type="fn" rid="bdi12390-note-0002">a</xref>
+</td><td align="char" rowspan="1" colspan="1">Quetiapine 200.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;12</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Valproate 3300.0</td><td align="char" rowspan="1" colspan="1">Li sulfate 84.0</td><td align="char" rowspan="1" colspan="1">
+Zopiclone 7.5<break/>
+Alimemazine 40.0
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Valproate 600</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">
+Oxazepam 31.25<break/>
+Cetirizin 10.0
+</td><td align="char" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">5<xref ref-type="fn" rid="bdi12390-note-0002">a</xref>
+</td><td align="char" rowspan="1" colspan="1">
+Haloperidol 6.25<break/>
+Levomepromazine 50.0
+</td><td align="char" rowspan="1" colspan="1">Valproate 1537.5</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">
+Diazepam 10.0<break/>
+Zopiclone 7.5
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">11</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">6</td><td align="char" rowspan="1" colspan="1">
+Haloperidol depot 50.0 (every 14&#x000a0;days)<break/>
+Chlorpromazine 162.5
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Li sulfate 119.9</td><td align="char" rowspan="1" colspan="1">Diazepam 16.3</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">
+Haloperidol 0.75<break/>
+Olanzapine 22.5
+</td><td align="char" rowspan="1" colspan="1">Carbamazepine 325.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Diazepam 34.4</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">8</td><td align="char" rowspan="1" colspan="1">
+Olanzapine 20.0<break/>
+Quetiapine 100.0
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Li carbonate 1200.0</td><td align="char" rowspan="1" colspan="1">
+Oxazepam 17.0<break/>
+Zopiclone 3.3<break/>
+Alimemazine 10.0<break/>
+Cetirizine 10.0
+</td><td align="char" rowspan="1" colspan="1">6</td><td align="char" rowspan="1" colspan="1">&#x02212;15</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">9</td><td align="char" rowspan="1" colspan="1">
+Chlorprothixene 123.1<break/>
+Olanzapine 23.6
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Oxazepam 10.0</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;7,5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">10</td><td align="char" rowspan="1" colspan="1">Levomepromazine 6.3 Olanzapine 3.8</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Li sulphate 166.0</td><td align="char" rowspan="1" colspan="1">
+Diazepam 5.0<break/>
+Melatonin 0.5
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">11</td><td align="char" rowspan="1" colspan="1">
+Aripiprazole 9.0<break/>
+Quetiapine 30.0<break/>
+Zuclopenthixol 10.0
+</td><td align="char" rowspan="1" colspan="1">Valproate 936.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Cetirizine 10.0</td><td align="char" rowspan="1" colspan="1">5</td><td align="char" rowspan="1" colspan="1">12</td></tr><tr><td align="left" colspan="7" rowspan="1">Blue&#x02010;blocking glasses</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">12</td><td align="char" rowspan="1" colspan="1">Quetiapine 250.0</td><td align="char" rowspan="1" colspan="1">Valproate 1200.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Diazepam 10.0</td><td align="char" rowspan="1" colspan="1">1</td><td align="char" rowspan="1" colspan="1">&#x02212;8</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">13</td><td align="char" rowspan="1" colspan="1">
+Quetiapine 350.0<break/>
+Zuclopenthixol 20.0
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Li sulphate 84.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">14<xref ref-type="fn" rid="bdi12390-note-0003">b</xref>
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Lamotrigine 300.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">2</td><td align="char" rowspan="1" colspan="1">15</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">15</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Zolpidem 7.5</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;19</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">16</td><td align="char" rowspan="1" colspan="1">Olanzapine 20.0</td><td align="char" rowspan="1" colspan="1">Valproate 562.6</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">17</td><td align="char" rowspan="1" colspan="1">Olanzapine 15.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">18</td><td align="char" rowspan="1" colspan="1">Chlorpromazine 500.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Li sulphate 166.0</td><td align="char" rowspan="1" colspan="1">
+Clonazepam 1.25<break/>
+Cetirizine 10.0<break/>
+Promethazine 25.0
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;24</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">19</td><td align="char" rowspan="1" colspan="1">
+Olanzapine 6.9<break/>
+Quetiapine 600.0
+</td><td align="char" rowspan="1" colspan="1">Valproate 450.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;14,5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">20</td><td align="char" rowspan="1" colspan="1">Olanzapine 25.0</td><td align="char" rowspan="1" colspan="1">Lamotrigine 200.0</td><td align="char" rowspan="1" colspan="1">Li sulphate 192.6</td><td align="char" rowspan="1" colspan="1">Clonazepam 0.9</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;11</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">21</td><td align="char" rowspan="1" colspan="1">Aripiprazole 10.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;12</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">22</td><td align="char" rowspan="1" colspan="1">
+Chlorprothixene 100.0<break/>
+Olanzapine 40.0
+</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">Li sulphate 249.0</td><td align="char" rowspan="1" colspan="1">
+Buspirone 30.0<break/>
+Clonazepam 2.25
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">23</td><td align="char" rowspan="1" colspan="1">Risperidone 0.6</td><td align="char" rowspan="1" colspan="1">Lamotrigine 162.5</td><td align="char" rowspan="1" colspan="1">Li sulphate 120.8</td><td align="char" rowspan="1" colspan="1">
+Alimemazine 3.75<break/>
+Mirtazapine 24.4<xref ref-type="fn" rid="bdi12390-note-0004">c</xref>
+</td><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;17</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">24</td><td align="char" rowspan="1" colspan="1">Olanzapine 15.0</td><td align="char" rowspan="1" colspan="1">Valproate 600.0</td><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1"/><td align="char" rowspan="1" colspan="1">7</td><td align="char" rowspan="1" colspan="1">&#x02212;17,5</td></tr></tbody></table><table-wrap-foot><fn id="bdi12390-note-0001"><p>Li&#x000a0;=&#x000a0;lithium; YMRS&#x000a0;=&#x000a0;Young Mania Rating Scale.</p></fn><fn id="bdi12390-note-0002"><label>a</label><p>Patients 2 and 5 were administered ibuprofen 250&#x000a0;mg/day. Ibuprofen can affect melatonin production.</p></fn><fn id="bdi12390-note-0003"><label>b</label><p>This patient was excluded from the analysis because of withdrawal symptoms at the start of the intervention.</p></fn><fn id="bdi12390-note-0004"><label>c</label><p>Sedation is a recognized side effect of the antidepressant mirtazapine.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The patients&#x02019; manic symptoms were scored daily by use of the Young Mania Rating Scale (YMRS) <xref rid="bdi12390-bib-0026" ref-type="ref">26</xref> at the time of nurse reports from the day shift (2 p.m.). Doctors trained in YMRS scoring rated all participants and all ratings were performed as a consensus together with at least one trained member of the nursing staff who had attended the patient on the day of assessment. The score for each item was assigned on the basis of the highest level of symptoms, regardless of duration, during the 24&#x02010;hour interval starting at midnight. If symptoms increased from 2 p.m. to midnight, the score was adjusted by the doctor responsible for the scoring.</p><p>By use of a wrist&#x02010;worn actigraph (Actiwatch Spectrum; Philips Respironics, Inc., Murrysville, PA, USA), motor activity was continuously recorded for all groups (patients and healthy control subjects). An actigraph contains a piezoelectric accelerometer recording movements in all directions and stores the registered activity count (per defined epoch) in an internal memory unit <xref rid="bdi12390-bib-0027" ref-type="ref">27</xref>. The patients were monitored during the seven&#x000a0;days of intervention. Healthy controls were monitored for a seven&#x02010;day baseline period without any intervention, followed by a seven&#x02010;day period of daily BB from 6 p.m. to 8 a.m.</p><p>The BB/placebo interval (intervention interval) was defined in the Actiwatch software as lasting from 6 p.m. to 8 a.m. for patients and for healthy controls. The interval without glasses was defined as 8 a.m. to 6 p.m. Based on nurses&#x02019; reports for patients and self&#x02010;report forms for healthy controls, any reported deviation from the protocol was corrected by changing the start and end times of the interval accordingly. If BB glasses were taken off temporarily during the intervention interval, the period of nonuse was excluded, and the remaining interval analysed. Intervals with more than 50% invalid time (activity) were excluded from the analysis. Pre&#x02010;treatment activity intervals of more than 70&#x000a0;min were included in the analysis.</p><p>The feasibility of the intervention was assessed using a patient self&#x02010;report form developed for the trial. Patients were instructed to rate five statements about the study and the intervention on a five&#x02010;point scale ranging from &#x02018;fully disagree&#x02019; to &#x02018;fully agree&#x02019;. Additionally, all subjects had the opportunity to add individual comments detailing their experiences in the trial.</p></sec><sec id="bdi12390-sec-0011"><title>Outcomes</title><p>The primary outcome was change in the YMRS score. The secondary outcomes were change in motor activity recorded by means of an actigraph and scores from the patient experience self&#x02010;report form. Side effects were recorded if present.</p></sec><sec id="bdi12390-sec-0012"><title>Statistical analyses</title><p>Descriptive statistical methods were used to characterize the sample. The association between treatment and the primary outcome YMRS total score as well as secondary actigraph outcomes was assessed in a linear model with repeated measures, with time, treatment and their interaction as predictors using simple contrasts (all time&#x02010;points compared with the baseline value). The single items were assessed by graphical methods and means with 95% confidence intervals (CIs) at each time&#x02010;point. Average activity (counts/min) was calculated for all subjects by use of the Actiware Statistics program. Computation was otherwise performed using SPSS 22 (IBM Corp., Armonk, NY, USA) and Matlab 7.1 (Mathworks, Inc., Natick, MA, USA) and all graphics were produced in Matlab 7.1.</p></sec></sec><sec id="bdi12390-sec-0013"><title>Results</title><p>The trial profile is shown in Figure&#x000a0;<xref rid="bdi12390-fig-0001" ref-type="fig">1</xref>. A total of 32 patients were randomized to one of the two groups. Six patients withdrew consent on the first night of the intervention and two were unable to adhere to the protocol, yielding an intention&#x02010;to&#x02010;treat group of 24 patients in total, 13 patients in the BB group and 11 patients in the placebo group. Actigraph recordings from 22 patients (12 in the BBT group and 10 in the placebo group) and 35 healthy controls were analysed.</p><fig fig-type="Figure" xml:lang="en" id="bdi12390-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Trial profile in a randomized controlled trial of blue&#x02010;blocking (<styled-content style="fixed-case">BB</styled-content>) glasses versus placebo glasses for patients with bipolar mania.</p></caption><graphic id="nlm-graphic-1" xlink:href="BDI-18-221-g001"/></fig><p>Demographic variables and baseline clinical characteristics for all groups are shown in Table&#x000a0;<xref rid="bdi12390-tbl-0002" ref-type="table-wrap">2</xref>. There were more men than women in both patient groups. The pre&#x02010;treatment mean YMRS score for the control group was 27.0 as compared to 23.4 in the BB group. The healthy control group differed from the patient groups with respect to a more equal distribution of sexes, a higher level of education and a higher level of employment. During the intervention week, pharmacological treatment was less intensive for the BB group than for the placebo group (Table&#x000a0;<xref rid="bdi12390-tbl-0001" ref-type="table-wrap">1</xref>); that is, only three of 12 patients in the BB group received two or more different types of antipsychotic drugs as compared to eight of 11 in the placebo group. Only six of 12 patients in the BB group received an anxiolytic, hypnotic or sedative drug, as compared to all patients in the placebo group.</p><table-wrap id="bdi12390-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Characteristics of patients with mania assigned to blue&#x02010;blocking glasses or placebo and the healthy control group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">Patient group/placebo (n&#x000a0;=&#x000a0;11)</th><th align="char" valign="top" rowspan="1" colspan="1">Patient group/blue&#x02010;blocking (n&#x000a0;=&#x000a0;12)</th><th align="char" valign="top" rowspan="1" colspan="1">Healthy controls (n&#x000a0;=&#x000a0;45)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Current episode</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">YMRS score at start of intervention, mean (SD)</td><td align="char" rowspan="1" colspan="1">27.0 (7.1)</td><td align="char" rowspan="1" colspan="1">23.4 (8.0)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Psychotic symptoms</td><td align="char" rowspan="1" colspan="1">9/11</td><td align="char" rowspan="1" colspan="1">8/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hospitalized against own will</td><td align="char" rowspan="1" colspan="1">8/11</td><td align="char" rowspan="1" colspan="1">6/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Demographic variables</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Age, years, mean (SD)</td><td align="char" rowspan="1" colspan="1">49.8 (13.8)</td><td align="char" rowspan="1" colspan="1">43.0 (11.0)</td><td align="char" rowspan="1" colspan="1">42.3 (10.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sex, male</td><td align="char" rowspan="1" colspan="1">9/11</td><td align="char" rowspan="1" colspan="1">7/12</td><td align="char" rowspan="1" colspan="1">22/45</td></tr><tr><td align="left" colspan="4" rowspan="1">Highest level of education completed</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High school</td><td align="char" rowspan="1" colspan="1">4/11</td><td align="char" rowspan="1" colspan="1">4/12</td><td align="char" rowspan="1" colspan="1">6/45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">High school/vocational studies</td><td align="char" rowspan="1" colspan="1">3/11</td><td align="char" rowspan="1" colspan="1">6/12</td><td align="char" rowspan="1" colspan="1">7/45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">University/higher education</td><td align="char" rowspan="1" colspan="1">4/11</td><td align="char" rowspan="1" colspan="1">2/12</td><td align="char" rowspan="1" colspan="1">32/45</td></tr><tr><td align="left" colspan="4" rowspan="1">Employment status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unemployed</td><td align="char" rowspan="1" colspan="1">2/11</td><td align="char" rowspan="1" colspan="1">1/12</td><td align="char" rowspan="1" colspan="1">0/45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Student</td><td align="char" rowspan="1" colspan="1">1/11</td><td align="char" rowspan="1" colspan="1">0/12</td><td align="char" rowspan="1" colspan="1">1/45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Employed</td><td align="char" rowspan="1" colspan="1">3/11</td><td align="char" rowspan="1" colspan="1">6/12</td><td align="char" rowspan="1" colspan="1">42/45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Retired</td><td align="char" rowspan="1" colspan="1">1/11</td><td align="char" rowspan="1" colspan="1">1/12</td><td align="char" rowspan="1" colspan="1">2/45</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Disability benefit</td><td align="char" rowspan="1" colspan="1">4/11</td><td align="char" rowspan="1" colspan="1">4/12</td><td align="char" rowspan="1" colspan="1">0/45</td></tr><tr><td align="left" colspan="4" rowspan="1">Marital status</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Single</td><td align="char" rowspan="1" colspan="1">3/11</td><td align="char" rowspan="1" colspan="1">4/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cohabiting</td><td align="char" rowspan="1" colspan="1">1/11</td><td align="char" rowspan="1" colspan="1">2/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Married</td><td align="char" rowspan="1" colspan="1">2/11</td><td align="char" rowspan="1" colspan="1">3/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Divorced</td><td align="char" rowspan="1" colspan="1">5/11</td><td align="char" rowspan="1" colspan="1">3/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Clinical characteristics from medical history</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Family history<xref ref-type="fn" rid="bdi12390-note-0006">a</xref>
+</td><td align="char" rowspan="1" colspan="1">6/10</td><td align="char" rowspan="1" colspan="1">4/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Self&#x02010;reported age at first affective episode, years, mean (SD)</td><td align="char" rowspan="1" colspan="1">24.7 (12.1)</td><td align="char" rowspan="1" colspan="1">23.0 (10.9)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Age at first psychiatric hospital stay, years, mean (SD)</td><td align="char" rowspan="1" colspan="1">32.9 (4.0)</td><td align="char" rowspan="1" colspan="1">31.7 (3.5)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Duration of illness, years, mean (SD)</td><td align="char" rowspan="1" colspan="1">22.8 (3.8)</td><td align="char" rowspan="1" colspan="1">18.0 (3.1)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Psychotic mania in medical history</td><td align="char" rowspan="1" colspan="1">10/11</td><td align="char" rowspan="1" colspan="1">10/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Self&#x02010;reported no. of depressive episodes, mean (SD)</td><td align="char" rowspan="1" colspan="1">7.2 (2.8)<xref ref-type="fn" rid="bdi12390-note-0007">b</xref>
+</td><td align="char" rowspan="1" colspan="1">12.0 (8.0)<xref ref-type="fn" rid="bdi12390-note-0007">b</xref>
+</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No. of previous psychiatric hospital stays, mean (SD)</td><td align="char" rowspan="1" colspan="1">7.2 (2.2)</td><td align="char" rowspan="1" colspan="1">4.6 (1.2)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No. of psychiatric hospital stays for mania, mean (SD)</td><td align="char" rowspan="1" colspan="1">7.0 (2.2)</td><td align="char" rowspan="1" colspan="1">2.9 (0.8)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No. of psychiatric hospital stays for depression, mean (SD)</td><td align="char" rowspan="1" colspan="1">0.7 (0.3)</td><td align="char" rowspan="1" colspan="1">1.0 (0.5)</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Previous suicide attempts</td><td align="char" rowspan="1" colspan="1">2/11</td><td align="char" rowspan="1" colspan="1">3/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Lifetime medication use</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Antidepressants</td><td align="char" rowspan="1" colspan="1">2/11</td><td align="char" rowspan="1" colspan="1">7/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Antipsychotics</td><td align="char" rowspan="1" colspan="1">9/11</td><td align="char" rowspan="1" colspan="1">10/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anticonvulsants</td><td align="char" rowspan="1" colspan="1">8/11</td><td align="char" rowspan="1" colspan="1">9/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Lithium</td><td align="char" rowspan="1" colspan="1">7/11</td><td align="char" rowspan="1" colspan="1">6/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypnotics/sedatives</td><td align="char" rowspan="1" colspan="1">8/11</td><td align="char" rowspan="1" colspan="1">7/12</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Anxiolytics</td><td align="char" rowspan="1" colspan="1">4/11</td><td align="char" rowspan="1" colspan="1">6/12</td><td align="char" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="bdi12390-note-0005"><p>SD&#x000a0;=&#x000a0;standard deviation; YMRS&#x000a0;=&#x000a0;Young Mania Rating Scale.</p></fn><fn id="bdi12390-note-0006"><label>a</label><p>Relatives with bipolar disorder, affective/anxiety disorders, psychotic disorders or psychiatric hospital stays.</p></fn><fn id="bdi12390-note-0007"><label>b</label><p>Data missing for one subject.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>A significant difference in YMRS score change between the BB and placebo groups was apparent after three&#x000a0;days of intervention (p&#x000a0;=&#x000a0;0.042, partial &#x003b7;<sup>2</sup>&#x000a0;=&#x000a0;0.222), and continued to increase throughout the intervention, reaching p&#x000a0;=&#x000a0;0.001 (partial &#x003b7;<sup>2</sup>&#x000a0;=&#x000a0;0.49) after seven&#x000a0;days (Fig.&#x000a0;<xref rid="bdi12390-fig-0002" ref-type="fig">2</xref>). The mean change in total YMRS score after seven&#x000a0;days of intervention was 14.1 (95% CI: 9.7&#x02013;18.5) in the BB group as compared to 1.7 (95% CI: &#x02212;4.0 to 7.39) in the placebo group. This yielded a Cohen's <italic>d</italic> of 1.86 (<italic>Supplementary Table&#x000a0;1</italic>).</p><fig fig-type="Figure" xml:lang="en" id="bdi12390-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>(A) Young Mania Rating Scale (<styled-content style="fixed-case">YMRS</styled-content>) total scores for patients assigned to blue&#x02010;blocking (<styled-content style="fixed-case">BB</styled-content>) glasses (n&#x000a0;=&#x000a0;12*) or clear glasses (placebo) (n&#x000a0;=&#x000a0;11**). Values are reported as means with 95% confidence intervals (<styled-content style="fixed-case">CIs</styled-content>). The p&#x02010;values are reported for the effect of the interaction (change of treatment effect between baseline and each time&#x02010;point) in a linear model. (B) Spaghetti plot of <styled-content style="fixed-case">YMRS</styled-content> individual scores for patients assigned to <styled-content style="fixed-case">BB</styled-content> glasses (n&#x000a0;=&#x000a0;12*) or clear glasses (placebo) (n&#x000a0;=&#x000a0;11**). *One dropout on day 1. **Three dropouts on days 1, 5, and 6, respectively.</p></caption><graphic id="nlm-graphic-3" xlink:href="BDI-18-221-g002"/></fig><p>The single YMRS item scores are shown in Figure&#x000a0;<xref rid="bdi12390-fig-0003" ref-type="fig">3</xref>. There was a pronounced and rapid decline in eight out of 11 items in the BB group compared to the placebo group. There was an immediate decline in scores for items 5 (Irritability) and 7 (Language&#x02010;thought disorder), followed by a stable difference as compared to placebo, while other items showed a progressive decline over the entire time period, for example, items 6 (Speech: rate and amount) and 10 (Appearance). For two of the items showing no change, items 3 (Sexual interest) and 9 (Disruptive and aggressive behavior), both groups scored very low at the start of the intervention. For item 4 (Sleep) there was no change in symptoms between groups.</p><fig fig-type="Figure" xml:lang="en" id="bdi12390-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Young Mania Rating Scale (<styled-content style="fixed-case">YMRS</styled-content>) item scores for patients assigned to blue&#x02010;blocking (<styled-content style="fixed-case">BB</styled-content>) glasses (n&#x000a0;=&#x000a0;12; one dropout on day 1) or clear glasses (placebo) (n&#x000a0;=&#x000a0;11; three dropouts on days 1, 5, and 6, respectively). Values are reported as means with 95% confidence intervals (<styled-content style="fixed-case">CIs</styled-content>). Items 5, 6, and 9: scale range 0&#x02013;8 points; for other items, scale range 0&#x02013;4 points.</p></caption><graphic id="nlm-graphic-5" xlink:href="BDI-18-221-g003"/></fig><p>Actigraph data showed that the average activity counts/min, in the intervention interval 6 p.m. to 8 a. m., was consistently lower in the BB group as compared to the placebo group from the second night of the intervention, although the difference was not statistically significant (<italic>Supplementary Fig.&#x000a0;2</italic>). There was a marked decline in activity from the first to the second night of the intervention in the patient BB group, and compared to healthy controls also wearing BB glasses, the difference was already significant from the first to the second BB interval (p&#x000a0;=&#x000a0;0.018). Furthermore, for activity during daytime (without glasses), there was a significant difference between the patient BB group and healthy controls on days 2&#x02013;4, where activity decreased in the patient group and increased in the healthy control group as compared to pre&#x02010;treatment day 0 (for days 0&#x02013;2: p&#x000a0;=&#x000a0;0.028).</p><p>Scores from the patient experience self&#x02010;report form showed that wearing glasses was generally well tolerated by patients in a manic episode (Fig.&#x000a0;<xref rid="bdi12390-fig-0004" ref-type="fig">4</xref>). Patients in the placebo group found the glasses somewhat more irritating than patients in the BB group. In both groups, some patients reported paranoid thoughts regarding the Actiwatch Spectrum device.</p><fig fig-type="Figure" xml:lang="en" id="bdi12390-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Self&#x02010;reported patient experience with intervention and participation in study for the patients assigned to blue&#x02010;blocking (<styled-content style="fixed-case">BB</styled-content>) glasses (n&#x000a0;=&#x000a0;12) or clear glasses (placebo) (n&#x000a0;=&#x000a0;11).</p></caption><graphic id="nlm-graphic-7" xlink:href="BDI-18-221-g004"/></fig><p>With regard to side effects, two patients in the BB group reported emerging depressive symptoms on days 6 and 7, respectively. For one patient, these instantly diminished after a two&#x02010;hour shortening of the duration of BB by delaying the start to 8 p.m. For the second patient, a break from BB lasting one evening and one night was followed by a rapid elevation of mood to hypomania on the following day. No patients had a switch to a severe depressive episode during or immediately after the intervention. One patient, with comorbid migraine, reported headache associated with the use of BB glasses, causing drop&#x02010;out on the second night of the intervention. In the healthy control group, three subjects reported headache attributed to BB. One of these reported having migraine. Four healthy control subjects reported uncomfortably low energy and two of these also reported lowered mood that was reversed after the discontinuation of the use of BB glasses.</p></sec><sec id="bdi12390-sec-0014"><title>Discussion</title><p>This is the first placebo&#x02010;controlled RCT examining the effectiveness and feasibility of blue&#x02010;blocking orange glasses (BB glasses) as an add&#x02010;on treatment for patients diagnosed with bipolar mania compared to the placebo condition clear glasses. Patients wore glasses from 6 p.m. to 8 a.m. for seven consecutive days, but were otherwise treated as usual.</p><p>BB glasses were highly effective as an add&#x02010;on treatment for patients in a manic episode, with a significant difference in total YMRS score between the BB and placebo groups as early as three&#x000a0;days after the start of the intervention. The effect sizes, ranging from 1.05 to 1.86 during the last three&#x000a0;days of the intervention, were extraordinarily high, and were strikingly similar to the effect sizes reported in a previous DT study <xref rid="bdi12390-bib-0015" ref-type="ref">15</xref>. Unlike the outcome in the DT study, we did not find any relationship between pre&#x02010;intervention duration of episode and outcome <xref rid="bdi12390-bib-0015" ref-type="ref">15</xref>.</p><p>Remarkably, some symptoms of mania (YMRS single item scores) were clearly attenuated after a single night of intervention. This pattern of YMRS single item scores was supported by actigraph recordings showing a significant drop in motor activity in the patient BB group from the first to the second BB interval, as compared to a healthy control group also receiving BB. With regard to the somewhat surprising finding of no change in item 4 (Total hours of sleep/subjective need for sleep), it has previously been suggested that this item may not be suitable for BB conditions <xref rid="bdi12390-bib-0022" ref-type="ref">22</xref>.</p><p>BB glasses were generally well perceived by the patients, and their use was found to be feasible even for several manic patients with psychotic symptoms. The observed side effects, namely headache and uncomfortably lowered mood and energy, were observed at approximately the same frequencies in the patient BB group and in healthy controls receiving BB. Notably, two of the four individuals reporting headache had previously been diagnosed with migraine. Headache and lowered mood diminished rapidly for all subjects when BB was discontinued.</p><p>This study was not double&#x02010;blinded as the nature of the intervention (coloured glasses) made masking practically impossible. Even if raters had been blinded, it would have been difficult to blind the reporting staff, and patients in a manic state cannot be instructed to withhold information concerning treatment from the rater. To limit the danger of rater's bias, all YMRS ratings were made as a consensus between at least two persons. In our opinion, consensus decisions partially based on observations throughout the 24&#x02010;hour period were crucial for counteracting the effects of patients&#x02019; tendency to compose themselves when interacting with a doctor. Ultimately, YMRS ratings were supported by objective actigraph monitoring showing marked decline in motor activity corresponding in time with the drop in YMRS items related to activation.</p><p>The sample size was relatively small, but nevertheless sufficient to test the hypothesis. The sample size and naturalistic design may, however, have influenced the precision of the effect size, as illustrated in <italic>Supplementary Table&#x000a0;1</italic> showing the variation of effect sizes during the intervention. In a large sample, a slightly better outcome in the placebo group would be expected and hence somewhat less dramatic effects size than 1.86. Unfortunately, because of the growing awareness of blue light and blue&#x02010;blockers, it may prove difficult to reproduce this study with the exact same design with a larger sample. The sample size yielded insufficient statistical power for detecting significant differences in average Actigraph&#x02010;recorded activity between the patient groups.</p><p>The slow decline in YMRS score in the placebo group is a disturbing, but not surprising, finding. The somewhat higher age and longer illness duration of the placebo group may have contributed to this. It is, however, well known that acute episodes of mania, even first episodes, respond slowly to TAU <xref rid="bdi12390-bib-0007" ref-type="ref">7</xref>. It should also be mentioned that our study was performed in a true naturalistic setting with few exclusion criteria, yielding high generalizability for the population of patients with bipolar disorder. Similar study designs are rarely seen in pharmacological efficacy studies, and this issue should be kept in mind when interpreting the YMRS pattern in the placebo group.</p><p>In fact, one consequence of the strict naturalistic design was that treatment was continually adjusted according to the patients&#x02019; clinical state. The potential confounding of less intensive treatment in the improving BB group may have contributed to underestimation of the effect of BB glasses. For instance, due to rapid improvement of symptoms, two patients in the BB group were moved from the acute ward to a local hospital during the intervention. For both patients, transfer was followed by a transient worsening of symptoms. In contrast, no patients in the placebo group were transferred.</p><p>Interestingly, in the BB group, YMRS item scores related to increased activation, and actigraph&#x02010;recorded motor activity, declined before items related to symptoms of distorted thought and perception. This led to the hypothesis that the primary anti&#x02010;manic effect of BB is deactivation. The mechanisms that may underlie such a relationship have been elucidated through functional magnetic resonance imaging (fMRI) studies, where exposure to blue light, within seconds, activated areas in the brain stem corresponding to the noradrenergic nucleus locus coeruleus (LC) <xref rid="bdi12390-bib-0028" ref-type="ref">28</xref>, <xref rid="bdi12390-bib-0029" ref-type="ref">29</xref>. Noradrenergic pathways project from the LC to most of the brain, particularly to the forebrain, and their activation leaves neurons more excitable to novel synaptic stimuli <xref rid="bdi12390-bib-0030" ref-type="ref">30</xref>. Additionally, the LC activates the hypothalamic&#x02010;pituitary&#x02010;adrenal (HPA) axis, which many studies have found to be dysfunctional in bipolar disorder <xref rid="bdi12390-bib-0031" ref-type="ref">31</xref>. Interestingly, an fMRI study showed that the effect of blue light during an executive task depended on circadian phase and sleep homeostasis <xref rid="bdi12390-bib-0032" ref-type="ref">32</xref>. Patients in a manic episode are indeed out of their homeostatic balance with regard to rest and sleep as well as circadian rhythmicity <xref rid="bdi12390-bib-0011" ref-type="ref">11</xref>. Thus, the manic symptoms may be fuelled by blue light via excitatory pathways from the brainstem.</p><p>The last few decades have seen growing interest in the role of dopamine in the pathophysiology of mania, and it is not disputed that elevated dopamine levels are reflected in many symptoms of mania <xref rid="bdi12390-bib-0004" ref-type="ref">4</xref>. However, our findings imply that changes in cognition and perception during mania (i.e., psychotic symptoms) may be secondary effects of increased activation. This observation is in accordance with the sequence of the developing symptoms during the build&#x02010;up of manic episodes. Interestingly, the original catecholamine hypothesis proposed that manic symptoms may be caused by high levels of noradrenalin <xref rid="bdi12390-bib-0033" ref-type="ref">33</xref>. If, however, the dopaminergic drive during mania is secondary to persistently high activity of noradrenergic systems, this could explain the slow onset of overall improvement for patients in a psychotic manic episode, where the current conventional treatment mainly relies on dopamine&#x02010;blocking agents <xref rid="bdi12390-bib-0004" ref-type="ref">4</xref>.</p><p>The rapid reduction in YMRS item scores related to activation in the BB group gives us reason to state the hypothesis that the anti&#x02010;manic effect seen during BB treatment is due to silencing of signalling in the ipRGC circuits directly influencing mood and cognition, rather than indirect effects via melatonin secretion, sleep or increased circadian synchrony. A subsequent contribution from impact on melatonin secretion and circadian rhythmicity is very likely, but cannot be confirmed by the present data. In a recent case report describing a patient with bipolar II disorder using BB glasses over 2&#x000a0;weeks, the onset of nocturnal melatonin secretion was advanced by 1&#x000a0;hour 18&#x000a0;min, along with improved mood and relief from anxiety <xref rid="bdi12390-bib-0023" ref-type="ref">23</xref>. Several other studies have shown preservation of melatonin during BB in light conditions for healthy individuals <xref rid="bdi12390-bib-0017" ref-type="ref">17</xref>, <xref rid="bdi12390-bib-0018" ref-type="ref">18</xref>, <xref rid="bdi12390-bib-0034" ref-type="ref">34</xref>, and in one case report the sleep&#x02212;wake cycle was rapidly and markedly regularized during BB for a patient in a manic episode <xref rid="bdi12390-bib-0022" ref-type="ref">22</xref>.</p><p>Ultimately, the basic mechanisms underlying the effects of BB in mania need further investigation. Our results are strongly indicative that light, more specifically blue light, is a major environmental factor maintaining bipolar mania through the melanopsin&#x02212;ipRGC systems. Our results provide a new opportunity for bridging both theoretical and therapeutic gaps related to bipolar disorder. Most importantly, however, this study implies that BB glasses, used in accordance with our protocol, are a safe and efficient intervention for bipolar mania that should be utilized in treatment efforts. In parallel, follow&#x02010;up studies are needed for replication of findings and refinement of this novel treatment option.</p></sec><sec id="bdi12390-sec-0016"><title>Disclosures</title><p>The authors of this paper do not have any commercial associations that might pose a conflict of interest in connection with this manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig.&#x000a0;S1.</bold> Transmittance (%) of light versus wavelength (nm) through blue&#x02010;blocking (BB) glasses and clear glasses (placebo).</p></caption><media xlink:href="BDI-18-221-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Fig.&#x000a0;S2.</bold> Actigraph&#x02010;assessed motor activity in intervals wearing glasses (6 p.m.&#x02013;8 a.m.) and daytime intervals (8 a.m.&#x02013;6 p.m.) for patients assigned to blue&#x02010;blocking (BB) glasses (n&#x000a0;=&#x000a0;12) or clear glasses (placebo) (n&#x000a0;=&#x000a0;10), and the healthy control group wearing BB glasses (n&#x000a0;=&#x000a0;35). p gr&#x000a0;=&#x000a0;p&#x02010;value for time independent group effect.</p></caption><media xlink:href="BDI-18-221-s002.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Means and standard deviations (SDs) for YMRS total score for patients assigned to blue&#x02010;blocking (BB) glasses or clear glasses (placebo) and corresponding Cohen's <italic>d</italic> effect sizes for all days during the intervention.</p></caption><media xlink:href="BDI-18-221-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="bdi12390-sec-0015"><title>Acknowledgments</title><p>We thank all participants for their committed cooperation and valuable contributions. We also gratefully acknowledge colleagues and staff of all recruiting hospitals for collaboration and support during the data collection. The study was supported by Fonna Local Health Authority, the Western Norway Regional Health Authority, and MoodNet, a regional research network on mood disorders, Haukeland University Hospital. The funders of the study had no role in the study design, data collection, data analysis, data interpretation, decision to publish, or writing of the report.</p></ack><ref-list content-type="cited-references" id="bdi12390-bibl-0001"><title>References</title><ref id="bdi12390-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bdi12390-cit-0001">
+<string-name>
+<surname>Merikangas</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Jin</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>JP</given-names>
+</string-name> et&#x000a0;al. <article-title>Prevalence and correlates of bipolar spectrum disorder in the world mental health survey initiative</article-title>. <source>Arch Gen Psychiatry</source>
+<year>2011</year>; <volume>68</volume>: <fpage>241</fpage>&#x02013;<lpage>251</lpage>.<pub-id pub-id-type="pmid">21383262</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bdi12390-cit-0002">
+<string-name>
+<surname>Cassidy</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Risk factors of attempted suicide in bipolar disorder</article-title>. <source>Suicide Life Threat Behav</source>
+<year>2011</year>; <volume>41</volume>: <fpage>6</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">21309819</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0003"><label>3</label><mixed-citation publication-type="book" id="bdi12390-cit-0003">
+<string-name>
+<surname>Goodwin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jamison</surname>
+<given-names>K</given-names>
+</string-name>. <chapter-title>Clinical description</chapter-title> In: <person-group person-group-type="editor"><name><surname>Goodwin</surname><given-names>F</given-names></name></person-group> ed. <source>Manic Depressive Illness</source>, <edition>2<sup>nd</sup></edition> edn. <publisher-loc>USA</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>, <year>2007</year>: <fpage>29</fpage>&#x02013;<lpage>40</lpage>.</mixed-citation></ref><ref id="bdi12390-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bdi12390-cit-0004">
+<string-name>
+<surname>Berk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dodd</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kauer&#x02010;Sant'Anna</surname>
+<given-names>M</given-names>
+</string-name> et&#x000a0;al. <article-title>Dopamine dysregulation syndrome: implications for a dopamine hypothesis of bipolar disorder</article-title>. <source>Acta Psychiatr Scand</source>
+<year>2007</year>; <volume>116</volume>: <fpage>41</fpage>&#x02013;<lpage>49</lpage>.</mixed-citation></ref><ref id="bdi12390-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bdi12390-cit-0005">
+<string-name>
+<surname>Salvadore</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Quiroz</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Machado&#x02010;Vieira</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Henter</surname>
+<given-names>ID</given-names>
+</string-name>, <string-name>
+<surname>Manji</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Zarate</surname>
+<given-names>CA</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>The neurobiology of the switch process in bipolar disorder: a review</article-title>. <source>J Clin Psychiatry</source>
+<year>2010</year>; <volume>71</volume>: <fpage>1488</fpage>&#x02013;<lpage>1501</lpage>.<pub-id pub-id-type="pmid">20492846</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0006"><label>6</label><mixed-citation publication-type="book" id="bdi12390-cit-0006">
+<string-name>
+<surname>Goodwin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Jamison</surname>
+<given-names>K</given-names>
+</string-name>. <chapter-title>Fundamentals of treatment, medical treatment of hypomania, mania, and mixed states</chapter-title> In: <person-group person-group-type="editor"><name><surname>Goodwin</surname><given-names>F</given-names></name></person-group> ed. <source>Manic&#x02010;Depressive Illness</source>, <edition>2<sup>nd</sup></edition>edn. <publisher-loc>USA</publisher-loc>: <publisher-name>Oxford University Press</publisher-name>, <year>2007</year>: <fpage>699</fpage>&#x02013;<lpage>744</lpage>.</mixed-citation></ref><ref id="bdi12390-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bdi12390-cit-0007">
+<string-name>
+<surname>Conus</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Berk</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cotton</surname>
+<given-names>SM</given-names>
+</string-name> et&#x000a0;al. <article-title>Olanzapine or chlorpromazine plus lithium in first episode psychotic mania: an 8&#x02010;week randomised controlled trial</article-title>. <source>Eur Psychiatry</source>
+<year>2015</year>; <volume>30</volume>: <fpage>975</fpage>&#x02013;<lpage>982</lpage>.<pub-id pub-id-type="pmid">26485297</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="bdi12390-cit-0008">
+<string-name>
+<surname>Bauer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Glenn</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Alda</surname>
+<given-names>M</given-names>
+</string-name> et&#x000a0;al. <article-title>Influence of light exposure during early life on the age of onset of bipolar disorder</article-title>. <source>J Psychiatr Res</source>
+<year>2015</year>; <volume>64</volume>: <fpage>1</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">25862378</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="bdi12390-cit-0009">
+<string-name>
+<surname>Bauer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Glenn</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Alda</surname>
+<given-names>M</given-names>
+</string-name> et&#x000a0;al. <article-title>Impact of sunlight on the age of onset of bipolar disorder</article-title>. <source>Bipolar Disord</source>
+<year>2012</year>; <volume>14</volume>: <fpage>654</fpage>&#x02013;<lpage>663</lpage>.<pub-id pub-id-type="pmid">22612720</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="bdi12390-cit-0010">
+<string-name>
+<surname>Geoffroy</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Bellivier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Etain</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Seasonality and bipolar disorder: a systematic review, from admission rates to seasonality of symptoms</article-title>. <source>J Affect Disord</source>
+<year>2014</year>; <volume>168</volume>: <fpage>210</fpage>&#x02013;<lpage>223</lpage>.<pub-id pub-id-type="pmid">25063960</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="bdi12390-cit-0011">
+<string-name>
+<surname>Dallaspezia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Benedetti</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Chronobiology of bipolar disorder: therapeutic implication</article-title>. <source>Curr Psychiatry Rep</source>
+<year>2015</year>; <volume>17</volume>: <fpage>68</fpage>.</mixed-citation></ref><ref id="bdi12390-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="bdi12390-cit-0012">
+<string-name>
+<surname>Arendt</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Melatonin and human rhythms</article-title>. <source>Chronobiol Int</source>
+<year>2006</year>; <volume>23</volume>: <fpage>21</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">16687277</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bdi12390-cit-0013">
+<string-name>
+<surname>Wehr</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Shimada</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lowe</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Barker</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Leibenluft</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Treatment of a rapidly cycling bipolar patient by using extended bed rest and darkness to stabilize the timing and duration of sleep</article-title>. <source>Biol Psychiatry</source>
+<year>1998</year>; <volume>43</volume>: <fpage>822</fpage>&#x02013;<lpage>828</lpage>.<pub-id pub-id-type="pmid">9611672</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="bdi12390-cit-0014">
+<string-name>
+<surname>Wirz&#x02010;Justice</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Quinto</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Cajochen</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Werth</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hock</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>A rapid&#x02010;cycling bipolar patient treated with long nights, bedrest, and light</article-title>. <source>Biol Psychiatry</source>
+<year>1999</year>; <volume>45</volume>: <fpage>1075</fpage>&#x02013;<lpage>1077</lpage>.<pub-id pub-id-type="pmid">10386196</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="bdi12390-cit-0015">
+<string-name>
+<surname>Barbini</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Benedetti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Colombo</surname>
+<given-names>C</given-names>
+</string-name> et&#x000a0;al. <article-title>Dark therapy for mania: a pilot study</article-title>. <source>Bipolar Disord</source>
+<year>2005</year>; <volume>7</volume>: <fpage>98</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">15654938</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="bdi12390-cit-0016">
+<string-name>
+<surname>LeGates</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Fernandez</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Hattar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Light as a central modulator of circadian rhythms, sleep and affect</article-title>. <source>Nat Rev Neurosci</source>
+<year>2014</year>; <volume>15</volume>: <fpage>443</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">24917305</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bdi12390-cit-0017">
+<string-name>
+<surname>Kayumov</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Casper</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Hawa</surname>
+<given-names>RJ</given-names>
+</string-name> et&#x000a0;al. <article-title>Blocking low&#x02010;wavelength light prevents nocturnal melatonin suppression with no adverse effect on performance during simulated shift work</article-title>. <source>J Clin Endocrinol Metab</source>
+<year>2005</year>; <volume>90</volume>: <fpage>2755</fpage>&#x02013;<lpage>2761</lpage>.<pub-id pub-id-type="pmid">15713707</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bdi12390-cit-0018">
+<string-name>
+<surname>Sasseville</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Paquet</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>S&#x000e9;vigny</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>H&#x000e9;bert</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Blue blocker glasses impede the capacity of bright light to suppress melatonin production</article-title>. <source>J Pineal Res</source>
+<year>2006</year>; <volume>41</volume>: <fpage>73</fpage>&#x02013;<lpage>78</lpage>.<pub-id pub-id-type="pmid">16842544</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bdi12390-cit-0019">
+<string-name>
+<surname>van de Werken</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gim&#x000e9;nez</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>de Vries</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Beersma</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Gordijn</surname>
+<given-names>MC</given-names>
+</string-name>. <article-title>Short&#x02010;wavelength attenuated polychromatic white light during work at night: limited melatonin suppression without substantial decline of alertness</article-title>. <source>Chronobiol Int</source>
+<year>2013</year>; <volume>30</volume>: <fpage>843</fpage>&#x02013;<lpage>854</lpage>.<pub-id pub-id-type="pmid">23705821</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bdi12390-cit-0020">
+<string-name>
+<surname>Phelps</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Dark therapy for bipolar disorder using amber lenses for blue light blockade</article-title>. <source>Med Hypotheses</source>
+<year>2008</year>; <volume>70</volume>: <fpage>224</fpage>&#x02013;<lpage>229</lpage>.<pub-id pub-id-type="pmid">17637502</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bdi12390-cit-0021">
+<string-name>
+<surname>Gomez&#x02010;Bernal</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Dark therapy for schizoaffective disorder. A case report</article-title>. <source>Med Hypotheses</source>
+<year>2009</year>; <volume>72</volume>: <fpage>105</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">18812254</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bdi12390-cit-0022">
+<string-name>
+<surname>Henriksen</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Skrede</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fasmer</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Hamre</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gr&#x000f8;nli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lund</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Blocking blue light during mania &#x02013; markedly increased regularity of sleep and rapid improvement of symptoms: a case report</article-title>. <source>Bipolar Disord</source>
+<year>2014</year>; <volume>16</volume>: <fpage>894</fpage>&#x02013;<lpage>898</lpage>.<pub-id pub-id-type="pmid">25264124</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bdi12390-cit-0023">
+<string-name>
+<surname>Bromundt</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>St&#x000f6;rungen des Schlaf&#x02010;Wach&#x02010;Rhythmus bei psychiatrischen Erkrankungen</article-title>. <source>Ther Umsch</source>
+<year>2014</year>; <volume>71</volume>: <fpage>663</fpage>&#x02013;<lpage>670</lpage>.<pub-id pub-id-type="pmid">25377290</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0024"><label>24</label><mixed-citation publication-type="book" id="bdi12390-cit-0024">
+<collab collab-type="authors">American Psychiatric Association</collab>
+. <source>Diagnostic and Statistical Manual of Mental Disorders Text Revision (DSM&#x02010;IV&#x02010;TR)</source>, <edition>4<sup>th</sup></edition> edn. <publisher-loc>Washington DC</publisher-loc>: <publisher-name>APA</publisher-name>, <year>2000</year>.</mixed-citation></ref><ref id="bdi12390-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="bdi12390-cit-0025">
+<string-name>
+<surname>Sheehan</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name>
+<surname>Lecrubier</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Sheehan</surname>
+<given-names>KH</given-names>
+</string-name> et&#x000a0;al. <article-title>The Mini&#x02010;International Neuropsychiatric Interview (MINI): the development and validation of a structured diagnostic psychiatric interview for DSM&#x02010;IV and ICD&#x02010;10</article-title>. <source>J Clin Psychiatry</source>
+<year>1998</year>; <volume>59</volume>: <fpage>22</fpage>&#x02013;<lpage>33</lpage>.</mixed-citation></ref><ref id="bdi12390-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bdi12390-cit-0026">
+<string-name>
+<surname>Young</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Biggs</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ziegler</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A rating scale for mania: reliability, validity and sensitivity</article-title>. <source>Br J Psychiatry</source>
+<year>1978</year>; <volume>133</volume>: <fpage>429</fpage>&#x02013;<lpage>435</lpage>.<pub-id pub-id-type="pmid">728692</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bdi12390-cit-0027">
+<string-name>
+<surname>Krane&#x02010;Gartiser</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Henriksen</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Morken</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Vaaler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Fasmer</surname>
+<given-names>OB</given-names>
+</string-name>. <article-title>Actigraphic assessment of motor activity in acutely admitted inpatients with bipolar disorder</article-title>. <source>PLoS One</source>
+<year>2014</year>; <volume>9</volume>: <fpage>e89574</fpage>.<pub-id pub-id-type="pmid">24586883</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bdi12390-cit-0028">
+<string-name>
+<surname>Vandewalle</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Maquet</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dijk</surname>
+<given-names>D&#x02010;J</given-names>
+</string-name>. <article-title>Light as a modulator of cognitive brain function</article-title>. <source>Trends Cogn Sci</source>
+<year>2009</year>; <volume>13</volume>: <fpage>429</fpage>&#x02013;<lpage>438</lpage>.<pub-id pub-id-type="pmid">19748817</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="bdi12390-cit-0029">
+<string-name>
+<surname>Vandewalle</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Schmidt</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Albouy</surname>
+<given-names>G</given-names>
+</string-name> et&#x000a0;al. <article-title>Brain responses to violet, blue, and green monochromatic light exposures in humans: prominent role of blue light and the brainstem</article-title>. <source>PLoS One</source>
+<year>2007</year>; <volume>2</volume>: <fpage>e1247</fpage>.<pub-id pub-id-type="pmid">18043754</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bdi12390-cit-0030">
+<string-name>
+<surname>Benarroch</surname>
+<given-names>EE</given-names>
+</string-name>. <article-title>The locus ceruleus norepinephrine system: functional organization and potential clinical significance</article-title>. <source>Neurology</source>
+<year>2009</year>; <volume>73</volume>: <fpage>1699</fpage>&#x02013;<lpage>1704</lpage>.<pub-id pub-id-type="pmid">19917994</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bdi12390-cit-0031">
+<string-name>
+<surname>Daban</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vieta</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mackin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>AH</given-names>
+</string-name>. <article-title>Hypothalamic&#x02010;pituitary&#x02010;adrenal axis and bipolar disorder</article-title>. <source>Psychiatr Clin N Am</source>
+<year>2005</year>; <volume>28</volume>: <fpage>469</fpage>&#x02013;<lpage>480</lpage>.</mixed-citation></ref><ref id="bdi12390-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bdi12390-cit-0032">
+<string-name>
+<surname>Vandewalle</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Archer</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Wuillaume</surname>
+<given-names>C</given-names>
+</string-name> et&#x000a0;al. <article-title>Effects of light on cognitive brain responses depend on circadian phase and sleep homeostasis</article-title>. <source>J Biol Rhythms</source>
+<year>2011</year>; <volume>26</volume>: <fpage>249</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">21628552</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="bdi12390-cit-0033">
+<string-name>
+<surname>Davis</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Theories of Biological etiology of affective disorders</article-title>. <source>Int Rev Neurobiol</source>
+<year>1970</year>; <volume>12</volume>: <fpage>145</fpage>&#x02013;<lpage>175</lpage>.<pub-id pub-id-type="pmid">4918142</pub-id></mixed-citation></ref><ref id="bdi12390-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="bdi12390-cit-0034">
+<string-name>
+<surname>van der Lely</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Frey</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Garbazza</surname>
+<given-names>C</given-names>
+</string-name> et&#x000a0;al. <article-title>Blue blocker glasses as a countermeasure for alerting effects of evening light&#x02010;emitting diode screen exposure in male teenagers</article-title>. <source>J Adolesc Health</source>
+<year>2015</year>; <volume>56</volume>: <fpage>113</fpage>&#x02013;<lpage>119</lpage>.<pub-id pub-id-type="pmid">25287985</pub-id></mixed-citation></ref></ref-list></back></article>

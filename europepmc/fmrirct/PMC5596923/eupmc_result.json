@@ -1,0 +1,406 @@
+{
+  "id": [
+    "28899384"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28899384"
+  ],
+  "pmcid": [
+    "PMC5596923"
+  ],
+  "doi": [
+    "10.1186/s12891-017-1694-y"
+  ],
+  "title": [
+    "Systematic review of quantitative imaging biomarkers for neck and shoulder musculoskeletal disorders."
+  ],
+  "authorString": [
+    "Gold JE, Hallman DM, Hellström F, Björklund M, Crenshaw AG, Mathiassen SE, Barbe MF, Ali S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Gold JE"
+          ],
+          "firstName": [
+            "Judith E"
+          ],
+          "lastName": [
+            "Gold"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Gold Standard Research Consulting, 830 Montgomery Ave, Bryn Mawr, PA, USA. JudithEGold@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Hallman DM"
+          ],
+          "firstName": [
+            "David M"
+          ],
+          "lastName": [
+            "Hallman"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "affiliation": [
+            "Centre for Musculoskeletal Research, Department of Occupational and Public Health Sciences, University of Gävle, Gävle, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Hellström F"
+          ],
+          "firstName": [
+            "Fredrik"
+          ],
+          "lastName": [
+            "Hellström"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Centre for Musculoskeletal Research, Department of Occupational and Public Health Sciences, University of Gävle, Gävle, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Björklund M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Björklund"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Community Medicine and Rehabilitation, Physiotherapy, Umeå University, Umeå, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Crenshaw AG"
+          ],
+          "firstName": [
+            "Albert G"
+          ],
+          "lastName": [
+            "Crenshaw"
+          ],
+          "initials": [
+            "AG"
+          ],
+          "affiliation": [
+            "Centre for Musculoskeletal Research, Department of Occupational and Public Health Sciences, University of Gävle, Gävle, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Mathiassen SE"
+          ],
+          "firstName": [
+            "Svend Erik"
+          ],
+          "lastName": [
+            "Mathiassen"
+          ],
+          "initials": [
+            "SE"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1443-6211",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Centre for Musculoskeletal Research, Department of Occupational and Public Health Sciences, University of Gävle, Gävle, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Barbe MF"
+          ],
+          "firstName": [
+            "Mary F"
+          ],
+          "lastName": [
+            "Barbe"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Cell Biology, Temple University Medical School, Philadelphia, PA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ali S"
+          ],
+          "firstName": [
+            "Sayed"
+          ],
+          "lastName": [
+            "Ali"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Radiology, Temple University Medical School, Philadelphia, PA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1443-6211",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2592184"
+      ],
+      "dateOfPublication": [
+        "2017 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC musculoskeletal disorders"
+          ],
+          "ISOAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "medlineAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "NLMid": [
+            "100968565"
+          ],
+          "ISSN": [
+            "1471-2474"
+          ],
+          "ESSN": [
+            "1471-2474"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "395"
+  ],
+  "abstractText": [
+    "This study systematically summarizes quantitative imaging biomarker research in non-traumatic neck and shoulder musculoskeletal disorders (MSDs). There were two research questions: 1) Are there quantitative imaging biomarkers associated with the presence of neck and shoulder MSDs?, 2) Are there quantitative imaging biomarkers associated with the severity of neck and shoulder MSDs?PubMed and SCOPUS were used for the literature search. One hundred and twenty-five studies met primary inclusion criteria. Data were extracted from 49 sufficient quality studies.Most of the 125 studies were cross-sectional and utilized convenience samples of patients as both cases and controls. Only half controlled for potential confounders via exclusion or in the analysis. Approximately one-third reported response rates. In sufficient quality articles, 82% demonstrated at least one statistically significant association between the MSD(s) and biomarker(s) studied. The literature synthesis suggested that neck muscle size may be decreased in neck pain, and trapezius myalgia and neck/shoulder pain may be associated with reduced vascularity in the trapezius and reduced trapezius oxygen saturation at rest and in response to upper extremity tasks. Reduced vascularity in the supraspinatus tendon may also be a feature in rotator cuff tears. Five of eight studies showed an association between a quantitative imaging marker and MSD severity.Although research on quantitative imaging biomarkers is still in a nascent stage, some MSD biomarkers were identified. There are limitations in the articles examined, including possible selection bias and inattention to potentially confounding factors. Recommendations for future studies are provided."
+  ],
+  "affiliation": [
+    "Gold Standard Research Consulting, 830 Montgomery Ave, Bryn Mawr, PA, USA. JudithEGold@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 AR056019"
+          ],
+          "agency": [
+            "NIAMS NIH HHS"
+          ],
+          "acronym": [
+            "AR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "MRI",
+        "Pain",
+        "ultrasound",
+        "near-infrared spectroscopy",
+        "Msd"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5596923?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5596923"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12891-017-1694-y"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-13"
+  ],
+  "dateOfRevision": [
+    "2017-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-12"
+  ],
+  "firstPublicationDate": [
+    "2017-09-12"
+  ]
+}

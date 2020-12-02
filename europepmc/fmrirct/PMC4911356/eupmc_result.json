@@ -1,0 +1,335 @@
+{
+  "id": [
+    "27379011"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27379011"
+  ],
+  "pmcid": [
+    "PMC4911356"
+  ],
+  "doi": [
+    "10.3389/fneur.2016.00092"
+  ],
+  "title": [
+    "Visual Rehabilitation in Chronic Cerebral Blindness: A Randomized Controlled Crossover Study."
+  ],
+  "authorString": [
+    "Elshout JA, van Asten F, Hoyng CB, Bergsma DP, van den Berg AV."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Elshout JA"
+          ],
+          "firstName": [
+            "Joris A"
+          ],
+          "lastName": [
+            "Elshout"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Section of Biophysics, Department of Cognitive Neuroscience, Donders Centre for Neuroscience, Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Centre , Nijmegen , Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Asten F"
+          ],
+          "firstName": [
+            "Freekje"
+          ],
+          "lastName": [
+            "van Asten"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8141-4234",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Radboud University Medical Center , Nijmegen , Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoyng CB"
+          ],
+          "firstName": [
+            "Carel B"
+          ],
+          "lastName": [
+            "Hoyng"
+          ],
+          "initials": [
+            "CB"
+          ],
+          "affiliation": [
+            "Department of Ophthalmology, Radboud University Medical Center , Nijmegen , Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Bergsma DP"
+          ],
+          "firstName": [
+            "Douwe P"
+          ],
+          "lastName": [
+            "Bergsma"
+          ],
+          "initials": [
+            "DP"
+          ],
+          "affiliation": [
+            "Section of Biophysics, Department of Cognitive Neuroscience, Donders Centre for Neuroscience, Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Centre , Nijmegen , Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van den Berg AV"
+          ],
+          "firstName": [
+            "Albert V"
+          ],
+          "lastName": [
+            "van den Berg"
+          ],
+          "initials": [
+            "AV"
+          ],
+          "affiliation": [
+            "Section of Biophysics, Department of Cognitive Neuroscience, Donders Centre for Neuroscience, Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Centre , Nijmegen , Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8141-4234",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2397179"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neurology"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurol"
+          ],
+          "NLMid": [
+            "101546899"
+          ],
+          "ISSN": [
+            "1664-2295"
+          ],
+          "ESSN": [
+            "1664-2295"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "92"
+  ],
+  "abstractText": [
+    "The treatment of patients suffering from cerebral blindness following stroke is a topic of much recent interest. Several types of treatment are under investigation, such as substitution with prisms and compensation training of saccades. A third approach, aimed at vision restitution is controversial, as a proper controlled study design is missing. In the current study, 27 chronic stroke patients with homonymous visual field defects were trained at home with a visual training device. We used a discrimination task for two types of stimuli: a static point stimulus and a new optic flow-discontinuity stimulus. Using a randomized controlled crossover design, each patient received two successive training rounds, one with high contrast stimuli in their affected hemifield (test) and one round with low-contrast stimuli in their intact hemifield (control). Goldmann and Humphrey perimetry were performed at the start of the study and following each training round. In addition, reading performance was measured. Goldmann perimetry revealed a statistically significant reduction of the visual field defect after the test training, but not after the control training or after no intervention. For both training rounds combined, Humphrey perimetry revealed that the effect of a directed training (sensitivity change in trained hemifield) exceeded that of an undirected training (sensitivity change in untrained hemifield). The interaction between trained and tested hemifield was just above the threshold of significance (p = 0.058). Interestingly, reduction of the field defect assessed by Goldmann perimetry increases with the difference between defect size as measured by Humphrey and Goldmann perimetry prior to training. Moreover, improvement of visual sensitivity measured by Humphrey perimetry increases with the fraction of non-responsive elements (i.e., more relative field loss) in Humphrey perimetry prior to training. Reading speed revealed a significant improvement after training. Our findings demonstrate that our training can result in reduction of the visual field. Improved reading performance after defect training further supports the significance of our training for improvement in daily life activities."
+  ],
+  "affiliation": [
+    "Section of Biophysics, Department of Cognitive Neuroscience, Donders Centre for Neuroscience, Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Centre , Nijmegen , Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Vision",
+        "Rehabilitation",
+        "Training",
+        "Stroke",
+        "Perimetry"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4911356?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4911356"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneur.2016.00092"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-06"
+  ],
+  "dateOfCreation": [
+    "2016-07-05"
+  ],
+  "dateOfRevision": [
+    "2016-07-08"
+  ],
+  "electronicPublicationDate": [
+    "2016-06-17"
+  ],
+  "firstPublicationDate": [
+    "2016-06-17"
+  ]
+}

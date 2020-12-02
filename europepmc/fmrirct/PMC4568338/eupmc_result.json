@@ -1,0 +1,285 @@
+{
+  "id": [
+    "26441526"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26441526"
+  ],
+  "pmcid": [
+    "PMC4568338"
+  ],
+  "doi": [
+    "10.3389/fncel.2015.00355"
+  ],
+  "title": [
+    "Potentials and limits to enhance cognitive functions in healthy and pathological aging by tDCS."
+  ],
+  "authorString": [
+    "Prehn K, Flöel A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Prehn K"
+          ],
+          "firstName": [
+            "Kristin"
+          ],
+          "lastName": [
+            "Prehn"
+          ],
+          "initials": [
+            "K"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0656-5323",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Neurology and NeuroCure Clinical Research Center, Charité Universitätsmedizin Berlin Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Flöel A"
+          ],
+          "firstName": [
+            "Agnes"
+          ],
+          "lastName": [
+            "Flöel"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Neurology and NeuroCure Clinical Research Center, Charité Universitätsmedizin Berlin Berlin, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0656-5323",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2260587"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cellular neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "355"
+  ],
+  "abstractText": [
+    "Transcranial direct current stimulation (tDCS) is a non-invasive brain stimulation technique that is increasingly used in research and clinical settings to enhance the effects of cognitive training. In our present review, we will first summarize studies using tDCS alone and in combination with cognitive training in older adults and patients with Alzheimer's dementia (AD). We will also review one study (Meinzer et al., 2014c) that showed an improvement in cognitive performance during anodal tDCS over the left inferior frontal cortex in patients with mild cognitive impairment (MCI) which is regarded as a prodromal stage of AD. Although promising short-term results have been reported, evidence from randomized controlled trials (RCTs) with sufficient sample sizes is scarce. In addition, stimulation protocols (in terms of intensity, duration, and repetition of stimulation) that lead to sustained improvements in outcome measures relevant for daily life still remain to be established. Following, we will discuss modulating factors such as technical parameters as well as the question whether there are specific cognitive functions (e.g., learning, memory consolidation, executive control) which are more amenable to tDCS enhancement than others. Finally, we will highlight future directions and limitations in this field and emphasize the need to conduct RCTs to establish efficacy of interventions for activities of daily life for a given patient population."
+  ],
+  "affiliation": [
+    "Department of Neurology and NeuroCure Clinical Research Center, Charité Universitätsmedizin Berlin Berlin, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Memory",
+        "Executive Control",
+        "Transcranial Direct Current Stimulation (Tdcs)",
+        "Mild Cognitive Impairment (Mci)",
+        "Alzheimer’s Dementia (Ad)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4568338?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4568338"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2015.00355"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-07"
+  ],
+  "dateOfCreation": [
+    "2015-10-07"
+  ],
+  "dateOfRevision": [
+    "2015-10-08"
+  ],
+  "electronicPublicationDate": [
+    "2015-09-14"
+  ],
+  "firstPublicationDate": [
+    "2015-09-14"
+  ]
+}

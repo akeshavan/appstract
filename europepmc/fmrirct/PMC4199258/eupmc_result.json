@@ -1,0 +1,302 @@
+{
+  "id": [
+    "25360094"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25360094"
+  ],
+  "pmcid": [
+    "PMC4199258"
+  ],
+  "doi": [
+    "10.3389/fnbeh.2014.00360"
+  ],
+  "title": [
+    "Oxytocin treatment in pediatric populations."
+  ],
+  "authorString": [
+    "Taylor AE, Lee HE, Buisman-Pijlman FT."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Taylor AE"
+          ],
+          "firstName": [
+            "Adrienne E"
+          ],
+          "lastName": [
+            "Taylor"
+          ],
+          "initials": [
+            "AE"
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Women's and Children's Hospital Adelaide, SA, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee HE"
+          ],
+          "firstName": [
+            "Hsu-En"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "HE"
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Women's and Children's Hospital Adelaide, SA, Australia ; School of Medicine, The University of Adelaide Adelaide, SA, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Buisman-Pijlman FT"
+          ],
+          "firstName": [
+            "Femke T A"
+          ],
+          "lastName": [
+            "Buisman-Pijlman"
+          ],
+          "initials": [
+            "FT"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2099-6450",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Discipline of Pharmacology, Faculty of Health Sciences, School of Medical Sciences, The University of Adelaide Adelaide, SA, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2099-6450",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120421"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in behavioral neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Behav Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Behav Neurosci"
+          ],
+          "NLMid": [
+            "101477952"
+          ],
+          "ISSN": [
+            "1662-5153"
+          ],
+          "ESSN": [
+            "1662-5153"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "360"
+  ],
+  "abstractText": [
+    "The role of endogenous oxytocin as neuromodulator of birth, lactation and social behaviors is well-recognized. Moreover, the use of oxytocin as a facilitator of social and other behaviors is becoming more and more accepted. Many positive effects have been attributed to intranasal oxytocin administration in animals and humans; with current research highlighting encouraging advances in its potential for use in mental health disorders. The new frontier will be investigating the effective use of oxytocin in pediatric populations. Limited animal data is available on this. Large-scale human studies focusing on autism are currently under way, but many other possibilities seem to lie in the future. However, we need to know more about the risks and effects of repeated use on the developing brain and body. This paper will provide an overview of the current understanding of the role of endogenous oxytocin and its related neuropeptide systems in influencing behaviors, in particular attachment, and will review (a) the literature on the use of intranasal oxytocin in young animals, children (age range birth-12 years) and adolescents (age range 13-19 years), (b) the expected benefits and risks based on the current research, and (c) the risks of oxytocin in children with severe psychopathology and early life trauma. The paper will conclude with a clinical perspective on these findings."
+  ],
+  "affiliation": [
+    "Department of Psychological Medicine, Women's and Children's Hospital Adelaide, SA, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oxytocin",
+        "Attachment",
+        "Neuropeptide",
+        "Pediatric Populations",
+        "Intranasal Oxytocin"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4199258?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4199258"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnbeh.2014.00360"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-10-31"
+  ],
+  "dateOfCreation": [
+    "2014-10-31"
+  ],
+  "dateOfRevision": [
+    "2014-11-03"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-16"
+  ],
+  "firstPublicationDate": [
+    "2014-10-16"
+  ]
+}

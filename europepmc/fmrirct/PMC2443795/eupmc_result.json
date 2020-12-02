@@ -1,0 +1,560 @@
+{
+  "id": [
+    "18588702"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18588702"
+  ],
+  "pmcid": [
+    "PMC2443795"
+  ],
+  "doi": [
+    "10.1186/1471-2474-9-97"
+  ],
+  "title": [
+    "Treatment of chronic back pain by sensory discrimination training. A Phase I RCT of a novel device (FairMed) vs. TENS."
+  ],
+  "authorString": [
+    "Barker KL, Elliott CJ, Sackley CM, Fairbank JC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barker KL"
+          ],
+          "firstName": [
+            "Karen L"
+          ],
+          "lastName": [
+            "Barker"
+          ],
+          "initials": [
+            "KL"
+          ],
+          "affiliation": [
+            "Physiotherapy Research Unit, Nuffield Orthopaedic Centre NHS Trust, Oxford, OX3 7LD, UK. karen.barker@noc.anglox.nhs.uk"
+          ]
+        },
+        {
+          "fullName": [
+            "Elliott CJ"
+          ],
+          "firstName": [
+            "Christopher J"
+          ],
+          "lastName": [
+            "Elliott"
+          ],
+          "initials": [
+            "CJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Sackley CM"
+          ],
+          "firstName": [
+            "Catherine M"
+          ],
+          "lastName": [
+            "Sackley"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8580-6622",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fairbank JC"
+          ],
+          "firstName": [
+            "Jeremy C T"
+          ],
+          "lastName": [
+            "Fairbank"
+          ],
+          "initials": [
+            "JC"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8580-6622",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2466323"
+      ],
+      "dateOfPublication": [
+        "2008 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC musculoskeletal disorders"
+          ],
+          "ISOAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "medlineAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "NLMid": [
+            "100968565"
+          ],
+          "ISSN": [
+            "1471-2474"
+          ],
+          "ESSN": [
+            "1471-2474"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "97"
+  ],
+  "abstractText": [
+    "The causes of chronic low back pain (CLBP) remain obscure and effective treatment of symptoms remains elusive. A mechanism of relieving chronic pain based on the consequences of conflicting unpleasant sensory inputs to the central nervous system has been hypothesised. As a result a device was generated to deliver sensory discrimination training (FairMed), and this randomised controlled trial compared therapeutic effects with a comparable treatment modality, TENS.60 patients with CLBP were recruited from physiotherapy referrals to a single-blinded, randomised controlled, non-inferiority trial. They were randomised to receive either FairMed or TENS and asked to use the allocated device for 30 minutes, twice a day, for 3 weeks. The primary outcome variable measured at 0 and 3 weeks was pain intensity measured using a visual analogue scale averaged over 7 days. Secondary outcome measures were Oswestry Disability Index, 3 timed physical tests, 4 questionnaires assessing different aspects of emotional coping and a global measure of patient rating of change. Data were analysed for the difference in change of scores between groups using one-way ANOVA.Baseline characteristics of the two groups were comparable. The primary outcome, change in pain intensity (VAS) at 3 weeks showed a mean difference between groups of -0.1, (non significant p = 0.82). The mean difference in change in ODI scores was 0.4; (non significant p = 0.85). Differences in change of physical functioning showed that no significant difference in change of scores for any of these test (p = 0.58 - 0.90). Changes in scores of aspects of emotional coping also demonstrated no significant difference in change scores between the groups (p = 0.14 - 0.94).FairMed was not inferior to TENS treatment. The findings have implications for further research on current chronic pain theories and treatments. Further work to explore these mechanisms is important to expand our understanding of chronic pain and the role of neuro-modulation."
+  ],
+  "affiliation": [
+    "Physiotherapy Research Unit, Nuffield Orthopaedic Centre NHS Trust, Oxford, OX3 7LD, UK. karen.barker@noc.anglox.nhs.uk"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Clinical Trial, Phase I",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Wellcome Trust"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Back Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Chronic Disease"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Transcutaneous Electric Nerve Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Longitudinal Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Equipment Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Orthopedic Equipment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Pain Threshold"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Satisfaction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2443795?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2443795"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/content/pdf/1471-2474-9-97.pdf"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2474/9/97"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "abs"
+          ],
+          "site": [
+            "BioMedCentral"
+          ],
+          "url": [
+            "http://www.biomedcentral.com/1471-2474/9/97/abstract"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18588702/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/18588702/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2474-9-97"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "16"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2008-07-23"
+  ],
+  "dateOfCreation": [
+    "2008-07-08"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2008-06-28"
+  ],
+  "firstPublicationDate": [
+    "2008-06-28"
+  ]
+}

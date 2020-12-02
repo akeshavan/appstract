@@ -1,0 +1,404 @@
+{
+  "id": [
+    "27886247"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27886247"
+  ],
+  "pmcid": [
+    "PMC5122953"
+  ],
+  "doi": [
+    "10.1038/srep37846"
+  ],
+  "title": [
+    "Acupuncture and Moxibustion have Different Effects on Fatigue by Regulating the Autonomic Nervous System: A Pilot Controlled Clinical Trial."
+  ],
+  "authorString": [
+    "Shu Q, Wang H, Litscher D, Wu S, Chen L, Gaischek I, Wang L, He W, Zhou H, Litscher G, Liang F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shu Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Shu"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Litscher D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Litscher"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "TCM Research Center Graz, Research Unit for Complementary and Integrative Laser Medicine, Research Unit of Biomedical Engineering in Anesthesia and Intensive Care Medicine, Medical University of Graz, Graz (8036), Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu S"
+          ],
+          "firstName": [
+            "Song"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen L"
+          ],
+          "firstName": [
+            "Li"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gaischek I"
+          ],
+          "firstName": [
+            "Ingrid"
+          ],
+          "lastName": [
+            "Gaischek"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "TCM Research Center Graz, Research Unit for Complementary and Integrative Laser Medicine, Research Unit of Biomedical Engineering in Anesthesia and Intensive Care Medicine, Medical University of Graz, Graz (8036), Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "TCM Research Center Graz, Research Unit for Complementary and Integrative Laser Medicine, Research Unit of Biomedical Engineering in Anesthesia and Intensive Care Medicine, Medical University of Graz, Graz (8036), Austria."
+          ]
+        },
+        {
+          "fullName": [
+            "He W"
+          ],
+          "firstName": [
+            "Wenjuan"
+          ],
+          "lastName": [
+            "He"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou H"
+          ],
+          "firstName": [
+            "Huanjiao"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Litscher G"
+          ],
+          "firstName": [
+            "Gerhard"
+          ],
+          "lastName": [
+            "Litscher"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang F"
+          ],
+          "firstName": [
+            "Fengxia"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2484513"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "37846"
+  ],
+  "abstractText": [
+    "In order to investigate the different effects of acupuncture and moxibustion on chronic fatigue syndrome (CFS) and alterations in the autonomic nervous system by measuring heart rate variability (HRV). Forty-five participants were recruited and randomly divided into 3 groups using a randomization schedule. The control group (CG, n = 15) and the acupuncture group (AG, n = 15) were treated by manipulation acupuncture, and the moxibustion group (MG, n = 15) was treated by indirect moxibustion. Primary outcomes were the scores of the Fatigue Assessment Instrument (FAI). Secondary outcomes were the HRV parameters which can reflect activity of the autonomic nervous system. This trial considered both instantaneous changes and long-term effectiveness. FAI scores decreased after the 4th and 10th treatments in the 3 groups. The decrease in FAI in the MG was greater than that in the AG. Acupuncture was more effective in instantaneous changes of HRV and moxibustion in long-term aspects. Both acupuncture and moxibustion improved fatigue in CFS patients, but moxibustion was more effective. The possible mechanism of the intervention may be through activation of the vagus nerve. Moxibustion was more effective than acupuncture in long-term treatment of CFS."
+  ],
+  "affiliation": [
+    "Acupuncture &Moxibustion Institute, Hubei University of Chinese Medicine, Wuhan (430061), China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5122953?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5122953"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep37846"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-26"
+  ],
+  "dateOfRevision": [
+    "2018-05-10"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-25"
+  ],
+  "firstPublicationDate": [
+    "2016-11-25"
+  ]
+}

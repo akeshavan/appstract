@@ -1,0 +1,708 @@
+{
+  "id": [
+    "26453560"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26453560"
+  ],
+  "pmcid": [
+    "PMC4600280"
+  ],
+  "doi": [
+    "10.1186/s13063-015-0961-1"
+  ],
+  "title": [
+    "Nortriptyline in knee osteoarthritis (NortIKA Study): study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Hudson B, Williman JA, Stamp LK, Alchin JS, Hooper GJ, Mangin D, Thompson BF, Toop L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hudson B"
+          ],
+          "firstName": [
+            "Ben"
+          ],
+          "lastName": [
+            "Hudson"
+          ],
+          "initials": [
+            "B"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2794-8876",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of General Practice, University of Otago, Christchurch, PO Box 4345, Christchurch, 8140, New Zealand. ben.hudson@otago.ac.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Williman JA"
+          ],
+          "firstName": [
+            "Jonathan A"
+          ],
+          "lastName": [
+            "Williman"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5080-4435",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Biostatistics and Computational Biology Unit, University of Otago, Christchurch, PO Box 4345, Christchurch, 8140, New Zealand. jonathan.williman@otago.ac.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Stamp LK"
+          ],
+          "firstName": [
+            "Lisa K"
+          ],
+          "lastName": [
+            "Stamp"
+          ],
+          "initials": [
+            "LK"
+          ],
+          "affiliation": [
+            "Canterbury District Health Board, Christchurch, New Zealand. Lisa.stamp@cdhb.health.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Alchin JS"
+          ],
+          "firstName": [
+            "John S"
+          ],
+          "lastName": [
+            "Alchin"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "Pain Management Centre, Canterbury District Health Board, Christchurch, New Zealand. John.alchin@cdhb.health.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Hooper GJ"
+          ],
+          "firstName": [
+            "Gary J"
+          ],
+          "lastName": [
+            "Hooper"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3424-5773",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Canterbury District Health Board, Christchurch, New Zealand. gary.hooper@otago.ac.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Mangin D"
+          ],
+          "firstName": [
+            "Dee"
+          ],
+          "lastName": [
+            "Mangin"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2149-9376",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of General Practice, University of Otago, Christchurch, PO Box 4345, Christchurch, 8140, New Zealand. dee.mangin@otago.ac.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson BF"
+          ],
+          "firstName": [
+            "Bronwyn F"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "BF"
+          ],
+          "affiliation": [
+            "Department of Orthopaedic Surgery and Musculoskeletal Medicine, University of Otago, Christchurch, PO Box 4345, Christchurch, 8140, New Zealand. bronwyn.thompson@otago.ac.nz."
+          ]
+        },
+        {
+          "fullName": [
+            "Toop L"
+          ],
+          "firstName": [
+            "Les"
+          ],
+          "lastName": [
+            "Toop"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Department of General Practice, University of Otago, Christchurch, PO Box 4345, Christchurch, 8140, New Zealand. les.toop@otago.ac.nz."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3424-5773",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2149-9376",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5080-4435",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2794-8876",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2252428"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "448"
+  ],
+  "abstractText": [
+    "Osteoarthritis (OA) is a common cause of pain and disability. Currently available analgesics are often insufficiently effective or have unacceptable adverse effects. Tricyclic antidepressants may offer a useful centrally-acting analgesic. Nortriptyline is a readily-available, cheap and comparatively well-tolerated tricyclic antidepressant.We will conduct a parallel group, two-arm, participant and investigator-blinded, randomised controlled superiority trial comparing nortriptyline with placebo. Two hundred participants with primary knee OA will be enrolled. Participants will take study medication for 14 weeks. The primary outcome is difference between treatment arms in mean pain score measured on the Western Ontario and McMaster Universities (WOMAC) pain scale at 14 weeks.This protocol describes the first randomised controlled trial of a tricyclic antidepressant in the treatment of OA. The results of the study may have significant implications for the management of this common and painful condition.The trial was registered with the Australian New Zealand Clinical Trials Registry on 27 June 2014. The trial registration number is: ACTRN12614000683639 ."
+  ],
+  "affiliation": [
+    "Department of General Practice, University of Otago, Christchurch, PO Box 4345, Christchurch, 8140, New Zealand. ben.hudson@otago.ac.nz."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arthralgia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Osteoarthritis, Knee"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Nortriptyline"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Analgesics"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "New Zealand"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Analgesics"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Nortriptyline"
+          ],
+          "registryNumber": [
+            "BL03SY4LXB"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4600280?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4600280"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-015-0961-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "CHEBI"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-07-11"
+  ],
+  "dateOfCreation": [
+    "2015-10-10"
+  ],
+  "dateOfRevision": [
+    "2015-10-13"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-09"
+  ],
+  "firstPublicationDate": [
+    "2015-10-09"
+  ]
+}

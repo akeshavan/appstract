@@ -1,0 +1,346 @@
+{
+  "id": [
+    "23133411"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23133411"
+  ],
+  "pmcid": [
+    "PMC3488800"
+  ],
+  "doi": [
+    "10.3389/fnhum.2012.00295"
+  ],
+  "title": [
+    "Randomized controlled trial of mindfulness-based stress reduction versus aerobic exercise: effects on the self-referential brain network in social anxiety disorder."
+  ],
+  "authorString": [
+    "Goldin P, Ziv M, Jazaieri H, Gross JJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goldin P"
+          ],
+          "firstName": [
+            "Philippe"
+          ],
+          "lastName": [
+            "Goldin"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychology, Stanford University Stanford, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ziv M"
+          ],
+          "firstName": [
+            "Michal"
+          ],
+          "lastName": [
+            "Ziv"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Jazaieri H"
+          ],
+          "firstName": [
+            "Hooria"
+          ],
+          "lastName": [
+            "Jazaieri"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Gross JJ"
+          ],
+          "firstName": [
+            "James J"
+          ],
+          "lastName": [
+            "Gross"
+          ],
+          "initials": [
+            "JJ"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "1899491"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "295"
+  ],
+  "abstractText": [
+    "Social anxiety disorder (SAD) is characterized by distorted self-views. The goal of this study was to examine whether mindfulness-based stress reduction (MBSR) alters behavioral and brain measures of negative and positive self-views.Fifty-six adult patients with generalized SAD were randomly assigned to MBSR or a comparison aerobic exercise (AE) program. A self-referential encoding task was administered at baseline and post-intervention to examine changes in behavioral and neural responses in the self-referential brain network during functional magnetic resonance imaging. Patients were cued to decide whether positive and negative social trait adjectives were self-descriptive or in upper case font.Behaviorally, compared to AE, MBSR produced greater decreases in negative self-views, and equivalent increases in positive self-views. Neurally, during negative self versus case, compared to AE, MBSR led to increased brain responses in the posterior cingulate cortex (PCC). There were no differential changes for positive self versus case. Secondary analyses showed that changes in endorsement of negative and positive self-views were associated with decreased social anxiety symptom severity for MBSR, but not AE. Additionally, MBSR-related increases in dorsomedial prefrontal cortex (DMPFC) activity during negative self-view versus case were associated with decreased social anxiety related disability and increased mindfulness. Analysis of neural temporal dynamics revealed MBSR-related changes in the timing of neural responses in the DMPFC and PCC for negative self-view versus case.These findings suggest that MBSR attenuates maladaptive habitual self-views by facilitating automatic (i.e., uninstructed) recruitment of cognitive and attention regulation neural networks. This highlights potentially important links between self-referential and cognitive-attention regulation systems and suggests that MBSR may enhance more adaptive social self-referential processes in patients with SAD."
+  ],
+  "affiliation": [
+    "Department of Psychology, Stanford University Stanford, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R21 AT003644"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain",
+        "fMRI",
+        "Exercise",
+        "Mindfulness",
+        "Meditation",
+        "Self",
+        "Social Anxiety",
+        "Self-view"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3488800?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3488800"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23133411/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23133411/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2012.00295"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "22"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-11-08"
+  ],
+  "dateOfCreation": [
+    "2012-11-07"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2012-11-05"
+  ],
+  "firstPublicationDate": [
+    "2012-11-05"
+  ]
+}

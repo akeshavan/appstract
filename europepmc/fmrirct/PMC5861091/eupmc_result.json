@@ -1,0 +1,406 @@
+{
+  "id": [
+    "29559674"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29559674"
+  ],
+  "pmcid": [
+    "PMC5861091"
+  ],
+  "doi": [
+    "10.1038/s41598-018-23308-3"
+  ],
+  "title": [
+    "Executive control processes are associated with individual fitness outcomes following regular exercise training: blood lactate profile curves and neuroimaging findings."
+  ],
+  "authorString": [
+    "Pensel MC, Daamen M, Scheef L, Knigge HU, Rojas Vega S, Martin JA, Schild HH, Strüder HK, Boecker H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pensel MC"
+          ],
+          "firstName": [
+            "M C"
+          ],
+          "lastName": [
+            "Pensel"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2760-2269",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Functional Neuroimaging Group, Department of Radiology, University Hospital Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Daamen M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Daamen"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3017-3901",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Functional Neuroimaging Group, Department of Radiology, University Hospital Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Scheef L"
+          ],
+          "firstName": [
+            "L"
+          ],
+          "lastName": [
+            "Scheef"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Functional Neuroimaging Group, Department of Radiology, University Hospital Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Knigge HU"
+          ],
+          "firstName": [
+            "H U"
+          ],
+          "lastName": [
+            "Knigge"
+          ],
+          "initials": [
+            "HU"
+          ],
+          "affiliation": [
+            "Institute of Movement and Neurosciences, German Sport University Cologne, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rojas Vega S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Rojas Vega"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Movement and Neurosciences, German Sport University Cologne, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Martin JA"
+          ],
+          "firstName": [
+            "J A"
+          ],
+          "lastName": [
+            "Martin"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Functional Neuroimaging Group, Department of Radiology, University Hospital Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schild HH"
+          ],
+          "firstName": [
+            "H H"
+          ],
+          "lastName": [
+            "Schild"
+          ],
+          "initials": [
+            "HH"
+          ],
+          "affiliation": [
+            "Department of Radiology, University Hospital Bonn, Bonn, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Strüder HK"
+          ],
+          "firstName": [
+            "H K"
+          ],
+          "lastName": [
+            "Strüder"
+          ],
+          "initials": [
+            "HK"
+          ],
+          "affiliation": [
+            "Institute of Movement and Neurosciences, German Sport University Cologne, Cologne, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Boecker H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Boecker"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Functional Neuroimaging Group, Department of Radiology, University Hospital Bonn, Bonn, Germany. Henning.Boecker@ukbonn.de."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-3017-3901",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2760-2269",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2656503"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "4893"
+  ],
+  "abstractText": [
+    "Cardiovascular training has been associated with neuroimaging correlates of executive control functions (ECF) in seniors and children/adolescents, while complementary studies in middle-aged populations are lacking. Ascribing a prominent role to cardiorespiratory fitness improvements, most studies concentrated on training-induced gains in maximal oxygen uptake (VO2max), although other fitness indices may provide complementary information. Here, we investigated the impact of long-term sub-maximal exercise training on interference control, considering individual training-induced shifts in blood lactate profile curves (BLC) and VO2max. Twenty-three middle-aged sedentary males (M = 49 years) underwent a six-month exercise program (intervention group, IG). Additionally, 14 individuals without exercise training were recruited (control group, CG, M = 52 years). Interference control was assessed before and after the intervention, using a functional magnetic resonance imaging (fMRI) flanker paradigm. Task performance and brain activations showed no significant group-by-time interactions. However, regression analyses in the IG revealed significant associations between individual fitness gains and brain activation changes in frontal regions, which were not evident for VO2max, but for BLC. In conclusion, training-induced plasticity of ECF-related brain activity can be observed in late middle adulthood, but depends on individual fitness gains. For moderate training intensities, BLC shifts may provide sensitive markers for training-induced adaptations linked to ECF-related brain function."
+  ],
+  "affiliation": [
+    "Functional Neuroimaging Group, Department of Radiology, University Hospital Bonn, Bonn, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5861091?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5861091"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/s41598-018-23308-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-03-22"
+  ],
+  "dateOfRevision": [
+    "2018-03-27"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-20"
+  ],
+  "firstPublicationDate": [
+    "2018-03-20"
+  ]
+}

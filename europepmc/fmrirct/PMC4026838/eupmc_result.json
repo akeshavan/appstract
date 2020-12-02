@@ -1,0 +1,373 @@
+{
+  "id": [
+    "24883067"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24883067"
+  ],
+  "pmcid": [
+    "PMC4026838"
+  ],
+  "doi": [
+    "10.1155/2014/502123"
+  ],
+  "title": [
+    "The physiological and biochemical outcomes associated with a reflexology treatment: a systematic review."
+  ],
+  "authorString": [
+    "McCullough JE, Liddle SD, Sinclair M, Close C, Hughes CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McCullough JE"
+          ],
+          "firstName": [
+            "J E M"
+          ],
+          "lastName": [
+            "McCullough"
+          ],
+          "initials": [
+            "JE"
+          ],
+          "affiliation": [
+            "Institute of Nursing and Health Research, University of Ulster, Jordanstown Campus, Shore Road, Newtownabbey, County Antrim BT37 0QB, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Liddle SD"
+          ],
+          "firstName": [
+            "S D"
+          ],
+          "lastName": [
+            "Liddle"
+          ],
+          "initials": [
+            "SD"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8151-641X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Nursing and Health Research, University of Ulster, Jordanstown Campus, Shore Road, Newtownabbey, County Antrim BT37 0QB, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Sinclair M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Sinclair"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4444-1505",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute of Nursing and Health Research, University of Ulster, Jordanstown Campus, Shore Road, Newtownabbey, County Antrim BT37 0QB, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Close C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Close"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Nursing and Health Research, University of Ulster, Jordanstown Campus, Shore Road, Newtownabbey, County Antrim BT37 0QB, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Hughes CM"
+          ],
+          "firstName": [
+            "C M"
+          ],
+          "lastName": [
+            "Hughes"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Institute of Nursing and Health Research, University of Ulster, Jordanstown Campus, Shore Road, Newtownabbey, County Antrim BT37 0QB, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8151-641X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4444-1505",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2125025"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "502123"
+  ],
+  "abstractText": [
+    "Background. Reflexology is one of the top forms of complementary and alternative medicine in the UK and is used for healthcare by a diverse range of people. However, it is offered by few healthcare providers as little scientific evidence is available explaining how it works or any health benefits it may confer. The aim of this review was to assess the current evidence available from reflexology randomised controlled trials (RCTs) that have investigated changes in physiological or biochemical outcomes. Methods. Guidelines from the Cochrane Handbook of Systematic Reviews of Interventions were followed: the following databases were searched from inception to December 2013: AMED, CAM Quest, CINAHL Plus, Cochrane Central Register of Controlled Trials, Embase, Medline Ovid, Proquest, and Pubmed. Risk of bias was assessed independently by two members of the review team and overall strength of the evidence was assessed using the Grading of Recommendations, Assessment, Development, and Evaluation guidelines. Results. Seventeen eligible RCTs met all inclusion criteria. A total of 34 objective outcome measures were analysed. Although twelve studies showed significant changes within the reflexology group, only three studies investigating blood pressure, cardiac index, and salivary amylase resulted in significant between group changes in favour of reflexology. The overall quality of the studies was low."
+  ],
+  "affiliation": [
+    "Institute of Nursing and Health Research, University of Ulster, Jordanstown Campus, Shore Road, Newtownabbey, County Antrim BT37 0QB, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4026838?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4026838"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24883067/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24883067/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/502123"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2014-06-02"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-05-05"
+  ],
+  "firstPublicationDate": [
+    "2014-05-05"
+  ]
+}

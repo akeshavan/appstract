@@ -1,0 +1,297 @@
+{
+  "id": [
+    "28265119"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28265119"
+  ],
+  "pmcid": [
+    "PMC5589468"
+  ],
+  "doi": [
+    "10.1038/mp.2017.34"
+  ],
+  "title": [
+    "Evidence for neuroplastic compensation in the cerebral cortex of persons with depressive illness."
+  ],
+  "authorString": [
+    "Bansal R, Hellerstein DJ, Peterson BS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bansal R"
+          ],
+          "firstName": [
+            "R"
+          ],
+          "lastName": [
+            "Bansal"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute for the Developing Mind, Children's Hospital, Los Angeles, Los Angeles, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Hellerstein DJ"
+          ],
+          "firstName": [
+            "D J"
+          ],
+          "lastName": [
+            "Hellerstein"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "affiliation": [
+            "Depression Evaluation Service, Division of Clinical Therapeutics, New York State Psychiatric Institute, New York, NY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Peterson BS"
+          ],
+          "firstName": [
+            "B S"
+          ],
+          "lastName": [
+            "Peterson"
+          ],
+          "initials": [
+            "BS"
+          ],
+          "affiliation": [
+            "Institute for the Developing Mind, Children's Hospital, Los Angeles, Los Angeles, CA, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "23"
+      ],
+      "journalIssueId": [
+        "2643688"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Mol Psychiatry"
+          ],
+          "NLMid": [
+            "9607835"
+          ],
+          "ISSN": [
+            "1359-4184"
+          ],
+          "ESSN": [
+            "1476-5578"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "375-383"
+  ],
+  "abstractText": [
+    "We yoked anatomical brain magnetic resonance imaging to a randomized, double-blind, placebo-controlled trial (RCT) of antidepressant medication for 10-week's duration in patients with dysthymia. The RCT study design mitigated ascertainment bias by randomizing patients to receive either duloxetine or placebo, and it supported true causal inferences about treatment effects on the brain by controlling treatment assignment experimentally. We acquired 121 anatomical scans: at baseline and end point in 41 patients and once in 39 healthy controls. At baseline, patients had diffusely thicker cortices than did healthy participants, and patients who had thicker cortices had proportionately less severe symptoms. During the trial, symptoms improved significantly more in medication-compared with placebo-treated patients; concurrently, thicknesses in medication-treated patients declined toward values in healthy controls, but they increased slightly, away from control values, in placebo-treated patients. Changes in symptom severity during the trial mediated the association of treatment assignment with the change in thickness, suggesting that the beneficial effects of medication on symptom severity were at least partially responsible for normalizing cortical thickness. Together our findings suggest that baseline cortical hypertrophy in medication-free patients likely represented a compensatory, neuroplastic response that attenuated symptom severity. Medication then reduced symptoms and lessened the need for compensation, thereby normalizing thickness. This is to the best of our knowledge the first study to report within an RCT a differential change in cortical morphology during medication treatment for depressive illness and the first to provide within an RCT in vivo evidence for the presence of neuroanatomical plasticity in humans."
+  ],
+  "affiliation": [
+    "Institute for the Developing Mind, Children's Hospital, Los Angeles, Los Angeles, CA, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K02 MH074677"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5589468?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5589468"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/mp.2017.34"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS842435"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2017-03-08"
+  ],
+  "dateOfRevision": [
+    "2018-01-28"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-07"
+  ],
+  "firstPublicationDate": [
+    "2017-03-07"
+  ]
+}

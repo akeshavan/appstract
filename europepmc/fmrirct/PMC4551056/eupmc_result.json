@@ -1,0 +1,307 @@
+{
+  "id": [
+    "26379596"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26379596"
+  ],
+  "pmcid": [
+    "PMC4551056"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2015.01273"
+  ],
+  "title": [
+    "Self-compassion influences PTSD symptoms in the process of change in trauma-focused cognitive-behavioral therapies: a study of within-person processes."
+  ],
+  "authorString": [
+    "Hoffart A, Øktedalen T, Langkaas TF."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hoffart A"
+          ],
+          "firstName": [
+            "Asle"
+          ],
+          "lastName": [
+            "Hoffart"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Research Institute, Modum Bad Vikersund, Norway ; Department of Psychology, University of Oslo Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Øktedalen T"
+          ],
+          "firstName": [
+            "Tuva"
+          ],
+          "lastName": [
+            "Øktedalen"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Research Institute, Modum Bad Vikersund, Norway ; Department of Psychology, University of Oslo Oslo, Norway."
+          ]
+        },
+        {
+          "fullName": [
+            "Langkaas TF"
+          ],
+          "firstName": [
+            "Tomas F"
+          ],
+          "lastName": [
+            "Langkaas"
+          ],
+          "initials": [
+            "TF"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9399-7887",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Research Institute, Modum Bad Vikersund, Norway ; Department of Psychology, University of Oslo Oslo, Norway."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-9399-7887",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2250732"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "1273"
+  ],
+  "abstractText": [
+    "Although self-compassion is considered a promising change agent in the treatment of posttraumatic stress disorder (PTSD), no studies of this hypothesis exist. This study examined the within-person relationship of self-compassion components (self-kindness, common humanity, mindfulness, self-judgment, isolation, over-identification) and subsequent PTSD symptoms over the course of therapy.PTSD patients (n = 65) were randomized to either standard prolonged exposure, which includes imaginal exposure (IE) to the traumatic memory, or modified prolonged exposure, where imagery re-scripting (IR) of the memory replaced IE as the imagery component of prolonged exposure in a 10 weeks residential program. They were assessed weekly on self-compassion and PTSD symptom measures. The centering method of detrending was used to separate the variance related to the within-person process of change over the course of treatment from between-person variance.The self-compassion components self-kindness, self-judgment, isolation, and over-identification had a within-person effect on subsequent PTSD symptoms. These relationships were independent of therapy form. The within-person relationship between self-judgment and subsequent PTSD symptoms was stronger in patients with higher initial self-judgment. By contrast, there were few indications that within-person variations in PTSD symptoms predict subsequent self-compassion components.The results support the role of self-compassion components in maintaining PTSD and imply the recommendation to facilitate decrease of self-judgment, isolation, and over-identification and increase of self-kindness in the treatment of PTSD patients. The reduction of self-judgment appears to be most important, especially for patients with a high initial level of self-judgment."
+  ],
+  "affiliation": [
+    "Research Institute, Modum Bad Vikersund, Norway ; Department of Psychology, University of Oslo Oslo, Norway."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4551056?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4551056"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2015.01273"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2015.01273"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-09-18"
+  ],
+  "dateOfCreation": [
+    "2015-09-18"
+  ],
+  "dateOfRevision": [
+    "2015-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-27"
+  ],
+  "firstPublicationDate": [
+    "2015-08-27"
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "id": [
+    "28550021"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28550021"
+  ],
+  "pmcid": [
+    "PMC5729992"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2016-014932"
+  ],
+  "title": [
+    "Effects of continuous positive airway pressure on neurocognitive architecture and function in patients with obstructive sleep apnoea: study protocol for a multicentre randomised controlled trial."
+  ],
+  "authorString": [
+    "Xu H, Wang H, Guan J, Yi H, Qian Y, Zou J, Xia Y, Fu Y, Li X, Jiao X, Huang H, Dong P, Yu Z, Yang J, Xiang M, Li J, Chen Y, Wang P, Sun Y, Li Y, Zheng X, Jia W, Yin S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xu H"
+          ],
+          "firstName": [
+            "Huajun"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Guan J"
+          ],
+          "firstName": [
+            "Jian"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yi H"
+          ],
+          "firstName": [
+            "Hongliang"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qian Y"
+          ],
+          "firstName": [
+            "Yingjun"
+          ],
+          "lastName": [
+            "Qian"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zou J"
+          ],
+          "firstName": [
+            "Jianyin"
+          ],
+          "lastName": [
+            "Zou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xia Y"
+          ],
+          "firstName": [
+            "Yunyan"
+          ],
+          "lastName": [
+            "Xia"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fu Y"
+          ],
+          "firstName": [
+            "Yiqun"
+          ],
+          "lastName": [
+            "Fu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xinyi"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jiao X"
+          ],
+          "firstName": [
+            "Xiao"
+          ],
+          "lastName": [
+            "Jiao"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Hengye"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, School of Public Health, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong P"
+          ],
+          "firstName": [
+            "Pin"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology, Shanghai First People's Hospital, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu Z"
+          ],
+          "firstName": [
+            "Ziwei"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology, Shanghai First People's Hospital, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yang J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery, Xinhua Hospital, Affiliated to Shanghai Jiaotong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xiang M"
+          ],
+          "firstName": [
+            "Mingliang"
+          ],
+          "lastName": [
+            "Xiang"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery, Xinhua Hospital, Affiliated to Shanghai Jiaotong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jiping"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology Head and Neck Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Yanqing"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Otorhinolaryngology Head and Neck Surgery, Ren Ji Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang P"
+          ],
+          "firstName": [
+            "Peihua"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery, Shanghai Ninth People's Hospital, Affiliated to Shanghai Jiaotong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Y"
+          ],
+          "firstName": [
+            "Yizhou"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery, Shanghai Ninth People's Hospital, Affiliated to Shanghai Jiaotong University School of Medicine, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Yuehua"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Radiology, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng X"
+          ],
+          "firstName": [
+            "Xiaojian"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Shanghai Key Laboratory of Diabetes Mellitus and Center for Translational Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Jia W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Jia"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Shanghai Key Laboratory of Diabetes Mellitus and Center for Translational Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yin S"
+          ],
+          "firstName": [
+            "Shankai"
+          ],
+          "lastName": [
+            "Yin"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "5"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2554211"
+      ],
+      "dateOfPublication": [
+        "2017 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e014932"
+  ],
+  "abstractText": [
+    "Many clinical studies have indicated that obstructive sleep apnoea (OSA), the most common chronic sleep disorder, may affect neurocognitive function, and that treatment for continuous positive airway pressure (CPAP) has some neurocognitive protective effects against the adverse effects of OSA. However, the effects of CPAP treatment on neurocognitive architecture and function remain unclear. Therefore, this multicentre trial was designed to investigate whether and when neurocognitive architecture and function in patients with OSA can be improved by CPAP treatment and to explore the role of gut microbiota in improving neurocognitive function during treatment.This study will be a multicentre, randomised, controlled trial with allocation concealment and assessor blinding. A total of 148 eligible patients with moderate to severe OSA will be enrolled from five sleep centres and randomised to receive CPAP with best supportive care (BSC) intervention or BSC intervention alone. Cognitive function, structure and function of brain regions, gut microbiota, metabolites, biochemical variables, electrocardiography, echocardiography, pulmonary function and arterial stiffness will be assessed at baseline before randomisation and at 3, 6 and 12 months.This study has been approved by the Medical Ethics Committee of Shanghai Jiao Tong University Affiliated Sixth People's Hospital (approval number 2015-79). The results from this study will be published in peer-reviewed journals and at relevant conferences.NCT02886156; pre-results."
+  ],
+  "affiliation": [
+    "Department of Otolaryngology Head and Neck Surgery and Center of Sleep Medicine, Shanghai Jiao Tong University Affiliated Sixth People's Hospital, Shanghai, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Research Support, Non-U.S. Gov't",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pituitary-Adrenal System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hypothalamo-Hypophyseal System"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sleep Apnea, Obstructive"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electrocardiography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Continuous Positive Airway Pressure"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Follow-Up Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Patient Selection"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "China"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Functional Neuroimaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gastrointestinal Microbiome"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognitive function",
+        "Metabolomics",
+        "Obstructive Sleep Apnoea",
+        "Continuous Positive Airway Pressure",
+        "Gut Microbiota"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5729992?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5729992"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2016-014932"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-03-14"
+  ],
+  "dateOfCreation": [
+    "2017-05-28"
+  ],
+  "dateOfRevision": [
+    "2018-03-21"
+  ],
+  "electronicPublicationDate": [
+    "2017-05-25"
+  ],
+  "firstPublicationDate": [
+    "2017-05-25"
+  ]
+}

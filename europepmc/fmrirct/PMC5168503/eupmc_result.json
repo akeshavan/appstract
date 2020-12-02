@@ -1,0 +1,648 @@
+{
+  "id": [
+    "27903561"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27903561"
+  ],
+  "pmcid": [
+    "PMC5168503"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2016-012573"
+  ],
+  "title": [
+    "Keeping Weight Off: study protocol of an RCT to investigate brain changes associated with mindfulness-based stress reduction."
+  ],
+  "authorString": [
+    "Fulwiler C, Siegel JA, Allison J, Rosal MC, Brewer J, King JA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fulwiler C"
+          ],
+          "firstName": [
+            "Carl"
+          ],
+          "lastName": [
+            "Fulwiler"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7292-6257",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Medicine and Center for Mindfulness, University of Massachusetts Medical School, Shrewsbury, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Siegel JA"
+          ],
+          "firstName": [
+            "Julia A"
+          ],
+          "lastName": [
+            "Siegel"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "University of Massachusetts Medical School, Worcester, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Allison J"
+          ],
+          "firstName": [
+            "Jeroan"
+          ],
+          "lastName": [
+            "Allison"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Quantitative Health Sciences, University of Massachusetts Medical School, Worcester, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Rosal MC"
+          ],
+          "firstName": [
+            "Milagros C"
+          ],
+          "lastName": [
+            "Rosal"
+          ],
+          "initials": [
+            "MC"
+          ],
+          "affiliation": [
+            "Department of Medicine, University of Massachusetts Medical School, Worcester, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Brewer J"
+          ],
+          "firstName": [
+            "Judson"
+          ],
+          "lastName": [
+            "Brewer"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Medicine and Center for Mindfulness, University of Massachusetts Medical School, Shrewsbury, Massachusetts, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "King JA"
+          ],
+          "firstName": [
+            "Jean A"
+          ],
+          "lastName": [
+            "King"
+          ],
+          "initials": [
+            "JA"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry, Neurology and Radiology, University of Massachusetts Medical School, Worcester, Massachusetts, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7292-6257",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2484241"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "e012573"
+  ],
+  "abstractText": [
+    "Obesity is a growing epidemic fuelled by unhealthy behaviours and associated with significant comorbidities and financial costs. While behavioural interventions produce clinically meaningful weight loss, weight loss maintenance is challenging. This may partially be due to failure to target stress and emotional reactivity. Mindfulness-based stress reduction (MBSR) reduces stress and emotional reactivity and may be a useful tool for behaviour change maintenance. This study seeks to provide a mechanistic understanding for clinical trials of the benefits of MBSR for weight loss maintenance by examining changes in functional connectivity (FC) and the association of these changes with clinical outcomes.Community-dwelling individuals (n=80) who intentionally lost ≥5% of their body weight in the past year will be recruited and randomised to an MBSR programme or educational control. FC using resting-state functional MRI will be measured at baseline and 8 weeks. Psychological factors, health behaviours, body mass index and waist circumference will be measured at baseline, 8 weeks and 6 months post intervention. A 12-month telephone follow-up will assess self-reported weight. Analyses will characterise FC changes in response to MBSR in comparison with a control condition, assess the relationship between baseline FC status and pre-post MBSR changes in FC and investigate the association of FC change with changes in psychological factors and weight loss maintenance.The University of Massachusetts Medical School Institutional Review Board has approved this study, Declaration of Helsinki protocols are being followed, and patients will give written informed consent. The Independent Monitoring Committee will monitor protocol adherence. Results from the study will be disseminated to the medical community at conferences and submitted for publication in peer-reviewed journals when the last patient included has been followed up for 12 months.NCT02189187."
+  ],
+  "affiliation": [
+    "Departments of Psychiatry and Medicine and Center for Mindfulness, University of Massachusetts Medical School, Shrewsbury, Massachusetts, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "UH2 AT009145"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R34 AT006963"
+          ],
+          "agency": [
+            "NCCIH NIH HHS"
+          ],
+          "acronym": [
+            "AT"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Prospective Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress, Psychological"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Behavior Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "United States"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EP"
+                  ],
+                  "qualifierName": [
+                    "epidemiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Weight Reduction Programs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Mindfulness"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Weight loss",
+        "Mindfulness",
+        "Neuroimaging",
+        "Behavior Change Maintenance"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5168503?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5168503"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2016-012573"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-01-01"
+  ],
+  "dateOfCreation": [
+    "2016-12-02"
+  ],
+  "dateOfRevision": [
+    "2018-01-09"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-30"
+  ],
+  "firstPublicationDate": [
+    "2016-11-30"
+  ]
+}

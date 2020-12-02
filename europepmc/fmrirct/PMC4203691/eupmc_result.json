@@ -1,0 +1,522 @@
+{
+  "id": [
+    "25329799"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25329799"
+  ],
+  "pmcid": [
+    "PMC4203691"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0108828"
+  ],
+  "title": [
+    "Short and long term effects of left and bilateral repetitive transcranial magnetic stimulation in schizophrenia patients with auditory verbal hallucinations: a randomized controlled trial."
+  ],
+  "authorString": [
+    "Bais L, Vercammen A, Stewart R, van Es F, Visser B, Aleman A, Knegtering H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bais L"
+          ],
+          "firstName": [
+            "Leonie"
+          ],
+          "lastName": [
+            "Bais"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Neuroscience and BCN NeuroImaging Center, Groningen, The Netherlands; Lentis Psychiatric Institute, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Vercammen A"
+          ],
+          "firstName": [
+            "Ans"
+          ],
+          "lastName": [
+            "Vercammen"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1229-9401",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Australian Catholic University, Strathfield, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Stewart R"
+          ],
+          "firstName": [
+            "Roy"
+          ],
+          "lastName": [
+            "Stewart"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Health Sciences, Community and Occupational Medicine, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Es F"
+          ],
+          "firstName": [
+            "Frank"
+          ],
+          "lastName": [
+            "van Es"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Psychiatry, Groningen, The Netherlands; University of Groningen, University Medical Center Groningen, Rob Giel Research Center, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Visser B"
+          ],
+          "firstName": [
+            "Bert"
+          ],
+          "lastName": [
+            "Visser"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Psychiatry, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Aleman A"
+          ],
+          "firstName": [
+            "André"
+          ],
+          "lastName": [
+            "Aleman"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Neuroscience and BCN NeuroImaging Center, Groningen, The Netherlands; University of Groningen, Department of Psychology, Groningen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Knegtering H"
+          ],
+          "firstName": [
+            "Henderikus"
+          ],
+          "lastName": [
+            "Knegtering"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "University of Groningen, University Medical Center Groningen, Department of Neuroscience and BCN NeuroImaging Center, Groningen, The Netherlands; Lentis Psychiatric Institute, Groningen, The Netherlands; University of Groningen, University Medical Center Groningen, Rob Giel Research Center, Groningen, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1229-9401",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "10"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2206285"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e108828"
+  ],
+  "abstractText": [
+    "BACKGROUND: Repetitive transcranial magnetic stimulation of the left temporo-parietal junction area has been studied as a treatment option for auditory verbal hallucinations. Although the right temporo-parietal junction area has also shown involvement in the genesis of auditory verbal hallucinations, no studies have used bilateral stimulation. Moreover, little is known about durability effects. We studied the short and long term effects of 1 Hz treatment of the left temporo-parietal junction area in schizophrenia patients with persistent auditory verbal hallucinations, compared to sham stimulation, and added an extra treatment arm of bilateral TPJ area stimulation. METHODS: In this randomized controlled trial, 51 patients diagnosed with schizophrenia and persistent auditory verbal hallucinations were randomly allocated to treatment of the left or bilateral temporo-parietal junction area or sham treatment. Patients were treated for six days, twice daily for 20 minutes. Short term efficacy was measured with the Positive and Negative Syndrome Scale (PANSS), the Auditory Hallucinations Rating Scale (AHRS), and the Positive and Negative Affect Scale (PANAS). We included follow-up measures with the AHRS and PANAS at four weeks and three months. RESULTS: The interaction between time and treatment for Hallucination item P3 of the PANSS showed a trend for significance, caused by a small reduction of scores in the left group. Although self-reported hallucination scores, as measured with the AHRS and PANAS, decreased significantly during the trial period, there were no differences between the three treatment groups. CONCLUSION: We did not find convincing evidence for the efficacy of left-sided rTMS, compared to sham rTMS. Moreover, bilateral rTMS was not superior over left rTMS or sham in improving AVH. Optimizing treatment parameters may result in stronger evidence for the efficacy of rTMS treatment of AVH. Moreover, future research should consider investigating factors predicting individual response. TRIAL REGISTRATION: Dutch Trial Register NTR1813."
+  ],
+  "affiliation": [
+    "University of Groningen, University Medical Center Groningen, Department of Neuroscience and BCN NeuroImaging Center, Groningen, The Netherlands; Lentis Psychiatric Institute, Groningen, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Hallucinations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Schizophrenia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Safety"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Transcranial Magnetic Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4203691?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4203691"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0108828"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-07-02"
+  ],
+  "dateOfCreation": [
+    "2014-10-21"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-20"
+  ],
+  "firstPublicationDate": [
+    "2014-10-20"
+  ]
+}

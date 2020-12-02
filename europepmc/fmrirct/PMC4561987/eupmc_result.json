@@ -1,0 +1,500 @@
+{
+  "id": [
+    "26380121"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26380121"
+  ],
+  "pmcid": [
+    "PMC4561987"
+  ],
+  "doi": [
+    "10.1155/2015/759139"
+  ],
+  "title": [
+    "Autobiographical Memory Disturbances in Depression: A Novel Therapeutic Target?"
+  ],
+  "authorString": [
+    "Köhler CA, Carvalho AF, Alves GS, McIntyre RS, Hyphantis TN, Cammarota M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Köhler CA"
+          ],
+          "firstName": [
+            "Cristiano A"
+          ],
+          "lastName": [
+            "Köhler"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Memory Research Laboratory, Brain Institute, Federal University of Rio Grande do Norte (UFRN), 59056-450 Natal, RN, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Carvalho AF"
+          ],
+          "firstName": [
+            "André F"
+          ],
+          "lastName": [
+            "Carvalho"
+          ],
+          "initials": [
+            "AF"
+          ],
+          "affiliation": [
+            "Translational Psychiatry Research Group and Department of Clinical Medicine, Federal University of Ceara, 60430-140 Fortaleza, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "Alves GS"
+          ],
+          "firstName": [
+            "Gilberto S"
+          ],
+          "lastName": [
+            "Alves"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "affiliation": [
+            "Translational Psychiatry Research Group and Department of Clinical Medicine, Federal University of Ceara, 60430-140 Fortaleza, CE, Brazil."
+          ]
+        },
+        {
+          "fullName": [
+            "McIntyre RS"
+          ],
+          "firstName": [
+            "Roger S"
+          ],
+          "lastName": [
+            "McIntyre"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Pharmacology, University of Toronto, Toronto, ON, Canada M5T 2S8 ; Mood Disorders Psychopharmacology Unit, University Health Network, University of Toronto, Toronto, ON, Canada M5T 2S8."
+          ]
+        },
+        {
+          "fullName": [
+            "Hyphantis TN"
+          ],
+          "firstName": [
+            "Thomas N"
+          ],
+          "lastName": [
+            "Hyphantis"
+          ],
+          "initials": [
+            "TN"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of Ioannina, 45110 Ioannina, Greece."
+          ]
+        },
+        {
+          "fullName": [
+            "Cammarota M"
+          ],
+          "firstName": [
+            "Martín"
+          ],
+          "lastName": [
+            "Cammarota"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Memory Research Laboratory, Brain Institute, Federal University of Rio Grande do Norte (UFRN), 59056-450 Natal, RN, Brazil."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2254891"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neural plasticity"
+          ],
+          "ISOAbbreviation": [
+            "Neural Plast."
+          ],
+          "medlineAbbreviation": [
+            "Neural Plast"
+          ],
+          "NLMid": [
+            "100883417"
+          ],
+          "ISSN": [
+            "2090-5904"
+          ],
+          "ESSN": [
+            "1687-5443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "759139"
+  ],
+  "abstractText": [
+    "Major depressive disorder (MDD) is characterized by a dysfunctional processing of autobiographical memories. We review the following core domains of deficit: systematic biases favoring materials of negative emotional valence; diminished access and response to positive memories; a recollection of overgeneral memories in detriment of specific autobiographical memories; and the role of ruminative processes and avoidance when dealing with autobiographical memories. Furthermore, we review evidence from functional neuroimaging studies of neural circuits activated by the recollection of autobiographical memories in both healthy and depressive individuals. Disruptions in autobiographical memories predispose and portend onset and maintenance of depression. Thus, we discuss emerging therapeutics that target memory difficulties in those with depression. We review strategies for this clinical domain, including memory specificity training, method-of-loci, memory rescripting, and real-time fMRI neurofeedback training of amygdala activity in depression. We propose that the manipulation of the reconsolidation of autobiographical memories in depression might represent a novel yet largely unexplored, domain-specific, therapeutic opportunity for depression treatment."
+  ],
+  "affiliation": [
+    "Memory Research Laboratory, Brain Institute, Federal University of Rio Grande do Norte (UFRN), 59056-450 Natal, RN, Brazil."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antidepressive Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Memory, Episodic"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antidepressive Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4561987?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4561987"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/759139"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-04-19"
+  ],
+  "dateOfCreation": [
+    "2015-09-18"
+  ],
+  "dateOfRevision": [
+    "2015-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2015-08-25"
+  ],
+  "firstPublicationDate": [
+    "2015-08-25"
+  ]
+}

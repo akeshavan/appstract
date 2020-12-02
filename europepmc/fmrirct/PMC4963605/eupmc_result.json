@@ -1,0 +1,444 @@
+{
+  "id": [
+    "27516747"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27516747"
+  ],
+  "pmcid": [
+    "PMC4963605"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2016.01112"
+  ],
+  "title": [
+    "Smartphone-Based Psychotherapeutic Micro-Interventions to Improve Mood in a Real-World Setting."
+  ],
+  "authorString": [
+    "Meinlschmidt G, Lee JH, Stalujanis E, Belardi A, Oh M, Jung EK, Kim HC, Alfano J, Yoo SS, Tegethoff M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Meinlschmidt G"
+          ],
+          "firstName": [
+            "Gunther"
+          ],
+          "lastName": [
+            "Meinlschmidt"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Division of Clinical Psychology and Epidemiology, Department of Psychology, University of BaselBasel, Switzerland; Faculty of Medicine, Ruhr-University BochumBochum, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee JH"
+          ],
+          "firstName": [
+            "Jong-Hwan"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "JH"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Engineering, Korea University Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Stalujanis E"
+          ],
+          "firstName": [
+            "Esther"
+          ],
+          "lastName": [
+            "Stalujanis"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Division of Clinical Psychology and Psychiatry, Department of Psychology, University of Basel Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Belardi A"
+          ],
+          "firstName": [
+            "Angelo"
+          ],
+          "lastName": [
+            "Belardi"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6421-4767",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Division of Clinical Psychology and Psychiatry, Department of Psychology, University of Basel Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Oh M"
+          ],
+          "firstName": [
+            "Minkyung"
+          ],
+          "lastName": [
+            "Oh"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Engineering, Korea University Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Jung EK"
+          ],
+          "firstName": [
+            "Eun Kyung"
+          ],
+          "lastName": [
+            "Jung"
+          ],
+          "initials": [
+            "EK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2585-9869",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Engineering, Korea University Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim HC"
+          ],
+          "firstName": [
+            "Hyun-Chul"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "HC"
+          ],
+          "affiliation": [
+            "Department of Brain and Cognitive Engineering, Korea University Seoul, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Alfano J"
+          ],
+          "firstName": [
+            "Janine"
+          ],
+          "lastName": [
+            "Alfano"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Division of Clinical Psychology and Epidemiology, Department of Psychology, University of Basel Basel, Switzerland."
+          ]
+        },
+        {
+          "fullName": [
+            "Yoo SS"
+          ],
+          "firstName": [
+            "Seung-Schik"
+          ],
+          "lastName": [
+            "Yoo"
+          ],
+          "initials": [
+            "SS"
+          ],
+          "affiliation": [
+            "Department of Radiology, Brigham and Women's Hospital, Harvard Medical SchoolBoston, MA, USA; Incheon St. Mary's Hospital, The Catholic University of KoreaIncheon, South Korea."
+          ]
+        },
+        {
+          "fullName": [
+            "Tegethoff M"
+          ],
+          "firstName": [
+            "Marion"
+          ],
+          "lastName": [
+            "Tegethoff"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Division of Clinical Psychology and Psychiatry, Department of Psychology, University of Basel Basel, Switzerland."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6421-4767",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2585-9869",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2534147"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1112"
+  ],
+  "abstractText": [
+    "Using mobile communication technology as new personalized approach to treat mental disorders or to more generally improve quality of life is highly promising. Knowledge about intervention components that target key psychopathological processes in terms of transdiagnostic psychotherapy approaches is urgently needed. We explored the use of smartphone-based micro-interventions based on psychotherapeutic techniques, guided by short video-clips, to elicit mood changes.As part of a larger neurofeedback study, all subjects-after being randomly assigned to an experimental or control neurofeedback condition-underwent daily smartphone-based micro-interventions for 13 consecutive days. They were free to choose out of provided techniques, including viscerosensory attention, emotional imagery, facial expression, and contemplative repetition. Changes in mood were assessed in real world using the Multidimensional Mood State Questionnaire (scales: good-bad, GB; awake-tired, AT; and calm-nervous, CN).Twenty-seven men participated on at least 11 days and were thus included in the analyses. Altogether, they underwent 335, generally well-tolerated, micro-intervention sessions, with viscerosensory attention (178 sessions, 53.13%) and contemplative repetition (68 sessions, 20.30%) being the most frequently applied techniques. Mixed models indicated that subjects showed better mood [GB: b = 0.464, 95%confidence interval (CI) [0.068, 0.860], t (613.3) = 2.298, p = 0.022] and became more awake [AT: b = 0.514, 95%CI [0.103, 0.925], t (612.4) = 2.456, p = 0.014] and calmer [CN: b = 0.685, 95%CI [0.360, 1.010], t (612.3) = 4.137, p < 0.001] from pre- to post-micro-intervention. These mood improvements from pre- to post-micro-intervention were associated with changes in mood from the 1st day until the last day with regard to GB mood (r = 0.614, 95%CI [0.297, 0.809], p < 0.001), but not AT mood (r = 0.279, 95%CI [-0.122, 0.602], p = 0.167) and CN mood (r = 0.277, 95%CI [0.124, 0.601], p = 0.170).Our findings provide evidence for the applicability of smartphone-based micro-interventions eliciting short-term mood changes, based on techniques used in psychotherapeutic approaches, such as mindfulness-based psychotherapy, transcendental meditation, and other contemplative therapies. The results encourage exploring these techniques' capability to improve mood in randomized controlled studies and patients. Smartphone-based micro-interventions are promising to modify mood in real-world settings, complementing other psychotherapeutic interventions, in line with the precision medicine approach. The here presented data were collected within a randomized trial, registered at ClinicalTrials.gov (Identifier: NCT01921088) https://clinicaltrials.gov/ct2/show/NCT01921088."
+  ],
+  "affiliation": [
+    "Division of Clinical Psychology and Epidemiology, Department of Psychology, University of BaselBasel, Switzerland; Faculty of Medicine, Ruhr-University BochumBochum, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Mental Disorder",
+        "Health Information Technology",
+        "Ehealth",
+        "Information And Communication Technology",
+        "Mhealth",
+        "Behavioral Intervention Technology",
+        "Wireless Health",
+        "Internet- And Mobile-based Intervention"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4963605?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4963605"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2016.01112"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-08-12"
+  ],
+  "dateOfCreation": [
+    "2016-08-12"
+  ],
+  "dateOfRevision": [
+    "2017-04-10"
+  ],
+  "electronicPublicationDate": [
+    "2016-07-28"
+  ],
+  "firstPublicationDate": [
+    "2016-07-28"
+  ]
+}

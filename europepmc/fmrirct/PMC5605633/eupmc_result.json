@@ -1,0 +1,316 @@
+{
+  "id": [
+    "28966571"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28966571"
+  ],
+  "pmcid": [
+    "PMC5605633"
+  ],
+  "doi": [
+    "10.3389/fnins.2017.00490"
+  ],
+  "title": [
+    "Cross Talk: The Microbiota and Neurodevelopmental Disorders."
+  ],
+  "authorString": [
+    "Kelly JR, Minuto C, Cryan JF, Clarke G, Dinan TG."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kelly JR"
+          ],
+          "firstName": [
+            "John R"
+          ],
+          "lastName": [
+            "Kelly"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "APC Microbiome Institute, University College CorkCork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Minuto C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Minuto"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "APC Microbiome Institute, University College CorkCork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Cryan JF"
+          ],
+          "firstName": [
+            "John F"
+          ],
+          "lastName": [
+            "Cryan"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "Department of Anatomy and Neuroscience, University College CorkCork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Clarke G"
+          ],
+          "firstName": [
+            "Gerard"
+          ],
+          "lastName": [
+            "Clarke"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "APC Microbiome Institute, University College CorkCork, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Dinan TG"
+          ],
+          "firstName": [
+            "Timothy G"
+          ],
+          "lastName": [
+            "Dinan"
+          ],
+          "initials": [
+            "TG"
+          ],
+          "affiliation": [
+            "APC Microbiome Institute, University College CorkCork, Ireland."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "2520978"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Neurosci"
+          ],
+          "NLMid": [
+            "101478481"
+          ],
+          "ISSN": [
+            "1662-4548"
+          ],
+          "ESSN": [
+            "1662-453X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "490"
+  ],
+  "abstractText": [
+    "Humans evolved within a microbial ecosystem resulting in an interlinked physiology. The gut microbiota can signal to the brain via the immune system, the vagus nerve or other host-microbe interactions facilitated by gut hormones, regulation of tryptophan metabolism and microbial metabolites such as short chain fatty acids (SCFA), to influence brain development, function and behavior. Emerging evidence suggests that the gut microbiota may play a role in shaping cognitive networks encompassing emotional and social domains in neurodevelopmental disorders. Drawing upon pre-clinical and clinical evidence, we review the potential role of the gut microbiota in the origins and development of social and emotional domains related to Autism spectrum disorders (ASD) and schizophrenia. Small preliminary clinical studies have demonstrated gut microbiota alterations in both ASD and schizophrenia compared to healthy controls. However, we await the further development of mechanistic insights, together with large scale longitudinal clinical trials, that encompass a systems level dimensional approach, to investigate whether promising pre-clinical and initial clinical findings lead to clinical relevance."
+  ],
+  "affiliation": [
+    "APC Microbiome Institute, University College CorkCork, Ireland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immune system",
+        "Schizophrenia",
+        "Microbiota",
+        "Autism",
+        "Social Cognition",
+        "Microbiome",
+        "Gut-brain Axis",
+        "Psychobiotics"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5605633?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5605633"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnins.2017.00490"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-10-02"
+  ],
+  "dateOfRevision": [
+    "2017-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2017-09-15"
+  ],
+  "firstPublicationDate": [
+    "2017-09-15"
+  ]
+}

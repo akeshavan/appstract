@@ -1,0 +1,357 @@
+{
+  "id": [
+    "26665043"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26665043"
+  ],
+  "pmcid": [
+    "PMC4654788"
+  ],
+  "doi": [
+    "10.7453/gahmj.2015.034.suppl"
+  ],
+  "title": [
+    "Clinical Studies of Biofield Therapies: Summary, Methodological Challenges, and Recommendations."
+  ],
+  "authorString": [
+    "Jain S, Hammerschlag R, Mills P, Cohen L, Krieger R, Vieten C, Lutgendorf S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jain S"
+          ],
+          "firstName": [
+            "Shamini"
+          ],
+          "lastName": [
+            "Jain"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of California San Diego; and Center for Integrative Medicine, University of California San Diego; and Consciousness and Healing Initiative, San Diego (Dr Jain)."
+          ]
+        },
+        {
+          "fullName": [
+            "Hammerschlag R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Hammerschlag"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Consciousness and Healing Initiative, San Diego; and The Institute for Integrative Health, Baltimore, Maryland (Dr Hammerschlag)."
+          ]
+        },
+        {
+          "fullName": [
+            "Mills P"
+          ],
+          "firstName": [
+            "Paul"
+          ],
+          "lastName": [
+            "Mills"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, University of California San Diego; and Center for Integrative Medicine, University of California San Diego; and Center of Excellence for Research and Training in Integrative Health, University of California, San Diego (Dr Mills)."
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "The University of Texas MD Anderson Cancer Center, Houston (Dr Cohen)."
+          ]
+        },
+        {
+          "fullName": [
+            "Krieger R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Krieger"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Institute of Noetic Sciences, Petaluma, California (Dr Krieger)."
+          ]
+        },
+        {
+          "fullName": [
+            "Vieten C"
+          ],
+          "firstName": [
+            "Cassandra"
+          ],
+          "lastName": [
+            "Vieten"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute of Noetic Sciences, Petaluma, California; and California Pacific Medical Center Research Institute, San Francisco (Dr Vieten)."
+          ]
+        },
+        {
+          "fullName": [
+            "Lutgendorf S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Lutgendorf"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Noetic Sciences, Petaluma, California; and Departments of Psychological and Brain Sciences, Urology, and Obstetrics and Gynecology, University of Iowa, Iowa City (Dr Lutgendorf)."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "Suppl"
+      ],
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2354549"
+      ],
+      "dateOfPublication": [
+        "2015 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Global advances in health and medicine"
+          ],
+          "ISOAbbreviation": [
+            "Glob Adv Health Med"
+          ],
+          "medlineAbbreviation": [
+            "Glob Adv Health Med"
+          ],
+          "NLMid": [
+            "101584936"
+          ],
+          "ISSN": [
+            "2164-957X"
+          ],
+          "ESSN": [
+            "2164-9561"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "58-66"
+  ],
+  "abstractText": [
+    "Biofield therapies are noninvasive therapies in which the practitioner explicitly works with a client's biofield (interacting fields of energy and information that surround living systems) to stimulate healing responses in patients. While the practice of biofield therapies has existed in Eastern and Western cultures for thousands of years, empirical research on the effectiveness of biofield therapies is still relatively nascent. In this article, we provide a summary of the state of the evidence for biofield therapies for a number of different clinical conditions. We note specific methodological issues for research in biofield therapies that need to be addressed (including practitioner-based, outcomes-based, and research design considerations), as well as provide a list of suggested next steps for biofield researchers to consider."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, University of California San Diego; and Center for Integrative Medicine, University of California San Diego; and Consciousness and Healing Initiative, San Diego (Dr Jain)."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Healing",
+        "Clinical Trials",
+        "Integrative Medicine",
+        "Reiki",
+        "Therapeutic Touch",
+        "Healing Touch",
+        "Biofield Therapies",
+        "Energy Medicine",
+        "Hands-on Healing",
+        "Biofield"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4654788?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4654788"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.7453/gahmj.2015.034.suppl"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-12-15"
+  ],
+  "dateOfCreation": [
+    "2015-12-15"
+  ],
+  "dateOfRevision": [
+    "2017-03-07"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-01"
+  ],
+  "firstPublicationDate": [
+    "2015-11-01"
+  ],
+  "embargoDate": [
+    "2016-01-09"
+  ]
+}

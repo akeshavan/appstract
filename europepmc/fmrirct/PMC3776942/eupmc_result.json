@@ -1,0 +1,313 @@
+{
+  "id": [
+    "24065903"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24065903"
+  ],
+  "pmcid": [
+    "PMC3776942"
+  ],
+  "doi": [
+    "10.3389/fnhum.2013.00576"
+  ],
+  "title": [
+    "Towards the integration of mental practice in rehabilitation programs. A critical review."
+  ],
+  "authorString": [
+    "Malouin F, Jackson PL, Richards CL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Malouin F"
+          ],
+          "firstName": [
+            "Francine"
+          ],
+          "lastName": [
+            "Malouin"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Département de Réadaptation, Faculté de Médecine, Université Laval Québec, QC, Canada ; Centre Interdisciplinaire de Recherche en Réadaptation et Intégration Sociale Québec, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Jackson PL"
+          ],
+          "firstName": [
+            "Philip L"
+          ],
+          "lastName": [
+            "Jackson"
+          ],
+          "initials": [
+            "PL"
+          ]
+        },
+        {
+          "fullName": [
+            "Richards CL"
+          ],
+          "firstName": [
+            "Carol L"
+          ],
+          "lastName": [
+            "Richards"
+          ],
+          "initials": [
+            "CL"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004142"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "576"
+  ],
+  "abstractText": [
+    "Many clinical studies have investigated the use of mental practice (MP) through motor imagery (MI) to enhance functional recovery of patients with diverse physical disabilities. Although beneficial effects have been generally reported for training motor functions in persons with chronic stroke (e.g., reaching, writing, walking), attempts to integrate MP within rehabilitation programs have been met with mitigated results. These findings have stirred further questioning about the value of MP in neurological rehabilitation. In fact, despite abundant systematic reviews, which customarily focused on the methodological merits of selected studies, several questions about factors underlying observed effects remain to be addressed. This review discusses these issues in an attempt to identify factors likely to hamper the integration of MP within rehabilitation programs. First, the rationale underlying the use of MP for training motor function is briefly reviewed. Second, three modes of MI delivery are proposed based on the analysis of the research protocols from 27 studies in persons with stroke and Parkinson's disease. Third, for each mode of MI delivery, a general description of MI training is provided. Fourth, the review discusses factors influencing MI training outcomes such as: the adherence to MI training, the amount of training and the interaction between physical and mental rehearsal; the use of relaxation, the selection of reliable, valid and sensitive outcome measures, the heterogeneity of the patient groups, the selection of patients and the mental rehearsal procedures. To conclude, the review proposes a framework for integrating MP in rehabilitation programs and suggests research targets for steering the implementation of MP in the early stages of the rehabilitation process. The challenge has now shifted towards the demonstration that MI training can enhance the effects of regular therapy in persons with subacute stroke during the period of spontaneous recovery."
+  ],
+  "affiliation": [
+    "Département de Réadaptation, Faculté de Médecine, Université Laval Québec, QC, Canada ; Centre Interdisciplinaire de Recherche en Réadaptation et Intégration Sociale Québec, QC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Stroke",
+        "Neurological rehabilitation",
+        "Parkinson's Disease",
+        "Motor imagery",
+        "Motor Skill Learning",
+        "Stroke Rehabilitation",
+        "Mental Practice",
+        "Motor Imagery Training"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3776942?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3776942"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24065903/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24065903/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2013.00576"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "38"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-24"
+  ],
+  "dateOfCreation": [
+    "2013-09-25"
+  ],
+  "dateOfRevision": [
+    "2014-06-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-09-19"
+  ],
+  "firstPublicationDate": [
+    "2013-09-19"
+  ]
+}

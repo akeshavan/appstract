@@ -1,0 +1,648 @@
+{
+  "id": [
+    "28118856"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28118856"
+  ],
+  "pmcid": [
+    "PMC5259870"
+  ],
+  "doi": [
+    "10.1186/s13063-016-1769-3"
+  ],
+  "title": [
+    "NIRS-based neurofeedback training in a virtual reality classroom for children with attention-deficit/hyperactivity disorder: study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Blume F, Hudak J, Dresler T, Ehlis AC, Kühnhausen J, Renner TJ, Gawrilow C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Blume F"
+          ],
+          "firstName": [
+            "Friederike"
+          ],
+          "lastName": [
+            "Blume"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3334-5366",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany. friederike.blume@uni-tuebingen.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Hudak J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Hudak"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Dresler T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Dresler"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ehlis AC"
+          ],
+          "firstName": [
+            "Ann-Christine"
+          ],
+          "lastName": [
+            "Ehlis"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Psychotherapy, University of Tübingen, Calwerstrasse 14, 72076, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kühnhausen J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Kühnhausen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Renner TJ"
+          ],
+          "firstName": [
+            "Tobias J"
+          ],
+          "lastName": [
+            "Renner"
+          ],
+          "initials": [
+            "TJ"
+          ],
+          "affiliation": [
+            "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Gawrilow C"
+          ],
+          "firstName": [
+            "Caterina"
+          ],
+          "lastName": [
+            "Gawrilow"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3334-5366",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2510859"
+      ],
+      "dateOfPublication": [
+        "2017 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "41"
+  ],
+  "abstractText": [
+    "Children with attention-deficit/hyperactivity disorder (ADHD) suffer from attention deficits, motor hyperactivity, and impulsive behaviour. These impairments are experienced at home, at school, and with friends. Functional imaging studies show that ADHD behaviour and impairments in executive functions (EFs) are mirrored by aberrant neurophysiological functioning. Moreover, several studies show that ADHD behaviour, impairments in EFs, and a lack of self-control contribute to poor school performance. Non-pharmacological interventions such as neurofeedback training (NFT), for instance, aim at improving neurophysiological and neuropsychological functioning as well as behaviour. Consequently, NFT is expected to improve school performance, EFs, and self-control in children with ADHD. Generalization of acquired self-regulation skills from laboratory to real life is crucial for a transfer to everyday situations and is hypothesized to be facilitated via training using virtual reality (VR) environments. Consequently, experiencing NFT in VR is expected to yield greater effects than training in two dimensions (2D).Ninety children with a clinical diagnosis of ADHD will be included in the study. Participants may be medicated or unmedicated. After random assignation to one of three conditions, all participants receive 15 training sessions of either near-infrared spectroscopy (NIRS)-based NFT in VR, NIRS-based NFT in 2D, or electromyogram-based biofeedback training in VR. ADHD symptoms, self-control, EF, health-related quality of life, school performance, and motor activity measured via parent, teacher, and child reports or objectively will be assessed before and after the intervention and at a 6 months follow-up. Furthermore, we are interested in parents' expectations about the training's effects.This is, to our knowledge, the first study investigating the efficacy of NFT for children with ADHD in a VR compared to a 2D environment. Furthermore, this study will contribute to the discussion about the efficacy and specific and unspecific effects of NFTs in children with ADHD. In addition to commonly assessed variables such as ADHD symptoms, NIRS and behavioural data obtained in EF measures, health-related quality of life, and parents' expectations about the intervention's effects, this study will investigate the effects on self-control, school performance, and motor activity.ClinicalTrials.gov, NCT02572180 . Registered on 19 November 2015."
+  ],
+  "affiliation": [
+    "LEAD Graduate School & Research Network, University of Tübingen, Gartenstrasse 29, 72074, Tübingen, Germany. friederike.blume@uni-tuebingen.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Spectroscopy, Near-Infrared"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electromyography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Child Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Parents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention Deficit Disorder with Hyperactivity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Educational Status"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neurofeedback"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Self-Control"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Virtual Reality"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electromyography",
+        "Virtual reality",
+        "Biofeedback",
+        "near-infrared spectroscopy",
+        "Randomized controlled trial",
+        "Neurofeedback",
+        "Attention-deficit/hyperactivity Disorder",
+        "School Performance"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5259870?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5259870"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-016-1769-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-02-26"
+  ],
+  "dateOfCreation": [
+    "2017-01-26"
+  ],
+  "dateOfRevision": [
+    "2018-03-30"
+  ],
+  "electronicPublicationDate": [
+    "2017-01-24"
+  ],
+  "firstPublicationDate": [
+    "2017-01-24"
+  ]
+}

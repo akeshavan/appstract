@@ -1,0 +1,318 @@
+{
+  "id": [
+    "25018720"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25018720"
+  ],
+  "pmcid": [
+    "PMC4072972"
+  ],
+  "doi": [
+    "10.3389/fnhum.2014.00396"
+  ],
+  "title": [
+    "The functional significance of cortical reorganization and the parallel development of CI therapy."
+  ],
+  "authorString": [
+    "Taub E, Uswatte G, Mark VW."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Taub E"
+          ],
+          "firstName": [
+            "Edward"
+          ],
+          "lastName": [
+            "Taub"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Department of Psychology, University of Alabama at Birmingham Birmingham, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Uswatte G"
+          ],
+          "firstName": [
+            "Gitendra"
+          ],
+          "lastName": [
+            "Uswatte"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Departments of Psychology and Physical Therapy, University of Alabama at Birmingham Birmingham, AL, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mark VW"
+          ],
+          "firstName": [
+            "Victor W"
+          ],
+          "lastName": [
+            "Mark"
+          ],
+          "initials": [
+            "VW"
+          ],
+          "affiliation": [
+            "Departments of Physical Medicine and Rehabilitation, Neurology, and Psychology, University of Alabama at Birmingham Birmingham, AL, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120175"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "396"
+  ],
+  "abstractText": [
+    "For the nineteenth and the better part of the twentieth centuries two correlative beliefs were strongly held by almost all neuroscientists and practitioners in the field of neurorehabilitation. The first was that after maturity the adult CNS was hardwired and fixed, and second that in the chronic phase after CNS injury no substantial recovery of function could take place no matter what intervention was employed. However, in the last part of the twentieth century evidence began to accumulate that neither belief was correct. First, in the 1960s and 1970s, in research with primates given a surgical abolition of somatic sensation from a single forelimb, which rendered the extremity useless, it was found that behavioral techniques could convert the limb into an extremity that could be used extensively. Beginning in the late 1980s, the techniques employed with deafferented monkeys were translated into a rehabilitation treatment, termed Constraint Induced Movement therapy or CI therapy, for substantially improving the motor deficit in humans of the upper and lower extremities in the chronic phase after stroke. CI therapy has been applied successfully to other types of damage to the CNS such as traumatic brain injury, cerebral palsy, multiple sclerosis, and spinal cord injury, and it has also been used to improve function in focal hand dystonia and for aphasia after stroke. As this work was proceeding, it was being shown during the 1980s and 1990s that sustained modulation of afferent input could alter the structure of the CNS and that this topographic reorganization could have relevance to the function of the individual. The alteration in these once fundamental beliefs has given rise to important recent developments in neuroscience and neurorehabilitation and holds promise for further increasing our understanding of CNS function and extending the boundaries of what is possible in neurorehabilitation."
+  ],
+  "affiliation": [
+    "Department of Psychology, University of Alabama at Birmingham Birmingham, AL, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Traumatic brain injury",
+        "Multiple sclerosis",
+        "Stroke",
+        "Neuroplasticity",
+        "cerebral palsy",
+        "Neurorehabilitation",
+        "Ci Therapy",
+        "Cortical Reorganization"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4072972?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4072972"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25018720/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25018720/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2014.00396"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-07-14"
+  ],
+  "dateOfCreation": [
+    "2014-07-14"
+  ],
+  "dateOfRevision": [
+    "2014-07-17"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-27"
+  ],
+  "firstPublicationDate": [
+    "2014-06-27"
+  ]
+}

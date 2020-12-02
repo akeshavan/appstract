@@ -1,0 +1,946 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="other"><?properties open_access?><?DTDIdentifier.IdentifierValue -//Atypon//DTD Atypon Systems Journal Archiving and Interchange NLM DTD v3.0.5 20110520//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName atypon-archivearticle3.dtd?><?SourceDTD.Version 3.0.6?><?ConverterInfo.XSLTName atyponoasis-oasisns2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">Eur J Psychotraumatol</journal-id><journal-id journal-id-type="iso-abbrev">Eur J Psychotraumatol</journal-id><journal-id journal-id-type="archive">ZEPT</journal-id><journal-id journal-id-type="publisher-id">zept20</journal-id><journal-title-group><journal-title>European Journal of Psychotraumatology</journal-title></journal-title-group><issn pub-type="epub">2000-8066</issn><publisher><publisher-name>Taylor &#x00026; Francis</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">5400019</article-id><article-id pub-id-type="publisher-id">1302652</article-id><article-id pub-id-type="doi">10.1080/20008198.2017.1302652</article-id><article-categories><subj-group subj-group-type="article-type"><subject>Other</subject></subj-group><subj-group subj-group-type="heading"><subject>PhD Summary</subject></subj-group></article-categories><title-group><article-title>Preventing PTSD with oxytocin: effects of oxytocin administration on fear neurocircuitry and PTSD symptom development in recently trauma-exposed individuals</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Frijling</surname><given-names>Jessie L.</given-names></name><xref ref-type="aff" rid="AFF0001">
+<sup>a</sup>
+</xref><xref ref-type="corresp" rid="AN0001">
+<sup>*</sup>
+</xref></contrib><aff id="AFF0001"><label><sup>a</sup></label><institution><named-content content-type="department">Department of Psychiatry, Academic Medical Center</named-content>, <named-content content-type="institution-name">University of Amsterdam</named-content></institution>, <named-content content-type="city">Amsterdam</named-content>, <country>the Netherlands</country></aff></contrib-group><author-notes><corresp id="AN0001">CONTACT Jessie L. Frijling <email xlink:href="J.L.Frijling@amc.uva.nl">J.L.Frijling@amc.uva.nl</email><institution><named-content content-type="department">Department of Psychiatry, Academic Medical Center</named-content>, <named-content content-type="institution-name">University of Amsterdam</named-content></institution>, <named-content content-type="city">Amsterdam</named-content>, <country>the Netherlands</country></corresp><fn id="FT0001"><p>
+<bold>Mentors</bold>
+</p><p>Miranda Olff (Department of Psychiatry, Academic Medical Centre, University of Amsterdam, Amsterdam, the Netherlands. Arq Psychotrauma Expert Group, Diemen, the Netherlands)</p><p>Dick J. Veltman (Department of Psychiatry, VU University Medical Centre, Amsterdam, the Netherlands)</p><p>Mirjam van Zuiden (Academic Medical Centre, University of Amsterdam, Department of Psychiatry, Amsterdam, the Netherlands)</p></fn></author-notes><pub-date pub-type="collection"><year>2017</year></pub-date><pub-date pub-type="epub"><day>11</day><month>4</month><year>2017</year></pub-date><volume>8</volume><issue>1</issue><elocation-id>1302652</elocation-id><history><date date-type="received"><day>12</day><month>2</month><year>2017</year></date><date date-type="accepted"><day>15</day><month>2</month><year>2017</year></date><date date-type="rev-recd"><day>1</day><month>3</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 The Author(s). Published by Informa UK Limited, trading as Taylor &#x00026; Francis Group.</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>The Author(s)</copyright-holder><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="zept-8-1302652.pdf"/><abstract><title>ABSTRACT</title><p>
+<bold>Background</bold>: Posttraumatic stress disorder (PTSD) is a debilitating psychiatric disorder which develops in approximately 10% of trauma-exposed individuals. Currently, there are few early preventive interventions available for PTSD. Intranasal oxytocin administration early posttrauma may prevent PTSD symptom development, as oxytocin administration was previously found to beneficially impact neurobiological (e.g. amygdala reactivity) and socio-emotional PTSD vulnerability factors.</p><p>
+<bold>Objective:</bold> The overall aim of this dissertation was to investigate the potential of intranasal oxytocin administration as early preventive intervention for PTSD.</p><p>
+<bold>Methods</bold>: We performed a functional magnetic resonance imaging (fMRI) study to assess the acute effects of a single administration of oxytocin on the functional fear neurocircuitry &#x02013; consisting of the amygdala and (pre)frontal brain regions &#x02013; in recently trauma-exposed emergency department patients (range <italic>n&#x000a0;</italic>=&#x000a0;37&#x02013;41). In addition, we performed a multicentre randomized double-blind placebo-controlled clinical trial (RCT) to assess the efficacy of repeated intranasal oxytocin administration early after trauma for preventing PTSD symptom development up to six&#x000a0;months posttrauma (<italic>n&#x000a0;</italic>=&#x000a0;107).</p><p>
+<bold>Results</bold>: In our fMRI experiments we observed acutely increased amygdala reactivity to fearful faces and attenuated amygdala-ventromedial and ventrolateral prefrontal cortex functional connectivity after a single oxytocin administration in recently trauma-exposed individuals. However, in our RCT we found that repeated intranasal oxytocin administration early posttrauma reduced subsequent PTSD symptom development in recently trauma-exposed emergency department patients with high acute PTSD symptoms.</p><p>
+<bold>Conclusions</bold>: These findings indicate that repeated intranasal oxytocin is a promising early preventive intervention for PTSD for individuals at increased risk for PTSD due to high acute symptom severity. Administration frequency dependent effects of oxytocin or the effects of oxytocin administration on salience processing may serve as explanatory frameworks for the contrasting oxytocin effects on anxiety-related measures in our clinical and neuroimaging studies.</p></abstract><kwd-group kwd-group-type="author"><title>KEYWORDS</title><kwd>PTSD</kwd><kwd>early intervention</kwd><kwd>prevention</kwd><kwd>oxytocin</kwd><kwd>amygdala</kwd><kwd>fMRI</kwd></kwd-group><funding-group><award-group><funding-source><named-content content-type="funder-name">Academic Medical Center Research Council</named-content></funding-source><award-id>110614</award-id></award-group><award-group><funding-source><named-content content-type="funder-name">ZonMw</named-content><named-content content-type="funder-identifier">10.13039/501100001826</named-content></funding-source><award-id>91210041</award-id></award-group><funding-statement>This work was supported by the Academic Medical Centre Research Council [110614]; ZonMw [91210041].</funding-statement></funding-group><counts><ref-count count="99"/><page-count count="14"/></counts></article-meta></front><body><sec sec-type="intro" id="S0001"><label>1. </label><title>Introduction</title><p>Exposure to psychological trauma is a common phenomenon, as approximately 70% of the worldwide general population experiences at least one traumatic event during their lifetime (Benjet et al., <xref rid="CIT0006" ref-type="bibr">2015</xref>). Approximately 10% of trauma-exposed individuals develops <bold>posttraumatic stress disorder (PTSD)</bold> (de Vries &#x00026; Olff, <xref rid="CIT0021" ref-type="bibr">2009</xref>; Kessler, Petukhova, Sampson, Zaslavsky, &#x00026; Wittchen, <xref rid="CIT0043" ref-type="bibr">2012</xref>). PTSD is not only a burden for the affected individual and his/her immediate surroundings, but may also be considered a public health issue (Magruder, Kassam-Adams, Thoresen, &#x00026; Olff, <xref rid="CIT0057" ref-type="bibr">2016</xref>). PTSD is associated with the highest health care costs compared to other anxiety disorders (Marciniak et al., <xref rid="CIT0058" ref-type="bibr">2005</xref>), which even further increase in case of comorbid major depression disorder or substance use disorder, which are both highly prevalent in PTSD patients (Kessler et al., <xref rid="CIT0043" ref-type="bibr">2012</xref>; Marciniak et al., <xref rid="CIT0058" ref-type="bibr">2005</xref>; McCauley, Kileen, Gros, Brady, &#x00026; Back, <xref rid="CIT0059" ref-type="bibr">2012</xref>).</p><p>Evidence-based treatments for PTSD include trauma-focused psychotherapy (e.g. cognitive behaviour therapy (CBT), eye movement desensitization reprocessing (EMDR)) and treatment with selective serotonin reuptake inhibitors (SSRIs) (Forbes et al., <xref rid="CIT0030" ref-type="bibr">2010</xref>). However, in a study in the general population, almost 93% of PTSD patients did not seek treatment within the first year of symptoms (Wang et al., <xref rid="CIT0096" ref-type="bibr">2005</xref>). Furthermore, these therapies are not sufficiently effective in about one-third of patients (Bradley, Greene, Russ, Dutra, &#x00026; Westen, <xref rid="CIT0009" ref-type="bibr">2005</xref>; Pull &#x00026; Pull, <xref rid="CIT0074" ref-type="bibr">2014</xref>). Therefore, substantial effort should be made to minimize the individual and societal burden associated with PTSD (Olff, Van Zuiden, &#x00026; Bakker, <xref rid="CIT0068" ref-type="bibr">2015</xref>).</p><p>
+<bold>Secondary prevention of PTSD</bold> may reduce the burden associated with PTSD, as effective prevention results in fewer trauma-exposed individuals developing (chronic) PTSD. As trauma exposure constitutes an identifiable event of potential PTSD onset, the first hours to weeks posttrauma serve as a suitable time-period for the provision of early preventive interventions for PTSD, aimed to reduce subsequent PTSD symptom development. Previously, administration of benzodiazepines (Gelpin, Bonne, Peri, Brandes, &#x00026; Shalev, <xref rid="CIT0036" ref-type="bibr">1996</xref>; Mellman, Bustamante, David, &#x00026; Fins, <xref rid="CIT0061" ref-type="bibr">2002</xref>), SSRIs (Galatzer-Levy et al., <xref rid="CIT0035" ref-type="bibr">2013</xref>) and the beta-adrenergic receptor blocking agent propranolol (Hoge et al., <xref rid="CIT0040" ref-type="bibr">2012</xref>; Stein, Kerridge, Dimsdale, &#x00026; Hoyt, <xref rid="CIT0087" ref-type="bibr">2007</xref>) early posttrauma did not reduce subsequent PTSD symptom development in recently trauma-exposed individuals. Similarly, psychological debriefing within the first weeks posttrauma was ineffective in preventing subsequent PTSD; there are even indications that debriefing increased PTSD symptoms in some individuals (Rose, Bisson, Churchill, &#x00026; Wessely, <xref rid="CIT0080" ref-type="bibr">2002</xref>; Sijbrandij, Olff, Reitsma, Carlier, &#x00026; Gersons, <xref rid="CIT0085" ref-type="bibr">2006</xref>). Current early interventions that hold significant promise for effective PTSD prevention, i.e. hydrocortisone administration (Delahanty et al., <xref rid="CIT0022" ref-type="bibr">2013</xref>; Zohar et al., <xref rid="CIT0098" ref-type="bibr">2011</xref>), prolonged exposure therapy (Rothbaum et al., <xref rid="CIT0081" ref-type="bibr">2012</xref>) and brief CBT (Roberts, Kitchiner, Kenardy, &#x00026; Bisson, <xref rid="CIT0079" ref-type="bibr">2009</xref>), are not yet at the stage of widespread implementation, as clinical evidence supporting their efficacy is still sparse (Sijbrandij, Kleiboer, Bisson, Barbui, &#x00026; Cuijpers, <xref rid="CIT0084" ref-type="bibr">2015</xref>). Therefore, it remains highly relevant to further study novel preventive interventions for PTSD.</p><p>One potential strategy for novel preventive interventions for PTSD is to pharmacologically target neurobiological and socio-emotional risk factors for PTSD early posttrauma that are likely to be etiologically involved in PTSD development. In recent years, it was observed that autonomic and glucocorticoid reactivity to stress, assessed prior to or early posttrauma, predicted PTSD symptom development (Coronas et al., <xref rid="CIT0019" ref-type="bibr">2011</xref>; Pole et al., <xref rid="CIT0072" ref-type="bibr">2009</xref>; van Zuiden, Kavelaars, Geuze, Olff, &#x00026; Heijnen, <xref rid="CIT0094" ref-type="bibr">2013</xref>). Also, pre- and early posttrauma hyperreactivity of the amygdala &#x02013; a brain region with a pivotal role in detection, expression, regulation and learning of fear &#x02013; was found to predict subsequent PTSD symptoms (Admon et al., <xref rid="CIT0003" ref-type="bibr">2009</xref>; McLaughlin et al., <xref rid="CIT0060" ref-type="bibr">2014</xref>). Furthermore, low perceived social support early posttrauma has been associated with increased PTSD risk (Brewin, Andrews, &#x00026; Valentine, <xref rid="CIT0010" ref-type="bibr">2000</xref>). Intranasal administration of the neuropeptide oxytocin (see Section 1.1 for additional background information) is a promising pharmacological agent for PTSD prevention (Olff, <xref rid="CIT0066" ref-type="bibr">2012</xref>). Accumulating evidence from studies in animals and in human populations with and without psychiatric disorders shows that oxytocin administration may modulate autonomic stress reactivity (Kubzansky, Mendes, Appleton, Block, &#x00026; Adler, <xref rid="CIT0048" ref-type="bibr">2012</xref>), attenuate anxiety and amygdala reactivity (Kirsch et al., <xref rid="CIT0044" ref-type="bibr">2005</xref>; Koch et al., <xref rid="CIT0047" ref-type="bibr">2016b</xref>), as well as beneficially impact socio-emotional processes and pro-social behaviour (Preckel, Scheele, Kendrick, Maier, &#x00026; Hurlemann, <xref rid="CIT0073" ref-type="bibr">2014</xref>; van IJzendoorn &#x00026; Bakermans-Kranenburg, <xref rid="CIT0091" ref-type="bibr">2012</xref>). Given these beneficial effects of oxytocin administration on factors associated with increased PTSD risk, it was hypothesized that administration of intranasal oxytocin early posttrauma may prevent subsequent PTSD symptom development (Olff, <xref rid="CIT0066" ref-type="bibr">2012</xref>).</p><boxed-text id="BT1" position="float" orientation="portrait"><caption><p>Oxytocin</p></caption><p>Oxytocin is a mammalian neuropeptide and is synthesized in the periventricular and supraoptic nuclei of the hypothalamus. It is released into the circulation from the posterior pituitary. Neuronal projections from the hypothalamus send oxytocin to other brain regions. In humans, brain regions that express the oxytocin receptor &#x02013; and thereby are likely affected by oxytocin &#x02013; include the central and basolateral amygdala, brainstem, olfactory nucleus, and anterior cingulate cortex (Boccia, Petrusz, Suzuki, Marson, &#x00026; Pedersen, <xref rid="CIT0008" ref-type="bibr">2013</xref>). In rest, peripheral oxytocin levels are comparable between men and women (de Jong et al., <xref rid="CIT0020" ref-type="bibr">2015</xref>; Feldman, Gordon, Schneiderman, Weisman, &#x00026; Zagoory-Sharon, <xref rid="CIT0029" ref-type="bibr">2010</xref>; Graugaard-Jensen, Hvistendahl, Fr&#x000f8;kiaer, Bie, &#x00026; Djurhuus, <xref rid="CIT0037" ref-type="bibr">2014</xref>).</p><p>Oxytocin is physiologically involved in parturition and lactation by acting as a smooth muscle contractor on the uterus and lactation glands. In the 1990s, pioneering work in prairie voles &#x02013; socially monogamous rodents that are similar to humans in their tendency and ability to form strong social pair bonds &#x02013; demonstrated that oxytocin is a crucial neurobiological mediator of social pair bond formation and maternal behaviour. Subsequently, studies in humans demonstrated oxytocin&#x02019;s involvement in trust, attachment, empathy, paternal behaviour and romantic relationships (Feldman, <xref rid="CIT0028" ref-type="bibr">2012</xref>). As a result, popular media &#x02013; and also scientists (Carter, <xref rid="CIT0017" ref-type="bibr">1998</xref>; Neumann, <xref rid="CIT0065" ref-type="bibr">2007</xref>; Olff, Van Zuiden, Koch, et al., <xref rid="CIT0069" ref-type="bibr">2015</xref>) &#x02013; often reference to oxytocin as the &#x02018;cuddle&#x02019;, &#x02018;love&#x02019;, or &#x02018;miracle&#x02019; hormone. As oxytocin also appeared to have anti-stress (Cardoso, Kingdon, &#x00026; Ellenbogen, <xref rid="CIT0014" ref-type="bibr">2014</xref>; Heinrichs, Baumgartner, Kirschbaum, &#x00026; Ehlert, <xref rid="CIT0039" ref-type="bibr">2003</xref>) and anxiolytic properties (Huber, Veinante, &#x00026; Stoop, <xref rid="CIT0041" ref-type="bibr">2005</xref>; Kirsch et al., <xref rid="CIT0044" ref-type="bibr">2005</xref>; Knobloch et al., <xref rid="CIT0045" ref-type="bibr">2012</xref>; Viviani et al., <xref rid="CIT0095" ref-type="bibr">2011</xref>) &#x02013; and most psychiatric disorders are associated with both social dysfunction and aberrant stress reactivity &#x02013; the attention of researchers within psychiatry was definitely drawn. A novel research field grew investigating potential clinical applications of intranasal oxytocin administration in psychiatric populations. This has not only yielded a large body of studies on intranasal oxytocin effects on a wide variety of socio-emotional and neurobiological outcome measures, but has also resulted in more critical, nuanced views of the clinical potential of intranasal oxytocin administration (Carson, Yuan, &#x00026; Labuschagne, <xref rid="CIT0016" ref-type="bibr">2016</xref>; Leng &#x00026; Ludwig, <xref rid="CIT0050" ref-type="bibr">2016</xref>), compared to the early overly positive views &#x02013; or hopes &#x02013; regarding the effects of intranasal oxytocin administration for clinical purposes.</p></boxed-text></sec><sec id="S0002"><label>2. </label><title>Aims</title><p>The overall aim of this dissertation was to investigate the potential of intranasal oxytocin administration as early preventive intervention for PTSD, by assessing the effects of intranasal oxytocin early after trauma on acute functioning of the fear neurocircuitry and on PTSD symptom development in recently trauma-exposed individuals. To this end, we performed a functional magnetic resonance imaging (fMRI) study to assess the acute effects of a single administration of oxytocin on the functional fear neurocircuitry &#x02013; consisting of the amygdala and (pre)frontal brain regions &#x02013; in recently trauma-exposed emergency department patients. In addition, we performed a randomized controlled clinical trial to assess the efficacy of repeated intranasal oxytocin administration early after trauma for preventing PTSD symptom development.</p></sec><sec id="S0003"><label>3. </label><title>Summary of findings</title><sec id="S0003-S2001"><label>3.1. </label><title>Part I &#x02013; background</title><p>In chapter 2 (Frijling et al., <xref rid="CIT0034" ref-type="bibr">2014b</xref>) we discussed the rationale behind our hypothesis that intranasal oxytocin administration may prevent the development of PTSD symptoms. Increased risk for PTSD development is associated with low levels of perceived social support, high heart rate, low heart rate variability, low cortisol levels, and high amygdala reactivity to negative stimuli as assessed early posttrauma. Modification of these vulnerability factors early posttrauma may reduce PTSD risk. A large body of evidence suggests that autonomic and glucocorticoid stress reactivity, neural fear responsiveness and social behaviour are all beneficially affected by endogenous oxytocin and (a single) oxytocin administration. Therefore, risk for PTSD may be attenuated by stimulating the oxytocin system in recently trauma-exposed individuals, for example by administering intranasal oxytocin.</p><p>In chapter 3 (Olff et al., <xref rid="CIT0067" ref-type="bibr">2013</xref>) we described that oxytocin administration may improve mental health, as oxytocin administration appears to beneficially affect stress regulation and social behaviour. However, we showed based on previously published findings and novel experimental data that effects of oxytocin administration depend on context and interindividual differences. We argued that such differential effects of oxytocin administration may be related to oxytocin administration enhancing salience processing. Increased salience processing refers to increased processing of contextual cues that normally attract attention (i.e. emotional facial expressions, danger signals). Therefore, although evidence suggests that oxytocin administration may promote mental health given its important role in regulating social behaviour and stress, context and interindividual differences that influence the effects of oxytocin administration should be carefully considered in clinical studies on intranasal oxytocin.</p></sec><sec id="S0003-S2002"><label>3.2. </label><title>Part II &#x02013; functional neuroimaging studies</title><p>We assessed the acute effects of a single administration of intranasal oxytocin on the fear neurocircuitry in a randomized double-blind placebo-controlled functional magnetic resonance imaging (fMRI) study in trauma-exposed emergency department patients within 11&#x000a0;days posttrauma. In chapter 4 (Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>) we assessed the effects of oxytocin administration on amygdala reactivity to emotional faces, using a face-matching task with fearful, happy and neutral faces (<italic>n</italic>&#x000a0;=&#x000a0;41). We observed that the effects of oxytocin administration on amygdala reactivity to emotional faces depended on stimulus valence and on sex. In all participants, oxytocin administration increased amygdala reactivity to fearful faces. Additionally, in women only, oxytocin administration increased amygdala reactivity to neutral faces. Our exploratory analysis showed that acute PTSD symptom severity was not associated with differential intranasal oxytocin administration effects on amygdala reactivity. Given these results we argued that a single intranasal administration of oxytocin may increase neural fear processing, possibly as a result of oxytocin-induced enhanced salience processing.</p><p>In chapter 5 (Frijling et al., <xref rid="CIT0033" ref-type="bibr">2016b</xref>) we investigated oxytocin administration effects on amygdala-centred emotion and salience network functional connectivity after a trauma reminder, using neutral and trauma script-driven imagery (<italic>n</italic>&#x000a0;=&#x000a0;37). For each participant two resting-state fMRI scans were acquired: one after listening to a personal neutral script, and the second after listening to a personal trauma script which was based on the recent traumatic event. We observed that oxytocin-treated participants had diminished amygdala-left ventrolateral prefrontal cortex (vlPFC) functional connectivity in response to the trauma script compared to the neutral script, whereas an increase in amygdala-left vlPFC functional connectivity was observed in placebo-treated participants. In addition, irrespective of script condition, oxytocin administration enhanced amygdala-left (posterior) insula functional connectivity and decreased amygdala-ventromedial prefrontal cortex (vmPFC) functional connectivity. These neural oxytocin administration effects were accompanied by lower levels of sleepiness and higher flashback intensity after the trauma script in oxytocin-treated participants. Taken together, these observations indicate that that a single intranasal oxytocin administration may acutely impede emotion regulation in recently trauma-exposed individuals.</p></sec><sec id="S0003-S2003"><label>3.3. </label><title>Part III &#x02013; randomized controlled clinical trial</title><p>Chapter 6 (Frijling et al., <xref rid="CIT0032" ref-type="bibr">2014a</xref>) describes the study protocol of our randomized double-blind placebo-controlled clinical trial, in which we investigated the effects of repeated intranasal oxytocin administration on PTSD symptom development in distressed recently trauma-exposed emergency department patients. The primary aim was to investigate the effects of an eight-day intranasal oxytocin treatment regimen initiated within 12&#x000a0;days posttrauma on PTSD symptoms at 1.5&#x000a0;month posttrauma. One of our secondary aims was to assess the effects of repeated oxytocin administration on PTSD, depression and anxiety symptoms at 1.5, three and six&#x000a0;months posttrauma. We additionally investigated whether baseline characteristics moderated the effects of repeated oxytocin administration on symptom severity scores, given previous observations that oxytocin administration effects depend on interindividual differences.</p><p>In chapter 7 (van Zuiden et al., 2016) the results of our clinical trial are presented. We demonstrated that there was no overall effect of repeated oxytocin administration on PTSD, depression and anxiety symptoms up to six&#x000a0;months posttrauma (<italic>n</italic>&#x000a0;=&#x000a0;107). However, the effects of oxytocin administration were moderated by acute PTSD symptom severity assessed prior to the intervention. Oxytocin administration reduced PTSD symptoms up to six&#x000a0;months posttrauma in trauma-exposed individuals with high acute PTSD symptoms only. These findings suggest that an eight-day intranasal oxytocin treatment regimen is a promising preventive early intervention for PTSD, specifically for individuals with high acute PTSD symptoms.</p></sec></sec><sec id="S0004"><label>4. </label><title>General discussion</title><sec id="S0004-S2001"><label>4.1. </label><title>Integration of findings</title><sec id="S0004-S2001-S3001"><label>4.1.1. </label><title>Clinical and functional neuroimaging studies</title><p>There is a large body of literature that indicates that oxytocin administration beneficially affects neurobiological and socio-emotional vulnerability factors for PTSD that are likely etiologically involved in PTSD development (chapter 2; Frijling et al., <xref rid="CIT0034" ref-type="bibr">2014b</xref>). We hypothesized that intranasal oxytocin administration early posttrauma could reduce PTSD risk by attenuating amygdala hyperreactivity to fearful stimuli and by enhancing amygdala-centred functional connectivity of emotion regulation networks (i.e. amygdala-ventral PFC functional connectivity), especially in response to trauma-related stimuli. In line with our hypothesis, we observed that repeated oxytocin administration reduced PTSD symptoms up to six&#x000a0;months posttrauma in recently trauma-exposed emergency department patients with high acute PTSD symptoms (chapter 7; van Zuiden et al., 2016). Contrary to our hypothesis, however, we demonstrated that a single intranasal oxytocin administration acutely increased neural fear processing (chapter 4; Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>) and potentially impeded neural emotion regulation (chapter 5; Frijling et al., <xref rid="CIT0033" ref-type="bibr">2016b</xref>) in recently trauma-exposed individuals. Based on our neuroimaging findings, we initially suggested that caution was warranted in administering intranasal oxytocin in recently trauma-exposed individuals (chapter 5; Frijling et al., <xref rid="CIT0033" ref-type="bibr">2016b</xref>). However, given the results of our clinical study &#x02013; which were available at a later time point than the neuroimaging results &#x02013; we eventually concluded that intranasal oxytocin administration is a promising novel preventive intervention in recently trauma-exposed individuals at increased PTSD risk due to high acute PTSD symptoms (chapter 7; van Zuiden et al., 2016).</p><p>There are several explanations for the discrepancy between the beneficial oxytocin effects in our clinical study and the seemingly adverse oxytocin effects in the neuroimaging study. First, considering the salience processing theory as explanation of context dependent oxytocin effects (chapter 3; Olff et al., <xref rid="CIT0067" ref-type="bibr">2013</xref>) (see section below for more detailed discussion), it may be argued that the context of the neuroimaging study (e.g. unfamiliarity with the scanner and procedures, small space, limited light, anticipation of the trauma script) was likely perceived as unsafe or threatening by our participants, who were already distressed by their recent traumatic experience. Consequently, oxytocin-induced increased salience processing for these threat-related signals during scanning may have resulted in acute anxiogenic effects in our neuroimaging studies, which may be inferred from our observations of increased amygdala reactivity to fearful faces, generally decreased amygdala-vmPFC functional connectivity, decreased amygdala-vlPFC functional connectivity in response to the trauma script, and increased flashback intensity during the trauma script after oxytocin administration (chapters 4, 5; Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>, <xref rid="CIT0033" ref-type="bibr">2016b</xref>). In contrast, administering oxytocin in the safe home environment may have enhanced positive perceptions of safety signals associated with the familiar home environment, leading to reduced anxiety &#x02013; and PTSD symptoms &#x02013; in the long-term (chapter 7; van Zuiden et al., 2016).</p><p>Second, the effects of oxytocin administration on either neural functioning or clinical outcome measures associated with anxiety may depend on oxytocin administration frequency (i.e. single versus repeated administration). An administration frequency dependent effect on anxiety is a well-known phenomenon for selective serotonin reuptake inhibitors (SSRIs). A single SSRI administration acutely increased fear learning in rodents and may potentiate anxiety in humans (for review see Burghardt &#x00026; Bauer, <xref rid="CIT0013" ref-type="bibr">2013</xref>) &#x02013; a process that that is dependent on SSRI effects on amygdala function (Ravinder, Burghardt, Brodsky, Bauer, &#x00026; Chattarji, <xref rid="CIT0077" ref-type="bibr">2013</xref>); chronic SSRIs administration reduces anxiety and is therefore used to treat anxiety disorders (Baldwin et al., <xref rid="CIT0005" ref-type="bibr">2014</xref>). In high anxiety rats, chronic central oxytocin administration for six&#x000a0;days reduced anxiety-related behaviour, whereas there was no effect on anxiety-related behaviour after a single administration (Slattery &#x00026; Neumann, <xref rid="CIT0086" ref-type="bibr">2010</xref>). Furthermore, differential effects of a single, repeated (i.e. four administrations over seven&#x000a0;days) and chronic subcutaneous oxytocin administrations on memory consolidation and fear-related behaviour were recently observed in a rat model of PTSD. In this model, rats were shocked and subsequently re-exposed to the shock context without the shock two, five, and seven&#x000a0;days later, during which contextual fear behaviour was assessed. Generalized fear behaviour was assessed two&#x000a0;weeks after shock exposure. Although a single administration of oxytocin immediately after shock exposure enhanced contextual fear behaviour two&#x000a0;days later without affecting subsequent fear behaviour, repeated and chronic subcutaneous oxytocin administration for seven to 14&#x000a0;days initiated after shock exposure reduced generalized fear behaviour at 14&#x000a0;days after shock exposure (Janezic et al., <xref rid="CIT0042" ref-type="bibr">2016</xref>). As the increase in contextual fear behaviour after a single oxytocin administration immediately after shock exposure may represent an oxytocin-induced increase in (fear) memory consolidation, the authors suggest that the long-term anxiolytic effect of repeated and chronic oxytocin administration may be the result of an oxytocin-mediated increase of (extinction) memory consolidation during re-exposure to the trauma context in safe conditions (Janezic et al., <xref rid="CIT0042" ref-type="bibr">2016</xref>). These observations are in line with findings in rodents (Zoicas, Slattery, &#x00026; Neumann, <xref rid="CIT0099" ref-type="bibr">2014</xref>) and humans (Acheson et al., <xref rid="CIT0001" ref-type="bibr">2013</xref>; Eckstein et al., <xref rid="CIT0025" ref-type="bibr">2015</xref>) indicating that oxytocin administration prior to fear extinction increases fear extinction (recall) (but see also Acheson, Feifel, Kamenski, Mckinney, &#x00026; Risbrough, <xref rid="CIT0002" ref-type="bibr">2015</xref>; Eskandarian et al., <xref rid="CIT0027" ref-type="bibr">2013</xref>; Toth, Neumann, &#x00026; Slattery, <xref rid="CIT0089" ref-type="bibr">2012</xref>; for contrasting results).</p><p>Third, it may be suggested that intranasal oxytocin administration does not reduce PTSD symptoms by affecting amygdala function and anxiety as primary mechanism; the beneficial effects of oxytocin administration on PTSD symptom development may be related to its effects on other vulnerability or etiological factors for PTSD. Repeated oxytocin administration may have increased social support seeking behaviour (Cardoso, Valkanas, Serravalle, &#x00026; Ellenbogen, <xref rid="CIT0015" ref-type="bibr">2016</xref>; Preckel et al., <xref rid="CIT0073" ref-type="bibr">2014</xref>) &#x02013; potentially by affecting neural reward functioning (Groppe et al., <xref rid="CIT0038" ref-type="bibr">2013</xref>; e.g. Nawijn et al., <xref rid="CIT0063" ref-type="bibr">2016a</xref>, <xref rid="CIT0064" ref-type="bibr">2016b</xref>) &#x02013; or may have affected autonomic or glucocorticoid stress reactivity (Cohen et al., <xref rid="CIT0018" ref-type="bibr">2010</xref>). Considering the latter pathway, in rats it was previously observed that central oxytocin administration to the hippocampus immediately after exposure to a reminder of a severe stressor reduced PTSD-like behaviour one week later, which was accompanied by an oxytocin-induced decrease in glucocorticoid receptor (GR) expression in the hippocampus (Cohen et al., <xref rid="CIT0018" ref-type="bibr">2010</xref>). As PTSD vulnerability is associated with pre-existing high GR number and GR-sensitivity to glucocorticoids (van Zuiden et al., <xref rid="CIT0094" ref-type="bibr">2013</xref>), oxytocin administration may attenuate the negative effects of high GR-sensitivity associated with PTSD vulnerability by downregulating the total number of GRs expressed. Of note, glucocorticoid signalling in the hippocampal-medial PFC circuitry mediates memory contextualization (Liberzon &#x00026; Abelson, <xref rid="CIT0051" ref-type="bibr">2016</xref>; Van Ast, Cornelisse, Meeter, Jo&#x000eb;ls, &#x00026; Kindt, <xref rid="CIT0090" ref-type="bibr">2013</xref>). Memory contextualization refers to storing memories within the original encoding context, which may prevent memory generalization. Memory generalization is a process which is likely augmented in PTSD (Elzinga &#x00026; Bremner, <xref rid="CIT0026" ref-type="bibr">2002</xref>) which can lead to trauma-related fear responses to neutral stimuli, potentially as a consequence of inadequate memory contextualization (Liberzon &#x00026; Abelson, <xref rid="CIT0051" ref-type="bibr">2016</xref>). Deficits in hippocampal-mPFC circuit dependent contextual processing and associated aberrant glucocorticoid stress reactivity may thus be an important psychobiological correlate of PTSD (vulnerability), which may be potentially modified by oxytocin administration affecting hippocampal GR expression. The results of the study discussed above showing increased acute contextual fear but reduced more long-term generalized fear behaviour in severely stressed rats (Janezic et al., <xref rid="CIT0042" ref-type="bibr">2016</xref>) may also be explained in light of this hypothesis. Therefore, oxytocin administration effects on glucocorticoid stress reactivity and associated hippocampal-mPFC circuit dependent memory contextualization could be a neurobiological mechanism underlying the observed beneficial effects of oxytocin administration early after trauma on subsequent PTSD symptom severity.</p><p>Although we did observe long-term reduced anxiety in parallel to decreased PTSD symptoms in our clinical study, it remains unclear whether this effect is mediated by the initially hypothesized oxytocin effects on amygdala function. However, the neuroimaging results add important additional insights into acute effects of a single administration of oxytocin on amygdala function. We were not the first to report increased amygdala reactivity and increased amygdala-PFC functional connectivity after intranasal oxytocin administration. In healthy women oxytocin administration increased amygdala reactivity to emotional stimuli (Domes et al., <xref rid="CIT0024" ref-type="bibr">2010</xref>; Lischke et al., <xref rid="CIT0052" ref-type="bibr">2012</xref>). The healthy control groups in studies with patients with PTSD, generalized social anxiety disorder and borderline personality disorder also showed increased amygdala reactivity (Bertsch et al., <xref rid="CIT0007" ref-type="bibr">2013</xref>; Koch et al., <xref rid="CIT0046" ref-type="bibr">2016a</xref>), decreased amygdala-medial PFC functional connectivity (Dodhia et al., <xref rid="CIT0023" ref-type="bibr">2014</xref>), or no effect on amygdala function (Labuschagne et al., <xref rid="CIT0049" ref-type="bibr">2010</xref>) after oxytocin. As our sample consisted of recently trauma-exposed individuals without a current PTSD diagnosis, our results may be best comparable to results of the healthy trauma-exposed control group in the PTSD study, which showed increased amygdala reactivity to emotional faces after oxytocin (Koch et al., <xref rid="CIT0046" ref-type="bibr">2016a</xref>).</p><p>Taken together, the results of our clinical study provide stronger evidence than our neuroimaging study findings of our conclusion that intranasal oxytocin is a promising novel preventive intervention for PTSD. Our findings encourage further research into the clinical efficacy and feasibility of repeated oxytocin administration for PTSD prevention. However, it remains unclear whether observed long-term clinically beneficial effects are mediated by the initially hypothesized oxytocin effects on amygdala function. It may be argued that there is an administration frequency dependent effect of oxytocin on anxiety and amygdala function in recently trauma-exposed individuals, or that the beneficial effects or oxytocin are mediated by oxytocin effects on glucocorticoid-signalling dependent context processing.</p></sec><sec id="S0004-S2001-S3002"><label>4.1.2. </label><title>Explaining context and interindividual differences dependent effects of intranasal oxytocin administration</title><p>As hypothesized (chapters 2, 3, 4; Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>, <xref rid="CIT0033" ref-type="bibr">2016b</xref>; Olff et al., <xref rid="CIT0067" ref-type="bibr">2013</xref>), we observed context and/or interindividual differences dependent effects of oxytocin administration in all our intranasal oxytocin studies. In our clinical study, oxytocin reduced PTSD symptom development only in individuals with high acute PTSD symptoms (chapter 7; van Zuiden et al., 2016). In our emotional face-matching fMRI paradigm, we found both stimulus valence (i.e. context) and sex (i.e. interindividual) dependent effects of oxytocin on amygdala reactivity (chapter 4; Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>). We also observed an oxytocin-induced attenuation of amygdala left-vlPFC functional connectivity after a trauma reminder only, not after the neutral script (i.e. context effect depending on script-condition valence) (chapter 5; Frijling et al., <xref rid="CIT0033" ref-type="bibr">2016b</xref>). These differential effects of oxytocin administration may be explained by oxytocin enhancing salience processing (chapter 3; Olff et al., <xref rid="CIT0067" ref-type="bibr">2013</xref>). The salience theory of oxytocin administration effects postulates that in contexts perceived as positive, supportive or safe, oxytocin will enhance the salience safety signals, consequently attenuating stress and anxiety. In unpredictable threatening situations however, oxytocin will increase salience of threat signals, and increase stress and anxiety (chapter 3, Olff et al., <xref rid="CIT0067" ref-type="bibr">2013</xref>; Shamay-Tsoory &#x00026; Abu-Akel, <xref rid="CIT0083" ref-type="bibr">2016</xref>). Interindividual differences (e.g. attachment representations, childhood trauma, prior psychopathology, sex) may affect the initial perception of a given a context as safe or threatening.</p><p>In our study describing results of the face-matching paradigm (chapter 4; Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>), we argued that it is likely that individuals who were recently exposed to a potentially life threatening event experience fear-related stimuli as more salient than neutral and happy stimuli; a response that may be further enhanced as result of oxytocin-induced increased salience processing. However, in our amygdala-centred functional connectivity paradigm (chapter 5; Frijling et al., <xref rid="CIT0033" ref-type="bibr">2016b</xref>), we concluded that the observed effects of oxytocin administration did not fit the salience processing theory, as oxytocin increased amygdala-posterior insula functional connectivity, whereas anterior insula function is generally implicated in salience processing (Menon &#x00026; Uddin, <xref rid="CIT0062" ref-type="bibr">2010</xref>; Seeley et al., <xref rid="CIT0082" ref-type="bibr">2007</xref>). Of note, we did not investigate whether oxytocin administration affected (anterior) insula functional reactivity, which would have provided important additional information with respect to oxytocin administration effects on salience processing. Therefore, rejecting the salience theory solely based on the lack of an oxytocin-induced increase in amygdala-anterior insula functional connectivity may be premature. It may be argued that the unfamiliar scanner context, and (the anticipation of) the trauma-script, may have resulted in perceiving the context as threatening. This could have led to oxytocin-induced enhanced salience of threat-related stimuli and thus seemingly anxiogenic neural oxytocin effects in our amygdala-centred functional connectivity paradigm (chapter 3; Olff et al., <xref rid="CIT0067" ref-type="bibr">2013</xref>). The interindividual differences dependent effect of oxytocin in our clinical study, i.e. a beneficial oxytocin effect on PTSD symptom development in individuals with high acute PTSD symptom severity only, is in line with previous observations that intranasal oxytocin effects depend on the presence and/or severity of psychiatric symptom (Bertsch et al., <xref rid="CIT0007" ref-type="bibr">2013</xref>; Cardoso et al., <xref rid="CIT0014" ref-type="bibr">2014</xref>; Dodhia et al., <xref rid="CIT0023" ref-type="bibr">2014</xref>; Koch et al., <xref rid="CIT0046" ref-type="bibr">2016a</xref>; Nawijn et al., <xref rid="CIT0064" ref-type="bibr">2016b</xref>).</p><p>It should be noted that the salience theory was based on a large body of literature on the effects of a single intranasal oxytocin administration on (predominantly) socio-emotional functioning; there is no direct evidence that the salience theory also holds for repeated oxytocin administration effects. An alternative suggestion for previously observed differential effects of oxytocin administration between healthy individuals and patients with a psychiatric disorder is that oxytocin administration may only have beneficial effects in individuals who have something to gain with regard to social or emotional functioning (Macdonald &#x00026; Feifel, <xref rid="CIT0056" ref-type="bibr">2013</xref>; Weisman &#x00026; Feldman, <xref rid="CIT0097" ref-type="bibr">2013</xref>) and associated neurobiological processes.</p><p>Taken together, oxytocin administration effects that depend on context and interindividual differences as observed in our studies still fit with the model that oxytocin increases salience processing, but may also result from other processes that have yet to be further elucidated. To further evaluate the validity of the salience processing model, for explaining (repeated) oxytocin administration effects on reducing PTSD symptom development, (perception of) context factors should be explicitly assessed and tested as moderators of oxytocin effects in future studies.</p></sec></sec><sec id="S0004-S2002"><label>4.2. </label><title>Limitations</title><p>Although we were the first to study intranasal oxytocin effects in recently trauma-exposed individuals, meanwhile conducting the largest clinical RCT with intranasal oxytocin to date, some limitations of our studies need to be addressed. First, the statistical power of our clinical study was limited. We halted our study halfway, as our pre-planned interim analysis indicated low conditional power to detect a significant overall effect of oxytocin administration on PTSD symptoms at our primary outcome (1.5&#x000a0;month posttrauma follow-up). As results from studies with low statistical power are at increased risk for Type I error, replication of our findings is clearly warranted. In addition, the sample size of our imaging studies was also modest, therefore it was not possible to reliably test whether the effects of oxytocin administration on amygdala function were moderated by interindividual differences as we observed in our clinical study. We did explore whether acute PTSD symptom severity was differently associated with amygdala reactivity to fearful faces and found no differential effect (chapter 4; Frijling et al., <xref rid="CIT0031" ref-type="bibr">2016a</xref>), but it should be noted that the sample size was small for such analysis. Because we were limited in statistical power, we could not investigate sex-differential effects of oxytocin, even though there are indications that oxytocin administration has differential (neural) effects in men and women (Koch et al., <xref rid="CIT0047" ref-type="bibr">2016b</xref>; Rilling et al., <xref rid="CIT0078" ref-type="bibr">2014</xref>). Also, as over 80% of our participants experienced an accidental trauma, we were not able to investigate whether type of trauma exposure was associated with differential oxytocin effects. Previously, rape victims benefited more from exposure therapy initiated immediately after trauma than individuals exposed to other trauma types (Rothbaum et al., <xref rid="CIT0081" ref-type="bibr">2012</xref>) and oxytocin administration in rodents promoted fear extinction of social fear (Toth et al., <xref rid="CIT0089" ref-type="bibr">2012</xref>), but impaired fear extinction of non-social fear (Zoicas et al., <xref rid="CIT0099" ref-type="bibr">2014</xref>). Further, as we did not have sufficient participants taking part in both the fMRI and clinical study, we were not able to investigate whether acute effects of a single oxytocin administration on amygdala function were in fact related to PTSD symptom development (after repeated administration). An additional limitation of the neuroimaging study is that we did not scan a recently trauma-exposed group with low levels of initial distress, which would have aided in interpreting our neuroimaging results, i.e. whether oxytocin effects were likely beneficial or not.</p></sec><sec id="S0004-S2003"><label>4.3. </label><title>Future perspectives</title><p>First, as we were the first to assess intranasal oxytocin effects in recently trauma-exposed individuals, our results should be replicated in similar and different samples of recently trauma-exposed individuals. Second, it should be investigated whether effects of repeated oxytocin administration on PTSD symptom development are mediated by oxytocin effects on autonomic and glucocorticoid stress reactivity (and associated contextual processing), functional fear neurocircuitry and/or other socio-emotional processes (e.g. related to reward functioning).</p><p>Furthermore, considering the potential future use of intranasal oxytocin in routine clinical practice &#x02013; for PTSD prevention but for also other psychiatric indications &#x02013; it is highly desirable to better understand when beneficial, null or even potentially non-beneficial effects of oxytocin administration can be expected. Particularly, oxytocin effects on fear memory consolidation and fear extinction should be studied, as there are indications that oxytocin-mediated enhanced fear and extinction memory consolidation may have either anxiolytic or anxiogenic effects, depending on administration frequency and timing in relation to fear conditioning (Janezic et al., <xref rid="CIT0042" ref-type="bibr">2016</xref>; Toth et al., <xref rid="CIT0089" ref-type="bibr">2012</xref>), and whether the conditioned stimulus is social or not (Toth et al., <xref rid="CIT0089" ref-type="bibr">2012</xref>; Zoicas et al., <xref rid="CIT0099" ref-type="bibr">2014</xref>). How intranasal oxytocin affects fear consolidation and fear extinction may have implications for determining the optimal timing, and duration of intranasal administration in clinical settings. Additionally, considering the salience processing theory, (the perception of) contextual factors moderating oxytocin administration effects on short and long-term anxiety-related outcome measures should be better understood. Furthermore, dose-response effects of oxytocin administration on anxiety should be further investigated: in mice it was demonstrated that a high dose of (chronic) oxytocin administration increased anxiety, whereas a low dose (chronic) oxytocin administration had the opposite effect (Peters, Slattery, Uschold-Schmidt, Reber, &#x00026; Neumann, <xref rid="CIT0071" ref-type="bibr">2014</xref>). This dose-dependent effect may be mediated by oxytocin binding to arginine vasopressin receptors, which has been associated with enhanced fear expression and anxiety (Huber et al., <xref rid="CIT0041" ref-type="bibr">2005</xref>), but the exact mechanisms explaining these dose-dependent effects of oxytocin on anxiety are not yet understood.</p><p>In addition, a better understanding of the pharmacodynamics of intranasally administered oxytocin is needed. Oxytocin has a half-life of 3&#x02013;20&#x000a0;min in blood, and the peptide is immediately degraded upon oral ingestion. There is no clear consensus on if and how intranasally administered oxytocin reaches the brain. Although intranasal oxytocin administration increased salivary (van IJzendoorn, Bhandari, van der Veen, Grewen, &#x00026; Bakermans-Kranenburg, <xref rid="CIT0092" ref-type="bibr">2012</xref>), plasma (Striepens et al., <xref rid="CIT0088" ref-type="bibr">2013</xref>) and cerebrospinal fluid (Striepens et al., <xref rid="CIT0088" ref-type="bibr">2013</xref>) concentrations of oxytocin, it remains unknown whether these observations reflect amplified endogenous oxytocin release upon intranasal oxytocin administration (potentially as a result of positive feedback mechanisms (Ludwig, <xref rid="CIT0054" ref-type="bibr">2014</xref>; van IJzendoorn et al., <xref rid="CIT0092" ref-type="bibr">2012</xref>)) or the exogenously administered compound. However, recent studies in which oxytocin was administered both intravenously and intranasally suggest a direct nose-to-brain route for oxytocin (Quintana, Alvares, Hickie, &#x00026; Guastella, <xref rid="CIT0075" ref-type="bibr">2015</xref>; Quintana et al., <xref rid="CIT0076" ref-type="bibr">2016</xref>). In addition, the exact duration of oxytocin administration effects on brain function, stress reactivity and socio-emotional behaviour remain unknown, although it was recently demonstrated that neural effects of intranasal oxytocin may be observed up to at least 80&#x000a0;min post-administration (Paloyelis et al., <xref rid="CIT0070" ref-type="bibr">2014</xref>).</p><p>If our findings are replicated, intranasal oxytocin may be a safe and cheap preventive intervention for PTSD (MacDonald et al., <xref rid="CIT0055" ref-type="bibr">2011</xref>). However, another important avenue for future research is whether intranasal oxytocin can be implemented in routine clinical practice as preventive intervention for PTSD. Within our research setting we have shown that it is feasible to screen a large number of &#x02013; but not all &#x02013; trauma-exposed emergency department patients early after trauma, to initiate the intervention and to provide follow-up assessments. However, it is unclear whether these actions and responsibilities can be translated to clinical practice and whether this would be cost-effective. Additionally, we used the trauma screening questionnaire (TSQ) (Brewin et al., <xref rid="CIT0011" ref-type="bibr">2002</xref>) and peritraumatic distress inventory (PDI) (Brunet et al., <xref rid="CIT0012" ref-type="bibr">2001</xref>) early posttrauma to identify and include trauma-exposed individuals at increased PTSD risk within one to seven days posttrauma. As these measures of early posttrauma distress did not moderate the effects of oxytocin on PTSD symptom development (potentially due to its limited specificity for PTSD when applied within the first week posttrauma), they are not suitable to determine which trauma-exposed individuals should be offered an intranasal oxytocin intervention early posttrauma. As administering the clinician-administered PTSD scale (CAPS) to (a selection of) trauma-exposed individuals is likely not feasible in clinical practice &#x02013; considering the duration of the interview &#x02013; other clinically applicable screeners for increased PTSD risk and moderators of intranasal oxytocin effects on PTSD symptom development should be assessed before intranasal oxytocin administration for the prevention of PTSD may eventually be feasible in clinical practice. Novel technology solutions to screen for increased risk for PTSD that can be more easily implemented at emergency departments (and other trauma settings) could be of help in future (implementation) studies on early preventive interventions for PTSD (Olff, Van Zuiden, &#x00026; Bakker, <xref rid="CIT0068" ref-type="bibr">2015</xref>).</p><p>Finally, there is only limited evidence linking functioning of the oxytocin system directly to PTSD risk (Lucas-Thompson &#x00026; Holman, <xref rid="CIT0053" ref-type="bibr">2013</xref>). In addition, the neurocircuitry model of PTSD vulnerability as proposed by Admon, Milad, and Hendler (<xref rid="CIT0004" ref-type="bibr">2013</xref>) is largely based on indirect evidence from studies demonstrating associations between genetics and/or childhood trauma &#x02013; both risk factors for (adulthood) PTSD &#x02013; and neural abnormalities. Therefore, prospective studies should assess whether pre- or early posttrauma measures of oxytocin system functioning and the structure and function of the fear neurocircuitry predict subsequent PTSD development, as knowledge on neurobiological risk factors that may be etiologically involved in PTSD development may yield new targets for preventive interventions for PTSD.</p></sec></sec><sec id="S0005"><label>5. </label><title>Conclusion</title><p>We observed that repeated intranasal oxytocin administration early posttrauma reduced subsequent PTSD symptom development in recently trauma-exposed emergency department patients with high acute PTSD symptoms. Although replication is necessary, these findings indicate that intranasal oxytocin is a promising novel preventive intervention for individuals at increased risk for PTSD due to high acute symptom severity. However, we also observed acutely increased neural fear processing and impeded neural emotion regulation after a single oxytocin administration in recently trauma-exposed individuals. It remains unknown whether the positive clinical effects after repeated oxytocin administration are mediated by oxytocin effects on amygdala function, or whether the beneficial effects in our clinical study are mediated by other neurobiological and/or socio-emotional processes. Administration frequency dependent effects of oxytocin may be related to these seemingly contrasting effects on anxiety-related measures in our clinical and neuroimaging studies. In addition, the salience processing theory of oxytocin effects may serve as an explanatory framework for these seemingly contrasting results between the two study paradigms. Clinically relevant contextual and interindividual moderators of oxytocin effects should be investigated in the future, as well as underlying neurobiological and socio-emotional mechanisms that mediate oxytocin effects on anxiety-related outcomes and the development of PTSD symptoms. In all, our findings encourage further research into the clinical efficacy and feasibility of repeated oxytocin administration as early preventive intervention for PTSD, in order to try and reduce the high individual and societal burden associated with trauma exposure and PTSD.</p></sec></body><back><sec id="S0006"><title>Highlights</title><p>
+<list list-type="bullet"><list-item><p>Oxytocin administration may prevent posttraumatic stress disorder (PTSD) by affecting PTSD vulnerability factors (e.g. neural fear processing).</p></list-item><list-item><p>We investigated intranasal oxytocin effects on acute neural fear processing and subsequent PTSD symptoms in recently trauma-exposed individuals.</p></list-item><list-item><p>A single oxytocin administration increased neural fear processing.</p></list-item><list-item><p>Repeated oxytocin administration reduced PTSD symptoms up to six months posttrauma in participants with high acute PTSD symptoms, and is therefore a promising early preventive intervention for PTSD.</p></list-item></list>
+</p></sec><sec id="S0007"><title>Disclosure statement</title><p>No potential conflict of interest was reported by the author.</p></sec><ref-list><title>References</title><ref id="CIT0001"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Acheson</surname><given-names>D.</given-names></name><name><surname>Feifel</surname><given-names>D.</given-names></name><name><surname>de Wilde</surname><given-names>S.</given-names></name><name><surname>Mckinney</surname><given-names>R.</given-names></name><name><surname>Lohr</surname><given-names>J.</given-names></name><name><surname>Risbrough</surname><given-names>V.</given-names></name></person-group>
+<year>2013</year>
+<article-title>The effect of intranasal oxytocin treatment on conditioned fear extinction and recall in a healthy human sample</article-title>
+<source><italic>Psychopharmacology</italic></source>
+<volume>229</volume>
+<issue>1</issue>
+<fpage>199</fpage>
+<lpage>13</lpage>
+<pub-id pub-id-type="doi">10.1007/s00213-013-3130-9</pub-id>
+<pub-id pub-id-type="pmid">23644911</pub-id></element-citation></ref><ref id="CIT0002"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Acheson</surname><given-names>D. T.</given-names></name><name><surname>Feifel</surname><given-names>D.</given-names></name><name><surname>Kamenski</surname><given-names>M.</given-names></name><name><surname>Mckinney</surname><given-names>R.</given-names></name><name><surname>Risbrough</surname><given-names>V. B.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Intranasal oxytocin administration prior to exposure therapy for arachnophobia impedes treatment response</article-title>
+<source><italic>Depression and Anxiety</italic></source>
+<volume>32</volume>
+<issue>6</issue>
+<fpage>400</fpage>
+<lpage>407</lpage>
+<pub-id pub-id-type="doi">10.1002/da.22362</pub-id>
+<pub-id pub-id-type="pmid">25826649</pub-id></element-citation></ref><ref id="CIT0003"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Admon</surname><given-names>R.</given-names></name><name><surname>Lubin</surname><given-names>G.</given-names></name><name><surname>Stern</surname><given-names>O.</given-names></name><name><surname>Rosenberg</surname><given-names>K.</given-names></name><name><surname>Sela</surname><given-names>L.</given-names></name><name><surname>Ben-Ami</surname><given-names>H.</given-names></name><name><surname>Hendler</surname><given-names>T.</given-names></name></person-group>
+<year>2009</year>
+<article-title>Human vulnerability to stress depends on amygdala&#x02019;s predisposition and hippocampal plasticity</article-title>
+<source><italic>Proceedings of the National Academy of Sciences of the United States of America</italic></source>
+<volume>106</volume>
+<issue>33</issue>
+<fpage>14120</fpage>
+<lpage>14125</lpage>
+<pub-id pub-id-type="doi">10.1073/pnas.0903183106</pub-id>
+<pub-id pub-id-type="pmid">19666562</pub-id></element-citation></ref><ref id="CIT0004"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Admon</surname><given-names>R.</given-names></name><name><surname>Milad</surname><given-names>M. R.</given-names></name><name><surname>Hendler</surname><given-names>T.</given-names></name></person-group>
+<year>2013</year>
+<article-title>A causal model of post-traumatic stress disorder: Disentangling predisposed from acquired neural abnormalities</article-title>
+<source><italic>Trends in Cognitive Sciences</italic></source>
+<volume>17</volume>
+<issue>7</issue>
+<fpage>337</fpage>
+<lpage>347</lpage>
+<pub-id pub-id-type="doi">10.1016/j.tics.2013.05.005</pub-id>
+<pub-id pub-id-type="pmid">23768722</pub-id></element-citation></ref><ref id="CIT0005"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Baldwin</surname><given-names>D. S.</given-names></name><name><surname>Anderson</surname><given-names>I. M.</given-names></name><name><surname>Nutt</surname><given-names>D. J.</given-names></name><name><surname>Allgulander</surname><given-names>C.</given-names></name><name><surname>Bandelow</surname><given-names>B.</given-names></name><name><surname>den Boer</surname><given-names>J. A.</given-names></name><name><surname>Wittchen</surname><given-names>H.-U.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Evidence-based pharmacological treatment of anxiety disorders, post-traumatic stress disorder and obsessive-compulsive disorder: A revision of the 2005 guidelines from the British Association for Psychopharmacology</article-title>
+<source><italic>Journal of Psychopharmacology (Oxford, England)</italic></source>
+<volume>28</volume>
+<issue>5</issue>
+<fpage>403</fpage>
+<lpage>439</lpage>
+<pub-id pub-id-type="doi">10.1177/0269881114525674</pub-id>
+</element-citation></ref><ref id="CIT0006"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benjet</surname><given-names>C.</given-names></name><name><surname>Bromet</surname><given-names>E.</given-names></name><name><surname>Karam</surname><given-names>E. G.</given-names></name><name><surname>Kessler</surname><given-names>R. C.</given-names></name><name><surname>McLaughlin</surname><given-names>K. A.</given-names></name><name><surname>Ruscio</surname><given-names>A. M.</given-names></name><name><surname>Koenen</surname><given-names>K. C.</given-names></name></person-group>
+<year>2015</year>
+<article-title>The epidemiology of traumatic event exposure worldwide: Results from the World Mental Health Survey Consortium</article-title>
+<source><italic>Psychological Medicine</italic></source>
+<volume>46</volume>
+<issue>2</issue>
+<fpage>1</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="pmid">26482368</pub-id></element-citation></ref><ref id="CIT0007"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertsch</surname><given-names>K.</given-names></name><name><surname>Gamer</surname><given-names>M.</given-names></name><name><surname>Schmidt</surname><given-names>B.</given-names></name><name><surname>Schmidinger</surname><given-names>I.</given-names></name><name><surname>Walther</surname><given-names>S.</given-names></name><name><surname>K&#x000e4;stel</surname><given-names>T.</given-names></name><name><surname>Herpertz</surname><given-names>S. C.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Oxytocin and reduction of social threat hypersensitivity in women with borderline personality disorder</article-title>
+<source><italic>American Journal of Psychiatry</italic></source>
+<volume>170</volume>
+<issue>10</issue>
+<fpage>1169</fpage>
+<lpage>1177</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.2013.13020263</pub-id>
+<pub-id pub-id-type="pmid">23982273</pub-id></element-citation></ref><ref id="CIT0008"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Boccia</surname><given-names>M. L.</given-names></name><name><surname>Petrusz</surname><given-names>P.</given-names></name><name><surname>Suzuki</surname><given-names>K.</given-names></name><name><surname>Marson</surname><given-names>L.</given-names></name><name><surname>Pedersen</surname><given-names>C. A.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Immunohistochemical localization of oxytocin receptors in human brain</article-title>
+<source><italic>Neuroscience</italic></source>
+<volume>253</volume>
+<comment>(October 2016)</comment>
+<fpage>155</fpage>
+<lpage>164</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2013.08.046</pub-id>
+<pub-id pub-id-type="pmid">24012742</pub-id></element-citation></ref><ref id="CIT0009"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bradley</surname><given-names>R.</given-names></name><name><surname>Greene</surname><given-names>J.</given-names></name><name><surname>Russ</surname><given-names>E.</given-names></name><name><surname>Dutra</surname><given-names>L.</given-names></name><name><surname>Westen</surname><given-names>D.</given-names></name></person-group>
+<year>2005</year>
+<article-title>A multidimensional meta-analysis of psychotherapy for PTSD</article-title>
+<source><italic>American Journal of Psychiatry</italic></source>
+<volume>162</volume>
+<issue>2</issue>
+<fpage>214</fpage>
+<lpage>227</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.162.2.214</pub-id>
+<pub-id pub-id-type="pmid">15677582</pub-id></element-citation></ref><ref id="CIT0010"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brewin</surname><given-names>C. R.</given-names></name><name><surname>Andrews</surname><given-names>B.</given-names></name><name><surname>Valentine</surname><given-names>J. D.</given-names></name></person-group>
+<year>2000</year>
+<article-title>Meta-analysis of risk factors for posttraumatic stress disorder in trauma-exposed adults</article-title>
+<source><italic>Journal of Consulting and Clinical Psychology</italic></source>
+<volume>68</volume>
+<issue>5</issue>
+<fpage>748</fpage>
+<lpage>766</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-006X.68.5.748</pub-id>
+<pub-id pub-id-type="pmid">11068961</pub-id></element-citation></ref><ref id="CIT0011"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brewin</surname><given-names>C. R.</given-names></name><name><surname>Rose</surname><given-names>S.</given-names></name><name><surname>Andrews</surname><given-names>B.</given-names></name><name><surname>Green</surname><given-names>J.</given-names></name><name><surname>Tata</surname><given-names>P.</given-names></name><name><surname>McEvedy</surname><given-names>C.</given-names></name><name><surname>Foa</surname><given-names>E. B.</given-names></name></person-group>
+<year>2002</year>
+<article-title>Brief screening instrument for post-traumatic stress disorder</article-title>
+<source><italic>The British Journal of Psychiatry; the Journal of Mental Science</italic></source>
+<volume>181</volume>
+<fpage>158</fpage>
+<lpage>162</lpage>
+<pub-id pub-id-type="pmid">12151288</pub-id></element-citation></ref><ref id="CIT0012"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brunet</surname><given-names>A.</given-names></name><name><surname>Weiss</surname><given-names>D. S.</given-names></name><name><surname>Metzler</surname><given-names>T. J.</given-names></name><name><surname>Best</surname><given-names>S. R.</given-names></name><name><surname>Neylan</surname><given-names>T. C.</given-names></name><name><surname>Rogers</surname><given-names>C.</given-names></name><name><surname>Marmar</surname><given-names>C. R.</given-names></name></person-group>
+<year>2001</year>
+<article-title>The peritraumatic distress inventory: A proposed measure of PTSD criterion A2</article-title>
+<source><italic>The American Journal of Psychiatry</italic></source>
+<volume>158</volume>
+<issue>9</issue>
+<fpage>1480</fpage>
+<lpage>1485</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.158.9.1480</pub-id>
+<pub-id pub-id-type="pmid">11532735</pub-id></element-citation></ref><ref id="CIT0013"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burghardt</surname><given-names>N. S.</given-names></name><name><surname>Bauer</surname><given-names>E. P.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Acute and chronic effects of selective serotonin reuptake inhibitor treatment on fear conditioning: Implications for underlying fear circuits</article-title>
+<source><italic>Neuroscience</italic></source>
+<volume>247</volume>
+<fpage>253</fpage>
+<lpage>272</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2013.05.050</pub-id>
+<pub-id pub-id-type="pmid">23732229</pub-id></element-citation></ref><ref id="CIT0014"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cardoso</surname><given-names>C.</given-names></name><name><surname>Kingdon</surname><given-names>D.</given-names></name><name><surname>Ellenbogen</surname><given-names>M. A.</given-names></name></person-group>
+<year>2014</year>
+<article-title>A meta-analytic review of the impact of intranasal oxytocin administration on cortisol concentrations during laboratory tasks: Moderation by method and mental health</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>49</volume>
+<fpage>161</fpage>
+<lpage>170</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2014.07.014</pub-id>
+<pub-id pub-id-type="pmid">25086828</pub-id></element-citation></ref><ref id="CIT0015"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cardoso</surname><given-names>C.</given-names></name><name><surname>Valkanas</surname><given-names>H.</given-names></name><name><surname>Serravalle</surname><given-names>L.</given-names></name><name><surname>Ellenbogen</surname><given-names>M. A.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Oxytocin and social context moderate social support seeking in women during negative memory recall</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>70</volume>
+<fpage>63</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2016.05.001</pub-id>
+<pub-id pub-id-type="pmid">27164224</pub-id></element-citation></ref><ref id="CIT0016"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carson</surname><given-names>D. S.</given-names></name><name><surname>Yuan</surname><given-names>H.</given-names></name><name><surname>Labuschagne</surname><given-names>I.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Improving research standards to restore trust in intranasal oxytocin</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>79</volume>
+<issue>8</issue>
+<fpage>e53</fpage>
+<lpage>e54</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2015.08.031</pub-id>
+<pub-id pub-id-type="pmid">26435223</pub-id></element-citation></ref><ref id="CIT0017"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Carter</surname><given-names>C. S.</given-names></name></person-group>
+<year>1998</year>
+<article-title>Neuroendocrine perspectives on social attachment and love</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>23</volume>
+<issue>8</issue>
+</element-citation></ref><ref id="CIT0018"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>H.</given-names></name><name><surname>Kaplan</surname><given-names>Z.</given-names></name><name><surname>Kozlovsky</surname><given-names>N.</given-names></name><name><surname>Gidron</surname><given-names>Y.</given-names></name><name><surname>Matar</surname><given-names>M. A.</given-names></name><name><surname>Zohar</surname><given-names>J.</given-names></name></person-group>
+<year>2010</year>
+<article-title>Hippocampal microinfusion of oxytocin attenuates the behavioural response to stress by means of dynamic interplay with the glucocorticoid-catecholamine responses</article-title>
+<source><italic>Journal of Neuroendocrinology</italic></source>
+<volume>22</volume>
+<issue>8</issue>
+<fpage>889</fpage>
+<lpage>904</lpage>
+<pub-id pub-id-type="pmid">20403087</pub-id></element-citation></ref><ref id="CIT0019"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coronas</surname><given-names>R.</given-names></name><name><surname>Gallardo</surname><given-names>O.</given-names></name><name><surname>Moreno</surname><given-names>M. J.</given-names></name><name><surname>Su&#x000e1;rez</surname><given-names>D.</given-names></name><name><surname>Garc&#x000ed;a-Par&#x000e9;s</surname><given-names>G.</given-names></name><name><surname>Mench&#x000f3;n</surname><given-names>J. M.</given-names></name></person-group>
+<year>2011</year>
+<article-title>Heart rate measured in the acute aftermath of trauma can predict post-traumatic stress disorder: A prospective study in motor vehicle accident survivors</article-title>
+<source><italic>European Psychiatry</italic></source>
+<volume>26</volume>
+<issue>8</issue>
+<fpage>508</fpage>
+<lpage>512</lpage>
+<pub-id pub-id-type="doi">10.1016/j.eurpsy.2010.06.006</pub-id>
+<pub-id pub-id-type="pmid">20813504</pub-id></element-citation></ref><ref id="CIT0020"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Jong</surname><given-names>T. R.</given-names></name><name><surname>Menon</surname><given-names>R.</given-names></name><name><surname>Bludau</surname><given-names>A.</given-names></name><name><surname>Grund</surname><given-names>T.</given-names></name><name><surname>Biermeier</surname><given-names>V.</given-names></name><name><surname>Klampfl</surname><given-names>S. M.</given-names></name><name><surname>Neumann</surname><given-names>I. D.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Salivary oxytocin concentrations in response to running, sexual self-stimulation, breastfeeding and the TSST: The Regensburg Oxytocin Challenge (ROC) study</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>62</volume>
+<fpage>381</fpage>
+<lpage>388</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2015.08.027</pub-id>
+<pub-id pub-id-type="pmid">26385109</pub-id></element-citation></ref><ref id="CIT0021"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Vries</surname><given-names>G.-J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2009</year>
+<article-title>The lifetime prevalence of traumatic events and posttraumatic stress disorder in the Netherlands</article-title>
+<source><italic>Journal of Traumatic Stress</italic></source>
+<volume>22</volume>
+<issue>4</issue>
+<fpage>259</fpage>
+<lpage>267</lpage>
+<pub-id pub-id-type="doi">10.1002/jts.v22:4</pub-id>
+<pub-id pub-id-type="pmid">19645050</pub-id></element-citation></ref><ref id="CIT0022"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delahanty</surname><given-names>D. L.</given-names></name><name><surname>Gabert-Quillen</surname><given-names>C.</given-names></name><name><surname>Ostrowski</surname><given-names>S. A.</given-names></name><name><surname>Nugent</surname><given-names>N. R.</given-names></name><name><surname>Fischer</surname><given-names>B.</given-names></name><name><surname>Morris</surname><given-names>A.</given-names></name><name><surname>Fallon</surname><given-names>W.</given-names></name></person-group>
+<year>2013</year>
+<article-title>The efficacy of initial hydrocortisone administration at preventing posttraumatic distress in adult trauma patients: A randomized trial</article-title>
+<source><italic>CNS Spectrums</italic></source>
+<volume>18</volume>
+<issue>2</issue>
+<fpage>103</fpage>
+<lpage>111</lpage>
+<pub-id pub-id-type="doi">10.1017/S1092852913000096</pub-id>
+<pub-id pub-id-type="pmid">23557627</pub-id></element-citation></ref><ref id="CIT0023"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dodhia</surname><given-names>S.</given-names></name><name><surname>Hosanagar</surname><given-names>A.</given-names></name><name><surname>Fitzgerald</surname><given-names>D. A.</given-names></name><name><surname>Labuschagne</surname><given-names>I.</given-names></name><name><surname>Wood</surname><given-names>A. G.</given-names></name><name><surname>Nathan</surname><given-names>P. J.</given-names></name><name><surname>Phan</surname><given-names>K. L.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Modulation of resting-state amygdala-frontal functional connectivity by oxytocin in generalized social anxiety disorder</article-title>
+<source><italic>Neuropsychopharmacology</italic></source>
+<volume>39</volume>
+<issue>9</issue>
+<fpage>2061</fpage>
+<lpage>2069</lpage>
+<pub-id pub-id-type="doi">10.1038/npp.2014.53</pub-id>
+<pub-id pub-id-type="pmid">24594871</pub-id></element-citation></ref><ref id="CIT0024"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Domes</surname><given-names>G.</given-names></name><name><surname>Lischke</surname><given-names>A.</given-names></name><name><surname>Berger</surname><given-names>C.</given-names></name><name><surname>Grossmann</surname><given-names>A.</given-names></name><name><surname>Hauenstein</surname><given-names>K.</given-names></name><name><surname>Heinrichs</surname><given-names>M.</given-names></name><name><surname>Herpertz</surname><given-names>S. C.</given-names></name></person-group>
+<year>2010</year>
+<article-title>Effects of intranasal oxytocin on emotional face processing in women</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>35</volume>
+<issue>1</issue>
+<fpage>83</fpage>
+<lpage>93</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2009.12.003</pub-id>
+<pub-id pub-id-type="pmid">19632787</pub-id></element-citation></ref><ref id="CIT0025"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eckstein</surname><given-names>M.</given-names></name><name><surname>Becker</surname><given-names>B.</given-names></name><name><surname>Scheele</surname><given-names>D.</given-names></name><name><surname>Scholz</surname><given-names>C.</given-names></name><name><surname>Preckel</surname><given-names>K.</given-names></name><name><surname>Schlaepfer</surname><given-names>T. E.</given-names></name><name><surname>Hurlemann</surname><given-names>R.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Oxytocin facilitates the extinction of conditioned fear in humans</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>78</volume>
+<issue>3</issue>
+<fpage>194</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2014.10.015</pub-id>
+<pub-id pub-id-type="pmid">25542304</pub-id></element-citation></ref><ref id="CIT0026"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elzinga</surname><given-names>B. M.</given-names></name><name><surname>Bremner</surname><given-names>J. D.</given-names></name></person-group>
+<year>2002</year>
+<article-title>Are the neural substrates of memory the final common pathway in posttraumatic stress disorder (PTSD)?</article-title>
+<source><italic>Journal of Affective Disorders</italic></source>
+<volume>70</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>17</lpage>
+<pub-id pub-id-type="doi">10.1016/S0165-0327(01)00351-2</pub-id>
+<pub-id pub-id-type="pmid">12113915</pub-id></element-citation></ref><ref id="CIT0027"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eskandarian</surname><given-names>S.</given-names></name><name><surname>Vafaei</surname><given-names>A. A.</given-names></name><name><surname>Vaezi</surname><given-names>G. H.</given-names></name><name><surname>Taherian</surname><given-names>F.</given-names></name><name><surname>Kashefi</surname><given-names>A.</given-names></name><name><surname>Rashidy-Pour</surname><given-names>A.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Effects of systemic administration of oxytocin on contextual fear extinction in a rat model of post-traumatic stress disorder</article-title>
+<source><italic>Basic and Clinical Neuroscience</italic></source>
+<volume>4</volume>
+<issue>4</issue>
+<fpage>315</fpage>
+<lpage>322</lpage>
+<pub-id pub-id-type="pmid">25337363</pub-id></element-citation></ref><ref id="CIT0028"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feldman</surname><given-names>R.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Oxytocin and social affiliation in humans</article-title>
+<source><italic>Hormones and Behavior</italic></source>
+<volume>61</volume>
+<issue>3</issue>
+<fpage>380</fpage>
+<lpage>391</lpage>
+<pub-id pub-id-type="doi">10.1016/j.yhbeh.2012.01.008</pub-id>
+<pub-id pub-id-type="pmid">22285934</pub-id></element-citation></ref><ref id="CIT0029"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Feldman</surname><given-names>R.</given-names></name><name><surname>Gordon</surname><given-names>I.</given-names></name><name><surname>Schneiderman</surname><given-names>I.</given-names></name><name><surname>Weisman</surname><given-names>O.</given-names></name><name><surname>Zagoory-Sharon</surname><given-names>O.</given-names></name></person-group>
+<year>2010</year>
+<article-title>Natural variations in maternal and paternal care are associated with systematic changes in oxytocin following parent-infant contact</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>35</volume>
+<issue>8</issue>
+<fpage>1133</fpage>
+<lpage>1141</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2009.12.003</pub-id>
+<pub-id pub-id-type="pmid">20153585</pub-id></element-citation></ref><ref id="CIT0030"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Forbes</surname><given-names>D.</given-names></name><name><surname>Parslow</surname><given-names>R.</given-names></name><name><surname>Creamer</surname><given-names>M.</given-names></name><name><surname>O&#x02019;Donnell</surname><given-names>M.</given-names></name><name><surname>Bryant</surname><given-names>R.</given-names></name><name><surname>McFarlane</surname><given-names>A.</given-names></name><name><surname>Shalev</surname><given-names>A.</given-names></name></person-group>
+<year>2010</year>
+<article-title>A longitudinal analysis of posttraumatic stress disorder symptoms and their relationship with fear and anxious-misery disorders: Implications for DSM-V</article-title>
+<source><italic>Journal of Affective Disorders</italic></source>
+<volume>127</volume>
+<issue>1&#x02013;3</issue>
+<fpage>147</fpage>
+<lpage>152</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jad.2010.05.003</pub-id>
+<pub-id pub-id-type="pmid">20605220</pub-id></element-citation></ref><ref id="CIT0031"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016a</year>
+<article-title>Effects of intranasal oxytocin on amygdala reactivity to emotional faces in recently trauma-exposed individuals</article-title>
+<source><italic>Social Cognitive and Affective Neuroscience</italic></source>
+<volume>11</volume>
+<issue>2</issue>
+<fpage>327</fpage>
+<lpage>336</lpage>
+<pub-id pub-id-type="doi">10.1093/scan/nsv116</pub-id>
+<pub-id pub-id-type="pmid">26382634</pub-id></element-citation></ref><ref id="CIT0032"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Goslings</surname><given-names>J. C.</given-names></name><name><surname>Luitse</surname><given-names>J. S.</given-names></name><name><surname>Denys</surname><given-names>D.</given-names></name></person-group>
+<year>2014a</year>
+<article-title>Efficacy of oxytocin administration early after psychotrauma in preventing the development of PTSD: Study protocol of a randomized controlled trial</article-title>
+<source><italic>BMC Psychiatry</italic></source>
+<volume>14</volume>
+<issue>1</issue>
+<fpage>92</fpage>
+<pub-id pub-id-type="doi">10.1186/1471-244X-14-92</pub-id>
+<pub-id pub-id-type="pmid">24679046</pub-id></element-citation></ref><ref id="CIT0033"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016b</year>
+<article-title>Intranasal oxytocin affects amygdala functional connectivity after trauma script-driven imagery in distressed recently trauma-exposed individuals</article-title>
+<source><italic>Neuropsychopharmacology</italic></source>
+<volume>41</volume>
+<issue>5</issue>
+<fpage>1286</fpage>
+<lpage>1296</lpage>
+<pub-id pub-id-type="doi">10.1038/npp.2015.278</pub-id>
+<pub-id pub-id-type="pmid">26346640</pub-id></element-citation></ref><ref id="CIT0034"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2014b</year>
+<chapter-title>Promoting resilience after trauma: Clinical stimulation of the oxytocin system</chapter-title>
+<person-group person-group-type="editor"><name><surname>Kent</surname><given-names>M.</given-names></name><name><surname>Davis</surname><given-names>C.</given-names></name><name><surname>Reich</surname><given-names>J. W.</given-names></name></person-group>
+<source><italic>The resilience handbook: Approaches to stress and trauma</italic></source>
+<fpage>299</fpage>
+<lpage>308</lpage>
+<publisher-loc>New York, NY</publisher-loc>
+<publisher-name>Routledge</publisher-name>
+</element-citation></ref><ref id="CIT0035"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Galatzer-Levy</surname><given-names>I. R.</given-names></name><name><surname>Ankri</surname><given-names>Y.</given-names></name><name><surname>Freedman</surname><given-names>S.</given-names></name><name><surname>Israeli-Shalev</surname><given-names>Y.</given-names></name><name><surname>Roitman</surname><given-names>P.</given-names></name><name><surname>Gilad</surname><given-names>M.</given-names></name><name><surname>Shalev</surname><given-names>A. Y.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Early PTSD symptom trajectories: Persistence, recovery, and response to treatment: Results from the Jerusalem Trauma Outreach and Prevention Study (J-TOPS)</article-title>
+<source><italic>PLoS One</italic></source>
+<volume>8</volume>
+<issue>8</issue>
+<fpage>e70084</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0070084</pub-id>
+<pub-id pub-id-type="pmid">23990895</pub-id></element-citation></ref><ref id="CIT0036"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gelpin</surname><given-names>E.</given-names></name><name><surname>Bonne</surname><given-names>O.</given-names></name><name><surname>Peri</surname><given-names>T.</given-names></name><name><surname>Brandes</surname><given-names>D.</given-names></name><name><surname>Shalev</surname><given-names>A. Y.</given-names></name></person-group>
+<year>1996</year>
+<article-title>Treatment of recent trauma survivors with benzodiazepines: A prospective study</article-title>
+<source><italic>The Journal of Clinical Psychiatry</italic></source>
+<volume>57</volume>
+<issue>9</issue>
+<fpage>390</fpage>
+<lpage>394</lpage>
+<pub-id pub-id-type="pmid">9746445</pub-id></element-citation></ref><ref id="CIT0037"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Graugaard-Jensen</surname><given-names>C.</given-names></name><name><surname>Hvistendahl</surname><given-names>G. M.</given-names></name><name><surname>Fr&#x000f8;kiaer</surname><given-names>J.</given-names></name><name><surname>Bie</surname><given-names>P.</given-names></name><name><surname>Djurhuus</surname><given-names>J. C.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Urinary concentration does not exclusively rely on plasma vasopressin. A study between genders. Gender and diurnal urine regulation</article-title>
+<source><italic>Acta Physiologica (Oxford, England)</italic></source>
+<volume>212</volume>
+<issue>1</issue>
+<fpage>97</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="doi">10.1111/apha.12337</pub-id>
+</element-citation></ref><ref id="CIT0038"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Groppe</surname><given-names>S. E.</given-names></name><name><surname>Gossen</surname><given-names>A.</given-names></name><name><surname>Rademacher</surname><given-names>L.</given-names></name><name><surname>Hahn</surname><given-names>A.</given-names></name><name><surname>Westphal</surname><given-names>L.</given-names></name><name><surname>Gr&#x000fc;nder</surname><given-names>G.</given-names></name><name><surname>Spreckelmeyer</surname><given-names>K. N.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Oxytocin influences processing of socially relevant cues in the ventral tegmental area of the human brain</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>74</volume>
+<issue>3</issue>
+<fpage>172</fpage>
+<lpage>179</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2012.12.023</pub-id>
+<pub-id pub-id-type="pmid">23419544</pub-id></element-citation></ref><ref id="CIT0039"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinrichs</surname><given-names>M.</given-names></name><name><surname>Baumgartner</surname><given-names>T.</given-names></name><name><surname>Kirschbaum</surname><given-names>C.</given-names></name><name><surname>Ehlert</surname><given-names>U.</given-names></name></person-group>
+<year>2003</year>
+<article-title>Social support and oxytocin interact to suppress cortisol and subjective responses to psychosocial stress</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>54</volume>
+<fpage>1389</fpage>
+<lpage>1398</lpage>
+<pub-id pub-id-type="doi">10.1016/S0006-3223(03)00465-7</pub-id>
+<pub-id pub-id-type="pmid">14675803</pub-id></element-citation></ref><ref id="CIT0040"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoge</surname><given-names>E. A.</given-names></name><name><surname>Worthington</surname><given-names>J. J.</given-names></name><name><surname>Nagurney</surname><given-names>J. T.</given-names></name><name><surname>Chang</surname><given-names>Y.</given-names></name><name><surname>Kay</surname><given-names>E. B.</given-names></name><name><surname>Feterowski</surname><given-names>C. M.</given-names></name><name><surname>Pitman</surname><given-names>R. K.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Effect of acute posttrauma propranolol on PTSD outcome and physiological responses during script-driven imagery</article-title>
+<source><italic>CNS Neuroscience &#x00026; Therapeutics</italic></source>
+<volume>18</volume>
+<issue>1</issue>
+<fpage>21</fpage>
+<lpage>27</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1755-5949.2010.00227.x</pub-id>
+<pub-id pub-id-type="pmid">22070357</pub-id></element-citation></ref><ref id="CIT0041"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huber</surname><given-names>D.</given-names></name><name><surname>Veinante</surname><given-names>P.</given-names></name><name><surname>Stoop</surname><given-names>R.</given-names></name></person-group>
+<year>2005</year>
+<article-title>Vasopressin and oxytocin excite distinct neuronal populations in the central amygdala</article-title>
+<source><italic>Science</italic></source>
+<volume>308</volume>
+<issue>5719</issue>
+<fpage>245</fpage>
+<lpage>248</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1105636</pub-id>
+<pub-id pub-id-type="pmid">15821089</pub-id></element-citation></ref><ref id="CIT0042"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Janezic</surname><given-names>E. M.</given-names></name><name><surname>Uppalapati</surname><given-names>S.</given-names></name><name><surname>Nagl</surname><given-names>S.</given-names></name><name><surname>Contreras</surname><given-names>M.</given-names></name><name><surname>French</surname><given-names>E. D.</given-names></name><name><surname>Fellous</surname><given-names>J.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Beneficial effects of chronic oxytocin administration and social co-housing in a rodent model of post-traumatic stress disorder</article-title>
+<italic>Behavioural Pharmacology</italic>
+</element-citation></ref><ref id="CIT0043"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kessler</surname><given-names>R. C.</given-names></name><name><surname>Petukhova</surname><given-names>M.</given-names></name><name><surname>Sampson</surname><given-names>N. A.</given-names></name><name><surname>Zaslavsky</surname><given-names>A. M.</given-names></name><name><surname>Wittchen</surname><given-names>H.-U.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Twelve-month and lifetime prevalence and lifetime morbid risk of anxiety and mood disorders in the United States</article-title>
+<source><italic>International Journal of Methods in Psychiatric Research</italic></source>
+<volume>21</volume>
+<issue>3</issue>
+<fpage>169</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="doi">10.1002/mpr.1359</pub-id>
+<pub-id pub-id-type="pmid">22865617</pub-id></element-citation></ref><ref id="CIT0044"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kirsch</surname><given-names>P.</given-names></name><name><surname>Esslinger</surname><given-names>C.</given-names></name><name><surname>Chen</surname><given-names>Q.</given-names></name><name><surname>Mier</surname><given-names>D.</given-names></name><name><surname>Lis</surname><given-names>S.</given-names></name><name><surname>Siddhanti</surname><given-names>S.</given-names></name><name><surname>Meyer-Lindenberg</surname><given-names>A.</given-names></name></person-group>
+<year>2005</year>
+<article-title>Oxytocin modulates neural circuitry for social cognition and fear in humans</article-title>
+<source><italic>Journal of Neuroscience</italic></source>
+<volume>25</volume>
+<issue>49</issue>
+<fpage>11489</fpage>
+<lpage>11493</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.3984-05.2005</pub-id>
+<pub-id pub-id-type="pmid">16339042</pub-id></element-citation></ref><ref id="CIT0045"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Knobloch</surname><given-names>H. S.</given-names></name><name><surname>Charlet</surname><given-names>A.</given-names></name><name><surname>Hoffmann</surname><given-names>L. C.</given-names></name><name><surname>Eliava</surname><given-names>M.</given-names></name><name><surname>Khrulev</surname><given-names>S.</given-names></name><name><surname>Cetin</surname><given-names>A. H.</given-names></name><name><surname>Stoop</surname><given-names>R.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Evoked axonal oxytocin release in the central amygdala attenuates fear response</article-title>
+<source><italic>Neuron</italic></source>
+<volume>73</volume>
+<issue>3</issue>
+<fpage>553</fpage>
+<lpage>566</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuron.2012.02.014</pub-id>
+<pub-id pub-id-type="pmid">22325206</pub-id></element-citation></ref><ref id="CIT0046"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016a</year>
+<article-title>Intranasal oxytocin administration dampens amygdala reactivity towards emotional faces in male and female PTSD patients</article-title>
+<source><italic>Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology</italic></source>
+<volume>41</volume>
+<issue>6</issue>
+<fpage>1495</fpage>
+<lpage>1504</lpage>
+<pub-id pub-id-type="doi">10.1038/npp.2015.299</pub-id>
+<pub-id pub-id-type="pmid">26404844</pub-id></element-citation></ref><ref id="CIT0047"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016b</year>
+<article-title>Intranasal oxytocin normalizes amygdala functional connectivity in posttraumatic stress disorder</article-title>
+<source><italic>Neuropsychopharmacology: Official Publication of the American College of Neuropsychopharmacology</italic></source>
+<volume>41</volume>
+<issue>8</issue>
+<fpage>2041</fpage>
+<lpage>2051</lpage>
+<pub-id pub-id-type="doi">10.1038/npp.2016.1</pub-id>
+<pub-id pub-id-type="pmid">26741286</pub-id></element-citation></ref><ref id="CIT0048"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kubzansky</surname><given-names>L. D.</given-names></name><name><surname>Mendes</surname><given-names>W. B.</given-names></name><name><surname>Appleton</surname><given-names>A. A.</given-names></name><name><surname>Block</surname><given-names>J.</given-names></name><name><surname>Adler</surname><given-names>G. K.</given-names></name></person-group>
+<year>2012</year>
+<article-title>A heartfelt response: Oxytocin effects on response to social stress in men and women</article-title>
+<source><italic>Biological Psychology</italic></source>
+<volume>90</volume>
+<issue>1</issue>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsycho.2012.02.010</pub-id>
+<pub-id pub-id-type="pmid">22387929</pub-id></element-citation></ref><ref id="CIT0049"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Labuschagne</surname><given-names>I.</given-names></name><name><surname>Phan</surname><given-names>K. L.</given-names></name><name><surname>Wood</surname><given-names>A.</given-names></name><name><surname>Angstadt</surname><given-names>M.</given-names></name><name><surname>Chua</surname><given-names>P.</given-names></name><name><surname>Heinrichs</surname><given-names>M.</given-names></name><name><surname>Nathan</surname><given-names>P. J.</given-names></name></person-group>
+<year>2010</year>
+<article-title>Oxytocin attenuates amygdala reactivity to fear in generalized social anxiety disorder</article-title>
+<source><italic>Neuropsychopharmacology</italic></source>
+<volume>35</volume>
+<issue>12</issue>
+<fpage>2403</fpage>
+<lpage>2413</lpage>
+<pub-id pub-id-type="doi">10.1038/npp.2010.123</pub-id>
+<pub-id pub-id-type="pmid">20720535</pub-id></element-citation></ref><ref id="CIT0050"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leng</surname><given-names>G.</given-names></name><name><surname>Ludwig</surname><given-names>M.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Intranasal oxytocin: Myths and delusions</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>79</volume>
+<issue>3</issue>
+<fpage>243</fpage>
+<lpage>250</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2015.05.003</pub-id>
+<pub-id pub-id-type="pmid">26049207</pub-id></element-citation></ref><ref id="CIT0051"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liberzon</surname><given-names>I.</given-names></name><name><surname>Abelson</surname><given-names>J. L.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Context processing and the neurobiology of post-traumatic stress disorder</article-title>
+<source><italic>Neuron</italic></source>
+<volume>92</volume>
+<issue>1</issue>
+<fpage>14</fpage>
+<lpage>30</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuron.2016.09.039</pub-id>
+<pub-id pub-id-type="pmid">27710783</pub-id></element-citation></ref><ref id="CIT0052"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lischke</surname><given-names>A.</given-names></name><name><surname>Gamer</surname><given-names>M.</given-names></name><name><surname>Berger</surname><given-names>C.</given-names></name><name><surname>Grossmann</surname><given-names>A.</given-names></name><name><surname>Hauenstein</surname><given-names>K.</given-names></name><name><surname>Heinrichs</surname><given-names>M.</given-names></name><name><surname>Domes</surname><given-names>G.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Oxytocin increases amygdala reactivity to threatening scenes in females</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>35</volume>
+<issue>1</issue>
+<fpage>83</fpage>
+<lpage>93</lpage>
+</element-citation></ref><ref id="CIT0053"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lucas-Thompson</surname><given-names>R. G.</given-names></name><name><surname>Holman</surname><given-names>E. A.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Environmental stress, oxytocin receptor gene (OXTR) polymorphism, and mental health following collective stress</article-title>
+<source><italic>Hormones and Behavior</italic></source>
+<volume>63</volume>
+<issue>4</issue>
+<fpage>615</fpage>
+<lpage>624</lpage>
+<pub-id pub-id-type="doi">10.1016/j.yhbeh.2013.02.015</pub-id>
+<pub-id pub-id-type="pmid">23470776</pub-id></element-citation></ref><ref id="CIT0054"><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Ludwig</surname><given-names>M.</given-names></name></person-group>
+<year>2014</year>
+<chapter-title>Dendritic release of the neuropeptides vasopressin and oxytocin</chapter-title>
+<source><italic>Neurophysiology of neuroendocrine neurons</italic></source>
+<fpage>207</fpage>
+<lpage>223</lpage>
+<publisher-loc>Chichester</publisher-loc>
+<publisher-name>John Wiley &#x00026; Sons, Ltd</publisher-name>
+</element-citation></ref><ref id="CIT0055"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>MacDonald</surname><given-names>E.</given-names></name><name><surname>Dadds</surname><given-names>M. R.</given-names></name><name><surname>Brennan</surname><given-names>J. L.</given-names></name><name><surname>Williams</surname><given-names>K.</given-names></name><name><surname>Levy</surname><given-names>F.</given-names></name><name><surname>Cauchi</surname><given-names>A. J.</given-names></name></person-group>
+<year>2011</year>
+<article-title>A review of safety, side-effects and subjective reactions to intranasal oxytocin in human research</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>36</volume>
+<issue>8</issue>
+<fpage>1114</fpage>
+<lpage>1126</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2011.02.015</pub-id>
+<pub-id pub-id-type="pmid">21429671</pub-id></element-citation></ref><ref id="CIT0056"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macdonald</surname><given-names>K.</given-names></name><name><surname>Feifel</surname><given-names>D.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Helping oxytocin deliver: Considerations in the development of oxytocin-based therapeutics for brain disorders</article-title>
+<source><italic>Frontiers in Neuroscience</italic></source>
+<volume>7</volume>
+<pub-id pub-id-type="doi">10.3389/fnins.2013.00035</pub-id>
+</element-citation></ref><ref id="CIT0057"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Magruder</surname><given-names>K. M.</given-names></name><name><surname>Kassam-Adams</surname><given-names>N.</given-names></name><name><surname>Thoresen</surname><given-names>S.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Prevention and public health approaches to trauma and traumatic stress: A rationale and a call to action</article-title>
+<source><italic>European Journal of Psychotraumatology</italic></source>
+<volume>7</volume>
+<fpage>1</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.3402/ejpt.v7.29715</pub-id>
+</element-citation></ref><ref id="CIT0058"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marciniak</surname><given-names>M. D.</given-names></name><name><surname>Lage</surname><given-names>M. J.</given-names></name><name><surname>Dunayevich</surname><given-names>E.</given-names></name><name><surname>Russell</surname><given-names>J. M.</given-names></name><name><surname>Bowman</surname><given-names>L.</given-names></name><name><surname>Landbloom</surname><given-names>R. P.</given-names></name><name><surname>Levine</surname><given-names>L. R.</given-names></name></person-group>
+<year>2005</year>
+<article-title>The cost of treating anxiety: The medical and demographic correlates that impact total medical costs</article-title>
+<source><italic>Depression and Anxiety</italic></source>
+<volume>21</volume>
+<issue>4</issue>
+<fpage>178</fpage>
+<lpage>184</lpage>
+<pub-id pub-id-type="doi">10.1002/(ISSN)1520-6394</pub-id>
+<pub-id pub-id-type="pmid">16075454</pub-id></element-citation></ref><ref id="CIT0059"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McCauley</surname><given-names>J.</given-names></name><name><surname>Kileen</surname><given-names>T.</given-names></name><name><surname>Gros</surname><given-names>D. F.</given-names></name><name><surname>Brady</surname><given-names>K.</given-names></name><name><surname>Back</surname><given-names>S. E.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Posttraumatic stress disorder and co-occurring substance use disorders: Advances in assessment and treatment</article-title>
+<source><italic>Clinical Psychology</italic></source>
+<volume>19</volume>
+<issue>3</issue>
+<fpage>1</fpage>
+<lpage>27</lpage>
+</element-citation></ref><ref id="CIT0060"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McLaughlin</surname><given-names>K. A.</given-names></name><name><surname>Busso</surname><given-names>D. S.</given-names></name><name><surname>Duys</surname><given-names>A.</given-names></name><name><surname>Green</surname><given-names>J. G.</given-names></name><name><surname>Alves</surname><given-names>S.</given-names></name><name><surname>Way</surname><given-names>M.</given-names></name><name><surname>Sheridan</surname><given-names>M. A.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Amygdala response to negative stimuli predicts PTSD symptom onset following a terrorist attack</article-title>
+<source><italic>Depression and Anxiety</italic></source>
+<volume>31</volume>
+<issue>10</issue>
+<fpage>834</fpage>
+<lpage>842</lpage>
+<pub-id pub-id-type="doi">10.1002/da.2014.31.issue-10</pub-id>
+<pub-id pub-id-type="pmid">24995938</pub-id></element-citation></ref><ref id="CIT0061"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mellman</surname><given-names>T. A.</given-names></name><name><surname>Bustamante</surname><given-names>V.</given-names></name><name><surname>David</surname><given-names>D.</given-names></name><name><surname>Fins</surname><given-names>A. I.</given-names></name></person-group>
+<year>2002</year>
+<article-title>Hypnotic medication in the aftermath of trauma</article-title>
+<source><italic>The Journal of Clinical Psychiatry</italic></source>
+<volume>63</volume>
+<issue>12</issue>
+<fpage>1183</fpage>
+<lpage>1184</lpage>
+<pub-id pub-id-type="doi">10.4088/JCP.v63n1214h</pub-id>
+</element-citation></ref><ref id="CIT0062"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Menon</surname><given-names>V.</given-names></name><name><surname>Uddin</surname><given-names>L. Q.</given-names></name></person-group>
+<year>2010</year>
+<article-title>Saliency, switching, attention and control: A network model of insula function</article-title>
+<source><italic>Brain Structure and Function</italic></source>
+<volume>214</volume>
+<issue>5&#x02013;6</issue>
+<fpage>655</fpage>
+<lpage>667</lpage>
+<pub-id pub-id-type="doi">10.1007/s00429-010-0262-0</pub-id>
+<pub-id pub-id-type="pmid">20512370</pub-id></element-citation></ref><ref id="CIT0063"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016a</year>
+<article-title>Intranasal oxytocin enhances neural processing of monetary reward and loss in post-traumatic stress disorder and traumatized controls</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>66</volume>
+<fpage>228</fpage>
+<lpage>237</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2016.01.020</pub-id>
+<pub-id pub-id-type="pmid">26851698</pub-id></element-citation></ref><ref id="CIT0064"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2016b</year>
+<article-title>Intranasal oxytocin increases neural responses to social reward in post-traumatic stress disorder</article-title>
+<source><italic>Social Cognitive and Affective Neuroscience</italic></source>
+<page-range>nsw123</page-range>
+<pub-id pub-id-type="doi">10.1093/scan/nsw123</pub-id>
+</element-citation></ref><ref id="CIT0065"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Neumann</surname><given-names>I. D.</given-names></name></person-group>
+<year>2007</year>
+<article-title>Oxytocin: The neuropeptide of love reveals some of its secrets</article-title>
+<source><italic>Cell Metabolism</italic></source>
+<volume>5</volume>
+<issue>4</issue>
+<fpage>231</fpage>
+<lpage>233</lpage>
+<pub-id pub-id-type="doi">10.1016/j.cmet.2007.03.008</pub-id>
+<pub-id pub-id-type="pmid">17403367</pub-id></element-citation></ref><ref id="CIT0066"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Bonding after trauma: On the role of social support and the oxytocin system in traumatic stress</article-title>
+<source><italic>European Journal of Psychotraumatology</italic></source>
+<volume>3</volume>
+<page-range>18597</page-range>
+<pub-id pub-id-type="doi">10.3402/ejpt.v3i0.18597</pub-id>
+</element-citation></ref><ref id="CIT0067"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olff</surname><given-names>M.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Kubzansky</surname><given-names>L. D.</given-names></name><name><surname>Bradley</surname><given-names>B.</given-names></name><name><surname>Ellenbogen</surname><given-names>M. A.</given-names></name><name><surname>Cardoso</surname><given-names>C.</given-names></name><name><surname>van Zuiden</surname><given-names>M.</given-names></name></person-group>
+<year>2013</year>
+<article-title>The role of oxytocin in social bonding, stress regulation and mental health: An update on the moderating effects of context and interindividual differences</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>38</volume>
+<issue>9</issue>
+<fpage>1883</fpage>
+<lpage>1894</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2013.06.019</pub-id>
+<pub-id pub-id-type="pmid">23856187</pub-id></element-citation></ref><ref id="CIT0068"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olff</surname><given-names>M.</given-names></name><name><surname>Van Zuiden</surname><given-names>M.</given-names></name><name><surname>Bakker</surname><given-names>A.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Early interventions: From e-health to neurobiology</article-title>
+<source><italic>European Journal of Psychotraumatology</italic></source>
+<volume>6</volume>
+<fpage>28545</fpage>
+<pub-id pub-id-type="doi">10.3402/ejpt.v6.28545</pub-id>
+<pub-id pub-id-type="pmid">26073209</pub-id></element-citation></ref><ref id="CIT0069"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olff</surname><given-names>M.</given-names></name><name><surname>Van Zuiden</surname><given-names>M.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Veltman</surname><given-names>D. J.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Intranasal oxytocin: Miracle cure after trauma?</article-title>
+<source><italic>European Journal of Psychotraumatology</italic></source>
+<volume>6</volume>
+<page-range>27631</page-range>
+<pub-id pub-id-type="doi">10.3402/ejpt.v6.27631</pub-id>
+</element-citation></ref><ref id="CIT0070"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Paloyelis</surname><given-names>Y.</given-names></name><name><surname>Doyle</surname><given-names>O. M.</given-names></name><name><surname>Zelaya</surname><given-names>F. O.</given-names></name><name><surname>Maltezos</surname><given-names>S.</given-names></name><name><surname>Williams</surname><given-names>S. C.</given-names></name><name><surname>Fotopoulou</surname><given-names>A.</given-names></name><name><surname>Howard</surname><given-names>M. A.</given-names></name></person-group>
+<year>2014</year>
+<article-title>A spatiotemporal profile of in vivo cerebral blood flow changes following intranasal oxytocin in humans</article-title>
+<source><italic>Biological Psychiatry, Biological Psychiatry,</italic> 79(8), 693&#x02013;705</source>
+<ext-link ext-link-type="uri" xlink:href="http://doi.org/10.1016/j.biopsych.2014.10.005">http://doi.org/10.1016/j.biopsych.2014.10.005</ext-link>
+</element-citation></ref><ref id="CIT0071"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Peters</surname><given-names>S.</given-names></name><name><surname>Slattery</surname><given-names>D. A.</given-names></name><name><surname>Uschold-Schmidt</surname><given-names>N.</given-names></name><name><surname>Reber</surname><given-names>S. O.</given-names></name><name><surname>Neumann</surname><given-names>I. D.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Dose-dependent effects of chronic central infusion of oxytocin on anxiety, oxytocin receptor binding and stress-related parameters in mice</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>42</volume>
+<fpage>225</fpage>
+<lpage>236</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2013.12.001</pub-id>
+<pub-id pub-id-type="pmid">24636519</pub-id></element-citation></ref><ref id="CIT0072"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pole</surname><given-names>N.</given-names></name><name><surname>Neylan</surname><given-names>T. C.</given-names></name><name><surname>Otte</surname><given-names>C.</given-names></name><name><surname>Henn-Hasse</surname><given-names>C.</given-names></name><name><surname>Metzler</surname><given-names>T. J.</given-names></name><name><surname>Marmar</surname><given-names>C. R.</given-names></name></person-group>
+<year>2009</year>
+<article-title>Prospective prediction of posttraumatic stress disorder symptoms using fear potentiated auditory startle responses</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>65</volume>
+<issue>3</issue>
+<fpage>235</fpage>
+<lpage>240</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2008.07.015</pub-id>
+<pub-id pub-id-type="pmid">18722593</pub-id></element-citation></ref><ref id="CIT0073"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Preckel</surname><given-names>K.</given-names></name><name><surname>Scheele</surname><given-names>D.</given-names></name><name><surname>Kendrick</surname><given-names>K. M.</given-names></name><name><surname>Maier</surname><given-names>W.</given-names></name><name><surname>Hurlemann</surname><given-names>R.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Oxytocin facilitates social approach behavior in women</article-title>
+<source><italic>Frontiers in Behavioral Neuroscience</italic></source>
+<volume>8</volume>
+<fpage>191</fpage>
+<pub-id pub-id-type="doi">10.3389/fnbeh.2014.00191</pub-id>
+<pub-id pub-id-type="pmid">24904342</pub-id></element-citation></ref><ref id="CIT0074"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pull</surname><given-names>C. N.</given-names></name><name><surname>Pull</surname><given-names>C. B.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Current status of treatment for posttraumatic stress disorder: Focus on treatments combining pharmacotherapy and cognitive-behavioral therapy</article-title>
+<source><italic>International Journal of Cognitive Therapy</italic></source>
+<volume>7</volume>
+<issue>2</issue>
+<fpage>149</fpage>
+<lpage>161</lpage>
+<pub-id pub-id-type="doi">10.1521/ijct.2014.7.2.149</pub-id>
+</element-citation></ref><ref id="CIT0075"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quintana</surname><given-names>D. S.</given-names></name><name><surname>Alvares</surname><given-names>G. A.</given-names></name><name><surname>Hickie</surname><given-names>I. B.</given-names></name><name><surname>Guastella</surname><given-names>A. J.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Do delivery routes of intranasally administered oxytocin account for observed effects on social cognition and behavior? A two-level model</article-title>
+<source><italic>Neuroscience &#x00026; Biobehavioral Reviews</italic></source>
+<volume>49</volume>
+<fpage>182</fpage>
+<lpage>192</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neubiorev.2014.12.011</pub-id>
+<pub-id pub-id-type="pmid">25526824</pub-id></element-citation></ref><ref id="CIT0076"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Quintana</surname><given-names>D. S.</given-names></name><name><surname>Westlye</surname><given-names>L. T.</given-names></name><name><surname>Aln&#x000e6;s</surname><given-names>D.</given-names></name><name><surname>Rustan</surname><given-names>&#x000d8;. G.</given-names></name><name><surname>Kaufmann</surname><given-names>T.</given-names></name><name><surname>Smerud</surname><given-names>K. T.</given-names></name><name><surname>Andreassen</surname><given-names>O. A.</given-names></name></person-group>
+<year>2016</year>
+<article-title>Low dose intranasal oxytocin delivered with breath powered device dampens amygdala response to emotional stimuli: A peripheral effect-controlled within-subjects randomized dose-response fMRI trial</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>69</volume>
+<fpage>180</fpage>
+<lpage>188</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2016.04.010</pub-id>
+<pub-id pub-id-type="pmid">27107209</pub-id></element-citation></ref><ref id="CIT0077"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ravinder</surname><given-names>S.</given-names></name><name><surname>Burghardt</surname><given-names>N. S.</given-names></name><name><surname>Brodsky</surname><given-names>R.</given-names></name><name><surname>Bauer</surname><given-names>E. P.</given-names></name><name><surname>Chattarji</surname><given-names>S.</given-names></name></person-group>
+<year>2013</year>
+<article-title>A role for the extended amygdala in the fear-enhancing effects of acute selective serotonin reuptake inhibitor treatment</article-title>
+<source><italic>Translational Psychiatry</italic></source>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>e209</fpage>
+<pub-id pub-id-type="doi">10.1038/tp.2012.137</pub-id>
+<pub-id pub-id-type="pmid">23321806</pub-id></element-citation></ref><ref id="CIT0078"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rilling</surname><given-names>J. K.</given-names></name><name><surname>DeMarco</surname><given-names>A. C.</given-names></name><name><surname>Hackett</surname><given-names>P. D.</given-names></name><name><surname>Chen</surname><given-names>X.</given-names></name><name><surname>Gautam</surname><given-names>P.</given-names></name><name><surname>Stair</surname><given-names>S.</given-names></name><name><surname>Patel</surname><given-names>R.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Sex differences in the neural and behavioral response to intranasal oxytocin and vasopressin during human social interaction</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>39</volume>
+<fpage>237</fpage>
+<lpage>248</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2013.09.022</pub-id>
+<pub-id pub-id-type="pmid">24157401</pub-id></element-citation></ref><ref id="CIT0079"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roberts</surname><given-names>N. P.</given-names></name><name><surname>Kitchiner</surname><given-names>N. J.</given-names></name><name><surname>Kenardy</surname><given-names>J.</given-names></name><name><surname>Bisson</surname><given-names>J. I.</given-names></name></person-group>
+<year>2009</year>
+<article-title>Systematic review and meta-analysis of multiple-session early interventions following traumatic events</article-title>
+<source><italic>The American Journal of Psychiatry</italic></source>
+<volume>166</volume>
+<issue>3</issue>
+<fpage>293</fpage>
+<lpage>301</lpage>
+<pub-id pub-id-type="doi">10.1176/appi.ajp.2008.08040590</pub-id>
+<pub-id pub-id-type="pmid">19188285</pub-id></element-citation></ref><ref id="CIT0080"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rose</surname><given-names>S.</given-names></name><name><surname>Bisson</surname><given-names>J.</given-names></name><name><surname>Churchill</surname><given-names>R.</given-names></name><name><surname>Wessely</surname><given-names>S.</given-names></name></person-group>
+<year>2002</year>
+<article-title>Psychological debriefing for preventing post traumatic stress disorder (PTSD)</article-title>
+<source><italic>Cochrane Database of Systematic Reviews</italic></source>
+<volume>2</volume>
+<issue>2</issue>
+<ext-link ext-link-type="uri" xlink:href="http://doi.org/10.1002/14651858.CD000560">http://doi.org/10.1002/14651858.CD000560</ext-link>
+</element-citation></ref><ref id="CIT0081"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rothbaum</surname><given-names>B. O.</given-names></name><name><surname>Kearns</surname><given-names>M. C.</given-names></name><name><surname>Price</surname><given-names>M.</given-names></name><name><surname>Malcoun</surname><given-names>E.</given-names></name><name><surname>Davis</surname><given-names>M.</given-names></name><name><surname>Ressler</surname><given-names>K. J.</given-names></name><name><surname>Houry</surname><given-names>D.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Early intervention may prevent the development of posttraumatic stress disorder: A randomized pilot civilian study with modified prolonged exposure</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>72</volume>
+<issue>11</issue>
+<fpage>957</fpage>
+<lpage>963</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2012.06.002</pub-id>
+<pub-id pub-id-type="pmid">22766415</pub-id></element-citation></ref><ref id="CIT0082"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Seeley</surname><given-names>W. W.</given-names></name><name><surname>Menon</surname><given-names>V.</given-names></name><name><surname>Schatzberg</surname><given-names>A. F.</given-names></name><name><surname>Keller</surname><given-names>J.</given-names></name><name><surname>Glover</surname><given-names>G. H.</given-names></name><name><surname>Kenna</surname><given-names>H.</given-names></name><name><surname>Greicius</surname><given-names>M. D.</given-names></name></person-group>
+<year>2007</year>
+<article-title>Dissociable intrinsic connectivity networks for salience processing and executive control</article-title>
+<source><italic>The Journal of Neuroscience: The Official Journal of the Society for Neuroscience</italic></source>
+<volume>27</volume>
+<issue>9</issue>
+<fpage>2349</fpage>
+<lpage>2356</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.3105-06.2007</pub-id>
+<pub-id pub-id-type="pmid">17329432</pub-id></element-citation></ref><ref id="CIT0083"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shamay-Tsoory</surname><given-names>S. G.</given-names></name><name><surname>Abu-Akel</surname><given-names>A.</given-names></name></person-group>
+<year>2016</year>
+<article-title>The social salience hypothesis of oxytocin</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>79</volume>
+<issue>3</issue>
+<fpage>194</fpage>
+<lpage>202</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2015.07.020</pub-id>
+<pub-id pub-id-type="pmid">26321019</pub-id></element-citation></ref><ref id="CIT0084"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sijbrandij</surname><given-names>M.</given-names></name><name><surname>Kleiboer</surname><given-names>A.</given-names></name><name><surname>Bisson</surname><given-names>J. I.</given-names></name><name><surname>Barbui</surname><given-names>C.</given-names></name><name><surname>Cuijpers</surname><given-names>P.</given-names></name></person-group>
+<year>2015</year>
+<article-title>Pharmacological prevention of post-traumatic stress disorder and acute stress disorder: A systematic review and meta-analysis</article-title>
+<source><italic>The Lancet Psychiatry</italic></source>
+<volume>2</volume>
+<issue>5</issue>
+<fpage>413</fpage>
+<lpage>421</lpage>
+<pub-id pub-id-type="doi">10.1016/S2215-0366(14)00121-7</pub-id>
+<pub-id pub-id-type="pmid">26360285</pub-id></element-citation></ref><ref id="CIT0085"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sijbrandij</surname><given-names>M.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name><name><surname>Reitsma</surname><given-names>J. B.</given-names></name><name><surname>Carlier</surname><given-names>I. V.</given-names></name><name><surname>Gersons</surname><given-names>B. P.</given-names></name></person-group>
+<year>2006</year>
+<article-title>Emotional or educational debriefing after psychological trauma: Randomised controlled trial</article-title>
+<source><italic>The British Journal of Psychiatry: The Journal of Mental Science</italic></source>
+<volume>189</volume>
+<fpage>150</fpage>
+<lpage>155</lpage>
+<pub-id pub-id-type="doi">10.1192/bjp.bp.105.021121</pub-id>
+<pub-id pub-id-type="pmid">16880485</pub-id></element-citation></ref><ref id="CIT0086"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Slattery</surname><given-names>D. A.</given-names></name><name><surname>Neumann</surname><given-names>I. D.</given-names></name></person-group>
+<year>2010</year>
+<article-title>Chronic icv oxytocin attenuates the pathological high anxiety state of selectively bred Wistar rats</article-title>
+<source><italic>Neuropharmacology</italic></source>
+<volume>58</volume>
+<issue>1</issue>
+<fpage>56</fpage>
+<lpage>61</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuropharm.2009.06.038</pub-id>
+<pub-id pub-id-type="pmid">19589349</pub-id></element-citation></ref><ref id="CIT0087"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stein</surname><given-names>M. B.</given-names></name><name><surname>Kerridge</surname><given-names>C.</given-names></name><name><surname>Dimsdale</surname><given-names>J. E.</given-names></name><name><surname>Hoyt</surname><given-names>D. B.</given-names></name></person-group>
+<year>2007</year>
+<article-title>Pharmacotherapy to prevent PTSD: Results from a randomized controlled proof-of-concept trial in physically injured patients</article-title>
+<source><italic>Journal of Traumatic Stress</italic></source>
+<volume>20</volume>
+<issue>6</issue>
+<fpage>923</fpage>
+<lpage>932</lpage>
+<pub-id pub-id-type="doi">10.1002/(ISSN)1573-6598</pub-id>
+<pub-id pub-id-type="pmid">18157888</pub-id></element-citation></ref><ref id="CIT0088"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Striepens</surname><given-names>N.</given-names></name><name><surname>Kendrick</surname><given-names>K. M.</given-names></name><name><surname>Hanking</surname><given-names>V.</given-names></name><name><surname>Landgraf</surname><given-names>R.</given-names></name><name><surname>W&#x000fc;llner</surname><given-names>U.</given-names></name><name><surname>Maier</surname><given-names>W.</given-names></name><name><surname>Hurlemann</surname><given-names>R.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Elevated cerebrospinal fluid and blood concentrations of oxytocin following its intranasal administration in humans</article-title>
+<source><italic>Scientific Reports</italic></source>
+<volume>3</volume>
+<fpage>3440</fpage>
+<pub-id pub-id-type="doi">10.1038/srep03440</pub-id>
+<pub-id pub-id-type="pmid">24310737</pub-id></element-citation></ref><ref id="CIT0089"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Toth</surname><given-names>I.</given-names></name><name><surname>Neumann</surname><given-names>I. D.</given-names></name><name><surname>Slattery</surname><given-names>D. A.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Central administration of oxytocin receptor ligands affects cued fear extinction in rats and mice in a timepoint-dependent manner</article-title>
+<source><italic>Psychopharmacology</italic></source>
+<volume>223</volume>
+<issue>2</issue>
+<fpage>149</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="doi">10.1007/s00213-012-2702-4</pub-id>
+<pub-id pub-id-type="pmid">22526533</pub-id></element-citation></ref><ref id="CIT0090"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Ast</surname><given-names>V. A.</given-names></name><name><surname>Cornelisse</surname><given-names>S.</given-names></name><name><surname>Meeter</surname><given-names>M.</given-names></name><name><surname>Jo&#x000eb;ls</surname><given-names>M.</given-names></name><name><surname>Kindt</surname><given-names>M.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Time-dependent effects of cortisol on the contextualization of emotional memories</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>74</volume>
+<issue>11</issue>
+<fpage>809</fpage>
+<lpage>816</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2013.06.022</pub-id>
+<pub-id pub-id-type="pmid">23972529</pub-id></element-citation></ref><ref id="CIT0091"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van IJzendoorn</surname><given-names>M. H.</given-names></name><name><surname>Bakermans-Kranenburg</surname><given-names>M. J.</given-names></name></person-group>
+<year>2012</year>
+<article-title>A sniff of trust: Meta-analysis of the effects of intranasal oxytocin administration on face recognition, trust to in-group, and trust to out-group</article-title>
+<source><italic>Psychoneuroendocrinology</italic></source>
+<volume>37</volume>
+<issue>3</issue>
+<fpage>438</fpage>
+<lpage>443</lpage>
+<pub-id pub-id-type="doi">10.1016/j.psyneuen.2011.07.008</pub-id>
+<pub-id pub-id-type="pmid">21802859</pub-id></element-citation></ref><ref id="CIT0092"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van IJzendoorn</surname><given-names>M. H.</given-names></name><name><surname>Bhandari</surname><given-names>R.</given-names></name><name><surname>van der Veen</surname><given-names>R.</given-names></name><name><surname>Grewen</surname><given-names>K. M.</given-names></name><name><surname>Bakermans-Kranenburg</surname><given-names>M. J.</given-names></name></person-group>
+<year>2012</year>
+<article-title>Elevated salivary levels of oxytocin persist more than 7 h after intranasal administration</article-title>
+<source><italic>Frontiers in Neuroscience</italic></source>
+<volume>6</volume>
+<fpage>174</fpage>
+<pub-id pub-id-type="doi">10.3389/fnins.2012.00174</pub-id>
+<pub-id pub-id-type="pmid">23233832</pub-id></element-citation></ref><ref id="CIT0093"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Frijling</surname><given-names>J. L.</given-names></name><name><surname>Nawijn</surname><given-names>L.</given-names></name><name><surname>Koch</surname><given-names>S. B. J.</given-names></name><name><surname>Goslings</surname><given-names>J. C.</given-names></name><name><surname>Luitse</surname><given-names>J. S.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name></person-group>
+<year>in press</year>
+<article-title>Intranasal oxytocin to prevent posttraumatic stress disorder symptoms: A randomized controlled trial in emergency department patients</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<fpage>1</fpage>
+<lpage>11</lpage>
+</element-citation></ref><ref id="CIT0094"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Zuiden</surname><given-names>M.</given-names></name><name><surname>Kavelaars</surname><given-names>A.</given-names></name><name><surname>Geuze</surname><given-names>E.</given-names></name><name><surname>Olff</surname><given-names>M.</given-names></name><name><surname>Heijnen</surname><given-names>C. J.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Predicting PTSD: Pre-existing vulnerabilities in glucocorticoid-signaling and implications for preventive interventions</article-title>
+<source><italic>Brain, Behavior, and Immunity</italic></source>
+<volume>30</volume>
+<fpage>12</fpage>
+<lpage>21</lpage>
+<pub-id pub-id-type="doi">10.1016/j.bbi.2012.08.015</pub-id>
+</element-citation></ref><ref id="CIT0095"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Viviani</surname><given-names>D.</given-names></name><name><surname>Charlet</surname><given-names>A.</given-names></name><name><surname>van den Burg</surname><given-names>E.</given-names></name><name><surname>Robinet</surname><given-names>C.</given-names></name><name><surname>Hurni</surname><given-names>N.</given-names></name><name><surname>Abatis</surname><given-names>M.</given-names></name><name><surname>Stoop</surname><given-names>R.</given-names></name></person-group>
+<year>2011</year>
+<article-title>Oxytocin selectively gates fear responses through distinct outputs from the central amygdala</article-title>
+<source><italic>Science</italic></source>
+<volume>333</volume>
+<issue>6038</issue>
+<fpage>104</fpage>
+<lpage>107</lpage>
+<pub-id pub-id-type="doi">10.1126/science.1205623</pub-id>
+<pub-id pub-id-type="pmid">21719680</pub-id></element-citation></ref><ref id="CIT0096"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wang</surname><given-names>P. S.</given-names></name><name><surname>Lane</surname><given-names>M.</given-names></name><name><surname>Olfson</surname><given-names>M.</given-names></name><name><surname>Pincus</surname><given-names>H. A.</given-names></name><name><surname>Wells</surname><given-names>K. B.</given-names></name><name><surname>Kessler</surname><given-names>R. C.</given-names></name></person-group>
+<year>2005</year>
+<article-title>Twelve-month use of mental health services in the United States: Results from the National Comorbidity Survey Replication</article-title>
+<source><italic>Archives of General Psychiatry</italic></source>
+<volume>62</volume>
+<issue>6</issue>
+<fpage>629</fpage>
+<lpage>640</lpage>
+<pub-id pub-id-type="doi">10.1001/archpsyc.62.6.629</pub-id>
+<pub-id pub-id-type="pmid">15939840</pub-id></element-citation></ref><ref id="CIT0097"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weisman</surname><given-names>O.</given-names></name><name><surname>Feldman</surname><given-names>R.</given-names></name></person-group>
+<year>2013</year>
+<article-title>Oxytocin effects on the human brain: Findings, questions, and future directions</article-title>
+<source><italic>Biological Psychiatry</italic></source>
+<volume>74</volume>
+<issue>3</issue>
+<fpage>158</fpage>
+<lpage>159</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2013.05.026</pub-id>
+<pub-id pub-id-type="pmid">23845580</pub-id></element-citation></ref><ref id="CIT0098"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zohar</surname><given-names>J.</given-names></name><name><surname>Yahalom</surname><given-names>H.</given-names></name><name><surname>Kozlovsky</surname><given-names>N.</given-names></name><name><surname>Cwikel-Hamzany</surname><given-names>S.</given-names></name><name><surname>Matar</surname><given-names>M. A.</given-names></name><name><surname>Kaplan</surname><given-names>Z.</given-names></name><name><surname>Cohen</surname><given-names>H.</given-names></name></person-group>
+<year>2011</year>
+<article-title>High dose hydrocortisone immediately after trauma may alter the trajectory of PTSD: Interplay between clinical and animal studies</article-title>
+<source><italic>European Neuropsychopharmacology: the Journal of the European College of Neuropsychopharmacology</italic></source>
+<volume>21</volume>
+<issue>11</issue>
+<fpage>796</fpage>
+<lpage>809</lpage>
+<pub-id pub-id-type="doi">10.1016/j.euroneuro.2011.06.001</pub-id>
+<pub-id pub-id-type="pmid">21741804</pub-id></element-citation></ref><ref id="CIT0099"><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zoicas</surname><given-names>I.</given-names></name><name><surname>Slattery</surname><given-names>D. A.</given-names></name><name><surname>Neumann</surname><given-names>I. D.</given-names></name></person-group>
+<year>2014</year>
+<article-title>Brain oxytocin in social fear conditioning and its extinction: Involvement of the lateral septum</article-title>
+<source><italic>Neuropsychopharmacology</italic></source>
+<volume>39</volume>
+<issue>13</issue>
+<fpage>3027</fpage>
+<lpage>3035</lpage>
+<pub-id pub-id-type="doi">10.1038/npp.2014.156</pub-id>
+<pub-id pub-id-type="pmid">24964815</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,506 @@
+{
+  "id": [
+    "26807338"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26807338"
+  ],
+  "pmcid": [
+    "PMC4714643"
+  ],
+  "doi": [
+    "10.1002/brb3.411"
+  ],
+  "title": [
+    "Correlations between arm motor behavior and brain function following bilateral arm training after stroke: a systematic review."
+  ],
+  "authorString": [
+    "Choo PL, Gallagher HL, Morris J, Pomeroy VM, van Wijck F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Choo PL"
+          ],
+          "firstName": [
+            "Pei Ling"
+          ],
+          "lastName": [
+            "Choo"
+          ],
+          "initials": [
+            "PL"
+          ],
+          "affiliation": [
+            "School of Health and Life Sciences Glasgow Caledonian University Glasgow UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gallagher HL"
+          ],
+          "firstName": [
+            "Helen L"
+          ],
+          "lastName": [
+            "Gallagher"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "affiliation": [
+            "School of Health and Life Sciences Glasgow Caledonian University Glasgow UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Morris J"
+          ],
+          "firstName": [
+            "Jacqui"
+          ],
+          "lastName": [
+            "Morris"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Nursing, Midwifery and Allied Health Professions Research Unit Glasgow Caledonian University Glasgow UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Pomeroy VM"
+          ],
+          "firstName": [
+            "Valerie M"
+          ],
+          "lastName": [
+            "Pomeroy"
+          ],
+          "initials": [
+            "VM"
+          ],
+          "affiliation": [
+            "Acquired Brain Injury Rehabilitation Alliance (ABIRA)NorwichUK; University of East AngliaNorwichUK."
+          ]
+        },
+        {
+          "fullName": [
+            "van Wijck F"
+          ],
+          "firstName": [
+            "Frederike"
+          ],
+          "lastName": [
+            "van Wijck"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "School of Health and Life Sciences Glasgow Caledonian University Glasgow UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "12"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2366932"
+      ],
+      "dateOfPublication": [
+        "2015 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain and behavior"
+          ],
+          "ISOAbbreviation": [
+            "Brain Behav"
+          ],
+          "medlineAbbreviation": [
+            "Brain Behav"
+          ],
+          "NLMid": [
+            "101570837"
+          ],
+          "ISSN": [
+            "2162-3279"
+          ],
+          "ESSN": [
+            "2162-3279"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "e00411"
+  ],
+  "abstractText": [
+    "Bilateral training (BT) of the upper limb (UL) might enhance recovery of arm function after stroke. To better understand the therapeutic potential of BT, this study aimed to determine the correlation between arm motor behavior and brain structure/function as a result of bilateral arm training poststroke.A systematic review of quantitative studies of BT evaluating both UL motor behavior and neuroplasticity was conducted. Eleven electronic databases were searched. Two reviewers independently selected studies, extracted data and assessed methodological quality, using the Effective Public Health Practice Project (EPHPP) tool.Eight studies comprising 164 participants met the inclusion criteria. Only two studies rated \"strong\" on the EPHPP tool. Considerable heterogeneity of participants, BT modes, comparator interventions and measures contraindicated pooled outcome analysis. Modes of BT included: in-phase and anti-phase; functional movements involving objects; and movements only. Movements were mechanically coupled, free, auditory-cued, or self-paced. The Fugl-Meyer Assessment (UL section) was used in six of eight studies, however, different subsections were used by different studies. Neural correlates were measured using fMRI and TMS in three and five studies, respectively, using a wide variety of variables. Associations between changes in UL function and neural plasticity were inconsistent and only two studies reported a statistical correlation following BT.No clear pattern of association between UL motor and neural response to BT was apparent from this review, indicating that the neural correlates of motor behavior response to BT after stroke remain unknown. To understand the full therapeutic potential of BT and its different modes, further investigation is required."
+  ],
+  "affiliation": [
+    "School of Health and Life Sciences Glasgow Caledonian University Glasgow UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Arm"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Musculoskeletal Manipulations"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Recovery of Function"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuronal Plasticity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Review",
+        "Rehabilitation",
+        "Stroke",
+        "Imaging",
+        "Upper Limb",
+        "Bilateral"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4714643?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4714643"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/brb3.411"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-20"
+  ],
+  "dateOfCreation": [
+    "2016-01-25"
+  ],
+  "dateOfRevision": [
+    "2017-01-03"
+  ],
+  "electronicPublicationDate": [
+    "2015-11-26"
+  ],
+  "firstPublicationDate": [
+    "2015-11-26"
+  ]
+}

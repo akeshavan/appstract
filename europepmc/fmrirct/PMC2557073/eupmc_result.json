@@ -1,0 +1,287 @@
+{
+  "id": [
+    "18923644"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18923644"
+  ],
+  "pmcid": [
+    "PMC2557073"
+  ],
+  "doi": [
+    "10.1080/02687030701612213"
+  ],
+  "title": [
+    "Aphasia therapy on a neuroscience basis."
+  ],
+  "authorString": [
+    "Pulvermüller F, Berthier ML."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pulvermüller F"
+          ],
+          "firstName": [
+            "Friedemann"
+          ],
+          "lastName": [
+            "Pulvermüller"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3210-7112",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical Research Council Cognition and Brain Sciences Unit, Cambridge, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Berthier ML"
+          ],
+          "firstName": [
+            "Marcelo L"
+          ],
+          "lastName": [
+            "Berthier"
+          ],
+          "initials": [
+            "ML"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3210-7112",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "22"
+      ],
+      "journalIssueId": [
+        "1572420"
+      ],
+      "dateOfPublication": [
+        "2008 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2008"
+      ],
+      "printPublicationDate": [
+        "2008-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Aphasiology"
+          ],
+          "ISOAbbreviation": [
+            "Aphasiology"
+          ],
+          "medlineAbbreviation": [
+            "Aphasiology"
+          ],
+          "NLMid": [
+            "8708531"
+          ],
+          "ISSN": [
+            "0268-7038"
+          ],
+          "ESSN": [
+            "1464-5041"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2008"
+  ],
+  "pageInfo": [
+    "563-599"
+  ],
+  "abstractText": [
+    "BACKGROUND: Brain research has documented that the cortical mechanisms for language and action are tightly interwoven and, concurrently, new approaches to language therapy in neurological patients are being developed that implement language training in the context of relevant linguistic and non-linguistic actions, therefore taking advantage of the mutual connections of language and action systems in the brain. A further well-known neuroscience principle is that learning at the neuronal level is driven by correlation; consequently, new approaches to language therapy emphasise massed practice in a short time, thus maximising therapy quantity and frequency and, therefore, correlation at the behavioural and neuronal levels. Learned non-use of unsuccessful actions plays a major role in the chronification of neurological deficits, and behavioural approaches to therapy have therefore employed shaping and other learning techniques to counteract such non-use. AIMS: Advances in theoretical and experimental neuroscience have important implications for clinical practice. We exemplify this in the domain of aphasia rehabilitation. MAIN CONTRIBUTION: Whereas classical wisdom had been that aphasia cannot be significantly improved at a chronic stage, we here review evidence that one type of intensive language-action therapy (ILAT)-constraint-induced aphasia therapy-led to significant improvement of language performance in patients with chronic aphasia. We discuss perspectives for further improving speech-language therapy, including drug treatment that may be particularly fruitful when applied in conjunction with behavioural treatment. In a final section we highlight intensive and rapid therapy studies in chronic aphasia as a unique tool for exploring the cortical reorganisation of language. CONCLUSIONS: We conclude that intensive language action therapy is an efficient tool for improving language functions even at chronic stages of aphasia. Therapy studies using this technique can open new perspectives for research into the plasticity of human language circuits."
+  ],
+  "affiliation": [
+    "Medical Research Council Cognition and Brain Sciences Unit, Cambridge, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "MC_U105580445"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2557073?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2557073"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1080/02687030701612213"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "60"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2008-10-16"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2008-05-21"
+  ],
+  "firstPublicationDate": [
+    "2008-05-21"
+  ]
+}

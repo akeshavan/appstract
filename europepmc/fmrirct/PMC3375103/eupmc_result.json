@@ -1,0 +1,335 @@
+{
+  "id": [
+    "22738091"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22738091"
+  ],
+  "pmcid": [
+    "PMC3375103"
+  ],
+  "doi": [
+    "10.1007/s13167-011-0136-4"
+  ],
+  "title": [
+    "Exercise in multiple sclerosis -- an integral component of disease management."
+  ],
+  "authorString": [
+    "Döring A, Pfueller CF, Paul F, Dörr J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Döring A"
+          ],
+          "firstName": [
+            "Andrea"
+          ],
+          "lastName": [
+            "Döring"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "NeuroCure Clinical Research Center and Clinical and Experimental Research Center for Multiple Sclerosis, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany. andrea.doering@charite.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Pfueller CF"
+          ],
+          "firstName": [
+            "Caspar F"
+          ],
+          "lastName": [
+            "Pfueller"
+          ],
+          "initials": [
+            "CF"
+          ]
+        },
+        {
+          "fullName": [
+            "Paul F"
+          ],
+          "firstName": [
+            "Friedemann"
+          ],
+          "lastName": [
+            "Paul"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6378-0070",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dörr J"
+          ],
+          "firstName": [
+            "Jan"
+          ],
+          "lastName": [
+            "Dörr"
+          ],
+          "initials": [
+            "J"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6378-0070",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1941879"
+      ],
+      "dateOfPublication": [
+        "2011 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The EPMA journal"
+          ],
+          "ISOAbbreviation": [
+            "EPMA J"
+          ],
+          "medlineAbbreviation": [
+            "EPMA J"
+          ],
+          "NLMid": [
+            "101517307"
+          ],
+          "ISSN": [
+            "1878-5077"
+          ],
+          "ESSN": [
+            "1878-5085"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "2"
+  ],
+  "abstractText": [
+    "Multiple sclerosis (MS) is the most common chronic inflammatory disorder of the central nervous system (CNS) in young adults. The disease causes a wide range of symptoms depending on the localization and characteristics of the CNS pathology. In addition to drug-based immunomodulatory treatment, both drug-based and non-drug approaches are established as complementary strategies to alleviate existing symptoms and to prevent secondary diseases. In particular, physical therapy like exercise and physiotherapy can be customized to the individual patient's needs and has the potential to improve the individual outcome. However, high quality systematic data on physical therapy in MS are rare. This article summarizes the current knowledge on the influence of physical activity and exercise on disease-related symptoms and physical restrictions in MS patients. Other treatment strategies such as drug treatments or cognitive training were deliberately excluded for the purposes of this article."
+  ],
+  "affiliation": [
+    "NeuroCure Clinical Research Center and Clinical and Experimental Research Center for Multiple Sclerosis, Charité - Universitätsmedizin Berlin, Charitéplatz 1, 10117 Berlin, Germany. andrea.doering@charite.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3375103?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3375103"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22738091/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22738091/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s13167-011-0136-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-06-28"
+  ],
+  "dateOfRevision": [
+    "2017-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2011-12-24"
+  ],
+  "firstPublicationDate": [
+    "2011-12-24"
+  ]
+}

@@ -1,0 +1,279 @@
+<?xml version="1.0"?>
+BJPsych OpenBJPsych OpenbjporcpsychbjporcpsychBJPsych open2056-4724The Royal College of Psychiatrists4995563bjporcpsych00133910.1192/bjpo.bp.115.001339PaperAlterations in dorsal and ventral posterior cingulate connectivity in APOE ε4 carriers at risk of Alzheimer's diseasePosterior cingulate connectivity changes in individuals at risk of Alzheimer's diseaseKerestes et alKerestesRebeccaPhalPramit M.StewardChrisMoffatBradford A.SalinasSimonCoxKay L.EllisKathryn A.CyartoElizabeth V.AmesDavidMartinsRalph N.MastersColin L.RoweChristopher C.SharmanMatthew J.SalvadoOlivierSzoekeCassandraLaiMichelleLautenschlagerNicola T.*DesmondPatricia M.*Rebecca Kerestes, PhD, Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, Australia and Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USAPramit M. Phal, MBBS, FRANZCRChris Steward, PhDBradford A. Moffat, PhDSimon Salinas, MSc (Eng), all at Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, AustraliaKay L. Cox, PhD, School of Medicine and Pharmacology, University of Western Australia, Perth, AustraliaKathryn A. Ellis, PhD, Academic Unit for Psychiatry of Old Age, St. Vincent's Health, Department of Psychiatry, University of Melbourne, Melbourne, AustraliaElizabeth V. Cyarto, PhD, National Ageing Research Institute, University of Melbourne, Parkville, AustraliaDavid Ames, MBBS, FRANZC, FRCPsych, Academic Unit for Psychiatry of Old Age, St Vincent's Health, Department of Psychiatry, University of Melbourne, Melbourne, Australia and National Ageing Research Institute, University of Melbourne, Parkville, AustraliaRalph N. Martins, PhD, School of Medical Sciences, Edith Cowan University, Perth, AustraliaColin L. Masters, MD, The Florey Institute of Neuroscience and Mental Health, University of Melbourne, Melbourne, AustraliaChristopher C. Rowe, MD, FRACP, Department of Nuclear Medicine and Centre for PET, Austin Health, Heidelberg, AustraliaMatthew J. Sharman, PhD, School of Health Sciences, University of Tasmania, Hobart, AustraliaOlivier Salvado, PhD, Commonwealth Scientific Industrial Research Organization Preventative Health National Research Flagship, Australian e-Health Research Centre, Brisbane, AustraliaCassandra Szoeke, MBBS, FRACP, PhDMichelle Lai, MBBS, MPH, Mmed, National Ageing Research Institute, University of Melbourne, Parkville, AustraliaNicola T. Lautenschlager, MD, Academic Unit for Psychiatry of Old Age, St. Vincent's Health, Department of Psychiatry, University of Melbourne, Melbourne, Australia and North Western Mental Health, Melbourne Health, Melbourne, AustraliaPatricia M. Desmond, MD, Department of Radiology, The Royal Melbourne Hospital, University of Melbourne, Parkville, AustraliaCorrespondence: R. Kerestes, Department of Psychiatry, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania, USA. Email: kerestesrv@upmc.edu*These authors contributed equally to this work.9112015102015121391482162015218201516102015© 2015 The Royal College of Psychiatrists2015The Royal College of PsychiatristsThis is an open access article distributed under the terms of the Creative Commons Non-Commercial, No Derivatives (CC BY-NC-ND) licence (http://creativecommons.org/licenses/by-nc-nd/4.0/).BackgroundRecent evidence suggests that exercise plays a role in cognition and that the posterior cingulate cortex (PCC) can be divided into dorsal and ventral subregions based on distinct connectivity patterns.AimsTo examine the effect of physical activity and division of the PCC on brain functional connectivity measures in subjective memory complainers (SMC) carrying the epsilon 4 allele of apolipoprotein E (APOE ε4) allele.MethodParticipants were 22 SMC carrying the APOE ε4 allele (ε4+; mean age 72.18 years) and 58 SMC non-carriers (ε4–; mean age 72.79 years). Connectivity of four dorsal and ventral seeds was examined. Relationships between PCC connectivity and physical activity measures were explored.Resultsε4+ individuals showed increased connectivity between the dorsal PCC and dorsolateral prefrontal cortex, and the ventral PCC and supplementary motor area (SMA). Greater levels of physical activity correlated with the magnitude of ventral PCC–SMA connectivity.ConclusionsThe results provide the first evidence that ε4+ individuals at increased risk of cognitive decline show distinct alterations in dorsal and ventral PCC functional connectivity.Declaration of interestD.A. has served on scientific advisory boards for Novartis, Eli Lilly, Janssen, Prana and Pfizer, and as Editor-in-Chief for International Psychogeriatrics; received speaker honoraria from Pfizer and Lundbeck, and research support from Eli Lilly, GlaxoSmithKline, Forest Laboratories, Novartis, and CSIRO. C.L.M. has received consulting fees from Eli Lilly and Prana Biotechnology, and has stock ownership in Prana Biotechnology. C.C.R. has received consultancy payments from Roche and Piramal, and research support from Avid Radiopharmaceuticals, Eli Lilly, GE Healthcare, Piramal and Navidea for amyloid imaging. C.S. has provided clinical consultancy and been on scientific advisory committees for the Australian CSIRO, Alzheimer's Australia, University of Melbourne and other relationships, which are subject to confidentiality clauses; she has been a named Chief Investigator on investigator-driven collaborative research projects in partnership with Pfizer, Merck, Piramal, Bayer and GE Healthcare. Her research programme has received support from the National Health and Medical Research Council Alzheimer's Association, Collier Trust, Scobie and Claire McKinnon Foundation, JO and JR Wicking Trust, Shepherd Foundation, Brain Foundation, Mason Foundation, Ramaciotti Foundation, Alzheimer's Australia and the Royal Australian College of Physicians.Copyright and usage© The Royal College of Psychiatrists 2015. This is an open access article distributed under the terms of the Creative Commons Non-Commercial, No Derivatives (CC BY-NC-ND) licence.The epsilon 4 allele of apolipoprotein E (APOE ε4) is the most well-established genetic susceptibility factor for Alzheimer's disease pathology.1 Heterozygous APOE ε4 carriers are at twofold to threefold increased risk of Alzheimer's disease and the risk is ~12-fold for homozygous carriers.1 Accumulating evidence implicates APOE ε4 with alterations in brain function and structure in otherwise healthy young, middle-aged and older carriers of the APOE ε4 allele.2–4Resting-state functional magnetic resonance imaging (fMRI) is a powerful tool for examining the large-scale organisation of functional connectivity of brain networks in healthy and clinical populations.5 One of the most well-studied intrinsic resting-state networks is the default mode network (DMN). The DMN is a set of brain regions comprising the posterior cingulate, the medial frontal cortex, lateral and inferior parietal cortices, the hippocampus and inferior temporal cortex.6,7 Regions of the DMN are more ‘active’ during rest and are implicated in self-referential and memory-encoding processes (e.g. recalling the past).6,7 Alterations in DMN connectivity have been found in individuals at risk of Alzheimer's disease including individuals with mild cognitive impairment8,9 and subjective memory complainers (SMC),10 consistent with the notion that Alzheimer's disease pathology forms preferentially in regions that represent the DMN.7 However, despite evidence that the APOE ε4 allele modulates DMN connectivity in healthy individuals,11 little is known about how the APOE ε4 allele modulates DMN connectivity in individuals at risk of cognitive decline and progression to Alzheimer's disease.The posterior cingulate cortex (PCC) has a key role in the DMN and is heavily implicated in memory-related processes. Metabolic,12 functional13 and structural abnormalities14 of the PCC have long been implicated in the pathophysiology of Alzheimer's disease.15 Recently, researchers have proposed topographic divisions of the PCC, consisting of dorsal and ventral sub-regions based on their distinct functional connectivity patterns with other intrinsic resting-state networks.15–17 In line with this view, the ventral subdivision of the PCC is connected primarily to other DMN regions to support internally directed thought during the resting state, but deactivates and is anticorrelated with dorsal attention and frontoparietal control network regions when attention is externally focused during cognitive tasks. Similarly, the dorsal PCC also shows rapid deactivation during simple cognitive tasks when attentional demands are high. However, in contrast to the ventral PCC, the dorsal PCC displays a more complex, dynamic pattern of connectivity to regions spanning multiple networks during rest. These include parts of the fronto-parietal network, sensorimotor network regions, as well as lateral and medial temporal cortices.16,17 In light of these findings, it has been suggested that the PCC should not be treated as having a unitary function and rather that the transitional pattern of dorsal PCC connectivity during rest may serve to ‘link’ brain networks that are functionally distinct, to achieve efficient cognitive function.15The primary aim of our study was to assess the association between APOE ε4 and functional connectivity of the dorsal and ventral PCC in a population at risk of cognitive decline and progressing to Alzheimer's disease, namely individuals with SMC with and without mild cognitive changes. Systematically examining dorsal and ventral subdivisions of the PCC is more sensitive to detecting subtle changes in functional connectivity patterns of the PCC. Given that this was the first study to use this approach in a population at risk of Alzheimer's disease, the results of the study have important implications for understanding neurodegenerative processes at the early stages of cognitive decline. We hypothesised that APOE ε4 carriers would show reduced functional connectivity of the dorsal and ventral PCC to predominantly frontoparietal regions and medial temporal cortex, compared with non-carriers. Furthermore, our study population participates in a randomised controlled trial (RCT) investigating the impact of physical activity on the progression of white matter disease.18 There is accumulating evidence of physical activity-induced changes in functional connectivity of large-scale brain networks including fronto-parietal, sensorimotor and DMN regions, in healthy aging adults.19,20 Such changes may be expected to preferentially occur in regions that are affected by age-related cognitive decline including the PCC, and be modulated as a function of genetic vulnerability to Alzheimer's disease. Therefore, a secondary aim of this study was to examine the association between multiple independent measures of physical activity measured at baseline, and resting-state PCC connectivity in APOE ε4 carriers and non-carriers. Based on the available literature, we hypothesised that higher levels of baseline physical activity would be associated with increased PCC connectivity with frontoparietal and sensorimotor network regions.<sec xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" sec-type="methods" id="s1"><title>Method</title><sec id="s1a"><title>Participants</title><p>Twenty-two individuals carrying at least one copy of the APOE <italic>ε</italic>4 gene (referred to as APOE <italic>ε</italic>4+; mean age 72.18 years, s.d.=5.79) and 58 age-, gender- and education-matched non-carriers (APOE <italic>ε</italic>4–; mean age 72.79 years, s.d.=5.69) were recruited from an ongoing RCT assessing the effects of exercise on white matter disease progression<sup><xref rid="r18" ref-type="bibr">18</xref></sup> (<xref ref-type="table" rid="t1">Table 1</xref>). All data reported herein are cross-sectional and were measured at baseline before commencement of intervention. Each participant's MRI data included here satisfied our stringent imaging quality control criteria (see below).</p><table-wrap id="t1" orientation="portrait" position="float"><label>Table 1</label><caption><title>Demographic information, memory scores and volumetric data for APOE ε4+ and APOE ε4- participants</title></caption><table frame="box" rules="rows"><thead valign="bottom"><tr><th align="left" rowspan="1" colspan="1"/><th valign="bottom" align="center" rowspan="1" colspan="1">APOE ε4-<break/><italic>n</italic>=58</th><th valign="bottom" align="center" rowspan="1" colspan="1">APOE ε4+<break/><italic>n</italic>=22</th><th valign="bottom" align="center" rowspan="1" colspan="1">Statistics</th><th valign="bottom" align="center" rowspan="1" colspan="1"><italic>p</italic><break/>(two-tailed)</th></tr></thead><tbody valign="top"><tr><td align="left" rowspan="1" colspan="1">Age, years: mean (s.d.)</td><td align="center" rowspan="1" colspan="1">72.79 (5.69)</td><td align="center" rowspan="1" colspan="1">72.18 (5.79)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=0.42</td><td align="center" rowspan="1" colspan="1">0.67</td></tr><tr><td align="left" rowspan="1" colspan="1">Female, % (<italic>n</italic>)</td><td align="center" rowspan="1" colspan="1">53 (31)</td><td align="center" rowspan="1" colspan="1">63 (14)</td><td align="center" rowspan="1" colspan="1"><italic>χ<sup>2</sup></italic>(1)=0.67</td><td align="center" rowspan="1" colspan="1">0.41</td></tr><tr><td align="left" rowspan="1" colspan="1">Education, years: mean (s.d.)</td><td align="center" rowspan="1" colspan="1">14.34 (3.54)</td><td align="center" rowspan="1" colspan="1">14.45 (4.47)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=0.11</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE, mean (s.d.)</td><td align="center" rowspan="1" colspan="1">28.67 (1.71)</td><td align="center" rowspan="1" colspan="1">28.77 (1.37)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=0.24</td><td align="center" rowspan="1" colspan="1">0.80</td></tr><tr><td align="left" rowspan="1" colspan="1">ADAS-Cog 11 score, mean (s.d.)</td><td align="center" rowspan="1" colspan="1">7.27 (3.92)</td><td align="center" rowspan="1" colspan="1">7.18 (3.43)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=0.09</td><td align="center" rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">PA, no. steps per week<xref ref-type="table-fn" rid="t1n2"><sup>a</sup></xref></td><td align="center" rowspan="1" colspan="1">50 436</td><td align="center" rowspan="1" colspan="1">60 329</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(77)=1.80</td><td align="center" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">PA, no. minutes MIE per week: mean (s.d.)</td><td align="center" rowspan="1" colspan="1">143 (117)</td><td align="center" rowspan="1" colspan="1">187 (109)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=1.43</td><td align="center" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">PA, distance 6-minute walk test: mean (s.d.)</td><td align="center" rowspan="1" colspan="1">487.65 (91.83)</td><td align="center" rowspan="1" colspan="1">526.09 (89.53)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=1.68</td><td align="center" rowspan="1" colspan="1">0.09</td></tr><tr><td align="left" rowspan="1" colspan="1">Whole brain volume, mean (s.d.)<xref ref-type="table-fn" rid="t1n3"><sup>b</sup></xref></td><td align="center" rowspan="1" colspan="1">69 (0.05)</td><td align="center" rowspan="1" colspan="1">68 (0.06)</td><td align="center" rowspan="1" colspan="1"><italic>t</italic>(78)=0.77</td><td align="center" rowspan="1" colspan="1">0.79</td></tr></tbody></table><table-wrap-foot><fn id="t1n1"><p>APOE ε+, apolipoprotein 4 allele carrier; APOE ε4−, apolipoprotein 4 allele non-carrier; s.d., standard deviation; MMSE, Mini-Mental State Examination; ADAS-Cog, Alzheimer's Disease Assessment Scale-cognition; PA, physical activity; MIE; moderate intensity exercise.</p></fn><fn id="t1n2"><label>a</label><p>Data missing for one participant.</p></fn><fn id="t1n3"><label>b</label><p>Whole brain volume expressed as a % of total intracranial volume.</p></fn></table-wrap-foot></table-wrap><p>Of the 22 APOE <italic>ε</italic>4+ SMC individuals, 9 had accompanying mild cognitive changes. In the APOE <italic>ε</italic>4– group, 15 SMC individuals had accompanying mild cognitive changes. To be included in the study, participants had to meet the following criteria to be designated as an SMC: answer ‘yes’ to the following question: ‘Do you have any difficulty with your memory?’ yet score in the range of normal control groups for their age and gender on the cognitive battery of the Consortium to Establish a Registry for Alzheimer's Disease (CERAD).<sup><xref rid="r21" ref-type="bibr">21</xref></sup> In addition, the presence of accompanying mild cognitive impairments was assessed using the following subjective and objective measures: (a) subjective memory complaint, (b) evidence of impairment on objective tasks (measured with a score on the CERAD lower than −1.5 s.d. or more compared with the normal control groups on any of the CERAD subtests, and (c) preserved activities of daily living, and only minimal impairment in complex instrumental functions. All participants did not have dementia. Details regarding demographic measures, physical activity measures, as well as inclusion/exclusion criteria can be found in the <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link>. All participants provided written informed consent after a full description of the Aibl Active trial protocol was given to them. The Aibl Active trial (Trial registration number ACTRN12611000612910) was approved by the Melbourne Health Human Research Ethics Committee (HREC 2011.014) and is fully compliant with the guidelines of the World Medical Association Declaration of Helsinki.</p></sec><sec id="s1b"><title>APOE genotyping</title><p>APOE genotype was determined using polymerase chain reac-tion amplification and restriction enzyme digestions by the method previously described<sup><xref rid="r22" ref-type="bibr">22</xref></sup> (see <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link>). Observed genotypic frequencies were as follows: APOE <italic>ε</italic>2/APOE <italic>ε</italic>2 (<italic>n</italic>=2), APOE <italic>ε</italic>2/APOE <italic>ε</italic>4 (<italic>n</italic>=3), APOE <italic>ε</italic>3/APOE <italic>ε</italic>2 (<italic>n</italic>=7), APOE <italic>ε</italic>3/APOE <italic>ε</italic>3 (<italic>n</italic>=49), APOE <italic>ε</italic>3/APOE <italic>ε</italic>4 (<italic>n</italic>=18), and APOE <italic>ε</italic>4/APOE <italic>ε</italic>4 (<italic>n</italic>=1).</p></sec><sec id="s1c"><title>Image acquisition</title><p>Scanning was performed on a 3T Siemens (Siemens Medical-Erlangen, Germany) Tim Trio scanner equipped with a 12-channel phased-array coil (Royal Melbourne Hospital, Melbourne, Australia). See <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link> for more details.</p></sec><sec id="s1d"><title>Study-specific template</title><p>An unbiased, study-specific template was generated from the T1-MPRAGE nifti images for 25 healthy individuals (12 male, 13 female) who were part of the larger Aibl trial. The template was created using the Advanced Normalization Tools (ANTS) 1.9.v4 build template parallel script<sup><xref rid="r23" ref-type="bibr">23</xref></sup> (see <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link>). Using a group-wise averaged template has the advantage of preserving the distinct anatomical features of our older participants much more closely than with direct spatial normalisation to the standard SPM template MNI152.</p></sec><sec id="s1e"><title>Image preprocessing</title><p>Imaging data were transferred and processed on a Linux platform running MATLAB version 8.0 (The MathWorks, Natick, Massachusetts, USA). Preprocessing was performed with Statistical Parametric Mapping software (SPM8; Wellcome Trust Centre for Neuroimaging, UK) using a preprocessing pipeline as reported in Kerestes <italic>et al</italic>.<sup><xref rid="r24" ref-type="bibr">24</xref></sup> In brief, preprocessing involved the following steps: slice timing correction, motion correction, co-registration of each participant's echo planar images to their respective co-registered T<sub>1</sub> image, spatial normalisation of both the structural and functional images (re-sliced to 2 mm) and spatial smoothing with a 6 mm full width half maximum Gaussian filter (see <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link> for additional information).</p></sec><sec id="s1f"><title>Functional connectivity analysis</title><p>We performed a detailed multiple region of interest (‘seed-based ROI’) analysis. Our approach was based on the method of Margulies <italic>et al</italic>.<sup><xref rid="r16" ref-type="bibr">16</xref></sup> Of note, Margulies and colleagues<sup><xref rid="r16" ref-type="bibr">16</xref></sup> used 21 right hemisphere seeds to define the PCC and precuneus, 8 of which were used to characterise the PCC. In the current analysis, we adopted four of these seeds for our examination of functional connectivity of the dorsal and ventral PCC. The seeds were chosen because of their cytotectonic placement within clearly defined dorsal and ventral divisions of the PCC (see <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link> for sulcal landmarks). Seeds were placed bilaterally in the dorsal and ventral PCC along a rostral–caudal axis with the following coordinates: dorsal PCC (rostral; <italic>x</italic>=±2, <italic>y</italic>=−36, <italic>z</italic>=35); dorsal PCC (caudal; <italic>x</italic>=±2, <italic>y</italic>=−47, <italic>z</italic>=35); ventral PCC (rostral; <italic>x</italic>=±1, <italic>y</italic>=−67, <italic>z</italic>=22); ventral PCC (caudal; <italic>x</italic>=±2, <italic>y</italic>=−59, <italic>z</italic>=11) (<xref ref-type="fig" rid="f1">Fig. 1</xref>). In addition to our signals of interest, we derived estimates of white matter, cerebrospinal fluid (CSF) and global signal fluctuations for each participant by segmenting each participant's anatomical scan. Grey matter, white matter and CSF tissue maps were thresholded to ensure 50% tissue probability and binarised to create three nuisance variable masks (white matter, CSF and a whole brain mask). Signals were then extracted for each seed region and nuisance mask by calculating the mean ROI value across the times series for each participant.</p><fig id="f1" orientation="portrait" position="float"><label>Fig. 1</label><caption><title>Placement of the posterior cingulate cortex seed regions of interest on a 2 mm resolution anatomical study-specific template.</title><p>The study-specific template is registered to Montreal Neurological Institute space. Seed placement reflects the cytotectonic organization of the posterior cingulate cortex (PCC) where seeds 1 and 2 correspond to the dorsal PCC and seeds 3 and 4, the ventral PCC.</p></caption><graphic xlink:href="bjporcpsych001339-g001"/></fig><p>Functional connectivity maps were estimated for each PCC region for each participant by including the PCC time series and nuisance signals as predictors of interest and no interest, respectively, in whole brain, linear regression analyses in SPM8, conduced separately for each hemisphere. A high-pass filter of 128 s was used to remove low-frequency drifts. Each of the three nuisance covariates were fully orthogonalised and then removed from each seed's time series along with six head-motion parameters (3 translation, 3 rotation estimates) by liner regression, resulting in a general linear model that comprised four ‘noise-cleaned’ seeds and nine nuisance variables. Contrast images were generated for each participant by estimating the regression coefficient between all brain voxels and each region's time series respectively.</p><p>For second-level, between-group analyses, a random effects 2 × 2 (group (APOE <italic>ε</italic>4+, APOE <italic>ε</italic>4–)) × (hemisphere (left seed, right seed)) factorial design was used in SPM8. Within-group statistical maps were thresholded at a false discovery rate (FDR) of <italic>P</italic>&lt;0.05 for the whole brain. As an additional control for residual head motion influences, the mean inter-scan motion (calculated as the mean displacement between volumes across the scan) for each participant was included as a covariate in the second-level analysis as reported in Van Dijk <italic>et al</italic>.<sup><xref rid="r25" ref-type="bibr">25</xref></sup> In addition, to control for heterogeneity in cognitive and functional deficits across SMC individuals, we took a continuous approach through analysis of covariance by including the presence or absence of mild cognitive changes as a covariate in our second-level analysis. We note that including the presence or absence of mild cognitive changes in our second-level models did not change the results (see <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material Fig. DS1</ext-link>). Each model in our second-level analysis was also covaried for age and gender. Between-group statistical maps were thresholded using a <italic>P</italic>&lt;0.001 cluster-wise corrected threshold determined using a permutation-based framework (1000 permutations with a cluster-forming threshold of <italic>P</italic>&lt;0.001) as implemented in the REST toolbox.<sup><xref rid="r26" ref-type="bibr">26</xref></sup> The minimum estimated cluster-sizes for significant connectivity with each seed were: dorsal PCC (rostral), 26 voxels; dorsal PCC (caudal), 25 voxels; ventral PCC (rostral), 26 voxels; ventral PCC (caudal), 18 voxels. See <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link> for details on how cluster sizes were calculated.</p></sec><sec id="s1g"><title>Brain–behaviour correlations</title><p>To examine the relationship between PCC functional connectivity and measures of baseline physical activity in the APOE <italic>ε</italic>4+ group, we performed a multiple linear regression analysis between two different measures of physical activity, one measure of endurance fitness, and connectivity of the four seed region connectivity maps. These measurements were: (a) total minutes of regular moderate-vigorous intensity (SCI);<sup><xref rid="r27" ref-type="bibr">27</xref></sup> (b) the 6-min walk test, a validated, objective measure of cardiovascular endurance,<sup><xref rid="r28" ref-type="bibr">28</xref></sup> measured by the maximum distance walked in a 20 m measured course; and (c) total number of steps taken per week, as objectively measured by a pedometer (Digi-Walker SW-200, Yamax, Tokyo, Japan) adjusted for time-on and time-off (e.g. when type of physical activity does not permit wearing the pedometer such as swimming). Results were displayed at <italic>P</italic>&lt;0.01 cluster-wise corrected using a permutation-based framework (1000 permutations with a cluster-forming threshold of <italic>P</italic>&lt;0.01) as implemented in the REST toolbox<sup><xref rid="r26" ref-type="bibr">26</xref></sup> (see <ext-link ext-link-type="uri" xlink:href="http://bjpo.rcpsych.org/lookup/suppl/doi:10.1192/bjpo.bp.115.001339/-/DC1">supplementary material</ext-link> for additional information).</p></sec></sec>AcknowledgementsWe thank all the participants and our research staff for contributing to the study. We thank AIBL (www.aibl.csiro.au) for their support.FundingThis work is supported by a project grant from the Australian National Health and Medical Research Council awarded to N.T.L., P.M.D., K.C., D.A., C.S., K.A.E., P.M.P., and C.M. (ID: 1005492).References1Bertram
+L, McQueen
+MB, Mullin
+K, Blacker
+D, Tanzi
+RE.
+Systematic meta-analyses of Alzheimer disease genetic association studies: the AlzGene database. Nat Genet
+2007; 39: 17–23.171927852Fleisher
+AS, Sherzai
+A, Taylor
+C, Langbaum
+JB, Chen
+K, Buxton
+RB.
+Resting-state BOLD networks versus task-associated functional MRI for distinguishing Alzheimer's disease risk groups. Neuroimage
+2009; 47: 1678–90.195390343Filippini
+N, MacIntosh
+BJ, Hough
+MG, Goodwin
+GM, Frisoni
+GB, Smith
+SM, et al
+Distinct patterns of brain activity in young carriers of the APOE-epsilon4 allele. Proc Natl Acad Sci U S A
+2009; 106: 7209–14.193573044Machulda
+MM, Jones
+DT, Vemuri
+P, McDade
+E, Avula
+R, Przybelski
+S, et al.
+Effect of APOE ε4 status on intrinsic network connectivity in cognitively normal elderly subjects. Arch Neurol
+2011; 68: 1131–6.215556045Fornito
+A, Bullmore
+ET.
+What can spontaneous fluctuations of the blood oxygenation-level-dependent signal tell us about psychiatric disorders?
+Curr Opin Psychiatry
+2010; 23: 239–49.202162196Raichle
+ME, MacLeod
+AM, Snyder
+AZ, Powers
+WJ, Gusnard
+DA, Shulman
+GL.
+A default mode of brain function. Proc Natl Acad Sci U S A
+2001; 98: 676–82.112090647Buckner
+RL, Andrews-Hanna
+JR, Schacter
+DL.
+The brain's default network: anatomy, function, and relevance to disease. Ann N Y Acad Sci
+2008; 1124: 1–38.184009228Sorg
+C, Riedl
+V, Muhlau
+M, Calhoun
+VD, Eichele
+T, Laer
+L, et al
+Selective changes of resting-state networks in individuals at risk for Alzheimer's disease. Proc Natl Acad Sci U S A
+2007; 104: 18760–5.180039049Petrella
+JR, Sheldon
+FC, Prince
+SE, Calhoun
+VD, Doraiswamy
+PM.
+Default mode network connectivity in stable vs progressive mild cognitive impairment. Neurology
+2011; 76: 511–7.2122829710Hafkemeijer
+A, Altmann-Schneider
+I, Oleksik
+AM, van de Wiel
+L, Middelkoop
+HA, van Buchem
+MA, et al
+Increased functional connectivity and brain atrophy in elderly with subjective memory complaints. Brain Connect
+2013; 3: 353–62.2362766111Sheline
+YI, Morris
+JC, Snyder
+AZ, Price
+JL, Yan
+Z, D’Angelo
+G, et al
+APOE4 allele disrupts resting state fMRI connectivity in the absence of amyloid plaques or decreased CSF Aβ42. J Neurosci
+2010; 30: 17035–40.2115997312Minoshima
+S, Giordani
+B, Berent
+S, Frey
+KA, Foster
+NL, Kuhl
+DE.
+Metabolic reduction in the posterior cingulate cortex in very early Alzheimer's disease. Ann Neurol
+1997; 42: 85–94.922568913Greicius
+MD, Srivastava
+G, Reiss
+AL, Menon
+V.
+Default-mode network activity distinguishes Alzheimer's disease from healthy aging: evidence from functional MRI. Proc Natl Acad Sci U S A
+2004; 101: 4637–42.1507077014Buckner
+RL, Snyder
+AZ, Shannon
+BJ, LaRossa
+G, Sachs
+R, Fotenos
+AF, et al
+Molecular, structural, and functional characterization of Alzheimer's disease: evidence for a relationship between default activity, amyloid, and memory. J Neurosci
+2005; 25: 7709–17.1612077115Leech
+R, Sharp
+DJ.
+The role of the posterior cingulate cortex in cognition and disease. Brain
+2014; 137: 12–32.2386910616Margulies
+DS, Vincent
+JL, Kelly
+C, Lohmann
+G, Uddin
+LQ, Biswal
+BB, et al.
+Precuneus shares intrinsic functional architecture in humans and monkeys. Proc Natl Acad Sci U S A
+2009; 106: 20069–74.1990387717Leech
+R, Braga
+R, Sharp
+DJ.
+Echoes of the brain within the posterior cingulate cortex. J Neurosci
+2012; 32: 215–22.2221928318Cyarto
+EV, Lautenschlager
+NT, Desmond
+PM, Ames
+D, Szoeke
+C, Salvado
+O, et al
+Protocol for a randomized controlled trial evaluating the effect of physical activity on delaying the progression of white matter changes on MRI in older adults with memory complaints and mild cognitive impairment: the AIBL Active trial. BMC Psychiatry
+2012; 12: 167.2305082919Voss
+MW, Prakash
+RS, Erickson
+KI, Basak
+C, Chaddock
+L, Kim
+JS, et al
+Plasticity of brain networks in a randomized intervention trial of exercise training in older adults. Front Aging Neurosci
+2010a; 2: e32.20Voss
+MW, Erickson
+KI, Prakash
+RS, Chaddock
+L, Malkowski
+E, Alves
+H, et al
+Functional connectivity: a source of variance in the association between cardiorespiratory fitness and cognition?
+Neuropsychologia
+2010; 48: 1394–406.2007975521Welsh
+KA, Butters
+N, Mohs
+RC, Beekly
+D, Edland
+S, Fillenbaum
+G, et al
+The consortium to establish a registry for Alzheimer's disease (CERAD). Part V. A normative study of the neuropsychological battery. Neurology
+1994; 44: 609–14.816481222Hixson
+JE, Vernier
+DT.
+Restriction isotyping of human apolipoprotein E by gene amplification and cleavage with HhaI. J Lipid Res
+1990; 31: 545–8.234181323Avants
+BB, Tustison
+NJ, Song
+G, Cook
+PA, Klein
+A, Gee
+JC.
+A reproducible evaluation of ANTs similarity metric performance in brain image registration. Neuroimage
+2011; 54: 2033–44.2085119124Kerestes
+R, Harrison
+BJ, Dandash
+O, Stephanou
+K, Whittle
+S, Pujol
+J, et al
+Specific functional connectivity alterations of the dorsal striatum in young people with depression. Neuroimage Clin
+2014; 7: 266–72.2561078925Van Dijk
+KR, Hedden
+T, Venkataraman
+A, Evans
+KC, Lazar
+SW, Buckner
+RL.
+Intrinsic functional connectivity as a tool for human connectomics: theory, properties, and optimization. J Neurophysiol
+2010; 103: 297–321.1988984926Song
+XW, Dong
+ZY, Long
+XY, Li
+SF, Zuo
+XN, Zhu
+CZ, et al
+REST: a toolkit for resting-state functional magnetic resonance imaging data processing. PLoS One
+2011; 6: e25031.2194984227Marcus
+BH, Banspach
+SW, Lefebvre
+RC, Rossi
+JS, Carleton
+RA, Abrams
+DB.
+Using the stages of change model to increase the adoption of physical activity among community participants. Am J Health Promot
+1992; 6: 424–9.1014680328Rickli
+RE, Jones
+CJ.
+The reliability and validity of a 6-minute walk test as a measure of physical endurance in older adults. JAPA
+1998; 6: 363–75.29Yang
+AC, Huang
+CC, Liu
+ME, Liou
+YJ, Hong
+CJ, Lo
+MT, et al
+The APOE ɛ4 allele affects complexity and functional connectivity of resting brain activity in healthy adults. Hum Brain Mapp
+2014; 35: 3238–48.2419389330Hagmann
+P, Cammoun
+L, Gigandet
+X, Meuli
+R, Honey
+CJ, Wedeen
+VJ, et al
+Mapping the structural core of human cerebral cortex. PLoS Biol
+2008; 6: e159.1859755431Kobayashi
+Y, Amaral
+DG.
+Macaque monkey retrosplenial cortex: III. Cortical efferents. J Comp Neurol
+2007; 502: 810–33.1743628232Gili
+T, Cercignani
+M, Serra
+L, Perri
+R, Giove
+F, Maraviglia
+B, et al
+Regional brain atrophy and functional disconnection across Alzheimer's disease evolution. J Neurol Neurosurg Psychiatry
+2011; 82: 58–66.2063938433Zhang
+HY, Wang
+SJ, Xing
+J, Liu
+B, Ma
+ZL, Yang
+M, et al
+Detection of PCC functional connectivity characteristics in resting-state fMRI in mild Alzheimer's disease. Behav Brain Res
+2009; 197: 103–8.1878657034Vincent
+JL, Kahn
+I, Snyder
+AZ, Raichle
+ME, Buckner
+RL.
+Evidence for a frontoparietal control system revealed by intrinsic functional connectivity. J Neurophysiol
+2008; 100: 3328–42.1879960135Middleton
+LE, Barnes
+DE, Lui
+LY, Yaffe
+K.
+Physical activity over the life course and its association with cognitive performance and impairment in old age. J Am Geriatr Soc
+2010; 58: 1322–6.2060903036Scarmeas
+N, Luchsinger
+JA, Schupf
+N, Brickman
+AM, Cosentino
+S, Tang
+MX, et al
+Physical activity, diet, and risk of Alzheimer disease. JAMA
+2009; 302: 627–37.1967190437Lautenschlager
+NT, Cox
+KL, Flicker
+L, Foster
+JK, van Bockxmeer
+FM, Xiao
+J, et al
+Effect of physical activity on cognitive function in older adults at risk for Alzheimer disease: a randomized trial. JAMA
+2008; 300: 1027–37.1876841438Baker
+LD, Frank
+LL, Foster-Schubert
+K, Green
+PS, Wilkinson
+CW, McTiernan
+A, et al
+Effects of aerobic exercise on mild cognitive impairment: a controlled trial. Arch Neurol
+2010; 67: 71–9.2006513239Wu
+T, Hallett
+M.
+The influence of normal human ageing on automatic movements. J Physiol
+2005; 562: 605–15.15513939

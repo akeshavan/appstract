@@ -1,0 +1,529 @@
+{
+  "id": [
+    "25389443"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25389443"
+  ],
+  "pmcid": [
+    "PMC4217361"
+  ],
+  "doi": [
+    "10.1155/2014/682014"
+  ],
+  "title": [
+    "Proof-of-Concept Randomized Controlled Study of Cognition Effects of the Proprietary Extract Sceletium tortuosum (Zembrin) Targeting Phosphodiesterase-4 in Cognitively Healthy Subjects: Implications for Alzheimer's Dementia."
+  ],
+  "authorString": [
+    "Chiu S, Gericke N, Farina-Woodbury M, Badmaev V, Raheb H, Terpstra K, Antongiorgi J, Bureau Y, Cernovsky Z, Hou J, Sanchez V, Williams M, Copen J, Husni M, Goble L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Chiu S"
+          ],
+          "firstName": [
+            "Simon"
+          ],
+          "lastName": [
+            "Chiu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2 ; Department of Psychiatry, University of Western Ontario, London, ON, Canada N6A 3K7."
+          ]
+        },
+        {
+          "fullName": [
+            "Gericke N"
+          ],
+          "firstName": [
+            "Nigel"
+          ],
+          "lastName": [
+            "Gericke"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4212-1487",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical and Scientific of HG & H Pharmaceuticals (Pty) Ltd., 193 Bryanston Drive, Bryanston 2192, South Africa."
+          ]
+        },
+        {
+          "fullName": [
+            "Farina-Woodbury M"
+          ],
+          "firstName": [
+            "Michel"
+          ],
+          "lastName": [
+            "Farina-Woodbury"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Medicine, University of Puerto Rico, San Juan, PR 00936-5067, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Badmaev V"
+          ],
+          "firstName": [
+            "Vladimir"
+          ],
+          "lastName": [
+            "Badmaev"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3737-2847",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Medical and Scientific Affairs, P L Thomas & Co., Inc., Morristown, NJ 07960, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Raheb H"
+          ],
+          "firstName": [
+            "Hana"
+          ],
+          "lastName": [
+            "Raheb"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5947-1075",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        },
+        {
+          "fullName": [
+            "Terpstra K"
+          ],
+          "firstName": [
+            "Kristen"
+          ],
+          "lastName": [
+            "Terpstra"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        },
+        {
+          "fullName": [
+            "Antongiorgi J"
+          ],
+          "firstName": [
+            "Joalex"
+          ],
+          "lastName": [
+            "Antongiorgi"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Medicine, University of Puerto Rico, San Juan, PR 00936-5067, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bureau Y"
+          ],
+          "firstName": [
+            "Yves"
+          ],
+          "lastName": [
+            "Bureau"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        },
+        {
+          "fullName": [
+            "Cernovsky Z"
+          ],
+          "firstName": [
+            "Zack"
+          ],
+          "lastName": [
+            "Cernovsky"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2 ; Department of Psychiatry, University of Western Ontario, London, ON, Canada N6A 3K7."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou J"
+          ],
+          "firstName": [
+            "Jirui"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanchez V"
+          ],
+          "firstName": [
+            "Veronica"
+          ],
+          "lastName": [
+            "Sanchez"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams M"
+          ],
+          "firstName": [
+            "Marissa"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        },
+        {
+          "fullName": [
+            "Copen J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Copen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Island Medical Program, University of Victoria, University British Columbia Extended Medical Campus, Victoria, BC, Canada V8W 2Y2."
+          ]
+        },
+        {
+          "fullName": [
+            "Husni M"
+          ],
+          "firstName": [
+            "Mariwan"
+          ],
+          "lastName": [
+            "Husni"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Northern Ontario School of Medicine, Thunder Bay, ON, Canada P7B 5E1."
+          ]
+        },
+        {
+          "fullName": [
+            "Goble L"
+          ],
+          "firstName": [
+            "Liz"
+          ],
+          "lastName": [
+            "Goble"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3737-2847",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-5947-1075",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4212-1487",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2014"
+      ],
+      "journalIssueId": [
+        "2125025"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based complementary and alternative medicine : eCAM"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "682014"
+  ],
+  "abstractText": [
+    "Introduction. Converging evidence suggests that PDE-4 (phosphodiesterase subtype 4) plays a crucial role in regulating cognition via the PDE-4-cAMP cascade signaling involving phosphorylated cAMP response element binding protein (CREB). Objective. The primary endpoint was to examine the neurocognitive effects of extract Sceletium tortuosum (Zembrin) and to assess the safety and tolerability of Zembrin in cognitively healthy control subjects. Method. We chose the randomized double-blind placebo-controlled cross-over design in our study. We randomized normal healthy subjects (total n = 21) to receive either 25 mg capsule Zembrin or placebo capsule once daily for 3 weeks, in a randomized placebo-controlled 3-week cross-over design. We administered battery of neuropsychological tests: CNS Vital Signs and Hamilton depression rating scale (HAM-D) at baseline and regular intervals and monitored side effects with treatment emergent adverse events scale. Results. 21 subjects (mean age: 54.6 years ± 6.0 yrs; male/female ratio: 9/12) entered the study. Zembrin at 25 mg daily dosage significantly improved cognitive set flexibility (P < 0.032) and executive function (P < 0.022), compared with the placebo group. Positive changes in mood and sleep were found. Zembrin was well tolerated. Conclusion. The promising cognitive enhancing effects of Zembrin likely implicate the PDE-4-cAMP-CREB cascade, a novel drug target in the potential treatment of early Alzheimer's dementia. This trial is registered with ClinicalTrials.gov NCT01805518."
+  ],
+  "affiliation": [
+    "Lawson Health Research Institute, Lab FB125, 268 Grosvenor Street, London, ON, Canada N6A 4V2 ; Department of Psychiatry, University of Western Ontario, London, ON, Canada N6A 3K7."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4217361?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4217361"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2014/682014"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-11-12"
+  ],
+  "dateOfCreation": [
+    "2014-11-12"
+  ],
+  "dateOfRevision": [
+    "2017-02-21"
+  ],
+  "electronicPublicationDate": [
+    "2014-10-19"
+  ],
+  "firstPublicationDate": [
+    "2014-10-19"
+  ]
+}

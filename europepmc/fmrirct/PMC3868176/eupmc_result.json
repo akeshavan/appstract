@@ -1,0 +1,372 @@
+{
+  "id": [
+    "24363974"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24363974"
+  ],
+  "pmcid": [
+    "PMC3868176"
+  ],
+  "doi": [
+    "10.1002/brb3.181"
+  ],
+  "title": [
+    "Thalamo-striato-cortical determinants to fatigue in multiple sclerosis."
+  ],
+  "authorString": [
+    "Engström M, Flensner G, Landtblom AM, Ek AC, Karlsson T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Engström M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Engström"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2167-2450",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Radiology, Department of Medical and Health Sciences, Linköping University Linköping, Sweden ; Center for Medical Image Science and Visualization (CMIV), Linköping University Linköping, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Flensner G"
+          ],
+          "firstName": [
+            "Gullvi"
+          ],
+          "lastName": [
+            "Flensner"
+          ],
+          "initials": [
+            "G"
+          ],
+          "affiliation": [
+            "Nursing Science, Department of Medical and Health Sciences, Linköping University Linköping, Sweden ; Department of Nursing, Health and Culture, University West Trollhättan, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Landtblom AM"
+          ],
+          "firstName": [
+            "Anne-Marie"
+          ],
+          "lastName": [
+            "Landtblom"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Center for Medical Image Science and Visualization (CMIV), Linköping University Linköping, Sweden ; Neuroscience, Department of Clinical and Experimental Medicine (IKE), Department of Neurology, Linköping University, County Council of Östergötland Linköping, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Ek AC"
+          ],
+          "firstName": [
+            "Anna-Christina"
+          ],
+          "lastName": [
+            "Ek"
+          ],
+          "initials": [
+            "AC"
+          ],
+          "affiliation": [
+            "Nursing Science, Department of Medical and Health Sciences, Linköping University Linköping, Sweden."
+          ]
+        },
+        {
+          "fullName": [
+            "Karlsson T"
+          ],
+          "firstName": [
+            "Thomas"
+          ],
+          "lastName": [
+            "Karlsson"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Center for Medical Image Science and Visualization (CMIV), Linköping University Linköping, Sweden ; Department of Behavioural Science and Learning, Linköping University Linköping, Sweden."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2167-2450",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2108427"
+      ],
+      "dateOfPublication": [
+        "2013 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Brain and behavior"
+          ],
+          "ISOAbbreviation": [
+            "Brain Behav"
+          ],
+          "medlineAbbreviation": [
+            "Brain Behav"
+          ],
+          "NLMid": [
+            "101570837"
+          ],
+          "ISSN": [
+            "2162-3279"
+          ],
+          "ESSN": [
+            "2162-3279"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "715-728"
+  ],
+  "abstractText": [
+    "BACKGROUND: The aim was to explore the thalamo-striato-cortical theory of central fatigue in multiple sclerosis (MS) patients with self-reported fatigue. If the theory correctly predicted fatigue based on disruptions of the thalamo-striato-cortical network, we expected altered brain activation in this network in MS participants while performing a complex cognitive task that challenged fatigue. METHODS: MS participants with self-reported fatigue were examined by functional magnetic resonance imaging (fMRI) during the performance of a complex working memory task. In this task, cognitive effort was challenged by a parametric design, which modeled the cerebral responses at increasing cognitive demands. In order to explore the theory of central fatigue in MS we also analyzed the cerebral responses by adding perceived fatigue scores as covariates in the analysis and by calculating the functional connectivity between regions in the thalamo-striatocortical network. The main findings were that MS participants elicited altered brain responses in the thalamo-striato-cortical network, and that brain activation in the left posterior parietal cortex and the right substantia nigra was positively correlated to perceived fatigue ratings. MS participants had stronger cortical-to-cortical and subcortical-to-subcortical connections, whereas they had weaker cortical-to-subcortical connections. CONCLUSIONS: The findings of the present study indicate that the thalamo-striato-cortical network is involved in the pathophysiology of fatigue in MS, and provide support for the theory of central fatigue. However, due to the limited number of participants and the somewhat heterogeneous sample of MS participants, these results have to be regarded as tentative, though they might serve as a basis for future studies."
+  ],
+  "affiliation": [
+    "Radiology, Department of Medical and Health Sciences, Linköping University Linköping, Sweden ; Center for Medical Image Science and Visualization (CMIV), Linköping University Linköping, Sweden."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Substantia nigra",
+        "Functional magnetic resonance imaging",
+        "Working memory",
+        "Parietal cortex",
+        "Basal Ganglia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3868176?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3868176"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24363974/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24363974/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/brb3.181"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "19"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-12-23"
+  ],
+  "dateOfCreation": [
+    "2013-12-23"
+  ],
+  "dateOfRevision": [
+    "2013-12-25"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-11"
+  ],
+  "firstPublicationDate": [
+    "2013-10-11"
+  ]
+}

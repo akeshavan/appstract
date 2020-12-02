@@ -1,0 +1,498 @@
+{
+  "id": [
+    "27081657"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27081657"
+  ],
+  "pmcid": [
+    "PMC4818747"
+  ],
+  "doi": [
+    "10.1002/acn3.288"
+  ],
+  "title": [
+    "A randomized placebo-controlled lovastatin trial for neurobehavioral function in neurofibromatosis I."
+  ],
+  "authorString": [
+    "Bearden CE, Hellemann GS, Rosser T, Montojo C, Jonas R, Enrique N, Pacheco L, Hussain SA, Wu JY, Ho JS, McGough JJ, Sugar CA, Silva AJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bearden CE"
+          ],
+          "firstName": [
+            "Carrie E"
+          ],
+          "lastName": [
+            "Bearden"
+          ],
+          "initials": [
+            "CE"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Hellemann GS"
+          ],
+          "firstName": [
+            "Gerhard S"
+          ],
+          "lastName": [
+            "Hellemann"
+          ],
+          "initials": [
+            "GS"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Rosser T"
+          ],
+          "firstName": [
+            "Tena"
+          ],
+          "lastName": [
+            "Rosser"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Children's Hospital Los Angeles USC Keck School of Medicine Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Montojo C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Montojo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Jonas R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Jonas"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral SciencesSemel Institute for Neuroscience and Human BehaviorUniversity of CaliforniaLos AngelesLos AngelesCalifornia; Interdepartmental Neuroscience ProgramUniversity of CaliforniaLos AngelesLos AngelesCalifornia."
+          ]
+        },
+        {
+          "fullName": [
+            "Enrique N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Enrique"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Pacheco L"
+          ],
+          "firstName": [
+            "Laura"
+          ],
+          "lastName": [
+            "Pacheco"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Hussain SA"
+          ],
+          "firstName": [
+            "Shaun A"
+          ],
+          "lastName": [
+            "Hussain"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Division of Pediatric Neurology University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu JY"
+          ],
+          "firstName": [
+            "Joyce Y"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "JY"
+          ],
+          "affiliation": [
+            "Division of Pediatric Neurology University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Ho JS"
+          ],
+          "firstName": [
+            "Jennifer S"
+          ],
+          "lastName": [
+            "Ho"
+          ],
+          "initials": [
+            "JS"
+          ],
+          "affiliation": [
+            "San Diego State University/University of California San Diego Joint Doctoral Program in Clinical Psychology Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "McGough JJ"
+          ],
+          "firstName": [
+            "James J"
+          ],
+          "lastName": [
+            "McGough"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+          ]
+        },
+        {
+          "fullName": [
+            "Sugar CA"
+          ],
+          "firstName": [
+            "Catherine A"
+          ],
+          "lastName": [
+            "Sugar"
+          ],
+          "initials": [
+            "CA"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral SciencesSemel Institute for Neuroscience and Human BehaviorUniversity of CaliforniaLos AngelesLos AngelesCalifornia; Department of BiostatisticsUniversity of CaliforniaLos AngelesLos AngelesCalifornia."
+          ]
+        },
+        {
+          "fullName": [
+            "Silva AJ"
+          ],
+          "firstName": [
+            "Alcino J"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Departments of Psychiatry and Biobehavioral SciencesSemel Institute for Neuroscience and Human BehaviorUniversity of CaliforniaLos AngelesLos AngelesCalifornia; Department of NeurobiologyUniversity of CaliforniaLos AngelesLos AngelesCalifornia."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2398656"
+      ],
+      "dateOfPublication": [
+        "2016 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Annals of clinical and translational neurology"
+          ],
+          "ISOAbbreviation": [
+            "Ann Clin Transl Neurol"
+          ],
+          "medlineAbbreviation": [
+            "Ann Clin Transl Neurol"
+          ],
+          "NLMid": [
+            "101623278"
+          ],
+          "ISSN": [
+            "2328-9503"
+          ],
+          "ESSN": [
+            "2328-9503"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "266-279"
+  ],
+  "abstractText": [
+    "Lovastatin has been shown to reverse learning deficits in a mouse model of Neurofibromatosis Type 1 (NF1), a common monogenic disorder caused by a mutation in the Ras-MAPK pathway and associated with learning disabilities. We conducted a randomized double-blind placebo-controlled trial to assess lovastatin's effects on cognition and behavior in patients with NF1.Forty-four NF1 patients (mean age 25.7+/-11.6 years; 64% female) were randomly assigned to 14 weeks of lovastatin (N = 23; maximum dose of 80 mg/day for adult participants and 40 mg/day for children) or placebo (N = 21). Based on findings in the mouse model, primary outcome measures were nonverbal learning and working memory. Secondary outcome measures included verbal memory, attention, and self/parent-reported behavioral problems, as well as tolerability of medication. Participants also underwent neuroimaging assessments at baseline and 14 weeks, to determine whether neural biomarkers were associated with treatment response. Linear mixed models assessed for differential treatment effects on outcome measures.Twelve participants dropped from the study prior to completion (8 placebo, 4 lovastatin), resulting in 32 completers (15 placebo, 17 lovastatin). Lovastatin was well-tolerated, with no serious adverse events. Differential improvement favoring lovastatin treatment was observed for one primary (working memory; effect size f (2) = 0.70, P < 0.01) and two secondary outcome measures (verbal memory, f (2) = 0.19, P = 0.02, and adult self-reported internalizing problems, f (2) = 0.26, P = 0.03). Exploratory moderator analyses revealed that higher baseline neural activity in frontal regions was associated with larger treatment effects.These preliminary results suggest beneficial effects of lovastatin on some learning and memory functions, as well as internalizing symptoms in patients with NF1."
+  ],
+  "affiliation": [
+    "Departments of Psychiatry and Biobehavioral Sciences Semel Institute for Neuroscience and Human Behavior University of California Los Angeles Los Angeles California."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "P30 AI028697"
+          ],
+          "agency": [
+            "NIAID NIH HHS"
+          ],
+          "acronym": [
+            "AI"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R34 MH089299"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH084315"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4818747?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4818747"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1002/acn3.288"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-04-15"
+  ],
+  "dateOfCreation": [
+    "2016-04-15"
+  ],
+  "dateOfRevision": [
+    "2016-12-16"
+  ],
+  "electronicPublicationDate": [
+    "2016-02-22"
+  ],
+  "firstPublicationDate": [
+    "2016-02-22"
+  ]
+}

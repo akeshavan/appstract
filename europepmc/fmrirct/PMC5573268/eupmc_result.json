@@ -1,0 +1,518 @@
+{
+  "id": [
+    "28846724"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28846724"
+  ],
+  "pmcid": [
+    "PMC5573268"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0183349"
+  ],
+  "title": [
+    "Constraint-induced aphasia therapy in post-stroke aphasia rehabilitation: A systematic review and meta-analysis of randomized controlled trials."
+  ],
+  "authorString": [
+    "Zhang J, Yu J, Bao Y, Xie Q, Xu Y, Zhang J, Wang P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiaqi"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Master of Science in Neurological Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yu J"
+          ],
+          "firstName": [
+            "Jiadan"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Rehabilitation Sciences, West China School of Medicine, Sichuan University, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Bao Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Bao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Ruijin Rehabilitation Hospital of Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xie Q"
+          ],
+          "firstName": [
+            "Qing"
+          ],
+          "lastName": [
+            "Xie"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, Ruijin Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yang"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Rehabilitation Sciences, West China School of Medicine, Sichuan University, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Junmei"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Physical Education, Wuhan University of Technology, Wuhan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang P"
+          ],
+          "firstName": [
+            "Pu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5783-3693",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, Ruijin Hospital, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5783-3693",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2582087"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e0183349"
+  ],
+  "abstractText": [
+    "Constraint-induced aphasia therapy (CIAT) has been widely used in post-stroke aphasia rehabilitation. An increasing number of clinical controlled trials have investigated the efficacy of the CIAT for the post-stroke aphasia.To systematically review the randomized controlled trials (RCTs) concerning the effect of the CIAT in post-stroke patients with aphasia, and to identify the useful components of CIAT in post-stroke aphasia rehabilitation.A computerized database search was performed through five databases (Pubmed, EMbase, Medline, ScienceDirect and Cochrane library). Cochrane handbook domains were used to evaluate the methodological quality of the included RCTs.Eight RCTs qualified in the inclusion criteria. Inconsistent results were found in comparing the CIAT with conventional therapies without any component from the CIAT based on the results of three RCTs. Five RCTs showed that the CIAT performed equally well as other intensive aphasia therapies, in terms of improving language performance. One RCT showed that therapies embedded with social interaction were likely to enhance the efficacy of the CIAT.CIAT may be useful for improving chronic post-stroke aphasia, however, limited evidence to support its superiority to other aphasia therapies. Massed practice is likely to be a useful component of CIAT, while the role of \"constraint\" is needed to be further explored. CIAT embedded with social interaction may gain more benefits."
+  ],
+  "affiliation": [
+    "Master of Science in Neurological Sciences, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Meta-Analysis",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aphasia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Language Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Language"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5573268?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5573268"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0183349"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-10-19"
+  ],
+  "dateOfCreation": [
+    "2017-08-28"
+  ],
+  "dateOfRevision": [
+    "2017-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-28"
+  ],
+  "firstPublicationDate": [
+    "2017-08-28"
+  ]
+}

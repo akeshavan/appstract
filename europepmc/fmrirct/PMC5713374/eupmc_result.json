@@ -1,0 +1,298 @@
+{
+  "id": [
+    "29137178"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29137178"
+  ],
+  "pmcid": [
+    "PMC5713374"
+  ],
+  "doi": [
+    "10.3390/ijms18112406"
+  ],
+  "title": [
+    "Antidepressants and Mood Stabilizers: Novel Research Avenues and Clinical Insights for Bipolar Depression."
+  ],
+  "authorString": [
+    "Shim IH, Woo YS, Kim MD, Bahk WM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Shim IH"
+          ],
+          "firstName": [
+            "In Hee"
+          ],
+          "lastName": [
+            "Shim"
+          ],
+          "initials": [
+            "IH"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Cancer Center, Dongnam Institute of Radiological & Medical Sciences, Busan 46033, Korea. ihshim1224@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Woo YS"
+          ],
+          "firstName": [
+            "Young Sup"
+          ],
+          "lastName": [
+            "Woo"
+          ],
+          "initials": [
+            "YS"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, College of Medicine, The Catholic University of Korea, Seoul 07345, Korea. youngwoo@catholic.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim MD"
+          ],
+          "firstName": [
+            "Moon-Doo"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "MD"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Medicine, Jeju National University, Jeju 63241, Korea. mdkim66@jejunu.ac.kr."
+          ]
+        },
+        {
+          "fullName": [
+            "Bahk WM"
+          ],
+          "firstName": [
+            "Won-Myong"
+          ],
+          "lastName": [
+            "Bahk"
+          ],
+          "initials": [
+            "WM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, College of Medicine, The Catholic University of Korea, Seoul 07345, Korea. wmbahk@catholic.ac.kr."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2614435"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "International journal of molecular sciences"
+          ],
+          "ISOAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "medlineAbbreviation": [
+            "Int J Mol Sci"
+          ],
+          "NLMid": [
+            "101092791"
+          ],
+          "ISSN": [
+            "1422-0067"
+          ],
+          "ESSN": [
+            "1422-0067"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "abstractText": [
+    "The concept of the bipolar-spectrum and of mixed features being a bridge between major depressive disorders and bipolar disorders (BDs) has become increasingly important in mood-disorder diagnoses. Under these circumstances, antidepressants (ADs) and mood stabilizers (MSs) should be used with caution in the treatment of major depressive episodes (MDEs) and to obtain long-term stability in BDs. Before treating MDEs, screening tools, specific symptom evaluation and medical history should be used to distinguish between bipolarity and mixed features in patients for whom AD monotherapy may present a risk. In these patients, a combination of ADs plus MSs or atypical antipsychotics is recommended, rather than AD monotherapy. Studies evaluating MSs for bipolar depression suggest that lamotrigine is the most reliable treatment and lithium has modest effects; there is a lack of clear evidence regarding the efficacy of valproate and carbamazepine. Recently, significant progress has been made with respect to the pathophysiology of mood disorders and the application of potential biomarkers. There is an opportunity to study novel drug mechanisms through the rediscovery of fast-acting drugs such as ketamine. It is anticipated that future research developments will involve the discovery of potential targets for new drugs and their application to personalized treatments."
+  ],
+  "affiliation": [
+    "Department of Psychiatry, Cancer Center, Dongnam Institute of Radiological & Medical Sciences, Busan 46033, Korea. ihshim1224@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Bipolar disorder",
+        "lithium",
+        "Antidepressant",
+        "Major Depressive Episode",
+        "Mixed Features",
+        "Mood-stabilizer"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5713374?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5713374"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ijms18112406"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-11-16"
+  ],
+  "dateOfRevision": [
+    "2017-12-19"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-13"
+  ],
+  "firstPublicationDate": [
+    "2017-11-13"
+  ]
+}

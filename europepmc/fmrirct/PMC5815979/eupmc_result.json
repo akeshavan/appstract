@@ -1,0 +1,322 @@
+{
+  "id": [
+    "29453754"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29453754"
+  ],
+  "pmcid": [
+    "PMC5815979"
+  ],
+  "doi": [
+    "10.1186/s10194-017-0821-3"
+  ],
+  "title": [
+    "PACAP38 in human models of primary headaches."
+  ],
+  "authorString": [
+    "Ashina H, Guo S, Vollesen ALH, Ashina M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ashina H"
+          ],
+          "firstName": [
+            "Håkan"
+          ],
+          "lastName": [
+            "Ashina"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Neurology, Danish Headache Center, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Guo S"
+          ],
+          "firstName": [
+            "Song"
+          ],
+          "lastName": [
+            "Guo"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Neurology, Danish Headache Center, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Vollesen ALH"
+          ],
+          "firstName": [
+            "Anne L H"
+          ],
+          "lastName": [
+            "Vollesen"
+          ],
+          "initials": [
+            "ALH"
+          ],
+          "affiliation": [
+            "Department of Neurology, Danish Headache Center, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+          ]
+        },
+        {
+          "fullName": [
+            "Ashina M"
+          ],
+          "firstName": [
+            "Messoud"
+          ],
+          "lastName": [
+            "Ashina"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Neurology, Danish Headache Center, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark. ashina@dadlnet.dk."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2633120"
+      ],
+      "dateOfPublication": [
+        "2017 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The journal of headache and pain"
+          ],
+          "ISOAbbreviation": [
+            "J Headache Pain"
+          ],
+          "medlineAbbreviation": [
+            "J Headache Pain"
+          ],
+          "NLMid": [
+            "100940562"
+          ],
+          "ISSN": [
+            "1129-2369"
+          ],
+          "ESSN": [
+            "1129-2377"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "110"
+  ],
+  "abstractText": [
+    "To review the role of PACAP38 in human models of primary headaches, discuss possible mechanisms of PACAP38-induced migraine, and outline future directions.Experimental studies have established PACAP38 as a potent pharmacological \"trigger\" molecule of migraine-like attacks. These studies have also revealed a heterogeneous PACAP38 migraine response in migraine without aura patients. In addition, findings from brain imaging studies have demonstrated neuronal and vascular changes in migraine patients both ictally and interictally after PACAP38 infusion.Human migraine models have shed light on the importance of PACAP38 in the pathophysiology of primary headaches. These studies have also pointed to the PAC1 receptor and the PACAP38 molecule itself as target sites for drug testing. Future research should seek to understand the mechanisms underlying PACAP38-induced migraine. The results from an ongoing proof of concept randomized clinical trial may reveal the therapeutic potential of anti-PAC1 receptor antibodies for migraine prevention."
+  ],
+  "affiliation": [
+    "Department of Neurology, Danish Headache Center, Rigshospitalet Glostrup, Faculty of Health and Medical Sciences, University of Copenhagen, Copenhagen, Denmark."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R155-2014-171"
+          ],
+          "agency": [
+            "Lundbeckfonden"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Migraine",
+        "Pacap38",
+        "Pac1",
+        "Primary Headaches",
+        "Human Provocation Models"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5815979?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5815979"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s10194-017-0821-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-02-18"
+  ],
+  "dateOfRevision": [
+    "2018-02-27"
+  ],
+  "electronicPublicationDate": [
+    "2017-11-23"
+  ],
+  "firstPublicationDate": [
+    "2017-11-23"
+  ]
+}

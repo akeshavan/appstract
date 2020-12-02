@@ -1,0 +1,483 @@
+{
+  "id": [
+    "25957577"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25957577"
+  ],
+  "pmcid": [
+    "PMC4425869"
+  ],
+  "doi": [
+    "10.1186/s12984-015-0035-3"
+  ],
+  "title": [
+    "Efficacy of virtual reality-based intervention on balance and mobility disorders post-stroke: a scoping review."
+  ],
+  "authorString": [
+    "Darekar A, McFadyen BJ, Lamontagne A, Fung J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Darekar A"
+          ],
+          "firstName": [
+            "Anuja"
+          ],
+          "lastName": [
+            "Darekar"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Feil and Oberfeld Research Center, Jewish Rehabilitation Hospital, Research site of the Montreal Centre for Interdisciplinary Research in Rehabilitation (CRIR), Laval, Quebec, Canada. anuja.darekar@mail.mcgill.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "McFadyen BJ"
+          ],
+          "firstName": [
+            "Bradford J"
+          ],
+          "lastName": [
+            "McFadyen"
+          ],
+          "initials": [
+            "BJ"
+          ],
+          "affiliation": [
+            "Centre for Interdisciplinary Research in Rehabilitation and Social Integration (CIRRIS) at the Quebec Rehabilitation Institute and Department of Rehabilitation, Faculty of Medicine, Laval University, Quebec, Canada. brad.mcfadyen@rea.ulaval.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Lamontagne A"
+          ],
+          "firstName": [
+            "Anouk"
+          ],
+          "lastName": [
+            "Lamontagne"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Feil and Oberfeld Research Center, Jewish Rehabilitation Hospital, Research site of the Montreal Centre for Interdisciplinary Research in Rehabilitation (CRIR), Laval, Quebec, Canada. anouk.lamontagne@mcgill.ca."
+          ]
+        },
+        {
+          "fullName": [
+            "Fung J"
+          ],
+          "firstName": [
+            "Joyce"
+          ],
+          "lastName": [
+            "Fung"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Feil and Oberfeld Research Center, Jewish Rehabilitation Hospital, Research site of the Montreal Centre for Interdisciplinary Research in Rehabilitation (CRIR), Laval, Quebec, Canada. joyce.fung@mcgill.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "12"
+      ],
+      "journalIssueId": [
+        "2475883"
+      ],
+      "dateOfPublication": [
+        "2015 May"
+      ],
+      "monthOfPublication": [
+        "5"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-05-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of neuroengineering and rehabilitation"
+          ],
+          "ISOAbbreviation": [
+            "J Neuroeng Rehabil"
+          ],
+          "medlineAbbreviation": [
+            "J Neuroeng Rehabil"
+          ],
+          "NLMid": [
+            "101232233"
+          ],
+          "ISSN": [
+            "1743-0003"
+          ],
+          "ESSN": [
+            "1743-0003"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "46"
+  ],
+  "abstractText": [
+    "Rehabilitation interventions involving virtual reality (VR) technology have been developed for the promotion of functional independence post stroke. A scoping review was performed to examine the efficacy of VR-based interventions on balance and mobility disorders post stroke. Twenty-four articles in the English language examining VR game-based interventions and outcomes directed at balance and mobility disorders were included. Various VR systems (customized and commercially available) were used as rehabilitation tools. Outcome measures included laboratory and clinical measures of balance and gait. Outcome measures of dynamic balance showed significant improvements following VR-based interventions as compared to other interventions. Further, it was observed that VR-based intervention may have favorable effects in improving walking speed and the ability to deal with environmental challenges, which may also facilitate independent community ambulation. VR-based therapy thus has the potential to be a useful tool for balance and gait training for stroke rehabilitation. Utilization of motor learning principles related to task-related training may have been an important factor leading to positive results. Other principles such as repetition, feedback etc. were used in studies but were not explored explicitly and may need to be investigated to further improve the strength of results. Lastly, robust study designs with appropriate attention towards the intensity and dose-response aspects of VR training, clear study objectives and suitable outcomes would further aid in determining evidence-based efficacy for VR game-based interventions in the future."
+  ],
+  "affiliation": [
+    "Feil and Oberfeld Research Center, Jewish Rehabilitation Hospital, Research site of the Montreal Centre for Interdisciplinary Research in Rehabilitation (CRIR), Laval, Quebec, Canada. anuja.darekar@mail.mcgill.ca."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "agency": [
+            "Canadian Institutes of Health Research"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gait Disorders, Neurologic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gait"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stroke"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "CO"
+                  ],
+                  "qualifierName": [
+                    "complications"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Postural Balance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virtual Reality Exposure Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4425869?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4425869"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12984-015-0035-3"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "12"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-05-16"
+  ],
+  "dateOfCreation": [
+    "2015-05-11"
+  ],
+  "dateOfRevision": [
+    "2016-11-25"
+  ],
+  "electronicPublicationDate": [
+    "2015-05-10"
+  ],
+  "firstPublicationDate": [
+    "2015-05-10"
+  ]
+}

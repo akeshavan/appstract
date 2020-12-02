@@ -1,0 +1,586 @@
+{
+  "id": [
+    "28890702"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28890702"
+  ],
+  "pmcid": [
+    "PMC5574875"
+  ],
+  "doi": [
+    "10.3389/fpsyt.2017.00157"
+  ],
+  "title": [
+    "A Pilot Study of the Effects of Mindfulness-Based Stress Reduction on Post-traumatic Stress Disorder Symptoms and Brain Response to Traumatic Reminders of Combat in Operation Enduring Freedom/Operation Iraqi Freedom Combat Veterans with Post-traumatic Stress Disorder."
+  ],
+  "authorString": [
+    "Bremner JD, Mishra S, Campanella C, Shah M, Kasher N, Evans S, Fani N, Shah AJ, Reiff C, Davis LL, Vaccarino V, Carmody J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bremner JD"
+          ],
+          "firstName": [
+            "James Douglas"
+          ],
+          "lastName": [
+            "Bremner"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "The Tuskegee VA Medical Center, Tuskegee, AL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Mishra S"
+          ],
+          "firstName": [
+            "Sanskriti"
+          ],
+          "lastName": [
+            "Mishra"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Campanella C"
+          ],
+          "firstName": [
+            "Carolina"
+          ],
+          "lastName": [
+            "Campanella"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah M"
+          ],
+          "firstName": [
+            "Majid"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kasher N"
+          ],
+          "firstName": [
+            "Nicole"
+          ],
+          "lastName": [
+            "Kasher"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Epidemiology, Rollins School of Public Health, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Evans S"
+          ],
+          "firstName": [
+            "Sarah"
+          ],
+          "lastName": [
+            "Evans"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Fani N"
+          ],
+          "firstName": [
+            "Negar"
+          ],
+          "lastName": [
+            "Fani"
+          ],
+          "initials": [
+            "N"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7720-252X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah AJ"
+          ],
+          "firstName": [
+            "Amit Jasvant"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Cardiology, Emory University School of Medicine, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Reiff C"
+          ],
+          "firstName": [
+            "Collin"
+          ],
+          "lastName": [
+            "Reiff"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Behavioral Sciences, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Davis LL"
+          ],
+          "firstName": [
+            "Lori L"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "LL"
+          ],
+          "affiliation": [
+            "The Tuskegee VA Medical Center, Tuskegee, AL, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Vaccarino V"
+          ],
+          "firstName": [
+            "Viola"
+          ],
+          "lastName": [
+            "Vaccarino"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Cardiology, Emory University School of Medicine, Emory University, Atlanta, GA, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Carmody J"
+          ],
+          "firstName": [
+            "James"
+          ],
+          "lastName": [
+            "Carmody"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Medicine, Division of Preventive and Behavioral Medicine, University of Massachusetts Medical School, Worcester, MA, United States."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-7720-252X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2550607"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychiatry"
+          ],
+          "NLMid": [
+            "101545006"
+          ],
+          "ISSN": [
+            "1664-0640"
+          ],
+          "ESSN": [
+            "1664-0640"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "157"
+  ],
+  "abstractText": [
+    "Brain imaging studies in patients with post-traumatic stress disorder (PTSD) have implicated a circuitry of brain regions including the medial prefrontal cortex, amygdala, hippocampus, parietal cortex, and insula. Pharmacological treatment studies have shown a reversal of medial prefrontal deficits in response to traumatic reminders. Mindfulness-based stress reduction (MBSR) is a promising non-pharmacologic approach to the treatment of anxiety and pain disorders. The purpose of this study was to assess the effects of MBSR on PTSD symptoms and brain response to traumatic reminders measured with positron-emission tomography (PET) in Operation Enduring Freedom/Operation Iraqi Freedom (OEF/OIF) combat veterans with PTSD. We hypothesized that MBSR would show increased prefrontal response to stress and improved PTSD symptoms in veterans with PTSD.Twenty-six OEF/OIF combat veterans with PTSD who had recently returned from a combat zone were block randomized to receive eight sessions of MBSR or present-centered group therapy (PCGT). PTSD patients underwent assessment of PTSD symptoms with the Clinician-Administered PTSD Scale (CAPS), mindfulness with the Five Factor Mindfulness Questionnaire (FFMQ) and brain imaging using PET in conjunction with exposure to neutral and Iraq combat-related slides and sound before and after treatment. Nine patients in the MBSR group and 8 in the PCGT group completed all study procedures.Post-traumatic stress disorder patients treated with MBSR (but not PCGT) had an improvement in PTSD symptoms measured with the CAPS that persisted for 6 months after treatment. MBSR also resulted in an increase in mindfulness measured with the FFMQ. MBSR-treated patients had increased anterior cingulate and inferior parietal lobule and decreased insula and precuneus function in response to traumatic reminders compared to the PCGT group.This study shows that MBSR is a safe and effective treatment for PTSD. Furthermore, MBSR treatment is associated with changes in brain regions that have been implicated in PTSD and are involved in extinction of fear responses to traumatic memories as well as regulation of the stress response."
+  ],
+  "affiliation": [
+    "The Tuskegee VA Medical Center, Tuskegee, AL, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "K24 HL077506"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "K24 MH076955"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 AG026255"
+          ],
+          "agency": [
+            "NIA NIH HHS"
+          ],
+          "acronym": [
+            "AG"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL068630"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "T32 MH067547"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 MH056120"
+          ],
+          "agency": [
+            "NIMH NIH HHS"
+          ],
+          "acronym": [
+            "MH"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R21 HL093665"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "S10 RR016917"
+          ],
+          "agency": [
+            "NCRR NIH HHS"
+          ],
+          "acronym": [
+            "RR"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "R01 HL088726"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Brain imaging",
+        "Anterior cingulate cortex",
+        "Post-traumatic",
+        "Insula",
+        "Positron-emission Tomography",
+        "Stress Disorders",
+        "Mindfulness-based Stress Reduction",
+        "Mindfulness Training"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5574875?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5574875"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyt.2017.00157"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-09-11"
+  ],
+  "dateOfRevision": [
+    "2017-09-14"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-25"
+  ],
+  "firstPublicationDate": [
+    "2017-08-25"
+  ]
+}

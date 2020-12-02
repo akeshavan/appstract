@@ -1,0 +1,525 @@
+{
+  "id": [
+    "24204133"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24204133"
+  ],
+  "pmcid": [
+    "PMC3817007"
+  ],
+  "doi": [
+    "10.2147/cia.s36739"
+  ],
+  "title": [
+    "Pain management in patients with dementia."
+  ],
+  "authorString": [
+    "Achterberg WP, Pieper MJ, van Dalen-Kok AH, de Waal MW, Husebo BS, Lautenbacher S, Kunz M, Scherder EJ, Corbett A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Achterberg WP"
+          ],
+          "firstName": [
+            "Wilco P"
+          ],
+          "lastName": [
+            "Achterberg"
+          ],
+          "initials": [
+            "WP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9227-7135",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Public Health and Primary Care, Leiden University Medical Center, Leiden, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Pieper MJ"
+          ],
+          "firstName": [
+            "Marjoleine J C"
+          ],
+          "lastName": [
+            "Pieper"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "van Dalen-Kok AH"
+          ],
+          "firstName": [
+            "Annelore H"
+          ],
+          "lastName": [
+            "van Dalen-Kok"
+          ],
+          "initials": [
+            "AH"
+          ]
+        },
+        {
+          "fullName": [
+            "de Waal MW"
+          ],
+          "firstName": [
+            "Margot W M"
+          ],
+          "lastName": [
+            "de Waal"
+          ],
+          "initials": [
+            "MW"
+          ]
+        },
+        {
+          "fullName": [
+            "Husebo BS"
+          ],
+          "firstName": [
+            "Bettina S"
+          ],
+          "lastName": [
+            "Husebo"
+          ],
+          "initials": [
+            "BS"
+          ]
+        },
+        {
+          "fullName": [
+            "Lautenbacher S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Lautenbacher"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Kunz M"
+          ],
+          "firstName": [
+            "Miriam"
+          ],
+          "lastName": [
+            "Kunz"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Scherder EJ"
+          ],
+          "firstName": [
+            "Erik J A"
+          ],
+          "lastName": [
+            "Scherder"
+          ],
+          "initials": [
+            "EJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Corbett A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Corbett"
+          ],
+          "initials": [
+            "A"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2015-0316",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2015-0316",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2829-347X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9227-7135",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "1997975"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Clinical interventions in aging"
+          ],
+          "ISOAbbreviation": [
+            "Clin Interv Aging"
+          ],
+          "medlineAbbreviation": [
+            "Clin Interv Aging"
+          ],
+          "NLMid": [
+            "101273480"
+          ],
+          "ISSN": [
+            "1176-9092"
+          ],
+          "ESSN": [
+            "1178-1998"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "1471-1482"
+  ],
+  "abstractText": [
+    "There are an estimated 35 million people with dementia across the world, of whom 50% experience regular pain. Despite this, current assessment and treatment of pain in this patient group are inadequate. In addition to the discomfort and distress caused by pain, it is frequently the underlying cause of behavioral symptoms, which can lead to inappropriate treatment with antipsychotic medications. Pain also contributes to further complications in treatment and care. This review explores four key perspectives of pain management in dementia and makes recommendations for practice and research. The first perspective discussed is the considerable uncertainty within the literature on the impact of dementia neuropathology on pain perception and processing in Alzheimer's disease and other dementias, where white matter lesions and brain atrophy appear to influence the neurobiology of pain. The second perspective considers the assessment of pain in dementia. This is challenging, particularly because of the limited capacity of self-report by these individuals, which means that assessment relies in large part on observational methods. A number of tools are available but the psychometric quality and clinical utility of these are uncertain. The evidence for efficient treatment (the third perspective) with analgesics is also limited, with few statistically well-powered trials. The most promising evidence supports the use of stepped treatment approaches, and indicates the benefit of pain and behavioral interventions on both these important symptoms. The fourth perspective debates further difficulties in pain management due to the lack of sufficient training and education for health care professionals at all levels, where evidence-based guidance is urgently needed. To address the current inadequate management of pain in dementia, a comprehensive approach is needed. This would include an accurate, validated assessment tool that is sensitive to different types of pain and therapeutic effects, supported by better training and support for care staff across all settings."
+  ],
+  "affiliation": [
+    "Department of Public Health and Primary Care, Leiden University Medical Center, Leiden, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dementia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Behavior",
+        "Alzheimer’s disease",
+        "Cognitive impairment",
+        "Pain Assessment"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3817007?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3817007"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24204133/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24204133/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/CIA.S36739"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "59"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-03-21"
+  ],
+  "dateOfCreation": [
+    "2013-11-08"
+  ],
+  "electronicPublicationDate": [
+    "2013-11-01"
+  ],
+  "firstPublicationDate": [
+    "2013-11-01"
+  ]
+}

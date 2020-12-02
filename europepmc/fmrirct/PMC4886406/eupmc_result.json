@@ -1,0 +1,491 @@
+{
+  "id": [
+    "27247701"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27247701"
+  ],
+  "pmcid": [
+    "PMC4886406"
+  ],
+  "doi": [
+    "10.1186/s13167-016-0060-8"
+  ],
+  "title": [
+    "Antarctica challenges the new horizons in predictive, preventive, personalized medicine: preliminary results and attractive hypotheses for multi-disciplinary prospective studies in the Ukrainian \"Akademik Vernadsky\" station."
+  ],
+  "authorString": [
+    "Moiseyenko YV, Sukhorukov VI, Pyshnov GY, Mankovska IM, Rozova KV, Miroshnychenko OA, Kovalevska OE, Madjar SA, Bubnov RV, Gorbach AO, Danylenko KM, Moiseyenko OI."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Moiseyenko YV"
+          ],
+          "firstName": [
+            "Yevhen V"
+          ],
+          "lastName": [
+            "Moiseyenko"
+          ],
+          "initials": [
+            "YV"
+          ],
+          "affiliation": [
+            "National Antarctic Scientific Center of Ministry of Education of Ukraine, 16, Taras Shevchenko Boulevard, Kyiv, 01601 Ukraine ; Bogomoletz Institute of Physiology, National Academy of Sciences of Ukraine, 4, Bogomoletz str., Kyiv, 01024 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Sukhorukov VI"
+          ],
+          "firstName": [
+            "Viktor I"
+          ],
+          "lastName": [
+            "Sukhorukov"
+          ],
+          "initials": [
+            "VI"
+          ],
+          "affiliation": [
+            "Institute of Neurology, Psychiatry and Narcology of the National Academy of Medical Sciences of Ukraine, 46, Akademika Pavlova str., Kharkiv, 61068 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Pyshnov GY"
+          ],
+          "firstName": [
+            "Georgiy Yu"
+          ],
+          "lastName": [
+            "Pyshnov"
+          ],
+          "initials": [
+            "GY"
+          ],
+          "affiliation": [
+            "Institute for Occupational Health of National Academy of Medical Sciences of Ukraine, Saksaganskogo str., 75, Kyiv, 01033 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Mankovska IM"
+          ],
+          "firstName": [
+            "Iryna M"
+          ],
+          "lastName": [
+            "Mankovska"
+          ],
+          "initials": [
+            "IM"
+          ],
+          "affiliation": [
+            "Bogomoletz Institute of Physiology, National Academy of Sciences of Ukraine, 4, Bogomoletz str., Kyiv, 01024 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Rozova KV"
+          ],
+          "firstName": [
+            "Kateryna V"
+          ],
+          "lastName": [
+            "Rozova"
+          ],
+          "initials": [
+            "KV"
+          ],
+          "affiliation": [
+            "Bogomoletz Institute of Physiology, National Academy of Sciences of Ukraine, 4, Bogomoletz str., Kyiv, 01024 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Miroshnychenko OA"
+          ],
+          "firstName": [
+            "Olena A"
+          ],
+          "lastName": [
+            "Miroshnychenko"
+          ],
+          "initials": [
+            "OA"
+          ],
+          "affiliation": [
+            "Zhytomyr Ivan Franko State University, 40, Velyka Berdychivska Str., Zhytomyr, 10008 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Kovalevska OE"
+          ],
+          "firstName": [
+            "Olena E"
+          ],
+          "lastName": [
+            "Kovalevska"
+          ],
+          "initials": [
+            "OE"
+          ],
+          "affiliation": [
+            "G.S. Kostyuk Institute of Psychology of the National Academy of Pedagogical Sciences of Ukraine, 2, Pankivska str., Kyiv, 01033 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Madjar SA"
+          ],
+          "firstName": [
+            "Stefan-Arpad Y"
+          ],
+          "lastName": [
+            "Madjar"
+          ],
+          "initials": [
+            "SA"
+          ],
+          "affiliation": [
+            "Budapest University of Technology and Economics, Budapest, Hungary."
+          ]
+        },
+        {
+          "fullName": [
+            "Bubnov RV"
+          ],
+          "firstName": [
+            "Rostyslav V"
+          ],
+          "lastName": [
+            "Bubnov"
+          ],
+          "initials": [
+            "RV"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3148-9884",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Clinical Hospital 'Pheophania' of State Management of Affairs Department, 21, Zabolotny str., Kyiv, 03680 Ukraine ; Zabolotny Institute of Microbiology and Virology, National Academy of Sciences of Ukraine, 154, Zabolotny Str., Kyiv, 03680 Ukraine ; Ukrainian Academy of Informatics, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Gorbach AO"
+          ],
+          "firstName": [
+            "Anatoliy O"
+          ],
+          "lastName": [
+            "Gorbach"
+          ],
+          "initials": [
+            "AO"
+          ],
+          "affiliation": [
+            "Clinical Hospital 'Pheophania' of State Management of Affairs Department, 21, Zabolotny str., Kyiv, 03680 Ukraine ; Ukrainian Academy of Informatics, Kyiv, Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Danylenko KM"
+          ],
+          "firstName": [
+            "Kostiantyn M"
+          ],
+          "lastName": [
+            "Danylenko"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "National Antarctic Scientific Center of Ministry of Education of Ukraine, 16, Taras Shevchenko Boulevard, Kyiv, 01601 Ukraine."
+          ]
+        },
+        {
+          "fullName": [
+            "Moiseyenko OI"
+          ],
+          "firstName": [
+            "Olga I"
+          ],
+          "lastName": [
+            "Moiseyenko"
+          ],
+          "initials": [
+            "OI"
+          ],
+          "affiliation": [
+            "National Scientific Center 'Mykola Strazhesko Institute of Cardiology' of National Academy of Medical Sciences of Ukraine, 5, Narodnoho Opolchennya str., Kyiv, Ukraine."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3148-9884",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2431957"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "The EPMA journal"
+          ],
+          "ISOAbbreviation": [
+            "EPMA J"
+          ],
+          "medlineAbbreviation": [
+            "EPMA J"
+          ],
+          "NLMid": [
+            "101517307"
+          ],
+          "ISSN": [
+            "1878-5077"
+          ],
+          "ESSN": [
+            "1878-5085"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "11"
+  ],
+  "abstractText": [
+    "Antarctica is a unique place to study the health condition under the influence of environmental factors on the organism in pure form. Since the very beginning of the scientific presence of Ukraine in the Antarctic, biomedical research has been developed for the monitoring of individual biomarkers of winterers and medical accompaniment in Antarctic expeditions. The aim of the study was to analyze and discuss the retrospective data of long-term monitoring and observations in Ukrainian Antarctica station \"Akademik Vernadsky,\" providing multi-scale biomedical information with regard to conditions of a perfect isolation from technological and social influences and under extreme environmental factors.Medical and biological studies have been performed with the participation of all 20 Ukrainian wintering expeditions. We surveyed 200 males aged 20-60 years (mean age 37 years). Extensive medical examinations were carried out before the expedition, during the selection of candidates, and after returning, and particular functions were monitored during the entire stay in Antarctica. The medical records were analyzed to study the reaction of the human organism on phenomena like \"Antarctic syndrome,\" dysadaptation, anxiety, desynchronosis, photoperiodism, influence of climatic and meteofactors like \"Schumann resonance,\" infrasound, \"ozone hole,\" and \"sterile\" environment; important aspects of its role on human health were precisely studied and discussed.The examinations showed the multi-level symptoms of the processes of dysregulation and dysadaptation, as functional tension in the sympathetic-adrenal system rights, especially during urgent adaptation to the Antarctic (1-month stay at the station) and, to a lesser extent, after returning from an expedition to Kyiv. At the initial, adaptation to the conditions of the Antarctic levels of urinary catecholamines (epinephrine, norepinephrine, dopamine, DOPA) increased compared with the start of the expedition (23.2 ± 4.3 and 53.3 ± 5 2 mmol/l, p < 0.001; 67.1 ± 12.3 and 138.3 ± 16.9 mmol/l, p < 0.01; 1749.6 ± 476.5 vs 7094.6 ± 918.3 mmol/l, p < 0.001; 129.6 ± 12.3 and 349.9 ± 40.6 mmol/l, p < 0.001, respectively). In the blood serum of 100 % of the expedition, we found an increase of oxidative stress markers-the level of TBARS increased by 41.2 %, i.e., the activation of free radical peroxidation. Thus, in 80 % of the participants, we observed a reduction in the activity of the SOD antiradical enzyme vs 58 % in the controls. Changes in brain electrical activity after a long stay at the Antarctic stations showed increasing delta rhythms, signs of CNS protective inhibition, likely due to hypoxia. We found changes in the concentrations of microelements (iron, copper, zinc, etc.) in the blood of winterers after the expedition. The polychrome-adaptive method of correcting the changes of the psycho-emotional state in a monochrome Antarctic environment was successfully applied.The preliminary results of the retrospective study and our own observations of the fundamental physiological mechanisms of the negative influence of extreme environmental factors on an organism in the absence of man-made origin factors allow the determination of many mechanisms of \"pre-pathology\" processes which promise to develop the pathogenetically based pro-active prevention methods for a number of common diseases to set prospective interdisciplinary research in predictive, preventive, and personalized medicine."
+  ],
+  "affiliation": [
+    "National Antarctic Scientific Center of Ministry of Education of Ukraine, 16, Taras Shevchenko Boulevard, Kyiv, 01601 Ukraine ; Bogomoletz Institute of Physiology, National Academy of Sciences of Ukraine, 4, Bogomoletz str., Kyiv, 01024 Ukraine."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Antarctica",
+        "Infrasound",
+        "Pain",
+        "Microbiota",
+        "Anxiety",
+        "Psychology",
+        "photoperiodism",
+        "Predictive Preventive Personalized Medicine",
+        "Antarctic “Akademik Vernadsky” Station",
+        "Physiology Research",
+        "Disadaptation",
+        "“Antarctic Syndrome”",
+        "Desynchronosis",
+        "“Schumann Resonance”",
+        "Climatic",
+        "Meteofactors",
+        "“Ozone Hole”",
+        "“Sterile” Environment",
+        "Vascular Disregulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4886406?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4886406"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13167-016-0060-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "27437067"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "EPMA J. 2016;7:17"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-06-01"
+  ],
+  "dateOfCreation": [
+    "2016-06-01"
+  ],
+  "dateOfRevision": [
+    "2017-05-12"
+  ],
+  "electronicPublicationDate": [
+    "2016-05-31"
+  ],
+  "firstPublicationDate": [
+    "2016-05-31"
+  ]
+}

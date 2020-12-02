@@ -1,0 +1,300 @@
+{
+  "id": [
+    "25566021"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25566021"
+  ],
+  "pmcid": [
+    "PMC4267268"
+  ],
+  "doi": [
+    "10.3389/fnhum.2014.00993"
+  ],
+  "title": [
+    "Novel insights into the rehabilitation of memory post acquired brain injury: a systematic review."
+  ],
+  "authorString": [
+    "Spreij LA, Visser-Meily JM, van Heugten CM, Nijboer TC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Spreij LA"
+          ],
+          "firstName": [
+            "Lauriane A"
+          ],
+          "lastName": [
+            "Spreij"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Department of Experimental Psychology, Helmholtz Institute, Utrecht University Utrecht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Visser-Meily JM"
+          ],
+          "firstName": [
+            "Johanna M A"
+          ],
+          "lastName": [
+            "Visser-Meily"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Brain Center Rudolf Magnus, Center of Excellence for Rehabilitation Medicine, University Medical Center Utrecht, and De Hoogstraat Rehabilitation Utrecht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Heugten CM"
+          ],
+          "firstName": [
+            "Caroline M"
+          ],
+          "lastName": [
+            "van Heugten"
+          ],
+          "initials": [
+            "CM"
+          ],
+          "affiliation": [
+            "Department of Psychiatry and Neuropsychology, Faculty of Health, Medicine and Life Sciences, Maastricht University Maastricht, Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Nijboer TC"
+          ],
+          "firstName": [
+            "Tanja C W"
+          ],
+          "lastName": [
+            "Nijboer"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Department of Experimental Psychology, Helmholtz Institute, Utrecht University Utrecht, Netherlands ; Brain Center Rudolf Magnus, Center of Excellence for Rehabilitation Medicine, University Medical Center Utrecht, and De Hoogstraat Rehabilitation Utrecht, Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2120175"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in human neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Hum Neurosci"
+          ],
+          "NLMid": [
+            "101477954"
+          ],
+          "ISSN": [
+            "1662-5161"
+          ],
+          "ESSN": [
+            "1662-5161"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "993"
+  ],
+  "abstractText": [
+    "OBJECTIVE: Acquired Brain Injury (ABI) frequently results in memory impairment causing significant disabilities in daily life and is therefore a critical target for cognitive rehabilitation. Current understanding of brain plasticity has led to novel insights in remediation-oriented approaches for the rehabilitation of memory deficits. We will describe 3 of these approaches that have emerged in the last decade: Virtual Reality (VR) training, Computer-Based Cognitive Retraining (CBCR) and Non-Invasive Brain Stimulation (NBS) and evaluate its effectiveness. METHODS: A systematic literature search was completed in regard to studies evaluating interventions aiming to improve the memory function after ABI. Information concerning study content and reported effectiveness were extracted. Quality of the studies and methods were evaluated. RESULTS: A total of 786 studies were identified, 15 studies met the inclusion criteria. Three of those studies represent the VR technique, 7 studies represent CBCR and 5 studies NBS. All 3 studies found a significant improvement of the memory function after VR-based training, however these studies are considered preliminary. All 7 studies have shown that CBCR can be effective in improving memory function in patients suffering from ABI. Four studies of the 5 did not find significant improvement of the memory function after the use of NBS in ABI patients. CONCLUSION: On the basis of this review, CBCR is considered the most promising novel approach of the last decade because of the positive results in improving memory function post ABI. The number of studies representing VR were limited and the methodological quality low, therefore the results should be considered preliminary. The studies representing NBS did not detect evidence for the use of NBS in improving memory function."
+  ],
+  "affiliation": [
+    "Department of Experimental Psychology, Helmholtz Institute, Utrecht University Utrecht, Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Memory",
+        "Virtual reality",
+        "Acquired Brain Injury",
+        "Non-invasive Brain Stimulation",
+        "Remediation-oriented Technique",
+        "Computer-based Cognitive Retraining"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4267268?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4267268"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnhum.2014.00993"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-01-08"
+  ],
+  "dateOfCreation": [
+    "2015-01-08"
+  ],
+  "dateOfRevision": [
+    "2015-01-13"
+  ],
+  "electronicPublicationDate": [
+    "2014-12-16"
+  ],
+  "firstPublicationDate": [
+    "2014-12-16"
+  ]
+}

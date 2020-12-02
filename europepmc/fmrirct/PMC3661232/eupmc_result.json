@@ -1,0 +1,307 @@
+{
+  "id": [
+    "23861632"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23861632"
+  ],
+  "pmcid": [
+    "PMC3661232"
+  ],
+  "doi": [
+    "10.4137/jcnsd.s4127"
+  ],
+  "title": [
+    "Duloxetine: a review of its safety and efficacy in the management of fibromyalgia syndrome."
+  ],
+  "authorString": [
+    "Smith HS, Bracken D, Smith JM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Smith HS"
+          ],
+          "firstName": [
+            "Howard S"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "HS"
+          ],
+          "affiliation": [
+            "Albany Medical College, Department of Anesthesiology, Albany, New York 12208, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Bracken D"
+          ],
+          "firstName": [
+            "Donna"
+          ],
+          "lastName": [
+            "Bracken"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Smith JM"
+          ],
+          "firstName": [
+            "Joshua M"
+          ],
+          "lastName": [
+            "Smith"
+          ],
+          "initials": [
+            "JM"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "2058068"
+      ],
+      "dateOfPublication": [
+        "2010 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2010"
+      ],
+      "printPublicationDate": [
+        "2010-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of central nervous system disease"
+          ],
+          "ISOAbbreviation": [
+            "J Cent Nerv Syst Dis"
+          ],
+          "medlineAbbreviation": [
+            "J Cent Nerv Syst Dis"
+          ],
+          "NLMid": [
+            "101595026"
+          ],
+          "ISSN": [
+            "1179-5735"
+          ],
+          "ESSN": [
+            "1179-5735"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2010"
+  ],
+  "pageInfo": [
+    "57-72"
+  ],
+  "abstractText": [
+    "Fibromyalgia (FM) is a chronic disorder characterized by widespread pain and other associated symptoms including fatigue, insomnia, cognitive/memory problems, and even psychological distress. Duloxetine is one of three FDA approved medications (the other two being milnacipran and pregabalin) for the treatment of FM. It has been demonstrated that FM patients possess low central nervous system levels of serotonin and norepinephrine. Duloxetine, which is classified pharmacologically as a serotonin-norepinephrine reuptake inhibitor (SNRI), may be beneficial for FM patients by increasing these levels. This review will touch briefly upon the pathophysiology of FM, diagnostic tools, currently available therapeutic options (both pharmacologic and non-pharmacologic), as well as the pharmacokinetic/pharmacodynamic properties of duloxetine. In addition, the efficacy and safety/tolerability of duloxetine exclusively in FM will be assessed through examination of 5 randomized controlled trials, as well as pooled analyses of current data. Suggestions for a therapeutic niche for duloxetine in FM are discussed based on a presentation of the characteristics of duloxetine."
+  ],
+  "affiliation": [
+    "Albany Medical College, Department of Anesthesiology, Albany, New York 12208, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Safety",
+        "Pain",
+        "Treatment",
+        "efficacy",
+        "Fibromyalgia",
+        "Duloxetine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3661232?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3661232"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23861632/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23861632/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4137/JCNSD.S4127"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-07-17"
+  ],
+  "dateOfCreation": [
+    "2013-07-17"
+  ],
+  "dateOfRevision": [
+    "2016-10-24"
+  ],
+  "electronicPublicationDate": [
+    "2010-12-22"
+  ],
+  "firstPublicationDate": [
+    "2010-12-22"
+  ]
+}

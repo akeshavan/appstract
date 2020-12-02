@@ -1,0 +1,317 @@
+{
+  "id": [
+    "28851789"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28851789"
+  ],
+  "pmcid": [
+    "PMC5629737"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2017-016566"
+  ],
+  "title": [
+    "Brain stimulation for arm recovery after stroke (B-STARS): protocol for a randomised controlled trial in subacute stroke patients."
+  ],
+  "authorString": [
+    "van Lieshout ECC, Visser-Meily JMA, Neggers SFW, van der Worp HB, Dijkhuizen RM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "van Lieshout ECC"
+          ],
+          "firstName": [
+            "Eline C C"
+          ],
+          "lastName": [
+            "van Lieshout"
+          ],
+          "initials": [
+            "ECC"
+          ],
+          "affiliation": [
+            "Biomedical MR Imaging and Spectroscopy Group, Center for Image Sciences, University Medical Center Utrecht, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Visser-Meily JMA"
+          ],
+          "firstName": [
+            "Johanna M A"
+          ],
+          "lastName": [
+            "Visser-Meily"
+          ],
+          "initials": [
+            "JMA"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation, Brain Center Rudolf Magnus and Center of Excellence for Rehabilitation Medicine, University Medical Center, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Neggers SFW"
+          ],
+          "firstName": [
+            "Sebastiaan F W"
+          ],
+          "lastName": [
+            "Neggers"
+          ],
+          "initials": [
+            "SFW"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Brain Center Rudolf Magnus, University Medical Center Utrecht, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Worp HB"
+          ],
+          "firstName": [
+            "H Bart"
+          ],
+          "lastName": [
+            "van der Worp"
+          ],
+          "initials": [
+            "HB"
+          ],
+          "affiliation": [
+            "Department of Neurology and Neurosurgery, Brain Center Rudolf Magnus, University Medical Center, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Dijkhuizen RM"
+          ],
+          "firstName": [
+            "Rick M"
+          ],
+          "lastName": [
+            "Dijkhuizen"
+          ],
+          "initials": [
+            "RM"
+          ],
+          "affiliation": [
+            "Biomedical MR Imaging and Spectroscopy Group, Center for Image Sciences, University Medical Center Utrecht, Utrecht, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "8"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2583740"
+      ],
+      "dateOfPublication": [
+        "2017 Aug"
+      ],
+      "monthOfPublication": [
+        "8"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-08-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e016566"
+  ],
+  "abstractText": [
+    "Many patients with stroke have moderate to severe long-term sensorimotor impairments, often including inability to execute movements of the affected arm or hand. Limited recovery from stroke may be partly caused by imbalanced interaction between the cerebral hemispheres, with reduced excitability of the ipsilesional motor cortex while excitability of the contralesional motor cortex is increased. Non-invasive brain stimulation with inhibitory repetitive transcranial magnetic stimulation (rTMS) of the contralesional hemisphere may aid in relieving a post-stroke interhemispheric excitability imbalance, which could improve functional recovery. There are encouraging effects of theta burst stimulation (TBS), a form of TMS, in patients with chronic stroke, but evidence on efficacy and long-term effects on arm function of contralesional TBS in patients with subacute hemiparetic stroke is lacking.In a randomised clinical trial, we will assign 60 patients with a first-ever ischaemic stroke in the previous 7-14 days and a persistent paresis of one arm to 10 sessions of real stimulation with TBS of the contralesional primary motor cortex or to sham stimulation over a period of 2 weeks. Both types of stimulation will be followed by upper limb training. A subset of patients will undergo five MRI sessions to assess post-stroke brain reorganisation. The primary outcome measure will be the upper limb function score, assessed from grasp, grip, pinch and gross movements in the action research arm test, measured at 3 months after stroke. Patients will be blinded to treatment allocation. The primary outcome at 3 months will also be assessed in a blinded fashion.The study has been approved by the Medical Research Ethics Committee of the University Medical Center Utrecht, The Netherlands. The results will be disseminated through (open access) peer-reviewed publications, networks of scientists, professionals and the public, and presented at conferences.NTR6133."
+  ],
+  "affiliation": [
+    "Biomedical MR Imaging and Spectroscopy Group, Center for Image Sciences, University Medical Center Utrecht, Utrecht, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Rehabilitation",
+        "Stroke",
+        "Arm",
+        "Repetitive transcranial magnetic stimulation",
+        "intervention",
+        "Clinical Trial",
+        "Brain Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5629737?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5629737"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2017-016566"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-30"
+  ],
+  "dateOfRevision": [
+    "2017-10-13"
+  ],
+  "electronicPublicationDate": [
+    "2017-08-28"
+  ],
+  "firstPublicationDate": [
+    "2017-08-28"
+  ]
+}

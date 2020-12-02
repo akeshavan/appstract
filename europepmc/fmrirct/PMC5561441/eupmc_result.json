@@ -1,0 +1,282 @@
+{
+  "id": [
+    "28856112"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28856112"
+  ],
+  "pmcid": [
+    "PMC5561441"
+  ],
+  "doi": [
+    "10.5812/aapm.44732"
+  ],
+  "title": [
+    "The Efficacy of Systemic Lidocaine in the Management of Chronic Pain: A Literature Review."
+  ],
+  "authorString": [
+    "Yousefshahi F, Predescu O, Francisco Asenjo J."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Yousefshahi F"
+          ],
+          "firstName": [
+            "Fardin"
+          ],
+          "lastName": [
+            "Yousefshahi"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Brain and Spinal Cord Injury Research Center, Neuroscience Institute, Tehran University of Medical Sciences, Tehran, Iran."
+          ]
+        },
+        {
+          "fullName": [
+            "Predescu O"
+          ],
+          "firstName": [
+            "Oana"
+          ],
+          "lastName": [
+            "Predescu"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "Assistant Professor, Department of Anesthesia, McGill University Health Centre, Montreal, QC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Francisco Asenjo J"
+          ],
+          "firstName": [
+            "Juan"
+          ],
+          "lastName": [
+            "Francisco Asenjo"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Professor, Department of Anesthesia, McGill University Health Centre, Montreal, QC, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2588576"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Anesthesiology and pain medicine"
+          ],
+          "ISOAbbreviation": [
+            "Anesth Pain Med"
+          ],
+          "medlineAbbreviation": [
+            "Anesth Pain Med"
+          ],
+          "NLMid": [
+            "101585412"
+          ],
+          "ISSN": [
+            "2228-7523"
+          ],
+          "ESSN": [
+            "2228-7531"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "e44732"
+  ],
+  "abstractText": [
+    "Despite recent advances in the understanding of the chronic pain concept, its diagnosis and management remains a daily challenge for clinicians and patients. Based on the published literature, this review discusses and tries to organize the current knowledge and the up-to-date clinical experience about the efficacy and safety of the use of intravenous lidocaine in treatment and prevention of chronic pain.To prepare this narrative review, we performed an in depth literature review using the PubMed searching engine. We extracted all relevant articles published in English, up to April 2016.Lidocaine, administered as transdermal patch or intravenous lidocaine, is a safe and effective modality in the treatment of post-herpetic neuralgia (PHN), complex regional pain syndrome, as well and for prevention of chronic pain. It may be effective in the management of neuropathic pain syndromes, chronic pain, post-operative pain, and refractory cancer pain.Intravenous lidocaine and lidocaine patch are effective and safe for the treatment of several chronic or neuropathic pain syndromes. The use of lidocaine during surgery could prevent the development of some chronic post-surgical pain syndromes."
+  ],
+  "affiliation": [
+    "Brain and Spinal Cord Injury Research Center, Neuroscience Institute, Tehran University of Medical Sciences, Tehran, Iran."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Lidocaine",
+        "Neuropathic pain",
+        "Chronic pain",
+        "Complex Regional Pain Syndrome",
+        "Post-herpetic Neuralgia"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5561441?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5561441"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.5812/aapm.44732"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-31"
+  ],
+  "dateOfRevision": [
+    "2017-09-03"
+  ],
+  "electronicPublicationDate": [
+    "2017-04-22"
+  ],
+  "firstPublicationDate": [
+    "2017-04-22"
+  ]
+}

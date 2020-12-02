@@ -1,0 +1,560 @@
+{
+  "id": [
+    "26490254"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26490254"
+  ],
+  "pmcid": [
+    "PMC4762927"
+  ],
+  "doi": [
+    "10.1007/s11065-015-9301-1"
+  ],
+  "title": [
+    "Multisensory Stimulation to Improve Low- and Higher-Level Sensory Deficits after Stroke: A Systematic Review."
+  ],
+  "authorString": [
+    "Tinga AM, Visser-Meily JM, van der Smagt MJ, Van der Stigchel S, van Ee R, Nijboer TC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Tinga AM"
+          ],
+          "firstName": [
+            "Angelica Maria"
+          ],
+          "lastName": [
+            "Tinga"
+          ],
+          "initials": [
+            "AM"
+          ],
+          "affiliation": [
+            "Department of Experimental Psychology, Hemholtz Institute, Utrecht University, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Visser-Meily JM"
+          ],
+          "firstName": [
+            "Johanna Maria Augusta"
+          ],
+          "lastName": [
+            "Visser-Meily"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "Brain Center Rudolf Magnus, and Center of Excellence for Rehabilitation Medicine, University Medical Center Utrecht, and De Hoogstraat Rehabilitation, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van der Smagt MJ"
+          ],
+          "firstName": [
+            "Maarten Jeroen"
+          ],
+          "lastName": [
+            "van der Smagt"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "affiliation": [
+            "Department of Experimental Psychology, Hemholtz Institute, Utrecht University, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Van der Stigchel S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Van der Stigchel"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Experimental Psychology, Hemholtz Institute, Utrecht University, Utrecht, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "van Ee R"
+          ],
+          "firstName": [
+            "Raymond"
+          ],
+          "lastName": [
+            "van Ee"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1134-8665",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Laboratory of Experimental Psychology, University of Leuven, Leuven, Belgium."
+          ]
+        },
+        {
+          "fullName": [
+            "Nijboer TC"
+          ],
+          "firstName": [
+            "Tanja Cornelia Wilhelmina"
+          ],
+          "lastName": [
+            "Nijboer"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Brain Center Rudolf Magnus, and Center of Excellence for Rehabilitation Medicine, University Medical Center Utrecht, and De Hoogstraat Rehabilitation, Utrecht, The Netherlands. t.c.w.nijboer@uu.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-1134-8665",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "26"
+      ],
+      "journalIssueId": [
+        "2377375"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychology review"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychol Rev"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychol Rev"
+          ],
+          "NLMid": [
+            "9009029"
+          ],
+          "ISSN": [
+            "1040-7308"
+          ],
+          "ESSN": [
+            "1573-6660"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "73-91"
+  ],
+  "abstractText": [
+    "The aim of this systematic review was to integrate and assess evidence for the effectiveness of multisensory stimulation (i.e., stimulating at least two of the following sensory systems: visual, auditory, and somatosensory) as a possible rehabilitation method after stroke. Evidence was considered with a focus on low-level, perceptual (visual, auditory and somatosensory deficits), as well as higher-level, cognitive, sensory deficits. We referred to the electronic databases Scopus and PubMed to search for articles that were published before May 2015. Studies were included which evaluated the effects of multisensory stimulation on patients with low- or higher-level sensory deficits caused by stroke. Twenty-one studies were included in this review and the quality of these studies was assessed (based on eight elements: randomization, inclusion of control patient group, blinding of participants, blinding of researchers, follow-up, group size, reporting effect sizes, and reporting time post-stroke). Twenty of the twenty-one included studies demonstrate beneficial effects on low- and/or higher-level sensory deficits after stroke. Notwithstanding these beneficial effects, the quality of the studies is insufficient for valid conclusion that multisensory stimulation can be successfully applied as an effective intervention. A valuable and necessary next step would be to set up well-designed randomized controlled trials to examine the effectiveness of multisensory stimulation as an intervention for low- and/or higher-level sensory deficits after stroke. Finally, we consider the potential mechanisms of multisensory stimulation for rehabilitation to guide this future research."
+  ],
+  "affiliation": [
+    "Department of Experimental Psychology, Hemholtz Institute, Utrecht University, Utrecht, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Perceptual Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sensation Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acoustic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Photic Stimulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ET"
+                  ],
+                  "qualifierName": [
+                    "etiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Stroke Rehabilitation"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Review",
+        "Rehabilitation",
+        "Stroke",
+        "Hemianopia",
+        "Neglect",
+        "Multisensory",
+        "Perceptual Disorders"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4762927?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4762927"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s11065-015-9301-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-12-13"
+  ],
+  "dateOfCreation": [
+    "2016-02-22"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-21"
+  ],
+  "firstPublicationDate": [
+    "2015-10-21"
+  ]
+}

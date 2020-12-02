@@ -1,0 +1,834 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.1 20151215//EN" "JATS-archivearticle1.dtd"> 
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="review-article"><?properties open_access?><?subarticle report14669?><?DTDIdentifier.IdentifierValue -//NLM//DTD Journal Publishing DTD v3.0 20080202//EN?><?DTDIdentifier.IdentifierType public?><?SourceDTD.DTDName journalpublishing3.dtd?><?SourceDTD.Version 3.0?><?ConverterInfo.XSLTName jp2nlmx2.xsl?><?ConverterInfo.Version 1?><front><journal-meta><journal-id journal-id-type="nlm-ta">F1000Res</journal-id><journal-id journal-id-type="iso-abbrev">F1000Res</journal-id><journal-id journal-id-type="pmc">F1000Research</journal-id><journal-title-group><journal-title>F1000Research</journal-title></journal-title-group><issn pub-type="epub">2046-1402</issn><publisher><publisher-name>F1000Research</publisher-name><publisher-loc>London, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">4943293</article-id><article-id pub-id-type="pmid">27429744</article-id><article-id pub-id-type="doi">10.12688/f1000research.8769.1</article-id><article-categories><subj-group subj-group-type="heading"><subject>Review</subject></subj-group><subj-group><subject>Articles</subject><subj-group><subject>Motor Systems</subject></subj-group><subj-group><subject>Movement Disorders</subject></subj-group><subj-group><subject>Neurobiology of Disease &#x00026; Regeneration</subject></subj-group><subj-group><subject>Neuropharmacology &#x00026; Psychopharmacology</subject></subj-group></subj-group></article-categories><title-group><article-title>Tourette syndrome research highlights 2015</article-title><fn-group content-type="pub-status"><fn><p>[version 1; referees: 3 approved]</p></fn></fn-group></title-group><contrib-group><contrib contrib-type="author"><name><surname>Richards</surname><given-names>Cheryl A.</given-names></name><xref ref-type="corresp" rid="c1">a</xref><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a2">2</xref></contrib><contrib contrib-type="author"><name><surname>Black</surname><given-names>Kevin J.</given-names></name><xref ref-type="aff" rid="a1">1</xref><xref ref-type="aff" rid="a3">3</xref><xref ref-type="aff" rid="a4">4</xref><xref ref-type="aff" rid="a5">5</xref></contrib><aff id="a1">
+<label>1</label>Department of Psychiatry, Washington University School of Medicine, St. Louis, Missouri, USA</aff><aff id="a2">
+<label>2</label>Department of Medicine, Washington University School of Medicine, St. Louis, Missouri, USA</aff><aff id="a3">
+<label>3</label>Department of Neurology, Washington University School of Medicine, St. Louis, Missouri, USA</aff><aff id="a4">
+<label>4</label>Department of Radiology, Washington University School of Medicine, St. Louis, Missouri, USA</aff><aff id="a5">
+<label>5</label>Department of Neuroscience, Washington University School of Medicine, St. Louis, Missouri, USA</aff></contrib-group><author-notes><corresp id="c1"><label>a</label><email xlink:href="mailto:RichardsC@WUSTL.edu">RichardsC@WUSTL.edu</email></corresp><fn fn-type="con"><p>Both authors contributed to all phases of this work and have agreed to the final content.</p></fn><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>KJB participated in clinical trials supported by Psyadon Pharmaceuticals, Neurocrine Biosciences, Inc., and Acadia Pharmaceuticals, and was compensated by Acadia for advisory board and speakers bureau participation.</p></fn></author-notes><pub-date pub-type="epub"><day>24</day><month>6</month><year>2016</year></pub-date><pub-date pub-type="collection"><year>2016</year></pub-date><volume>5</volume><elocation-id>1493</elocation-id><history><date date-type="accepted"><day>13</day><month>6</month><year>2016</year></date></history><permissions><copyright-statement>Copyright: &#x000a9; 2016 Richards CA and Black KJ</copyright-statement><copyright-year>2016</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open access article distributed under the terms of the Creative Commons Attribution Licence, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="f1000research-5-9438.pdf"/><abstract><p>We present selected highlights from research that appeared during 2015&#x000a0;on Tourette syndrome and other tic disorders. Topics include phenomenology, comorbidities,&#x000a0;developmental course, genetics, animal models, neuroimaging, electrophysiology,&#x000a0;pharmacology, and treatment. We briefly summarize articles whose&#x000a0;results we believe may lead to new treatments, additional research or modifications&#x000a0;in current models of TS.</p></abstract><kwd-group kwd-group-type="author"><kwd>Tourette syndrome</kwd><kwd>tic disorders</kwd><kwd>genetics</kwd><kwd>animal models</kwd><kwd>neuroimaging</kwd><kwd>premonitory</kwd><kwd>therapy</kwd><kwd>review</kwd></kwd-group><funding-group><award-group id="fund-1"><funding-source>National Institutes of Health</funding-source><award-id>K24 MH087913</award-id><award-id>R21 NS091635</award-id></award-group><funding-statement>This work was supported in part by U.S. National Institutes of Health (NIH) grants K24 MH087913 and R21 NS091635, by a research grant from the Tourette Association of America to author CAR, and by the McDonnell Center for Systems Neuroscience at Washington University.</funding-statement><funding-statement><italic>The authors confirm that the funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. The opinions expressed are the authors&#x02019; and may not reflect the opinion of the funders.</italic></funding-statement></funding-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>This article is the second in the TS Research Highlights series
+<sup><xref rid="ref-1" ref-type="bibr">1</xref></sup>. These articles are meant to disseminate recent scientific progress on Gilles de la Tourette Syndrome (TS). During each year, the article will be a work in progress, maintained as a web page on the
+<ext-link ext-link-type="uri" xlink:href="https://www.authorea.com/aboutus">Authorea</ext-link> online authoring platform (the working draft for 2016
+<ext-link ext-link-type="uri" xlink:href="https://www.authorea.com/users/4510/articles/99560/_show_article">appears here</ext-link>). After the calendar year ends, the article is finalized and submitted as the annual update for
+<ext-link ext-link-type="uri" xlink:href="http://f1000research.com/channels/tics">the Tics channel on F1000Research</ext-link>
+<sup><xref rid="ref-2" ref-type="bibr">2</xref></sup>.</p></sec><sec sec-type="methods"><title>Methods</title><p>We searched PubMed on 22 Jan 2016 using the search strategy: (&#x0201c;Tic Disorders&#x0201d;[MeSH] OR Tourette NOT Tourette[AU]) AND 2015[PDAT]. This search returned 202 citations and includes articles appearing online in 2015 but not officially published by year end (from journals that still focus on the paper user interface). We also reviewed F1000Prime recommendations and presentations of interest at selected medical conferences. Articles were chosen based on a purely subjective assessment of interest, guided by our judgment of possible future impact on the field.</p></sec><sec sec-type="results"><title>Results</title><sec><title>Phenomenology and natural history</title><p>
+<bold><italic>Tic suppression</italic>.</bold> Since tic suppression is part of the treatment protocol for the Comprehensive Behavioral Intervention for Tics (CBIT) and for Exposure and Response Prevention, there has been increased interest in investigating the characteristics of tic suppression and the factors that affect it. A study of 26 TS adolescents compared free ticcing with a tic suppression condition
+<sup><xref rid="ref-3" ref-type="bibr">3</xref></sup>. During the free ticcing condition, tic distribution across body locations was consistent with the view that most tics occur at the level of the shoulders and above: eye tics were the most frequent, followed by facial/cervical tics, and those involving the arms and legs. Tics involving the trunk were the least common. During the tic suppression condition, eye tics increased in 10 subjects, as did hand tics in 3 subjects. Tic suppression was most successful for tics in body locations generally associated with fewer tics, such as the legs and trunk. The authors suggest that tic suppression involves specific, rather than global, inhibition since some types of tics were easier to suppress than others. Historically, other categories have been used to classify tics, such as simple vs. complex tics and motor vs. phonic tics. The results of this study suggest that future research may benefit from including body location in tic analyses.</p><p>By definition, children with Tourette syndrome (TS) have had tics for over a year. They can often suppress their tics briefly and they do so more effectively when rewarded for successful suppression. It has not been known whether the ability to suppress tics develops only with practice over the years of having tics or whether the ability to suppress tics is present when tics initially occur. Greene and colleagues addressed this question in children whose tics had developed within the past few months
+<sup><xref rid="ref-4" ref-type="bibr">4</xref></sup>. When children received tokens with monetary value for tic-free intervals, they had significantly more of these intervals compared to a baseline, unrewarded condition. This result suggests the possibility that behavior therapy for tics may work, at least for some children, even before TS can be diagnosed.</p><p>Another study examined the association between tic suppression and quality of life. Although most tic patients frequently try to suppress tics, they find suppressing them uncomfortable and distracting. However, those patients who are more satisfied with their ability to suppress their tics also report a higher quality of life
+<sup><xref rid="ref-5" ref-type="bibr">5</xref></sup>.</p><p>
+<bold><italic>Sensory phenomena</italic>.</bold> Premonitory urges are common in TS, are perceived as triggers for tics, and are as bothersome as the tics themselves to many people with TS. Premonitory urges have a sensory component and many TS patients also report sensory sensitivities. Researchers have been clarifying the nature of premonitory urges and attempting to determine the underlying causes of sensory sensitivities.</p><p>Scores on the Premonitory Urge for Tics Scale (PUTS) and the University of S&#x000e3;o Paulo Sensory Phenomena Scale (USP-SPS) were significantly correlated with total tic severity, tic complexity and vocal tic scores in youth and adults with TS
+<sup><xref rid="ref-6" ref-type="bibr">6</xref></sup>. The PUTS and USP-SPS scores were also correlated with scores on the Dimensional Yale-Brown Obsessive-Compulsive Scale. This study provides additional evidence that the association between premonitory urges and tics is complex and may be influenced by obsessive-compulsive tendencies.</p><p>Another study examined the association between premonitory urges and interoceptive awareness
+<sup><xref rid="ref-7" ref-type="bibr">7</xref></sup>. Interoceptive awareness was measured by how well subjects were able to mentally track their heartbeats, without being able to take their own pulse, during a specific period of time. Interoceptive awareness, tic severity, and obsessive-compulsive symptom severity were used in a multiple regression to predict PUTS scores. Greater interoceptive awareness and tic severity were significantly associated with higher PUTS scores while OCD symptom severity was not. The authors suggest that high interoceptive awareness may lead people to set a low threshold for perception of their own internal physiological sensations and therefore cause them to interpret these sensations as an urge to tic. Interestingly, TS subjects had lower interoceptive awareness than controls overall, suggesting that this downregulation of interoception might reflect a compensatory process.</p><p>
+<bold><italic>Symptoms and comorbidity</italic>.</bold> Recent research has again demonstrated the wide prevalence of TS-associated comorbidities and is a reminder of the need to perform studies with large enough sample sizes to examine the effects of comorbidities on the dependent variables of interest.</p><p>A retrospective review of 1,000,000 people in the Taiwan National Health Insurance Research Database examined the association between epilepsy and TS
+<sup><xref rid="ref-8" ref-type="bibr">8</xref></sup>. 1,062 children and adolescents with TS were matched on age and sex with a control group of 3,186 subjects. The TS group had an 18-fold increased risk of epilepsy compared to the control group; the risk was still elevated 16-fold after adjusting for comorbidities (
+<italic>i.e.</italic>, bipolar disorder, depression, learning difficulties, autism, anxiety disorders, sleep disorders). The authors acknowledge the possibility that some tics may have been mistaken for seizures, given the nature of the data set, but these data do suggest an important hypothesis for future confirmation.</p><p>In a large study of psychiatric comorbidity in TS, approximately 800 families were recruited primarily from TS specialty clinics in four different countries over a 16-year period
+<sup><xref rid="ref-9" ref-type="bibr">9</xref></sup>. A total of 1374 participants with TS and 1142 family members unaffected by TS were included. 86% of the TS participants had at least one psychiatric comorbidity and 72% had either OCD or ADHD. Mood, anxiety and disruptive behavior disorders each occurred in approximately 30% of the TS participants. The genetic correlations between TS and mood were accounted for by ADHD and OCD, while ADHD alone accounted for the genetic correlations of TS with anxiety and disruptive behavior disorders.</p><p>A study of 400 patients seen at a TS specialty clinic found that 39% had coprolalia and 20% had copropraxia
+<sup><xref rid="ref-10" ref-type="bibr">10</xref></sup>. When the 222 patients with full comorbidity data were examined, only 13.5% had &#x0201c;pure&#x0201d; TS (
+<italic>i.e.</italic>, without comorbidities). None of the &#x0201c;pure&#x0201d; TS group had coprolalia and none had a family history of obsessive-compulsive disorder.</p><p>Emotional regulation difficulties were described in three studies, reminding us that for many TS patients, tics are not their most problematic symptoms. Greater irritability was seen in TS adults with more severe tics and those with comorbid ADHD
+<sup><xref rid="ref-11" ref-type="bibr">11</xref></sup>. Eddy
+<italic>et al.</italic> found that both male and female TS subjects, compared to controls, reported more distress during emotionally intense situations and rated their abilities to take other people&#x02019;s perspectives lower
+<sup><xref rid="ref-12" ref-type="bibr">12</xref></sup>. An experienced clinician who has done research on &#x0201c;rage attacks&#x0201d; in TS has provided a clinically useful summary of current knowledge regarding aggressive symptoms in TS, OCD, ADHD and mood disorders, and described treatment options
+<sup><xref rid="ref-13" ref-type="bibr">13</xref></sup>. Given that emotional regulation difficulties are frequently associated with greater tic severity, improving emotional modulation skills may be an appropriate target of psychological interventions.</p><p>More research is also being conducted on personality differences associated with TS. A small study of 17 male adolescents
+<sup><xref rid="ref-14" ref-type="bibr">14</xref></sup> found that the only significant difference between the TS subjects and 51 age- and gender-matched controls on the Minnesota Multiphasic Personality Inventory-Adolescent version was that the TS subjects scored higher on the Obsessiveness Content Scale. In contrast, a study of 50 TS adults in Germany used a variety of instruments to measure psychological symptoms and personality traits
+<sup><xref rid="ref-15" ref-type="bibr">15</xref></sup>. Comorbidities were common (41% OCD, 28% depression, 26% ADHD). Patients with OCD had more severe tics and there was a trend for those with ADHD to have more severe tics. Only 29% of the patients had no pathological personality traits, as measured by the Inventory of Clinical Personality Accentuations. The demand-anxious trait was the most common personality trait seen in patients and was present in 39%, while histrionic personality traits were not found in any patients. Personality traits in patients with &#x0201c;pure&#x0201d; TS were comparable to those of the control group. Interestingly, ADHD did not contribute to increased probability of pathological personality traits. Although quality of life was affected by both personality traits and comorbidities, personality traits had a larger impact on quality of life.</p><p>
+<bold><italic>Course</italic>.</bold> More research is being conducted on the developmental progression of tics and other symptoms in TS. This work may provide clues that help clarify what factors contribute to the appearance and disappearance of transient tics and what factors explain the disappearance or amelioration of tics as children with TS enter adulthood.</p><p>One study examined home videos recorded in the first 6 months of life from 34 children who were exhibiting autistic behaviors in their second year of life
+<sup><xref rid="ref-16" ref-type="bibr">16</xref></sup>. Families reported that development during the first year of life had been normal. Videos of 18 boys were examined in detail. The primary focus of the study was on autism, though 11 of the 18 subjects were later diagnosed with TS. The nearly ubiquitous availability of home baby videos in some cultures suggests that a similar pseudo-prospective study design could be used to identify behavioral features predicting later development of TS.</p><p>The clinical characteristics of children who developed TS before the age of 4 were compared with those whose tics developed at age 6 or older
+<sup><xref rid="ref-17" ref-type="bibr">17</xref></sup>. The younger group had a higher rate of speech dysfluencies (
+<italic>e.g.</italic>, stuttering) and oppositional defiant disorder. There was no difference between the two groups in prevalence of ADHD or obsessive-compulsive symptoms. Interestingly, the children in the early-onset group were more likely to have mothers with tics. The authors attributed this to mothers with tics being more likely to recognize tics in their children. The authors also suggest that prenatal or perinatal maternal environmental factors may contribute to the development of tics. An alternative explanation may relate to the fact that TS is much less common in girls than in boys. Consequently, tics in a woman may represent a higher genetic load, resulting in a more severe form of tics and an earlier age of onset in her children.</p><p>Researchers re-evaluated 75 patients previously seen at a university-based TS clinic after a mean follow-up of 9 years
+<sup><xref rid="ref-18" ref-type="bibr">18</xref></sup>. Reported TS impairment was more likely to decrease over time in males and increase in females. In adulthood, women were more likely than men to have an expansion of the number of body regions exhibiting tics, primarily in the upper extremities. This result suggests that sex continues to influence TS symptoms beyond adolescence.</p></sec><sec><title>Etiology</title><p>
+<bold><italic>Genetics</italic>.</bold> The most important genetics news of the year may have been the presentation by Huang and colleagues at the Tourette World Congress in London in June, 2015, reporting on a large collaborative study of copy number variants (CNVs) in approximately 2,500 TS cases and 3,500 controls
+<sup><xref rid="ref-19" ref-type="bibr">19</xref></sup>. They first tested some CNVs previously reported in various neurological and psychiatric illnesses; the most significant confirmation in this sample was of exonic deletions in
+<italic>NRXN1</italic>, a gene previously implicated in autism and TS
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup>. They also searched for new, large CNVs and identified a novel TS locus,
+<italic>CNTN6</italic>, that was significant at a whole-genome level by permutation testing. This gene and 4 of the 32 next most likely candidates this analysis identified are neural adhesion molecules
+<sup><xref rid="ref-20" ref-type="bibr">20</xref></sup>.
+<italic>CNTN6</italic> is a reasonable candidate for etiologically contributing to TS: its expression in the brain varies during development
+<sup><xref rid="ref-21" ref-type="bibr">21</xref></sup>, knockout mice show motor deficits
+<sup><xref rid="ref-22" ref-type="bibr">22</xref></sup>, and an independent study found a variety of neurological and psychiatric symptoms (including 2 with OCD) in 14 patients identified by
+<italic>CNTN6</italic> CNVs
+<sup><xref rid="ref-23" ref-type="bibr">23</xref></sup>. On the other hand, fewer than 1% of TS cases in this sample had CNVs in
+<italic>CNTN6</italic>, so its overall importance in TS remains to be more fully characterized.</p><p>A large collaborative group
+<sup><xref rid="ref-24" ref-type="bibr">24</xref></sup> studied
+<italic>AADAC</italic>, the gene encoding arylacetamide deacetylase, in which microdeletions had been identified in a previous, smaller copy number variation study. The authors provide evidence from several sources supporting the connection of
+<italic>AADAC</italic> and TS, including a significant overall association, new patients with
+<italic>AADAC</italic> deletions, and evidence that
+<italic>AADAC</italic> is expressed in the brain, though most strongly in cerebellum, hippocampus and olfactory bulb, rather than the basal ganglia.</p><p>A collaborative genetic study
+<sup><xref rid="ref-25" ref-type="bibr">25</xref></sup> demonstrated an association of TS with 33 genes related to glycolysis or glutamine metabolism. None of the individual genes would have survived correction for multiple testing and the results were consistent with a combined effect of many genetic variants of small effect. These results suggest a new direction for future genetic, electrophysiological, imaging and pharmacological studies.</p><p>Yu
+<italic>et al.</italic> reported a genome-wide association study (GWAS) from 1,310 people with OCD, 834 with Tourette syndrome, 579 with both OCD and a chronic tic disorder, and over 5,500 controls matched for ancestry
+<sup><xref rid="ref-26" ref-type="bibr">26</xref></sup>. A significant polygenic component was identified for OCD without tics, but not for the combined patient group or other subgroups. Overall, this study is consistent with previous work but it provided disappointingly few novel results.</p><p>An international study examined tic symptoms in the United States and the Netherlands
+<sup><xref rid="ref-27" ref-type="bibr">27</xref></sup>. Three factors (complex vocal tics and obscene behavior, body tics, and head/neck tics) accounted for 49% of the variance in tic-related symptoms. There was no evidence of heritability for the second factor, but the h2r was approximately 0.2 for the first and third factors when age and sex were included as covariates. Heritability for these narrower tic phenotypes is considerably lower than the heritability estimates (up to 0.65) when comorbid conditions such as OCD and ADHD are included. These authors conclude that broader tic phenotypes, rather than narrower pure tic phenotypes, may be more successful at identifying the genetic mechanisms underlying TS.</p><p>
+<bold><italic>Environmental risk factors</italic>.</bold> Researchers used data from the Avon Longitudinal Study of Parents and Children to identify maternal factors that increase the risk of tic disorders in offspring
+<sup><xref rid="ref-28" ref-type="bibr">28</xref></sup>. The Avon Longitudinal Study is an ongoing, prospective, pre-birth cohort study of all children born in Avon, United Kingdom, between April 1, 1991, and December 31, 1992. Maternal questionnaires were administered throughout pregnancy and mothers also completed questionnaires about themselves and their children&#x02019;s development every 6 months from the child&#x02019;s birth to the age of 7 and then yearly thereafter. In the final multivariate model, chronic maternal anxiety, evident both before and after the child&#x02019;s birth, was associated with TS or chronic tic disorder in children. This association may reflect shared genetic susceptibility or prenatal exposure.</p></sec><sec><title>Pathophysiology</title><p>
+<bold><italic>Pathological studies</italic>.</bold> An important study follows up on the autopsy results from the Vaccarino lab by comparing RNA transcripts from the basal ganglia of 9 TS and 9 matched control subjects
+<sup><xref rid="ref-29" ref-type="bibr">29</xref></sup>. The most strongly associated set of downregulated transcripts involved striatal interneurons, consistent with the autopsy studies. The leading set of upregulated transcripts involved immune-related genes even though none of the TS subjects met proposed diagnostic criteria for PANDAS or PANS. The results obtained in the present study using brain tissue did not overlap with those of previous studies using blood samples. The authors interpret their results as implicating disrupted basal ganglia interneuron signaling in the pathophysiology of severe TS.</p><p>
+<bold><italic>Animal models</italic>.</bold> Rodent and monkey tic models have been developed in order to study tic generation mechanisms more directly and a number of studies using rodent models were published in 2015. Removing about half of the cholinergic interneurons in the dorsolateral striatum produced increased fragmented grooming behavior in response to repeated unpredictable acoustic startle stimuli in mice and also increased repetitive sniffing in response to D-amphetamine challenge
+<sup><xref rid="ref-30" ref-type="bibr">30</xref></sup>. Ablation in the dorsomedial striatum did not produce similar deficits. None of the experimental conditions produced a change in prepulse inhibition. These results provide partial support for the autopsy data linking some characteristic TS symptoms to cholinergic interneuron deficits in the dorsolateral striatum.</p><p>A rat model was used to determine to what extent cortical and striatal input affected the temporal and spatial properties of motor tics
+<sup><xref rid="ref-31" ref-type="bibr">31</xref></sup>. Focal blockade of GABA-A receptors with bicuculline injections into the anterior striatal motor region produced focal tic-like movements of the forelimbs. Medium spiny neurons (MSNs) and fast spiking interneurons (FSIs) exhibited increased activity during these movements, and all of the MSNs were only active during them. All of the FSIs were active during tics, but a minority followed this increase in activity by a decrease. Four different patterns were seen in globus pallidus (GP) neurons. About half of the GP neurons demonstrated increased activity during the tic-like movements, while the rest showed only inhibition or a combination of inhibition and excitation. The effects of cortical input were studied using short bursts of high-frequency electrical pulses applied at random intervals to the region of primary motor cortex representing the forelimb. Stimulation was provided before and after the bicuculline injections. The results suggested that the precise timing of tic occurrence was related to both incoming excitatory cortical input and the delay since the previous tic. These results support the fundamental involvement of the corticostriatal network with tic occurrence.</p><p>The role of GABA in tic generation was also studied in adult mice by injecting the GABA-A antagonist picrotoxin into areas throughout the cortex and striatum
+<sup><xref rid="ref-32" ref-type="bibr">32</xref></sup>. Infusions into the central and dorsolateral striatum produced tic-like movements of the front paw, hind paw or head. Infusions into the dorsomedial striatum did not have a significant behavioral effect. Infusion into the ventral striatum produced increased locomotor activation in addition to sterotypical sniffing and wall licking without other tic-like movements. Infusions into the sensorimotor cortex produced tic-like movements in addition to increased behavioral activation involving cage exploration, sniffing, and occasional licking. When an NMDA receptor antagonist was infused into the dorsolateral striatum prior to infusing picrotoxin into the same location, tic frequency decreased significantly, thus demonstrating a role of glutamatergic activity in tic generation. Infusion of a GABA-A agonist into the sensorimotor cortex prior to picrotoxin infusion in the dorsolateral striatum also resulted in significant tic suppression. EEG recordings ruled out seizure activity. The authors summarize these results as providing evidence that these tic-like movements require corticostriatal interactions, with a key role for glutatmateric afferents, rather than autonomous striatal activity.</p><p>In a genetically engineered mouse model of TS+OCD (&#x0201c;Ticcy&#x0201d; D1CT-7 transgenic mice)
+<sup><xref rid="ref-33" ref-type="bibr">33</xref></sup>, a small population of dopamine D1 receptor-expressing (D1+) somatosensory cortical and limbic neurons is chronically potentiated, resulting in cortical and amygdalar glutamatergic excitation of striatothalamic, striatopallidal and nigrostriatal subcircuits. Tics were decreased by the use of drugs that acted at different points in this &#x0201c;hyperglutamergic cortico/amygdalo-striato-thalamo-cortical [CSTC] circuit&#x0201d;. Excitatory forebrain serotonin and norepinephrine activity was blocked by ritanserin (a serotonin 2a/2c antagonist) and prazosin (an
+<italic>&#x003b1;</italic>
+<sub>1</sub> adrenergic antagonist) respectively. In contrast, downstream striatothalamic neurons&#x02019; glutamate-triggered GABA output and downstream nigrostriatal neurons&#x02019; glutamate-triggered co-modulatory dopamine output were blocked by moxonidine (an agmatine/imidazoline-1 agonist) and bromocriptine (a D2 dopamine agonist) respectively. All four of these drugs decreased tic frequency and were considered to be &#x0201c;circuit-breakers&#x0201d; for the hyperglutamatergic CSTC circuit, thus supporting an important role of glutamate in generating the abnormal tic-like movements seen in these mice.</p><p>
+<bold><italic>Neuroimaging studies</italic>.</bold> The challenges of using neuroimaging techniques to study pediatric and clinical subjects are described in detail along with suggestions concerning various strategies that can be used to collect higher quality data
+<sup><xref rid="ref-34" ref-type="bibr">34</xref></sup>. The profound effects of even very small head movements on structural MRI analyses were identified in a well-designed study
+<sup><xref rid="ref-35" ref-type="bibr">35</xref></sup>. T1-weighted MRI of brain was acquired in 12 healthy adults while they were still or engaged in specific types of movement including nodding, head shaking or a movement each subject invented and then repeated during the scan run. Even during scans when subjects attempted to remain still, there was an average of 3 mm/min of accumulated motion measured as root mean square displacement per minute. During the motion conditions, substantial impact was found on gray matter volume and thickness estimates. Apparent volume loss averaged approximately 0.7% mm/min of subject motion. The greatest reductions in gray matter occurred in pre- and post-central cortex and in the temporal lobes. Motion-associated increases in thickness were seen in some frontal regions and deep sulci such as the medial orbital frontal region. Significant effects due to motion were still present even after excluding scans that failed a rigorous quality control procedure. Recommendations included reducing head motion during scans as much as possible, controlling for motion in statistical analyses, and using correlational analyses to determine the associations between head motion and the predictors of interest. Tisdall and colleagues described a method to limit the effects of movement artifacts by using a motion tracking system to provide prospective motion correction during scanning
+<sup><xref rid="ref-36" ref-type="bibr">36</xref></sup>.</p><p>A whole-brain analysis of cortical gray matter found reduced gray matter (GM) thickness in the insula and sensorimotor cortex for 29 TS children and young adults compared to a matched control group
+<sup><xref rid="ref-37" ref-type="bibr">37</xref></sup>. GM thickness in these areas correlated negatively with Premonitory Urge for Tics Scale scores.</p><p>Resting-state functional magnetic resonance imaging identified greater functional connectivity between the right dorsal anterior insula (dAI) and the bilateral supplementary motor area (SMA) in TS adults compared to controls
+<sup><xref rid="ref-38" ref-type="bibr">38</xref></sup>. Post-hoc analyses found significant correlations between PUTS scores and connectivity between right dAI and right SMA2 and between right dAI and left SMA1. These regions may be involved in the increased awareness of body sensations that tend to be associated with premonitory urges. The authors paid attention to head movement and removed high-movement frames. However, recent result suggest that the motion threshold of 0.4mm used in this analysis, and the choice not to regress global signal, may not adequately remove artifactual correlations between brain regions due to residual small head movements during the scan
+<sup><xref rid="ref-39" ref-type="bibr">39</xref></sup>.</p><p>A review summarized TS task-based fMRI studies in TS including studies of tic suppression, voluntary motor execution, voluntary motor inhibition, and tic severity
+<sup><xref rid="ref-40" ref-type="bibr">40</xref></sup>. Free ticcing conditions (four studies) most commonly activated the left cerebellum, right cingulum, left middle frontal gyrus, the Rolandic operculum, right pallidum, right SMA and thalamus. In motor response inhibition studies, on No-Go trials TS subjects exhibited greater activation in the bilateral prefrontal cortex, thalamus and caudate. In contrast, on voluntary motor execution tasks greater activation in TS subjects was seen in the left prefrontal cortex, right cingulum, and the anterior SMA. Tic severity ratings were correlated with greater activation of the right dorsal premotor cortex and the SMA. Anterior cingulate cortex and SMA were involved across task types. The thalamus was involved in all types of studies except for self-produced movements. The authors also briefly summarize the many issues related to neuroimaging tasks, such as associated comorbidities, medication effects, the need for longitudinal studies, and the confounding effect of tics during scanning. Additional neuroimaging studies of note are noted in
+<xref ref-type="table" rid="T1">Table 1</xref>.</p><table-wrap id="T1" orientation="portrait" position="anchor"><label>Table 1. </label><caption><title>Additional neuroimaging and electrophysiology studies.</title></caption><table frame="hsides" rules="groups" content-type="article-table"><thead><tr><th align="left" rowspan="1" colspan="1">Reference</th><th align="left" valign="top" rowspan="1" colspan="1">Comment</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">Motor execution and motor
+<break/>imagery
+<sup><xref rid="ref-41" ref-type="bibr">41</xref></sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">An exploratory study found increased cortical premotor and prefrontal neural activation for both
+<break/>imagined and performed movements in TS subjects compared to controls. Premotor activation
+<break/>during the motor imagery task was correlated with tic severity.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Structural MRI in pediatric
+<break/>TS
+<sup><xref rid="ref-42" ref-type="bibr">42</xref></sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">A preliminary report of a multi-site study with over 200 subjects found TS children had greater gray
+<break/>matter volume in the posterior thalamus, hypothalamus and midbrain in addition to decreased
+<break/>white matter volume in orbital prefrontal and anterior cingulate cortex.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">DTI and the corpus
+<break/>callosum
+<sup><xref rid="ref-43" ref-type="bibr">43</xref></sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Axial diffusivity (AD) was reduced in treatment-naive boys with &#x0201c;pure TS&#x0201d; compared to controls.
+<break/>AD was negatively correlated with tic severity, although this result was not significant after
+<break/>Bonferroni correction.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">TS and Chronic Tic
+<break/>Disorder
+<sup><xref rid="ref-44" ref-type="bibr">44</xref></sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Both TS and chronic tic disorder groups exhibited similar increases in parietal and central event-
+<break/>related potentials, adding to evidence that TS and CTD may be the same illness.</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Event-related potentials
+<sup><xref rid="ref-45" ref-type="bibr">45</xref></sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">Reduced P300 amplitudes in frontal regions were related to TS-associated comorbidities rather than
+<break/>to TS itself.</td></tr></tbody></table></table-wrap><p>
+<bold><italic>Electrophysiology</italic>.</bold> Local field potentials associated with spontaneous tics were studied in 3 patients during DBS surgery
+<sup><xref rid="ref-46" ref-type="bibr">46</xref></sup>. In all 3 patients repetitive thalamo-cortical coherent activity was present from 800 to 1500 msec prior to tic-associated muscle contractions. The frequency range affected varied among the patients and there were also ongoing intermittent intra-thalamic coherences that were not synchronized to the tics. The authors speculated that specific DBS targets may not matter as much as whether the target is part of the striato-pallido-thalamo-cortical network. However, since these patients were older and had very severe and complex tics, the authors acknowledge that it is not yet clear to what extent these results generalize to the TS population as a whole. Additional studies are noted in
+<xref ref-type="table" rid="T1">Table 1</xref>.</p><p>
+<bold><italic>Pharmacological studies</italic>.</bold> GABA involvement was studied in 23 TS children, aged 8&#x02013;12, and 67 controls using a battery of vibrotactile tasks with a subset of the children (19 with TS, 25 controls) also undergoing GABA-edited magnetic resonance spectroscopy (MRS)
+<sup><xref rid="ref-47" ref-type="bibr">47</xref></sup>. Lower GABA concentration in the right sensorimotor cortex correlated with greater motor tic severity (
+<italic>r</italic> =
+<italic>&#x02013;</italic>0.55). There were no significant differences between groups on reaction time and baseline amplitude discrimination threshold. However, TS children showed impaired tactile adaptation. The authors suggest that MRS GABA and tactile measures might useful as biomarkers of treatment response.</p><p>Positron emission tomography (PET) was used to investigate striatal D2/D3 dopamine receptor availability in TS subjects and controls using a D2/D3 receptor antagonist ([
+<sup>11</sup>
+<italic>C</italic>]raclopride) and an agonist with preferential binding to D3Rs ([
+<sup>11</sup>
+<italic>C</italic>](+)PHNO)
+<sup><xref rid="ref-48" ref-type="bibr">48</xref></sup>. No differences were found in striatal regions when the TS subjects were compared with the controls, and there were no significant correlations between receptor availability and tic severity. The authors concluded that their results challenge the widely held view that striatal dopamine receptors have a fundamental role in TS pathophysiology, though they acknowledged that endogenous dopamine levels may have influenced the results since these radiotracers are displaceable by physiological synaptic concentrations of dopamine.</p><p>Two studies examined dopamine D1 and D2-like receptors in healthy adults, measuring D1R and D2R availability during stop-signal and continuous performance tasks
+<sup><xref rid="ref-49" ref-type="bibr">49</xref></sup>. Stop-signal reaction time was negatively correlated with both D1R and D2R receptor availability in the the associative and sensory motor regions of the striatum. In contrast, neither D1R nor D2R receptor availability was associated with performance on the continuous performance task, suggesting that stop-signal and continuous performance tasks are associated with different neurochemical mechanisms related to motor response inhibition. In a study of healthy adults, learning from positive outcomes was positively correlated with D1R binding in the putamen and caudate while there was an inverted U-shaped relationship (
+<italic>r</italic>
+<sup>2</sup> = 0.19) between learning from negative outcomes and D2R binding in the putamen
+<sup><xref rid="ref-50" ref-type="bibr">50</xref></sup>. A dietary manipulation that reduced dopamine precursor levels significantly improved learning from negative outcomes. These results were interpreted as providing evidence that dopamine acts as a reward prediction error signal rather than as a saliency signal.</p><p>A detailed review focuses on histaminergic modulation of striatal function and its possible role in TS
+<sup><xref rid="ref-51" ref-type="bibr">51</xref></sup>. The authors suggest that during wakefulness and increased attention, histaminergic neurons will be more active with the result that the striatum will be more responsive to thalamostriatal input and feed-forward inhibition will dominate. Several lines of evidence related to the role of histamine in TS were discussed. A family linkage study identified a rare mutation in the gene encoding histidine decarboxylase. HDC transgenic mice exhibit decreased pre-pulse inhibition of startle responses and an increase in a variety of amphetamine-induced stereotypies that were prevented by pretreatment with histamine infusion or use of haloperidol. Reduced histamine production was suggested to produce dopaminergic disregulation of the basal ganglia and symptoms similar to those seen in TS.</p><p>
+<bold><italic>Clinical and neuropsychological studies</italic>.</bold> In an intriguing report from a group studying social cognition, TS subjects exhibited intact mentalizing when observing animated triangles demonstrating simple and complex interactions
+<sup><xref rid="ref-52" ref-type="bibr">52</xref></sup>. However, unlike controls, TS subjects also tended to attribute human-like intentions when two triangles were moving randomly. This tendency was not explained by clinical symptoms or by other constructs such as executive function or alexithymia.</p><p>Two studies examined the effects of comorbidities on social and cognitive skills. Social responsiveness and cognitive flexibility were examined in TS children and adolescents
+<sup><xref rid="ref-53" ref-type="bibr">53</xref></sup>. TS subjects were rated as having poorer social motivation and skills, using the Social Responsiveness Scale, compared to age-matched controls. TS subjects also took significantly longer to complete the Trail Making Tests which measure cognitive flexibility and visual motor integration. However, of the 31 TS subjects, 11 had OCD, 18 had ADHD and 8 had an anxiety disorder. Once these comorbidities were taken into account, group differences on the Trail Making Tests and the Social Responsiveness Scale were no longer significant. These findings demonstrate the need for studies to have adequate sample sizes to provide sufficient power to disentangle effects related specifically to tics rather than to other symptoms. Another study was designed to separate effects attributable to OCD
+<sup><xref rid="ref-54" ref-type="bibr">54</xref></sup>. Sustained attention, using a continuous performance test, was examined in 48 children and adolescents who had OCD alone, tic disorders (TD) alone or both OCD and TD. A high rate of ADHD was seen in all groups (62% of the OCD+TD group, 27% in the TD alone group, and 20% in the OCD alone group). Anxiety was also frequent (77% in the OCD+TD group compared to 49% for the other two groups combined). The OCD+ TD group had more errors of omission and higher reaction time variability. These results of this study provide additional evidence that the OCD+TD phenotype is associated with more severe symptoms including attentional difficulties and symptoms of anxiety.</p><p>Two studies examined motor control. In a clever analysis of video recordings of the eyes
+<sup><xref rid="ref-55" ref-type="bibr">55</xref></sup>, spontaneous blink rate, which is related to dopamine levels, was higher in children with TS than in controls both during task performance and during a rest period. In contrast, pupil diameter, which is related to norepinephrine levels, was correlated with anxiety in TS subjects although not in controls. Researchers also used a cognitive control task to measure ability to properly update current task information, ignore competing information when selecting between response options, and retrieve and use relevant response contingencies. Accuracy on this cognitive control task accounted for half of tic severity variance. In an unrelated study, TS children without ADHD or OCD had significantly greater difficulty maintaining postural stability than did age- and gender-matched controls, especially when subjects had access only to accurate vestibular, rather than visual or somatosensory, cues
+<sup><xref rid="ref-56" ref-type="bibr">56</xref></sup>.</p><p>Somatosensory sensitivity was compared in adults with &#x0201c;pure&#x0201d; TS and controls by establishing thresholds for externally applied stimuli
+<sup><xref rid="ref-57" ref-type="bibr">57</xref></sup>. No differences were found between the two groups, supporting the view that the sensory abnormalities seen in TS may be related to abnormal interoceptive awareness or abnormal central sensorimotor processing.</p><p>Three recent studies examined the effects of attention on tic frequency and the results have implications for how treatment protocols could be modified to increase effectiveness. In one study, the role of attention on tic frequency was examined under several conditions
+<sup><xref rid="ref-58" ref-type="bibr">58</xref></sup>. Tic frequencies were lower for 12 TS subjects during a baseline condition when they were alone in a room compared to when they were alone in a room looking at themselves in a mirror. Researchers then determined whether the increase in frequency was due to increased attention to the tics themselves or due to increased self-awareness in general. In addition to the conditions previously described, 16 subjects were also shown videos of themselves while they were not ticcing. Tic frequency was again lower during the baseline compared to the mirror condition. Tic frequency was even lower when subjects were watching the video of themselves while not ticcing. The authors suggest that future treatments teach patients to attend to states when they experience fewer tics. Another study of TS adults
+<sup><xref rid="ref-59" ref-type="bibr">59</xref></sup> compared tic frequency while subjects were engaged in tasks that involved attending to particular fingers, colored circles, or whether a tic had occurred during a specific 2-second interval. Observations for these tasks were made both during free ticcing and tic suppression. Not surprisingly, more tics were seen during a baseline free ticcing condition. During the attention tasks, tic frequency was greatest while subjects focused on their tics. In contrast, tic frequency decreased during the color attention condition and decreased further during the finger attention condition. When subjects suppressed their tics, they reduced their baseline tic frequency similarly across all attention conditions. These results are consistent with the idea that internally-directed attention, especially with a focus on tics, may contribute to momentary increases in tic severity. The authors suggested that behavioral treatment might be more effective if it focused on teaching patients to focus on external events and voluntary actions when they are in situations that are most likely to result in ticcing. Anecdotal evidence has suggested that tics decrease when people are involved in musical activity, so Bodeck
+<italic>et al.</italic> systematically studied the effects of music.
+<sup><xref rid="ref-60" ref-type="bibr">60</xref></sup> Questionnaires completed by 29 patients supported the idea that listening to music and performing music decrease tic frequency. Eight TS subjects were then observed in a variety of conditions. Tics were almost completely eliminated when subjects were performing music. Listening to music and using mental imagery of musical performance also resulted in decreases in tic frequency. The authors suggested that focused attention, along with fine motor control and goal-directed behavior, produced the decrease in tics.</p><p>The stereotyped nature of tics has led some to suggest that the neural systems involved in habitual behavior may also be associated with tic generation. A complex, three-stage instrumental learning paradigm was used to compare medicated and unmedicated TS adults with a control group to determine whether they differed in goal-directed
+<italic>vs.</italic> habitual behavior
+<sup><xref rid="ref-61" ref-type="bibr">61</xref></sup>. During the first stage, subjects learned to associate six different stimuli with six specific outcome pictures and a specific response (i.e., left or right key press). During the second stage, subjects were presented with two outcomes with an indication that one outcome was devalued (i.e., no longer associated with point rewards) and subjects had to press the key associated with the outcome that would still generate points. During the third stage (
+<italic>i.e.</italic>, &#x0201c;slip-of-action&#x0201d; stage), the six outcomes were presented simultaneously with indications that two outcomes were devalued so that responding to the associated stimuli would no longer generate points. Subjects were instructed to press the key associated with stimuli associated with the still valued outcomes (i.e., &#x0201c;Go&#x0201d;) and withhold the response (i.e., &#x0201c;No-Go&#x0201d;) for stimuli associated with devalued outcomes. This task determined whether excessive &#x0201c;slips of action&#x0201d; were related to outcome devaluation insensitivity. A control Go/No-Go task, which involved devaluation of cueing stimuli, was used to measure to measure response rates where high rates on this task would indicate working memory deficits or deficient response inhibition. There were no group performance differences for the first two stages of the instrumental learning task or on the baseline Go/No-Go task. However, unmedicated patients showed a significantly higher response rate to devalued outcomes compared to controls (in Bonferroni-corrected
+<italic>post hoc</italic> analyses), while there was no difference between medicated subjects and controls. In addition, tic severity in unmedicated subjects was correlated with response rates to devalued outcomes and with stronger structural connectivity between the right supplementary motor cortex and the posterior putamen. The results obtained in this study contrasted with results on similar tasks obtained with subjects with obsessive-compulsive disorder without tics. The authors argued that over-reliance on habits in OCD without tics is associated with impaired knowledge of response-outcome associations, while this type of learning was intact in both TS groups in this study. They concluded that habit formation is enhanced in unmedicated TS subjects but medication may normalize responses.</p></sec><sec><title>Treatment</title><p>
+<bold><italic>Psychotherapy</italic>.</bold> 2015 saw several practical advances in the psychotherapeutic treatments available for tics.
+<ext-link ext-link-type="uri" xlink:href="http://www.tichelper.com/">TicHelper.com</ext-link> is a commercial adaptation of Comprehensive Behavioral Intervention for Tics (CBIT) to the Internet, discussed at the
+<ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6gWlBTYcC">London congress in 2015</ext-link>.
+<sup><xref rid="ref-62" ref-type="bibr">62</xref></sup> It is potentially an important treatment option, especially for the many TS patients who do not live near a behavior therapist. Efficacy testing is ongoing (see
+<ext-link ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/ct2/show/NCT02413216">the trial summary at ClinicalTrials.gov</ext-link>).</p><p>McGuire
+<italic>et al.</italic> dug into the data from 2 previously reported, pivotal, randomized controlled CBIT studies that together enrolled over 200 children and adults
+<sup><xref rid="ref-63" ref-type="bibr">63</xref></sup>. The superior treatment benefit from CBIT, compared to a control therapy, could be attributed to differential improvement in only a few types of tics, including throat clearing, sniffing, and complex tics. In general, vocal tics were more likely to improve following CBIT treatment. The controlled breathing used as a competing response for vocal tics may have allowed patients to direct attention away from the associated premonitory urges in a way that muscle-tensing competing responses for motor tics did not. This report also extends previous information about premonitory phenomena, including varying prevalence of premonitory urges across specific tic types.</p><p>&#x0201c;Living with Tics&#x0201d; is a modularized cognitive-behavioral treatment focused on decreasing tic-related impairment and improving quality of life. This treatment program was recently tested in a randomized, wait-list control study, with the active intervention including up to 10 weekly sessions for children and adolescents
+<sup><xref rid="ref-64" ref-type="bibr">64</xref></sup>. Treatment modules focused on a variety of themes including self-esteem, emotion regulation, parent training, cognitive restructuring, coping at school, overcoming tic-related avoidance, and 1 or 2 sessions of habit-reversal training. Active treatment led to improved child-rated quality of life and reduced blinded clinician-rated tic impairment compared to the wait-list control group. An additional 7 wait-listed youth then participated in the treatment program resulting in data on 19 participants for open-trial analyses. With the larger sample size the reductions in tic severity (i.e., 30%), anxiety, obsessive-compulsive symptoms, and parent-rated impairment were significant. Both the youth and their parents reported satisfaction with the intervention, serving as a reminder that improving quality of life can be a desired treatment goal.</p><p>A small, uncontrolled open trial of mindfulness-based stress reduction treatment involved 18 individuals who were at least 16 years old.
+<sup><xref rid="ref-65" ref-type="bibr">65</xref></sup> Treatment consisted of eight weekly two-hour group classes and one four-hour retreat. Participants were taught a tic-specific meditation exercise that involved noticing any urges to tic while maintaining a focus on one&#x02019;s breathing rather than trying to change or eliminate the urge to tic. Only one subject dropped out and overall tic severity was decreased by 20% for participants who completed the program. An independent evaluator rated ten subjects as "much improved" or &#x0201c;very much improved&#x0201d; and these subjects were considered treatment responders. The gains for the fifteen participants who had not had medication changes in the interim were maintained at a one month follow-up visit.</p><p>An unblinded trial of psychotherapy using a cognitive psychophysiological model of tic behavior was conducted with 102 adults who had TS or chronic tic disorder
+<sup><xref rid="ref-66" ref-type="bibr">66</xref></sup>. Ten weeks of individual psychotherapy involved a number of components including increasing tic awareness; improving muscle control; preventing excessive muscle tension; decreasing an overactive action style; identifying low and high risk activities in terms of tic probability; highlighting differences in behaviors, thoughts and feelings related to differences in tic probability; decreasing perfectionistic beliefs linked to tension; generalization; and relapse prevention. These psychotherapy components were chosen because prior research suggested that some people with tics have perfectionist beliefs leading to an &#x0201c;impulsive overactive style&#x0201d; that produces frustration and tension in addition to tics. Large effect sizes were seen for both patient groups compared to the waiting list control group: 65% of the chronic tic disorder group and 74% of the TS group had reductions of more than 35% on the Tourette Syndrome Global Scale (TSGS). YGTSS total tic scores were also significantly decreased for both patient groups. At the end of treatment 78 of 85 completers were rated as having no more than mild symptoms, regardless of the starting severity, while the other 7 were considered to have moderate symptoms. Large effect sizes were seen for tic subtypes (
+<italic>i.e.</italic>, simple, complex, motor, phonic) and similar results were seen across tic body locations. The TSGS improvements were maintained in the 52 subjects who completed a 6-month follow-up evaluation.</p><p>A study by the same group examined the effects of this psychotherapy approach on event-related potentials and lateralized readiness potentials (LRPs)
+<sup><xref rid="ref-67" ref-type="bibr">67</xref></sup>. EEGs were recorded for 20 TS subjects and 20 control subjects matched for age, sex and intelligence while performing a stimulus-response compatibility inhibition task. During the No-Go condition, the TS group exhibited a delayed and overactivated frontal late positive component on the No-Go portion of the task. The authors considered this frontal activation as evidence of an adaptive mechanism that allowed patients to perform similarly to the control subjects on the task. This difference did not normalize with psychotherapy, consistent with this interpretation. TS subjects exhibited a larger incorrect activation of the stimulus-locked LRP (sLRP) in addition to larger correct activation of the sLRP and delayed correct activation sLRP onset. Although sLRP onset and response-locked LRP (rLRP) peak normalized after psychotherapy, the larger sLRP amplitude did not. The authors suggested that therapy produced some normalization of activation in the premotor and motor cortex.</p><p>
+<bold><italic>Medication</italic>.</bold> Efforts to maximize the value of pharmacological treatment continue. Lemmon
+<italic>et al.</italic> reported on a carefully designed, thoughtful pilot study of glutamatergic modulators as tic treatment
+<sup><xref rid="ref-68" ref-type="bibr">68</xref></sup>. Twenty-three children with TS completed a double-blind, parallel group study involving 6 weeks of placebo, D-serine (up to 30 mg/kg/day) or riluzole (up to 200 mg/day). YGTSS total tic scores improved by 25&#x02013;38% in each group, without significant group differences. Although power was limited by the small sample size, this null result argues against eager pursuit of glutamatergic medications for TS at this juncture.</p><p>A meta-analysis of 22 randomized, controlled trials (RCTs) involving 2,385 children with ADHD found no causal relationship between stimulants and onset of tics
+<sup><xref rid="ref-69" ref-type="bibr">69</xref></sup>. Rather, tics were associated with ADHD itself (5.7% in the psychostimulant groups and 6.5% in the placebo groups). This summary of previous evidence hopefully can further reassure patients and prescribers that stimulants do not cause tics. The evidence for this conclusion is strongest for methylphenidate (19 of the 22 trials), and in a large RCT in children with TS and ADHD, tics
+<italic>improved</italic> significantly with methylphenidate
+<sup><xref rid="ref-70" ref-type="bibr">70</xref></sup>. In the meta-analysis, results were similar for the 3 trials involving amphetamines, but tic severity did increase in 12 adults with TS after a single intravenous dose of 0.3mg/kg D-amphetamine
+<sup><xref rid="ref-71" ref-type="bibr">71</xref></sup>.</p><p>Four patients with treatment-refractory TS were studied in an early report of results using vigabatrin, a medication from the GABA-aminotransferase inhibitor class
+<sup><xref rid="ref-72" ref-type="bibr">72</xref></sup>. One patient had a clinically significant reduction in tics while two others had tic reduction of approximately 25% but did not report subjective clinical improvement. Further study will be needed.</p><p>
+<bold><italic>Neurosurgery</italic>.</bold> A revised consensus statement on the use of DBS in TS appeared recently
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup>. It provides an important update to the 2006 recommendations
+<sup><xref rid="ref-74" ref-type="bibr">74</xref></sup>, guided by almost a decade of generally positive results from an increasingly varied set of patients, though with limited evidence from randomized allocation treatment studies. Several major changes were made in the recommendations. First, the recommendation that DBS patients be 25 years or older has been replaced by a focus on clinical symptoms and severity. However, at a minimum, local ethics committee involvement was recommended for patients under 18 years of age. The second major modification in the guidelines was that a patient have a caregiver who would be available to accompany the patient to frequent follow-up appointments. In addition, the group recommended absence of active suicidal or homicidal ideation for 6 months prior to surgery. The final change in the guidelines recommended identifying and addressing personality disorders, malingering, factitious symptoms, embellishment, and other factors that can substantially complicate assessment and treatment.</p><p>Treatment effectiveness was examined by randomly allocated to DBS on-stimulation or off-stimulation conditions for the first 3 months after DBS leads were placed in the GPi (globus pallidus, pars interna). Patients were then switched to the other condition for another 3 months
+<sup><xref rid="ref-75" ref-type="bibr">75</xref></sup>. Ratings were collected blind to stimulation status, and 13 patients completed assessments during both conditions. Total YGTSS scores were 15% lower at the end of the on-stimulation period compared with the off-stimulation period (p=0.048). Three serious adverse events occurred: two infections in the DBS hardware and one episode of hypomania. Further improvements were seen during the long-term open label treatment period. This study is important as it provides evidence of efficacy of stimulation
+<italic>per se</italic> from a study with random assignment to initial condition.</p><p>A case study raised the issue of temporary DBS treatment in a patient with TS and ADHD treated with thalamic DBS from age of 17 to 23
+<sup><xref rid="ref-76" ref-type="bibr">76</xref></sup>. This case highlights the issue of DBS in minors discussed in the consensus statement
+<sup><xref rid="ref-73" ref-type="bibr">73</xref></sup>, but without adequate controls it is impossible to know whether DBS was the cause of tic improvement.</p><p>
+<bold><italic>Other treatment</italic>.</bold> Lisanby and colleagues reported a careful, randomized controlled trial of repetitive transcranial magnetic stimulation (rTMS) aimed at the supplementary motor area (SMA) in 20 adults with TS
+<sup><xref rid="ref-77" ref-type="bibr">77</xref></sup>. There were suggestions of improvement, but on average, patients in the sham treatment group improved almost as much as those in the active treatment group. However, rTMS most effectively stimulates superficial regions of cortex, and an Israeli group employed a new coil designed to provide deeper stimulation in an open-label study of 12 patients with treatment-refractory TS
+<sup><xref rid="ref-78" ref-type="bibr">78</xref></sup>. On average, the 12 patients did not improve significantly, but the treatment was well tolerated, and a
+<italic>post hoc</italic> analysis showed benefit in the 6 patients who also had OCD. A double blind, sham-controlled study in TS patients with OCD will be needed to confirm efficacy.</p><p>Cranial electrical stimulation (CES) was used in an open label trial to treat 42 children with TS who were less than 12 years old
+<sup><xref rid="ref-79" ref-type="bibr">79</xref></sup>. Patients applied electrodes to their earlobes when they went to bed so that they could receive the treatment on a daily basis for 24 weeks. Treatment sessions lasted 60 minutes and children were allowed to sleep during treatment. Only one child dropped out before completing the study. The mean YGTSS score significantly decreased from 26 when they were initially seen to 11 after treatment completion. These results must be viewed as preliminary, since an RCT is required to rule out spontaneous improvement.</p><p>Another treatment undergoing initial efficacy testing is an oral orthotic device with which some patients have reported success. The rationale and design of the study, and initial safety results, were reported at the London meeting
+<sup><xref rid="ref-80" ref-type="bibr">80</xref></sup>, and efficacy testing continues (see
+<ext-link ext-link-type="uri" xlink:href="https://clinicaltrials.gov/ct2/show/NCT02067819">the trial summary at ClinicalTrials.gov</ext-link>).</p></sec><sec><title>Tics, family and society</title><p>Two studies examined the association between parenting a TS child and parental stress. Using self-report data, Stewart and colleagues revealed that stress in parents of 74 children with Tourette syndrome was highly correlated with current ADHD symptom burden in the child (
+<italic>r</italic> = .57) and, less strongly, with the child&#x02019;s OCD symptoms (
+<italic>r</italic> = .40)
+<sup><xref rid="ref-81" ref-type="bibr">81</xref></sup>. However, perhaps surprising some readers, parental stress was not significantly correlated with current tic severity (
+<italic>r</italic> = .18,
+<italic>p</italic> = .13). The correlation of parental stress with ADHD and OCD symptom severity was present to a similar degree in 48 control children without tics. These observations reinforce the need for optimal clinical management of TS to include appropriate treatment of associated comorbidities. In another study 28 parents of 21 TS children completed questionnaires on their anxiety, depression, and perceived stress
+<sup><xref rid="ref-82" ref-type="bibr">82</xref></sup>. Eight of the parents reported a moderate or severe level of anxiety. In general, parents varied in terms of their self-reports of their coping skills and social support availability. These results remind clinicians that it is important to evaluate the social support available to families of TS children, and suggest that increasing parental coping skills may improve the quality of life in TS families.</p><p>Attitudes toward treatment were investigated using a survey of 295 parents of youth with TS and interviews with 42 young people with TS
+<sup><xref rid="ref-83" ref-type="bibr">83</xref></sup>. These subjects were identified through
+<ext-link ext-link-type="uri" xlink:href="http://www.tourettes-action.org.uk/">Tourettes Action</ext-link>, a non-profit organization in the U.K. Patients tended to view aripiprazole more positively than other treatments. Three quarters of parents wanted access to behavior therapy for their child, but reported substantial trouble finding it. On the other hand, many young people were skeptical that behavior therapy would help. Importantly, patients identified several treatment outcomes other than tics
+<italic>per se</italic> as important to them: reduction of premonitory urges, increasing control over tics, and reducing anxiety.</p></sec><sec><title>Additional reference sources</title><p>David Shprecher and colleagues recently published a thoughtful, forward-looking, but concise review of Tourette research and treatment
+<sup><xref rid="ref-84" ref-type="bibr">84</xref></sup>. Mary Robertson
+<sup><xref rid="ref-85" ref-type="bibr">85</xref>&#x02013;
+<xref rid="ref-88" ref-type="bibr">88</xref></sup> reviews work that she and colleagues have done during her 35-year career treating TS patients and her 30 years of publishing TS research. Jankovic provided an overview of tic treatments
+<sup><xref rid="ref-89" ref-type="bibr">89</xref></sup>, and one of our colleagues highly recommended a review of current medication treatment practice in Germany
+<sup><xref rid="ref-90" ref-type="bibr">90</xref></sup>.</p><p>Jackson
+<italic>et al.</italic> describe how increased motor control occurs in TS adolescents along with a variety of compensatory mechanisms
+<sup><xref rid="ref-91" ref-type="bibr">91</xref></sup>. These researchers make the case that increased inhibitory capacity within higher-order motor regions, such as the SMA, may alter motor excitability. Hawksley
+<italic>et al.</italic> summarize evidence suggesting that autonomic dysfunction may have a role in both epilepsy and Tourette Syndrome
+<sup><xref rid="ref-92" ref-type="bibr">92</xref></sup>. They also discuss how electrodermal activity biofeedback reduced seizure activity significantly in patients with epilepsy. In contrast, TS subjects had difficulty reducing sympathetic activity, suggesting that treatment protocol modifications are needed for TS.</p><p>In December, 2015, a
+<ext-link ext-link-type="uri" xlink:href="http://link.springer.com/journal/40474/topicalCollection/AC_201b22404b6bf194b90bbc19462a5d9f/page/1">special issue on Tourette Syndrome</ext-link> appeared in the new journal
+<italic>Current Developmental Disorders Reports</italic>. Four of the 5 articles are clinically focused
+<sup><xref rid="ref-13" ref-type="bibr">13</xref>,
+<xref rid="ref-93" ref-type="bibr">93</xref>&#x02013;
+<xref rid="ref-95" ref-type="bibr">95</xref></sup>. The other article summarizes some of the recent advances in TS neuroimaging
+<sup><xref rid="ref-96" ref-type="bibr">96</xref></sup>.</p><p>Abstracts of presentations from the 1st World Congress on Tourette Syndrome &#x00026; Tic Disorders, London, 24&#x02013;26 June 2015, are
+<ext-link ext-link-type="uri" xlink:href="http://touretteworldcongress.org/">available online</ext-link>. The Tourette Association at regular intervals posts links on its web page to selected scientific articles relevant to TS
+<sup><xref rid="ref-97" ref-type="bibr">97</xref></sup>. Finally, the authors are building the 2016 version of this article
+<ext-link ext-link-type="uri" xlink:href="https://www.authorea.com/users/4510/articles/99560/_show_article">here</ext-link>, where readers are invited to submit suggestions or comments.</p></sec></sec><sec sec-type="conclusions"><title>Conclusions</title><p>TS is a complex condition to study because of the high rate of comorbidities, the differences in tic severity between people identified through community studies and those who participate in research studies conducted at tertiary care centers, the differences in types of tics (e.g., vocal
+<italic>vs.</italic> motor tics, simple tics
+<italic>vs.</italic> complex tics), childhood onset, and prominent fluctuations in severity over time. The studies published in 2015 demonstrate continued progress in addressing some of these obstacles.</p><p>Although many early research studies focused on the roles of dopamine and the basal ganglia in tic generation, more recent studies are adding to our understanding of the complexity of tic generation and identifying possible roles for glutamate and histamine, along with a variety of subcortical and cortical regions. A number of carefully executed, large treatment studies have been reported, yet none is effective for more than about half of the patients enrolled, and side effects, cost or availability limit many existing treatments. Novel treatments are still needed.</p></sec></body><back><ref-list><ref id="ref-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Richards</surname><given-names>CA</given-names></name><name><surname>Black</surname><given-names>KJ</given-names></name></person-group>:
+<article-title>Tourette Syndrome research highlights 2014 [version 2; referees: 1 approved, 2 approved with reservations].</article-title>
+<source><italic>F1000Res.</italic></source>
+<year>2015</year>;<volume>4</volume>:<fpage>69</fpage>.
+<pub-id pub-id-type="doi">10.12688/f1000research.6209.2</pub-id>
+<!--<pub-id pub-id-type="pmcid">4602330</pub-id>-->
+<?supplied-pmid 26512319?><pub-id pub-id-type="pmid">26512319</pub-id></mixed-citation></ref><ref id="ref-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Black</surname><given-names>KJ</given-names></name></person-group>:
+<article-title>
+<italic>F1000Research: Tics</italic> welcomes you to 21st century biomedical publishing [version 1; referees: not peer reviewed].</article-title>
+<source><italic>F1000Res.</italic></source>
+<year>2014</year>;<volume>3</volume>:<fpage>272</fpage>.
+<pub-id pub-id-type="doi">10.12688/f1000research.5664.1</pub-id>
+<!--<pub-id pub-id-type="pmcid">4288402</pub-id>-->
+<?supplied-pmid 25580234?><pub-id pub-id-type="pmid">25580234</pub-id></mixed-citation></ref><ref id="ref-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ganos</surname><given-names>C</given-names></name><name><surname>Bongert</surname><given-names>J</given-names></name><name><surname>Asmuss</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>The somatotopy of tic inhibition: Where and how much?</article-title>
+<source><italic>Mov Disord.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>9</issue>):<fpage>1184</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1002/mds.26188</pub-id>
+<?supplied-pmid 25786675?><pub-id pub-id-type="pmid">25786675</pub-id></mixed-citation></ref><ref id="ref-4"><label>4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greene</surname><given-names>DJ</given-names></name><name><surname>Koller</surname><given-names>JM</given-names></name><name><surname>Robichaux-Viehoever</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Reward enhances tic suppression in children within months of tic disorder onset.</article-title>
+<source><italic>Dev Cogn Neurosci.</italic></source>
+<year>2015</year>;<volume>11</volume>:<fpage>65</fpage>&#x02013;<lpage>74. The ability to suppress tics is present within months of tic onset. Immediate, contingent reward enhances these children&#x02019;s ability to suppress tics</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.dcn.2014.08.005</pub-id>
+<!--<pub-id pub-id-type="pmcid">4323948</pub-id>-->
+<?supplied-pmid 25220075?><pub-id pub-id-type="pmid">25220075</pub-id></mixed-citation></ref><ref id="ref-5"><label>5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsuda</surname><given-names>N</given-names></name><name><surname>Kono</surname><given-names>T</given-names></name><name><surname>Nonaka</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Self-initiated coping with Tourette&#x02019;s syndrome: Effect of tic suppression on QOL.</article-title>
+<source><italic>Brain Dev.</italic></source>
+<year>2016</year>;<volume>38</volume>(<issue>2</issue>):<fpage>233</fpage>&#x02013;<lpage>41</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.braindev.2015.08.006</pub-id>
+<?supplied-pmid 26360257?><pub-id pub-id-type="pmid">26360257</pub-id></mixed-citation></ref><ref id="ref-6"><label>6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kano</surname><given-names>Y</given-names></name><name><surname>Matsuda</surname><given-names>N</given-names></name><name><surname>Nonaka</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Sensory phenomena related to tics, obsessive-compulsive symptoms, and global functioning in Tourette syndrome.</article-title>
+<source><italic>Compr Psychiatry.</italic></source>
+<year>2015</year>;<volume>62</volume>:<fpage>141</fpage>&#x02013;<lpage>146</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.comppsych.2015.07.006</pub-id>
+<?supplied-pmid 26343478?><pub-id pub-id-type="pmid">26343478</pub-id></mixed-citation></ref><ref id="ref-7"><label>7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ganos</surname><given-names>C</given-names></name><name><surname>Garrido</surname><given-names>A</given-names></name><name><surname>Navalpotro-G&#x000f3;mez</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Premonitory urge to tic in Tourette&#x02019;s is associated with interoceptive awareness.</article-title>
+<source><italic>Mov Disord.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>9</issue>):<fpage>1198</fpage>&#x02013;<lpage>202</lpage>.
+<pub-id pub-id-type="doi">10.1002/mds.26228</pub-id>
+<?supplied-pmid 25879819?><pub-id pub-id-type="pmid">25879819</pub-id></mixed-citation></ref><ref id="ref-8"><label>8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wong</surname><given-names>LC</given-names></name><name><surname>Huang</surname><given-names>HL</given-names></name><name><surname>Weng</surname><given-names>WC</given-names></name><etal/></person-group>:
+<article-title>Increased risk of epilepsy in children with Tourette syndrome: A population-based case-control study.</article-title>
+<source><italic>Res Dev Disabil.</italic></source>
+<year>2016</year>;<volume>51&#x02013;52</volume>:<fpage>181</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.ridd.2015.10.005</pub-id>
+<?supplied-pmid 26597416?><pub-id pub-id-type="pmid">26597416</pub-id></mixed-citation></ref><ref id="ref-9"><label>9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hirschtritt</surname><given-names>ME</given-names></name><name><surname>Lee</surname><given-names>PC</given-names></name><name><surname>Pauls</surname><given-names>DL</given-names></name><etal/></person-group>:
+<article-title>Lifetime prevalence, age of risk, and genetic relationships of comorbid psychiatric disorders in Tourette syndrome.</article-title>
+<source><italic>JAMA Psychiatry.</italic></source>
+<year>2015</year>;<volume>72</volume>(<issue>4</issue>):<fpage>325</fpage>&#x02013;<lpage>333</lpage>.
+<pub-id pub-id-type="doi">10.1001/jamapsychiatry.2014.2650</pub-id>
+<!--<pub-id pub-id-type="pmcid">4446055</pub-id>-->
+<?supplied-pmid 25671412?><pub-id pub-id-type="pmid">25671412</pub-id></mixed-citation></ref><ref id="ref-10"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eapen</surname><given-names>V</given-names></name><name><surname>Robertson</surname><given-names>MM</given-names></name></person-group>:
+<article-title>Are there distinct subtypes in Tourette syndrome? Pure-Tourette syndrome versus Tourette syndrome-plus, and simple versus complex tics.</article-title>
+<source><italic>Neuropsychiatr Dis Treat.</italic></source>
+<year>2015</year>;<volume>11</volume>:<fpage>1431</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.2147/NDT.S72284</pub-id>
+<!--<pub-id pub-id-type="pmcid">4468986</pub-id>-->
+<?supplied-pmid 26089672?><pub-id pub-id-type="pmid">26089672</pub-id></mixed-citation></ref><ref id="ref-11"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cox</surname><given-names>JH</given-names></name><name><surname>Cavanna</surname><given-names>AE</given-names></name></person-group>:
+<article-title>Irritability symptoms in Gilles de la Tourette syndrome.</article-title>
+<source><italic>J Neuropsychiatry Clin Neurosci.</italic></source>
+<year>2015</year>;<volume>27</volume>(<issue>1</issue>):<fpage>42</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1176/appi.neuropsych.13060143</pub-id>
+<?supplied-pmid 25716486?><pub-id pub-id-type="pmid">25716486</pub-id></mixed-citation></ref><ref id="ref-12"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eddy</surname><given-names>CM</given-names></name><name><surname>Macerollo</surname><given-names>A</given-names></name><name><surname>Martino</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Interpersonal reactivity differences in Tourette syndrome.</article-title>
+<source><italic>Psychiatry Res.</italic></source>
+<year>2015</year>;<volume>228</volume>(<issue>3</issue>):<fpage>932</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.psychres.2015.05.070</pub-id>
+<?supplied-pmid 26144583?><pub-id pub-id-type="pmid">26144583</pub-id></mixed-citation></ref><ref id="ref-13"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Budman</surname><given-names>CL</given-names></name><name><surname>Rosen</surname><given-names>M</given-names></name><name><surname>Shad</surname><given-names>S</given-names></name></person-group>:
+<article-title>Fits Tantrums, and Rages in TS and Related Disorders.</article-title>
+<source><italic>Curr Dev Disord Rep.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>273</fpage>&#x02013;<lpage>284</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40474-015-0059-1</pub-id>
+</mixed-citation></ref><ref id="ref-14"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Balottin</surname><given-names>L</given-names></name><name><surname>Selvini</surname><given-names>C</given-names></name><name><surname>Luoni</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>Personality Profile of Male Adolescents With Tourette Syndrome: A Controlled Study.</article-title>
+<source><italic>J Child Neurol.</italic></source>
+<year>2016</year>;<volume>31</volume>(<issue>3</issue>):<fpage>294</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1177/0883073815589762</pub-id>
+<?supplied-pmid 26078419?><pub-id pub-id-type="pmid">26078419</pub-id></mixed-citation></ref><ref id="ref-15"><label>15</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Trillini</surname><given-names>MO</given-names></name><name><surname>M&#x000fc;ller-Vahl</surname><given-names>KR</given-names></name></person-group>:
+<article-title>Patients with Gilles de la Tourette syndrome have widespread personality differences.</article-title>
+<source><italic>Psychiatry Res.</italic></source>
+<year>2015</year>;<volume>228</volume>(<issue>3</issue>):<fpage>765</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.psychres.2015.04.043</pub-id>
+<?supplied-pmid 26112450?><pub-id pub-id-type="pmid">26112450</pub-id></mixed-citation></ref><ref id="ref-16"><label>16</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zappella</surname><given-names>M</given-names></name><name><surname>Einspieler</surname><given-names>C</given-names></name><name><surname>Bartl-Pokorny</surname><given-names>KD</given-names></name><etal/></person-group>:
+<article-title>What do home videos tell us about early motor and socio-communicative behaviours in children with autistic features during the second year of life--An exploratory study.</article-title>
+<source><italic>Early Hum Dev.</italic></source>
+<year>2015</year>;<volume>91</volume>(<issue>10</issue>):<fpage>569</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.earlhumdev.2015.07.006</pub-id>
+<?supplied-pmid 26246137?><pub-id pub-id-type="pmid">26246137</pub-id></mixed-citation></ref><ref id="ref-17"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Richer</surname><given-names>F</given-names></name><name><surname>Daghfal</surname><given-names>R</given-names></name><name><surname>Rouleau</surname><given-names>GA</given-names></name><etal/></person-group>:
+<article-title>Clinical features associated with an early onset in chronic tic disorders.</article-title>
+<source><italic>Psychiatry Res.</italic></source>
+<year>2015</year>;<volume>230</volume>(<issue>3</issue>):<fpage>745</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.psychres.2015.11.018</pub-id>
+<?supplied-pmid 26596364?><pub-id pub-id-type="pmid">26596364</pub-id></mixed-citation></ref><ref id="ref-18"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lichter</surname><given-names>DG</given-names></name><name><surname>Finnegan</surname><given-names>SG</given-names></name></person-group>:
+<article-title>Influence of gender on Tourette syndrome beyond adolescence.</article-title>
+<source><italic>Eur Psychiatry.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>2</issue>):<fpage>334</fpage>&#x02013;<lpage>340</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.eurpsy.2014.07.003</pub-id>
+<?supplied-pmid 25193042?><pub-id pub-id-type="pmid">25193042</pub-id></mixed-citation></ref><ref id="ref-19"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Huang</surname><given-names>A</given-names></name><name><surname>Yu</surname><given-names>D</given-names></name><name><surname>Davis</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>A large-scale study of rare copy number variation identifies novel loci associated with Tourette&#x02019;s syndrome</article-title>.<year>2015</year>
+<ext-link ext-link-type="uri" xlink:href="http://eventmobi.com/api/events/7343/documents/download/40ae88af-e882-4b97-a43a-b361d8ff3d67.pdf/as/Aarchived">http://eventmobi.com/api/events/7343/documents/download/40ae88af-e882-4b97-a43a-b361d8ff3d67.pdf/as/Aarchived</ext-link>by WebCite&#x000ae;.
+<ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6hNTof8LZ">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-20"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Clarke</surname><given-names>RA</given-names></name><name><surname>Eapen</surname><given-names>V</given-names></name></person-group>:
+<article-title>Balance within the Neurexin Trans-Synaptic Connexus Stabilizes Behavioral Control.</article-title>
+<source><italic>Front Hum Neurosci.</italic></source>
+<year>2014</year>;<volume>8</volume>:<fpage>52</fpage>.
+<pub-id pub-id-type="doi">10.3389/fnhum.2014.00052</pub-id>
+<!--<pub-id pub-id-type="pmcid">3936185</pub-id>-->
+<?supplied-pmid 24578685?><pub-id pub-id-type="pmid">24578685</pub-id></mixed-citation></ref><ref id="ref-21"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ye</surname><given-names>H</given-names></name><name><surname>Tan</surname><given-names>YL</given-names></name><name><surname>Ponniah</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Neural recognition molecules CHL1 and NB-3 regulate apical dendrite orientation in the neocortex via PTP alpha.</article-title>
+<source><italic>EMBO J.</italic></source>
+<year>2008</year>;<volume>27</volume>(<issue>1</issue>):<fpage>188</fpage>&#x02013;<lpage>200</lpage>.
+<pub-id pub-id-type="doi">10.1038/sj.emboj.7601939</pub-id>
+<!--<pub-id pub-id-type="pmcid">2206121</pub-id>-->
+<?supplied-pmid 18046458?><pub-id pub-id-type="pmid">18046458</pub-id></mixed-citation></ref><ref id="ref-22"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Takeda</surname><given-names>Y</given-names></name><name><surname>Akasaka</surname><given-names>K</given-names></name><name><surname>Lee</surname><given-names>S</given-names></name><etal/></person-group>:
+<article-title>Impaired motor coordination in mice lacking neural recognition molecule NB-3 of the contactin/F3 subgroup.</article-title>
+<source><italic>J Neurobiol.</italic></source>
+<year>2003</year>;<volume>56</volume>(<issue>3</issue>):<fpage>252</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1002/neu.10222</pub-id>
+<?supplied-pmid 12884264?><pub-id pub-id-type="pmid">12884264</pub-id></mixed-citation></ref><ref id="ref-23"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hu</surname><given-names>J</given-names></name><name><surname>Liao</surname><given-names>J</given-names></name><name><surname>Sathanoori</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>
+<italic>CNTN6</italic> copy number variations in 14 patients: a possible candidate gene for neurodevelopmental and neuropsychiatric disorders.</article-title>
+<source><italic>J Neurodev Disord.</italic></source>
+<year>2015</year>;<volume>7</volume>(<issue>1</issue>):<fpage>26</fpage>.
+<pub-id pub-id-type="doi">10.1186/s11689-015-9122-9</pub-id>
+<!--<pub-id pub-id-type="pmcid">4528395</pub-id>-->
+<?supplied-pmid 26257835?><pub-id pub-id-type="pmid">26257835</pub-id></mixed-citation></ref><ref id="ref-24"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bertelsen</surname><given-names>B</given-names></name><name><surname>Stef&#x000e1;nsson</surname><given-names>H</given-names></name><name><surname> Riff Jensen</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Association of
+<italic>AADAC</italic> Deletion and Gilles de la Tourette Syndrome in a Large European Cohort.</article-title>
+<source><italic>Biol Psychiatry.</italic></source>
+<year>2016</year>;<volume>79</volume>(<issue>5</issue>):<fpage>383</fpage>&#x02013;<lpage>391</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2015.08.027</pub-id>
+<?supplied-pmid 26444075?><pub-id pub-id-type="pmid">26444075</pub-id></mixed-citation></ref><ref id="ref-25"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Leeuw</surname><given-names>C</given-names></name><name><surname>Goudriaan</surname><given-names>A</given-names></name><name><surname>Smit</surname><given-names>AB</given-names></name><etal/></person-group>:
+<article-title>Involvement of astrocyte metabolic coupling in Tourette syndrome pathogenesis.</article-title>
+<source><italic>Eur J Hum Genet.</italic></source>
+<year>2015</year>;<volume>23</volume>(<issue>11</issue>):<fpage>1519</fpage>&#x02013;<lpage>1522</lpage>.
+<pub-id pub-id-type="doi">10.1038/ejhg.2015.22</pub-id>
+<!--<pub-id pub-id-type="pmcid">4613465</pub-id>-->
+<?supplied-pmid 25735483?><pub-id pub-id-type="pmid">25735483</pub-id></mixed-citation></ref><ref id="ref-26"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yu</surname><given-names>D</given-names></name><name><surname>Mathews</surname><given-names>CA</given-names></name><name><surname>Scharf</surname><given-names>JM</given-names></name><etal/></person-group>:
+<article-title>Cross-disorder genome-wide analyses suggest a complex genetic relationship between Tourette&#x02019;s syndrome and OCD.</article-title>
+<source><italic>Am J Psychiatry.</italic></source>
+<year>2015</year>;<volume>172</volume>(<issue>1</issue>):<fpage>82</fpage>&#x02013;<lpage>93</lpage>.
+<pub-id pub-id-type="doi">10.1176/appi.ajp.2014.13101306</pub-id>
+<!--<pub-id pub-id-type="pmcid">4282594</pub-id>-->
+<?supplied-pmid 25158072?><pub-id pub-id-type="pmid">25158072</pub-id></mixed-citation></ref><ref id="ref-27"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>de Haan</surname><given-names>MJ</given-names></name><name><surname>Delucchi</surname><given-names>KL</given-names></name><name><surname>Mathews</surname><given-names>CM</given-names></name><etal/></person-group>:
+<article-title>Tic symptom dimensions and their heritabilities in Tourette&#x02019;s syndrome.</article-title>
+<source><italic>Psychiatr Genet.</italic></source>
+<year>2015</year>;<volume>25</volume>(<issue>3</issue>):<fpage>112</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1097/YPG.0000000000000084</pub-id>
+<?supplied-pmid 25714449?><pub-id pub-id-type="pmid">25714449</pub-id></mixed-citation></ref><ref id="ref-28"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ben-Shlomo</surname><given-names>Y</given-names></name><name><surname>Scharf</surname><given-names>JM</given-names></name><name><surname>Miller</surname><given-names>LL</given-names></name><etal/></person-group>:
+<article-title>Parental mood during pregnancy and post-natally is associated with offspring risk of Tourette syndrome or chronic tics: prospective data from the Avon Longitudinal Study of Parents and Children (ALSPAC).</article-title>
+<source><italic>European Child &#x00026; Adolescent Psychiatry.</italic></source>
+<year>2016</year>;<volume>25</volume>(<issue>4</issue>):<fpage>373</fpage>&#x02013;<lpage>381</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00787-015-0742-0</pub-id>
+<!--<pub-id pub-id-type="pmcid">4820468</pub-id>-->
+<?supplied-pmid 26174227?><pub-id pub-id-type="pmid">26174227</pub-id></mixed-citation></ref><ref id="ref-29"><label>29</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lennington</surname><given-names>JB</given-names></name><name><surname>Coppola</surname><given-names>G</given-names></name><name><surname>Kataoka-Sasaki</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Transcriptome analysis of the human striatum in Tourette Syndrome.</article-title>
+<source><italic>Biol Psychiatry.</italic></source>
+<year>2016</year>;<volume>79</volume>(<issue>5</issue>):<fpage>372</fpage>&#x02013;<lpage>382</lpage>. pii: S0006-3223(14)00551-4.
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2014.07.018</pub-id>
+<!--<pub-id pub-id-type="pmcid">4305353</pub-id>-->
+<?supplied-pmid 25199956?><pub-id pub-id-type="pmid">25199956</pub-id></mixed-citation></ref><ref id="ref-30"><label>30</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Xu</surname><given-names>M</given-names></name><name><surname>Kobets</surname><given-names>A</given-names></name><name><surname>Du</surname><given-names>JC</given-names></name><etal/></person-group>:
+<article-title>Targeted ablation of cholinergic interneurons in the dorsolateral striatum produces behavioral manifestations of Tourette syndrome.</article-title>
+<source><italic>Proc Natl Acad Sci U S A.</italic></source>
+<year>2015</year>;<volume>112</volume>(<issue>3</issue>):<fpage>893</fpage>&#x02013;<lpage>898</lpage>.
+<pub-id pub-id-type="doi">10.1073/pnas.1419533112</pub-id>
+<!--<pub-id pub-id-type="pmcid">4311862</pub-id>-->
+<?supplied-pmid 25561540?><pub-id pub-id-type="pmid">25561540</pub-id></mixed-citation></ref><ref id="ref-31"><label>31</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Israelashvili</surname><given-names>M</given-names></name><name><surname>Bar-Gad</surname><given-names>I</given-names></name></person-group>:
+<article-title>Corticostriatal Divergent Function in Determining the Temporal and Spatial Properties of Motor Tics.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>2015</year>;<volume>35</volume>(<issue>50</issue>):<fpage>16340</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.2770-15.2015</pub-id>
+<!--<pub-id pub-id-type="pmcid">4679818</pub-id>-->
+<?supplied-pmid 26674861?><pub-id pub-id-type="pmid">26674861</pub-id></mixed-citation></ref><ref id="ref-32"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pogorelov</surname><given-names>V</given-names></name><name><surname>Xu</surname><given-names>M</given-names></name><name><surname>Smith</surname><given-names>HR</given-names></name><etal/></person-group>:
+<article-title>Corticostriatal interactions in the generation of tic-like behaviors after local striatal disinhibition.</article-title>
+<source><italic>Exp Neurol.</italic></source>
+<year>2015</year>;<volume>265</volume>:<fpage>122</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.expneurol.2015.01.001</pub-id>
+<!--<pub-id pub-id-type="pmcid">4361636</pub-id>-->
+<?supplied-pmid 25597650?><pub-id pub-id-type="pmid">25597650</pub-id></mixed-citation></ref><ref id="ref-33"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nordstrom</surname><given-names>EJ</given-names></name><name><surname>Bittner</surname><given-names>KC</given-names></name><name><surname>McGrath</surname><given-names>MJ</given-names></name><etal/></person-group>:
+<article-title>"Hyperglutamatergic cortico-striato-thalamo-cortical circuit" breaker drugs alleviate tics in a transgenic circuit model of Tourette&#x005f3;s syndrome.</article-title>
+<source><italic>Brain Res.</italic></source>
+<year>2015</year>;<volume>1629</volume>:<fpage>38</fpage>&#x02013;<lpage>53</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.brainres.2015.09.032</pub-id>
+<?supplied-pmid 26453289?><pub-id pub-id-type="pmid">26453289</pub-id></mixed-citation></ref><ref id="ref-34"><label>34</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greene</surname><given-names>DJ</given-names></name><name><surname>Black</surname><given-names>KJ</given-names></name><name><surname>Schlaggar</surname><given-names>BL</given-names></name></person-group>:
+<article-title>Considerations for MRI study design and implementation in pediatric and clinical populations.</article-title>
+<source><italic>Dev Cogn Neurosci.</italic></source>
+<year>2016</year>;<volume>18</volume>:<fpage>101</fpage>&#x02013;<lpage>12</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.dcn.2015.12.005</pub-id>
+<!--<pub-id pub-id-type="pmcid">4834255</pub-id>-->
+<?supplied-pmid 26754461?><pub-id pub-id-type="pmid">26754461</pub-id></mixed-citation></ref><ref id="ref-35"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reuter</surname><given-names>M</given-names></name><name><surname>Tisdall</surname><given-names>MD</given-names></name><name><surname>Qureshi</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Head motion during MRI acquisition reduces gray matter volume and thickness estimates.</article-title>
+<source><italic>Neuroimage.</italic></source>
+<year>2015</year>;<volume>107</volume>:<fpage>107</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2014.12.006</pub-id>
+<!--<pub-id pub-id-type="pmcid">4300248</pub-id>-->
+<?supplied-pmid 25498430?><pub-id pub-id-type="pmid">25498430</pub-id></mixed-citation></ref><ref id="ref-36"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tisdall</surname><given-names>MD</given-names></name><name><surname>Reuter</surname><given-names>M</given-names></name><name><surname>Qureshi</surname><given-names>A</given-names></name><etal/></person-group>:
+<article-title>Prospective motion correction with volumetric navigators (vNavs) reduces the bias and variance in brain morphometry induced by subject motion.</article-title>
+<source><italic>Neuroimage.</italic></source>
+<year>2016</year>;<volume>127</volume>:<fpage>11</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2015.11.054</pub-id>
+<!--<pub-id pub-id-type="pmcid">4754677</pub-id>-->
+<?supplied-pmid 26654788?><pub-id pub-id-type="pmid">26654788</pub-id></mixed-citation></ref><ref id="ref-37"><label>37</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Draper</surname><given-names>A</given-names></name><name><surname>Jackson</surname><given-names>GM</given-names></name><name><surname>Morgan</surname><given-names>PS</given-names></name><etal/></person-group>:
+<article-title>Premonitory urges are associated with decreased grey matter thickness within the insula and senso-rimotor cortex in young people with Tourette syndrome.</article-title>
+<source><italic>J Neuropsychol.</italic></source>
+<year>2016</year>;<volume>10</volume>(<issue>1</issue>):<fpage>143</fpage>&#x02013;<lpage>53</lpage>.
+<pub-id pub-id-type="doi">10.1111/jnp.12089</pub-id>
+<?supplied-pmid 26538289?><pub-id pub-id-type="pmid">26538289</pub-id></mixed-citation></ref><ref id="ref-38"><label>38</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tinaz</surname><given-names>S</given-names></name><name><surname>Malone</surname><given-names>P</given-names></name><name><surname>Hallett</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Role of the right dorsal anterior insula in the urge to tic in Tourette syndrome.</article-title>
+<source><italic>Mov Disord.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>9</issue>):<fpage>1190</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1002/mds.26230</pub-id>
+<?supplied-pmid 25855089?><pub-id pub-id-type="pmid">25855089</pub-id></mixed-citation></ref><ref id="ref-39"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Power</surname><given-names>JD</given-names></name><name><surname>Schlaggar</surname><given-names>BL</given-names></name><name><surname>Petersen</surname><given-names>SE</given-names></name></person-group>:
+<article-title>Recent progress and outstanding issues in motion correction in resting state fMRI.</article-title>
+<source><italic>Neuroimage.</italic></source>
+<year>2015</year>;<volume>105</volume>:<fpage>536</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2014.10.044</pub-id>
+<!--<pub-id pub-id-type="pmcid">4262543</pub-id>-->
+<?supplied-pmid 25462692?><pub-id pub-id-type="pmid">25462692</pub-id></mixed-citation></ref><ref id="ref-40"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zapparoli</surname><given-names>L</given-names></name><name><surname>Porta</surname><given-names>M</given-names></name><name><surname>Paulesu</surname><given-names>E</given-names></name></person-group>:
+<article-title>The anarchic brain in action: the contribution of task-based fMRI studies to the understanding of Gilles de la Tourette syndrome.</article-title>
+<source><italic>Curr Opin Neurol.</italic></source>
+<year>2015</year>;<volume>28</volume>(<issue>6</issue>):<fpage>604</fpage>&#x02013;<lpage>11</lpage>.
+<pub-id pub-id-type="doi">10.1097/WCO.0000000000000261</pub-id>
+<?supplied-pmid 26402403?><pub-id pub-id-type="pmid">26402403</pub-id></mixed-citation></ref><ref id="ref-41"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zapparoli</surname><given-names>L</given-names></name><name><surname>Porta</surname><given-names>M</given-names></name><name><surname>Gandola</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>A functional magnetic resonance imaging investigation of motor control in Gilles de la Tourette Syndrome during imagined and executed movements.</article-title>
+<source><italic>Eur J Neurosci.</italic></source>
+<year>2016</year>;<volume>43</volume>(<issue>4</issue>):<fpage>494</fpage>&#x02013;<lpage>508</lpage>.
+<pub-id pub-id-type="doi">10.1111/ejn.13130</pub-id>
+<?supplied-pmid 26566185?><pub-id pub-id-type="pmid">26566185</pub-id></mixed-citation></ref><ref id="ref-42"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Williams</surname><given-names>AC</given-names><suffix>III</suffix></name><name><surname>Greene</surname><given-names>DJ</given-names></name><name><surname>Koller</surname><given-names>JM</given-names></name><etal/></person-group>:
+<article-title>A pilot multicenter study of brain structure in pediatric Tourette syndrome</article-title>.<year>2015</year>;
+<ext-link ext-link-type="uri" xlink:href="http://eventmobi.com/tourette2015/documents/112809">http://eventmobi.com/tourette2015/documents/112809</ext-link>archived by WebCite&#x000ae;.
+<ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6gLnEvFBT">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-43"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wolff</surname><given-names>N</given-names></name><name><surname>Luehr</surname><given-names>I</given-names></name><name><surname>Sender</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>A DTI study on the corpus callosum of treatment-na&#x000ef;ve boys with &#x02019;pure&#x02019; Tourette syndrome.</article-title>
+<source><italic>Psychiatry Res.</italic></source>
+<year>2016</year>;<volume>247</volume>:<fpage>1</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pscychresns.2015.12.003</pub-id>
+<?supplied-pmid 26747579?><pub-id pub-id-type="pmid">26747579</pub-id></mixed-citation></ref><ref id="ref-44"><label>44</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morand-Beaulieu</surname><given-names>S</given-names></name><name><surname>Fernandes</surname><given-names>I</given-names></name><name><surname>Sauv&#x000e9;</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Electrophysiological similarities in Tourette syndrome and chronic tic disorder.</article-title>
+<source><italic>Int J Dev Neurosci.</italic></source>
+<year>2015</year>;<volume>47</volume>(<issue>Part A</issue>):<fpage>63</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ijdevneu.2015.04.176</pub-id>
+</mixed-citation></ref><ref id="ref-45"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Germain</surname><given-names>M</given-names></name><name><surname>Chuang</surname><given-names>MN</given-names></name><name><surname>Sauv&#x000e9;</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>The impact of comorbidity on event-related brain topography in patients presenting chronic tic disorders and Tourette syndrome.</article-title>
+<source><italic>Int J Dev Neurosci.</italic></source>
+<year>2015</year>;<volume>47</volume>(<issue>Part A</issue>):<fpage>102</fpage>
+<pub-id pub-id-type="doi">10.1016/j.ijdevneu.2015.04.278</pub-id>
+</mixed-citation></ref><ref id="ref-46"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bour</surname><given-names>LJ</given-names></name><name><surname>Ackermans</surname><given-names>L</given-names></name><name><surname>Foncke</surname><given-names>EM</given-names></name><etal/></person-group>:
+<article-title>Tic related local field potentials in the thalamus and the effect of deep brain stimulation in Tourette syndrome: Report of three cases.</article-title>
+<source><italic>Clin Neurophysiol.</italic></source>
+<year>2015</year>;<volume>126</volume>(<issue>8</issue>):<fpage>1578</fpage>&#x02013;<lpage>88</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.clinph.2014.10.217</pub-id>
+<?supplied-pmid 25435514?><pub-id pub-id-type="pmid">25435514</pub-id></mixed-citation></ref><ref id="ref-47"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Puts</surname><given-names>NA</given-names></name><name><surname>Harris</surname><given-names>AD</given-names></name><name><surname>Crocetti</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title> Reduced GABAergic inhibition and abnormal sensory symptoms in children with Tourette syndrome.</article-title>
+<source><italic>J Neurophysiol.</italic></source>
+<year>2015</year>;<volume>114</volume>(<issue>2</issue>):<fpage>808</fpage>&#x02013;<lpage>17</lpage>.
+<pub-id pub-id-type="doi">10.1152/jn.00060.2015</pub-id>
+<!--<pub-id pub-id-type="pmcid">4533064</pub-id>-->
+<?supplied-pmid 26041822?><pub-id pub-id-type="pmid">26041822</pub-id></mixed-citation></ref><ref id="ref-48"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Abi-Jaoude</surname><given-names>E</given-names></name><name><surname>Segura</surname><given-names>B</given-names></name><name><surname>Obeso</surname><given-names>I</given-names></name><etal/></person-group>:
+<article-title>Similar striatal D2/D3 dopamine receptor availability in adults with Tourette syndrome compared with healthy controls: A [
+<sup>11</sup>C]-(+)-PHNO and [
+<sup>11</sup>C]raclopride positron emission tomography imaging study.</article-title>
+<source><italic>Hum Brain Mapp.</italic></source>
+<year>2015</year>;<volume>36</volume>(<issue>7</issue>):<fpage>2592</fpage>&#x02013;<lpage>601</lpage>.
+<pub-id pub-id-type="doi">10.1002/hbm.22793</pub-id>
+<?supplied-pmid 25788222?><pub-id pub-id-type="pmid">25788222</pub-id></mixed-citation></ref><ref id="ref-49"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robertson</surname><given-names>CL</given-names></name><name><surname>Ishibashi</surname><given-names>K</given-names></name><name><surname>Mandelkern</surname><given-names>MA</given-names></name><etal/></person-group>:
+<article-title>Striatal D
+<sub>1</sub>- and D
+<sub>2</sub>-type dopamine receptors are linked to motor response inhibition in human subjects.</article-title>
+<source><italic>J Neurosci.</italic></source>
+<year>2015</year>;<volume>35</volume>(<issue>15</issue>):<fpage>5990</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.4850-14.2015</pub-id>
+<!--<pub-id pub-id-type="pmcid">4397600</pub-id>-->
+<?supplied-pmid 25878272?><pub-id pub-id-type="pmid">25878272</pub-id></mixed-citation></ref><ref id="ref-50"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cox</surname><given-names>SM</given-names></name><name><surname>Frank</surname><given-names>MJ</given-names></name><name><surname>Larcher</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Striatal D1 and D2 signaling differentially predict learning from positive and negative outcomes.</article-title>
+<source><italic>Neuroimage.</italic></source>
+<year>2015</year>;<volume>109</volume>:<fpage>95</fpage>&#x02013;<lpage>101</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuroimage.2014.12.070</pub-id>
+<?supplied-pmid 25562824?><pub-id pub-id-type="pmid">25562824</pub-id></mixed-citation></ref><ref id="ref-51"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bolam</surname><given-names>JP</given-names></name><name><surname>Ellender</surname><given-names>TJ</given-names></name></person-group>:
+<article-title>Histamine and the striatum.</article-title>
+<source><italic>Neuropharmacology.</italic></source>
+<year>2015</year>; pii: S0028-3908(15)30059-9.
+<pub-id pub-id-type="doi">10.1016/j.neuropharm.2015.08.013</pub-id>
+<?supplied-pmid 26275849?><pub-id pub-id-type="pmid">26275849</pub-id></mixed-citation></ref><ref id="ref-52"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eddy</surname><given-names>CM</given-names></name><name><surname>Cavanna</surname><given-names>AE</given-names></name></person-group>:
+<article-title>Triangles, tricks and tics: Hyper-mentalizing in response to animated shapes in Tourette syndrome.</article-title>
+<source><italic>Cortex.</italic></source>
+<year>2015</year>;<volume>71</volume>:<fpage>68</fpage>&#x02013;<lpage>75</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.cortex.2015.06.003</pub-id>
+<?supplied-pmid 26177119?><pub-id pub-id-type="pmid">26177119</pub-id></mixed-citation></ref><ref id="ref-53"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>G&#x000fc;ler</surname><given-names>AS</given-names></name><name><surname>Berkem</surname><given-names>M</given-names></name><name><surname>Yazgan</surname><given-names>Y</given-names></name><etal/></person-group>:
+<article-title>Cognitive Flexibility and Social Responsiveness in Children and Adolescents with Tourette Syndrome.</article-title>
+<source><italic>Child Psychiatry Hum Dev.</italic></source>
+<year>2015</year>;<volume>46</volume>(<issue>6</issue>):<fpage>940</fpage>&#x02013;<lpage>50</lpage>.
+<pub-id pub-id-type="doi">10.1007/s10578-015-0533-3</pub-id>
+<?supplied-pmid 25631951?><pub-id pub-id-type="pmid">25631951</pub-id></mixed-citation></ref><ref id="ref-54"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lucke</surname><given-names>IM</given-names></name><name><surname>Lin</surname><given-names>C</given-names></name><name><surname>Conteh</surname><given-names>F</given-names></name><etal/></person-group>:
+<article-title>Continuous performance test in pediatric obsessive-compulsive disorder and tic disorders: the role of sustained attention.</article-title>
+<source><italic>CNS Spectr.</italic></source>
+<year>2015</year>;<volume>20</volume>(<issue>5</issue>):<fpage>479</fpage>&#x02013;<lpage>89</lpage>.
+<pub-id pub-id-type="doi">10.1017/S1092852914000467</pub-id>
+<?supplied-pmid 25296570?><pub-id pub-id-type="pmid">25296570</pub-id></mixed-citation></ref><ref id="ref-55"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Tharp</surname><given-names>JA</given-names></name><name><surname>Wendelken</surname><given-names>C</given-names></name><name><surname>Mathews</surname><given-names>CA</given-names></name><etal/></person-group>:
+<article-title>Tourette Syndrome: Complementary Insights from Measures of Cognitive Control, Eyeblink Rate, and Pupil Diameter.</article-title>
+<source><italic>Front Psychiatry.</italic></source>
+<year>2015</year>;<volume>6</volume>:<fpage>95</fpage>.
+<pub-id pub-id-type="doi">10.3389/fpsyt.2015.00095</pub-id>
+<?supplied-pmid 26175694?><pub-id pub-id-type="pmid">26175694</pub-id></mixed-citation></ref><ref id="ref-56"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>WY</given-names></name><name><surname>Ya-TingHsu</surname></name><name><surname>Lien</surname><given-names>HY</given-names></name><etal/></person-group>:
+<article-title>Deficits in sensory organization for postural stability in children with Tourette syndrome.</article-title>
+<source><italic>Clin Neurol Neurosurg.</italic></source>
+<year>2015</year>;<volume>129</volume>(<issue>Suppl 1</issue>):<fpage>S36</fpage>&#x02013;<lpage>40</lpage>.
+<pub-id pub-id-type="doi">10.1016/S0303-8467(15)30010-X</pub-id>
+<?supplied-pmid 25683311?><pub-id pub-id-type="pmid">25683311</pub-id></mixed-citation></ref><ref id="ref-57"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schunke</surname><given-names>O</given-names></name><name><surname>Grashorn</surname><given-names>W</given-names></name><name><surname>Kahl</surname><given-names>U</given-names></name><etal/></person-group>:
+<article-title>Quantitative Sensory Testing in adults with Tourette syndrome.</article-title>
+<source><italic>Parkinsonism Relat Disord.</italic></source>
+<year>2016</year>;<volume>24</volume>:<fpage>132</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.parkreldis.2016.01.006</pub-id>
+<?supplied-pmid 26818628?><pub-id pub-id-type="pmid">26818628</pub-id></mixed-citation></ref><ref id="ref-58"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Brandt</surname><given-names>VC</given-names></name><name><surname>Lynn</surname><given-names>MT</given-names></name><name><surname>Obst</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Visual feedback of own tics increases tic frequency in patients with Tourette&#x02019;s syndrome.</article-title>
+<source><italic>Cogn Neurosci.</italic></source>
+<year>2015</year>;<volume>6</volume>(<issue>1</issue>):<fpage>1</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="doi">10.1080/17588928.2014.954990</pub-id>
+<?supplied-pmid 25185800?><pub-id pub-id-type="pmid">25185800</pub-id></mixed-citation></ref><ref id="ref-59"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Misirlisoy</surname><given-names>E</given-names></name><name><surname>Brandt</surname><given-names>V</given-names></name><name><surname>Ganos</surname><given-names>C</given-names></name><etal/></person-group>:
+<article-title>The relation between attention and tic generation in Tourette syndrome.</article-title>
+<source><italic>Neuropsychology.</italic></source>
+<year>2015</year>;<volume>29</volume>(<issue>4</issue>):<fpage>658</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1037/neu0000161</pub-id>
+<?supplied-pmid 25486384?><pub-id pub-id-type="pmid">25486384</pub-id></mixed-citation></ref><ref id="ref-60"><label>60</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bodeck</surname><given-names>S</given-names></name><name><surname>Lappe</surname><given-names>C</given-names></name><name><surname>Evers</surname><given-names>S</given-names></name></person-group>:
+<article-title>Tic-reducing effects of music in patients with Tourette&#x02019;s syndrome: Self-reported and objective analysis.</article-title>
+<source><italic>J Neurol Sci.</italic></source>
+<year>2015</year>;<volume>352</volume>(<issue>1&#x02013;2</issue>):<fpage>41</fpage>&#x02013;<lpage>47</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jns.2015.03.016</pub-id>
+<?supplied-pmid 25805454?><pub-id pub-id-type="pmid">25805454</pub-id></mixed-citation></ref><ref id="ref-61"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Delorme</surname><given-names>C</given-names></name><name><surname>Salvador</surname><given-names>A</given-names></name><name><surname>Valabr&#x000e8;gue</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Enhanced habit formation in Gilles de la Tourette syndrome.</article-title>
+<source><italic>Brain.</italic></source>
+<year>2016</year>;<volume>139</volume>(<issue>pt 2</issue>):<fpage>605</fpage>&#x02013;<lpage>15</lpage>.
+<pub-id pub-id-type="doi">10.1093/brain/awv307</pub-id>
+<?supplied-pmid 26490329?><pub-id pub-id-type="pmid">26490329</pub-id></mixed-citation></ref><ref id="ref-62"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Himle</surname><given-names>M</given-names></name><name><surname>Mouton-Odum</surname><given-names>S</given-names></name><name><surname>Reamer</surname><given-names>R</given-names></name><etal/></person-group>:
+<article-title>Development and Initial Feasibility Testing of TicHelper: A Self-Administered Interactive Program for Teaching Comprehensive Behavioral Intervention for Tics</article-title>.<year>2015</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6gWlBTYcC">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-63"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuire</surname><given-names>JF</given-names></name><name><surname>Piacentini</surname><given-names>J</given-names></name><name><surname>Scahill</surname><given-names>L</given-names></name><etal/></person-group>:
+<article-title>Bothersome tics in patients with chronic tic disorders: Characteristics and individualized treatment response to behavior therapy.</article-title>
+<source><italic>Behav Res Ther.</italic></source>
+<year>2015</year>;<volume>70</volume>:<fpage>56</fpage>&#x02013;<lpage>63</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.brat.2015.05.006</pub-id>
+<!--<pub-id pub-id-type="pmcid">4449823</pub-id>-->
+<?supplied-pmid 25988365?><pub-id pub-id-type="pmid">25988365</pub-id></mixed-citation></ref><ref id="ref-64"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuire</surname><given-names>JF</given-names></name><name><surname>Arnold</surname><given-names>E</given-names></name><name><surname>Park</surname><given-names>JM</given-names></name><etal/></person-group>:
+<article-title>Living with tics: Reduced impairment and improved quality of life for youth with chronic tic disorders.</article-title>
+<source><italic>Psychiatry Res.</italic></source>
+<year>2015</year>;<volume>225</volume>(<issue>3</issue>):<fpage>571</fpage>&#x02013;<lpage>9</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.psychres.2014.11.045</pub-id>
+<!--<pub-id pub-id-type="pmcid">4314444</pub-id>-->
+<?supplied-pmid 25500348?><pub-id pub-id-type="pmid">25500348</pub-id></mixed-citation></ref><ref id="ref-65"><label>65</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reese</surname><given-names>HE</given-names></name><name><surname>Vallejo</surname><given-names>Z</given-names></name><name><surname>Rasmussen</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Mindfulness-based stress reduction for Tourette Syndrome and Chronic Tic Disorder: a pilot study.</article-title>
+<source><italic>J Psychosom Res.</italic></source>
+<year>2015</year>;<volume>78</volume>(<issue>3</issue>):<fpage>293</fpage>&#x02013;<lpage>298</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jpsychores.2014.08.001</pub-id>
+<?supplied-pmid 25149879?><pub-id pub-id-type="pmid">25149879</pub-id></mixed-citation></ref><ref id="ref-66"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>O&#x02019;Connor</surname><given-names>K</given-names></name><name><surname>Lavoie</surname><given-names>M</given-names></name><name><surname>Blanchet</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Evaluation of a cognitive psychophysiological model for management of tic disorders: an open trial.</article-title>
+<source><italic>Br J Psychiatry.</italic></source>
+<year>2015</year>; pii: bjp.bp.114.154518.
+<pub-id pub-id-type="doi">10.1192/bjp.bp.114.154518</pub-id>
+<?supplied-pmid 26250742?><pub-id pub-id-type="pmid">26250742</pub-id></mixed-citation></ref><ref id="ref-67"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morand-Beaulieu</surname><given-names>S</given-names></name><name><surname>O&#x02019;Connor</surname><given-names>KP</given-names></name><name><surname>Sauv&#x000e9;</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Cognitive-behavioral therapy induces sensorimotor and specific electrocortical changes in chronic tic and Tourette&#x02019;s disorder.</article-title>
+<source><italic>Neuropsychologia.</italic></source>
+<year>2015</year>;<volume>79</volume>(<issue>pt B</issue>):<fpage>310</fpage>&#x02013;<lpage>21</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.neuropsychologia.2015.05.024</pub-id>
+<?supplied-pmid 26022060?><pub-id pub-id-type="pmid">26022060</pub-id></mixed-citation></ref><ref id="ref-68"><label>68</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lemmon</surname><given-names>ME</given-names></name><name><surname>Grados</surname><given-names>M</given-names></name><name><surname>Kline</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Efficacy of Glutamate Modulators in Tic Suppression: A Double-Blind, Randomized Control Trial of D-serine and Riluzole in Tourette Syndrome.</article-title>
+<source><italic>Pediatr Neurol.</italic></source>
+<year>2015</year>;<volume>52</volume>(<issue>6</issue>):<fpage>629</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.pediatrneurol.2015.02.002</pub-id>
+<!--<pub-id pub-id-type="pmcid">4454293</pub-id>-->
+<?supplied-pmid 26002052?><pub-id pub-id-type="pmid">26002052</pub-id></mixed-citation></ref><ref id="ref-69"><label>69</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>SC</given-names></name><name><surname>Mulqueen</surname><given-names>JM</given-names></name><name><surname>Ferracioli-Oda</surname><given-names>E</given-names></name><etal/></person-group>:
+<article-title>Meta-Analysis: Risk of Tics Associated With Psychostimulant Use in Randomized, Placebo-Controlled Trials.</article-title>
+<source><italic>J Am Acad Child Adolesc Psychiatry.</italic></source>
+<year>2015</year>;<volume>54</volume>(<issue>9</issue>):<fpage>728</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jaac.2015.06.011</pub-id>
+<?supplied-pmid 26299294?><pub-id pub-id-type="pmid">26299294</pub-id></mixed-citation></ref><ref id="ref-70"><label>70</label><mixed-citation publication-type="journal">
+<collab>Tourette&#x02019;s Syndrome Study Group</collab>:
+<article-title>Treatment of ADHD in children with tics: a randomized controlled trial.</article-title>
+<source><italic>Neurology.</italic></source>
+<year>2002</year>;<volume>58</volume>(<issue>4</issue>):<fpage>527</fpage>&#x02013;<lpage>36</lpage>.
+<pub-id pub-id-type="doi">10.1212/WNL.58.4.527</pub-id>
+<?supplied-pmid 11865128?><pub-id pub-id-type="pmid">11865128</pub-id></mixed-citation></ref><ref id="ref-71"><label>71</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Denys</surname><given-names>D</given-names></name><name><surname>de Vries</surname><given-names>F</given-names></name><name><surname>Cath</surname><given-names>D</given-names></name><etal/></person-group>:
+<article-title>Dopaminergic activity in Tourette syndrome and obsessive-compulsive disorder.</article-title>
+<source><italic>Eur Neuropsychopharmacol.</italic></source>
+<year>2013</year>;<volume>23</volume>(<issue>11</issue>):<fpage>1423</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.euroneuro.2013.05.012</pub-id>
+<?supplied-pmid 23876376?><pub-id pub-id-type="pmid">23876376</pub-id></mixed-citation></ref><ref id="ref-72"><label>72</label><mixed-citation publication-type="journal">
+<collab>Catalyst Pharmaceutical Partners Inc.</collab>:
+<article-title>Catalyst Pharmaceuticals Announces Encouraging Top-Line Results in Proof-of-Concept Trial of Vigabatrin in Patients With Treatment-Refractory Tourette's Disorder</article-title>.<year>2015</year>;
+<ext-link ext-link-type="uri" xlink:href="http://ir.catalystpharma.com/releasedetail.cfm?ReleaseID=919254">http://ir.catalystpharma.com/releasedetail.cfm?ReleaseID=919254</ext-link>archived by WebCite&#x000ae;, Accessed: 2015-09-05.
+<ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6hNRye6tt">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-73"><label>73</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schrock</surname><given-names>LE</given-names></name><name><surname>Mink</surname><given-names>JW</given-names></name><name><surname>Woods</surname><given-names>DW</given-names></name><etal/></person-group>:
+<article-title>Tourette syndrome deep brain stimulation: a review and updated recommendations.</article-title>
+<source><italic>Mov Disord.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>4</issue>):<fpage>448</fpage>&#x02013;<lpage>471</lpage>.
+<pub-id pub-id-type="doi">10.1002/mds.26094</pub-id>
+<?supplied-pmid 25476818?><pub-id pub-id-type="pmid">25476818</pub-id></mixed-citation></ref><ref id="ref-74"><label>74</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mink</surname><given-names>JW</given-names></name><name><surname>Walkup</surname><given-names>J</given-names></name><name><surname>Frey</surname><given-names>KA</given-names></name><etal/></person-group>:
+<article-title>Patient selection and assessment recommendations for deep brain stimulation in Tourette syndrome.</article-title>
+<source><italic>Mov Disord.</italic></source>
+<year>2006</year>;<volume>21</volume>(<issue>11</issue>):<fpage>1831</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="doi">10.1002/mds.21039</pub-id>
+<?supplied-pmid 16991144?><pub-id pub-id-type="pmid">16991144</pub-id></mixed-citation></ref><ref id="ref-75"><label>75</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kefalopoulou</surname><given-names>Z</given-names></name><name><surname>Zrinzo</surname><given-names>L</given-names></name><name><surname>Jahanshahi</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Bilateral globus pallidus stimulation for severe Tourette&#x02019;s syndrome: a double-blind, randomised crossover trial.</article-title>
+<source><italic>Lancet Neurol.</italic></source>
+<year>2015</year>;<volume>14</volume>(<issue>6</issue>):<fpage>595</fpage>&#x02013;<lpage>605</lpage>.
+<pub-id pub-id-type="doi">10.1016/S1474-4422(15)00008-3</pub-id>
+<?supplied-pmid 25882029?><pub-id pub-id-type="pmid">25882029</pub-id></mixed-citation></ref><ref id="ref-76"><label>76</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zekaj</surname><given-names>E</given-names></name><name><surname>Saleh</surname><given-names>C</given-names></name><name><surname>Porta</surname><given-names>M</given-names></name><etal/></person-group>:
+<article-title>Temporary deep brain stimulation in Gilles de la Tourette syndrome: A feasible approach?</article-title>
+<source><italic>Surg Neurol Int.</italic></source>
+<year>2015</year>;<volume>6</volume>:<fpage>122</fpage>.
+<pub-id pub-id-type="doi">10.4103/2152-7806.161242</pub-id>
+<!--<pub-id pub-id-type="pmcid">4521224</pub-id>-->
+<?supplied-pmid 26290773?><pub-id pub-id-type="pmid">26290773</pub-id></mixed-citation></ref><ref id="ref-77"><label>77</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Landeros-Weisenberger</surname><given-names>A</given-names></name><name><surname>Mantovani</surname><given-names>A</given-names></name><name><surname>Motlagh</surname><given-names>MG</given-names></name><etal/></person-group>:
+<article-title>Randomized Sham Controlled Double-blind Trial of Repetitive Transcranial Magnetic Stimulation for Adults With Severe Tourette Syndrome.</article-title>
+<source><italic>Brain Stimul.</italic></source>
+<year>2015</year>;<volume>8</volume>(<issue>3</issue>):<fpage>574</fpage>&#x02013;<lpage>81</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.brs.2014.11.015</pub-id>
+<!--<pub-id pub-id-type="pmcid">4454615</pub-id>-->
+<?supplied-pmid 25912296?><pub-id pub-id-type="pmid">25912296</pub-id></mixed-citation></ref><ref id="ref-78"><label>78</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bloch</surname><given-names>Y</given-names></name><name><surname>Arad</surname><given-names>S</given-names></name><name><surname>Levkovitz</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Deep TMS add-on treatment for intractable Tourette syndrome: A feasibility study.</article-title>
+<source><italic>World J Biol Psychiatry.</italic></source>
+<year>2014</year>;<fpage>1</fpage>&#x02013;<lpage>5</lpage>. in press.
+<pub-id pub-id-type="doi">10.3109/15622975.2014.964767</pub-id>
+<?supplied-pmid 25342253?><pub-id pub-id-type="pmid">24410178</pub-id></mixed-citation></ref><ref id="ref-79"><label>79</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Qiao</surname><given-names>J</given-names></name><name><surname>Weng</surname><given-names>S</given-names></name><name><surname>Wang</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Normalization of Intrinsic Neural Circuits Governing Tourette&#x02019;s Syndrome Using Cranial Electrotherapy Stimulation.</article-title>
+<source><italic>IEEE Trans Biomed Eng.</italic></source>
+<year>2015</year>;<volume>62</volume>(<issue>5 </issue>):<fpage>1272</fpage>&#x02013;<lpage>80</lpage>.
+<pub-id pub-id-type="doi">10.1109/TBME.2014.2385151</pub-id>
+<?supplied-pmid 25546850?><pub-id pub-id-type="pmid">25546850</pub-id></mixed-citation></ref><ref id="ref-80"><label>80</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bennett</surname><given-names>S</given-names></name><name><surname>Walkup</surname><given-names>J</given-names></name><name><surname>Hindin</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Proof of Concept Study of an Oral Orthotic in Reducing Tic Severity in Youth with Chronic Tic Disorder and Tourette Syndrome</article-title>.<year>2015</year>;
+<ext-link ext-link-type="uri" xlink:href="http://eventmobi.com/api/events/7343/documents/download/178e10b8-091c-411f-b9dc-97d62a321f39.pdf/as/Proofarchived">http://eventmobi.com/api/events/7343/documents/download/178e10b8-091c-411f-b9dc-97d62a321f39.pdf/as/Proofarchived</ext-link>by WebCite&#x000ae;.
+<ext-link ext-link-type="uri" xlink:href="http://www.webcitation.org/6hNT4PRxf">Reference Source</ext-link>
+</mixed-citation></ref><ref id="ref-81"><label>81</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stewart</surname><given-names>SB</given-names></name><name><surname>Greene</surname><given-names>DJ</given-names></name><name><surname>Lessov-Schlaggar</surname><given-names>CN</given-names></name><etal/></person-group>:
+<article-title>Clinical correlates of parenting stress in children with Tourette syndrome and in typically developing children.</article-title>
+<source><italic>J Pediatr.</italic></source>
+<year>2015</year>;<volume>166</volume>(<issue>5</issue>):<fpage>1297</fpage>&#x02013;<lpage>1302.e3</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.jpeds.2015.01.041</pub-id>
+<!--<pub-id pub-id-type="pmcid">4414884</pub-id>-->
+<?supplied-pmid 25769235?><pub-id pub-id-type="pmid">25769235</pub-id></mixed-citation></ref><ref id="ref-82"><label>82</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gouss&#x000e9;</surname><given-names>V</given-names></name><name><surname>Czernecki</surname><given-names>V</given-names></name><name><surname>Denis</surname><given-names>P</given-names></name><etal/></person-group>:
+<article-title>Impact of Perceived Stress, Anxiety-Depression and Social Support on Coping Strategies of Parents Having A Child With Gilles de la Tourette Syndrome.</article-title>
+<source><italic>Arch Psychiatr Nurs.</italic></source>
+<year>2016</year>;<volume>30</volume>(<issue>1</issue>):<fpage>109</fpage>&#x02013;<lpage>13</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.apnu.2015.08.017</pub-id>
+<?supplied-pmid 26804511?><pub-id pub-id-type="pmid">26804511</pub-id></mixed-citation></ref><ref id="ref-83"><label>83</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cuenca</surname><given-names>J</given-names></name><name><surname>Glazebrook</surname><given-names>C</given-names></name><name><surname>Kendall</surname><given-names>T</given-names></name><etal/></person-group>:
+<article-title>Perceptions of treatment for tics among young people with Tourette syndrome and their parents: a mixed methods study.</article-title>
+<source><italic>BMC Psychiatry.</italic></source>
+<year>2015</year>;<volume>15</volume>(<issue>1</issue>):<fpage>46</fpage>.
+<pub-id pub-id-type="doi">10.1186/s12888-015-0430-0</pub-id>
+<!--<pub-id pub-id-type="pmcid">4359496</pub-id>-->
+<?supplied-pmid 25879205?><pub-id pub-id-type="pmid">25879205</pub-id></mixed-citation></ref><ref id="ref-84"><label>84</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shprecher</surname><given-names>DR</given-names></name><name><surname>Kious</surname><given-names>BM</given-names></name><name><surname>Himle</surname><given-names>MH</given-names></name></person-group>:
+<article-title>Advances in mechanistic understanding and treatment approaches to Tourette syndrome.</article-title>
+<source><italic>Discov Med.</italic></source>
+<year>2015</year>;<volume>20</volume>(<issue>111</issue>):<fpage>295</fpage>&#x02013;<lpage>301</lpage>.
+<?supplied-pmid 26645901?><pub-id pub-id-type="pmid">26645901</pub-id></mixed-citation></ref><ref id="ref-85"><label>85</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robertson</surname><given-names>MM</given-names></name></person-group>:
+<article-title>A personal 35 year perspective on Gilles de la Tourette syndrome: prevalence, phenomenology, comorbidities, and coexistent psychopathologies.</article-title>
+<source><italic>Lancet Psychiatry.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>1</issue>):<fpage>68</fpage>&#x02013;<lpage>87</lpage>.
+<pub-id pub-id-type="doi">10.1016/S2215-0366(14)00132-1</pub-id>
+<?supplied-pmid 26359614?><pub-id pub-id-type="pmid">26359614</pub-id></mixed-citation></ref><ref id="ref-86"><label>86</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robertson</surname><given-names>MM</given-names></name></person-group>:
+<article-title>A personal 35 year perspective on Gilles de la Tourette syndrome: assessment, investigations, and management.</article-title>
+<source><italic>Lancet Psychiatry.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>1</issue>):<fpage>88</fpage>&#x02013;<lpage>104</lpage>.
+<pub-id pub-id-type="doi">10.1016/S2215-0366(14)00133-3</pub-id>
+<?supplied-pmid 26359615?><pub-id pub-id-type="pmid">26359615</pub-id></mixed-citation></ref><ref id="ref-87"><label>87</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robertson</surname><given-names>MM</given-names></name></person-group>:
+<article-title>Corrections. A personal 35 year perspective on Gilles de la Tourette syndrome: prevalence, phenomenology, comorbidities, and coexistent psychopathologies.</article-title>
+<source><italic>Lancet Psychiatry.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>291</fpage>.
+<pub-id pub-id-type="doi">10.1016/S2215-0366(15)00132-7</pub-id>
+<?supplied-pmid 26360067?><pub-id pub-id-type="pmid">26360067</pub-id></mixed-citation></ref><ref id="ref-88"><label>88</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Robertson</surname><given-names>MM</given-names></name></person-group>:
+<article-title>Corrections. A personal 35 year perspective on Gilles de la Tourette syndrome: assessment, investigations, and management.</article-title>
+<source><italic>Lancet Psychiatry.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>291</fpage>.
+<pub-id pub-id-type="doi">10.1016/S2215-0366(15)00131-5</pub-id>
+<?supplied-pmid 26360068?><pub-id pub-id-type="pmid">26360068</pub-id></mixed-citation></ref><ref id="ref-89"><label>89</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jankovic</surname><given-names>J</given-names></name></person-group>:
+<article-title>Therapeutic Developments for Tics and Myoclonus.</article-title>
+<source><italic>Mov Disord.</italic></source>
+<year>2015</year>;<volume>30</volume>(<issue>11</issue>):<fpage>1566</fpage>&#x02013;<lpage>1573</lpage>.
+<pub-id pub-id-type="doi">10.1002/mds.26414</pub-id>
+<?supplied-pmid 26315614?><pub-id pub-id-type="pmid">26315614</pub-id></mixed-citation></ref><ref id="ref-90"><label>90</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bachmann</surname><given-names>CJ</given-names></name><name><surname>Roessner</surname><given-names>V</given-names></name><name><surname>Glaeske</surname><given-names>G</given-names></name><etal/></person-group>:
+<article-title>Trends in psychopharmacologic treatment of tic disorders in children and adolescents in Germany.</article-title>
+<source><italic>Eur Child Adolesc Psychiatry.</italic></source>
+<year>2015</year>;<volume>24</volume>(<issue>2</issue>):<fpage>199</fpage>&#x02013;<lpage>207</lpage>.
+<pub-id pub-id-type="doi">10.1007/s00787-014-0563-6</pub-id>
+<?supplied-pmid 24888751?><pub-id pub-id-type="pmid">24888751</pub-id></mixed-citation></ref><ref id="ref-91"><label>91</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Jackson</surname><given-names>GM</given-names></name><name><surname>Draper</surname><given-names>A</given-names></name><name><surname>Dyke</surname><given-names>K</given-names></name><etal/></person-group>:
+<article-title>Inhibition, Disinhibition, and the Control of Action in Tourette Syndrome.</article-title>
+<source><italic>Trends Cogn Sci.</italic></source>
+<year>2015</year>;<volume>19</volume>(<issue>11</issue>):<fpage>655</fpage>&#x02013;<lpage>65</lpage>.
+<pub-id pub-id-type="doi">10.1016/j.tics.2015.08.006</pub-id>
+<?supplied-pmid 26440120?><pub-id pub-id-type="pmid">26440120</pub-id></mixed-citation></ref><ref id="ref-92"><label>92</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hawksley</surname><given-names>J</given-names></name><name><surname>Cavanna</surname><given-names>AE</given-names></name><name><surname>Nagai</surname><given-names>Y</given-names></name></person-group>:
+<article-title>The role of the autonomic nervous system in Tourette Syndrome.</article-title>
+<source><italic>Front Neurosci.</italic></source>
+<year>2015</year>;<volume>9</volume>:<fpage>117</fpage>.
+<pub-id pub-id-type="doi">10.3389/fnins.2015.00117</pub-id>
+<?supplied-pmid 26074752?><pub-id pub-id-type="pmid">26074752</pub-id></mixed-citation></ref><ref id="ref-93"><label>93</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanks</surname><given-names>CE</given-names></name><name><surname>Lewin</surname><given-names>AB</given-names></name><name><surname>Jane</surname><given-names>MP</given-names></name><etal/></person-group>:
+<article-title>Social Deficits and Autism Spectrum Disorders in Tourette&#x02019;s Syndrome.</article-title>
+<source><italic>Curr Dev Disord Rep.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>285</fpage>&#x02013;<lpage>292</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40474-015-0060-8</pub-id>
+</mixed-citation></ref><ref id="ref-94"><label>94</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Coffey Barbara</surname><given-names>J</given-names></name></person-group>:
+<article-title>Complexities for Assessment and Treatment of Co-Occurring ADHD and Tics.</article-title>
+<source><italic>Curr Dev Disord Rep.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>293</fpage>&#x02013;<lpage>299</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40474-015-0061-7</pub-id>
+</mixed-citation></ref><ref id="ref-95"><label>95</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGuire</surname><given-names>JF</given-names></name><name><surname>Ricketts</surname><given-names>EJ</given-names></name><name><surname>Piacentini</surname><given-names>J</given-names></name><etal/></person-group>:
+<article-title>Behavior Therapy for Tic Disorders: an Evidenced-Based Review and New Directions for Treatment Research.</article-title>
+<source><italic>Curr Dev Disord Rep.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>309</fpage>&#x02013;<lpage>317</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40474-015-0063-5</pub-id>
+<!--<pub-id pub-id-type="pmcid">4629635</pub-id>-->
+<?supplied-pmid 26543797?><pub-id pub-id-type="pmid">26543797</pub-id></mixed-citation></ref><ref id="ref-96"><label>96</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greene</surname><given-names>DJ</given-names></name><name><surname>Schlaggar</surname><given-names>BL</given-names></name><name><surname>Black</surname><given-names>KJ</given-names></name></person-group>:
+<article-title>Neuroimaging in Tourette Syndrome: Research Highlights From 2014&#x02013;2015.</article-title>
+<source><italic>Curr Dev Disord Rep.</italic></source>
+<year>2015</year>;<volume>2</volume>(<issue>4</issue>):<fpage>300</fpage>&#x02013;<lpage>308</lpage>.
+<pub-id pub-id-type="doi">10.1007/s40474-015-0062-6</pub-id>
+<!--<pub-id pub-id-type="pmcid">4629775</pub-id>-->
+<?supplied-pmid 26543796?><pub-id pub-id-type="pmid">26543796</pub-id></mixed-citation></ref><ref id="ref-97"><label>97</label><mixed-citation publication-type="journal">
+<collab>Tourette Association of America</collab>:
+<article-title>Recently published scientific articles</article-title>.<year>2015</year>; Accessed: 2015-09-05.
+<ext-link ext-link-type="uri" xlink:href="http://tsa-usa.org/Research/recentpubs.html">Reference Source</ext-link>
+</mixed-citation></ref></ref-list></back><sub-article id="report14669" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.9438.r14669</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Woods</surname><given-names>Douglas</given-names></name><xref ref-type="aff" rid="r14669a1">1</xref><role>Referee</role></contrib><aff id="r14669a1">
+<label>1</label>Department of Psychology, Marquette University, Milwaukee, WI, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>Dr. Woods receives royalties from Oxford University Press and Guilford Press. He receives speaking fees from a program partnership between the CDC and the Tourette Association of America.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>7</month><year>2016</year></pub-date><related-article id="d35e5809" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.8769.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>This was a well-written overview of research published in the TS field during 2015.&#x000a0; I have no major concerns with the paper, but a couple of issues should be addressed in the paper.
+<list list-type="order"><list-item><p>The authors should make clear that this is not&#x000a0;a methodological critique of any particular study or set of studies. It is simply an overview.</p></list-item><list-item><p>The authors should take care not to insert their subjective opinions into the paper. For example, on page 2, the authors note that "The most important genetic news of the year may have been...." I would like the readers to make that conclusion rather than the authors.</p></list-item><list-item><p>The authors conclusions about the effects of why vocal tics responded so well to CBIT are speculative (p. 8), and the authors should note that such an explanation would require confirmation.</p></list-item><list-item><p>At the end of the paper, I think the authors should make calls for additional studies. The 2015 year had things to say about why CBIT may or may not work, and the authors should call for additional work in that area. The authors should also call for large-scale translational studies that bring together various areas of basic science in the context of a clinical trial. This arrangement will lead to exciting new discoveries about tics and how treatments work. Finally, the authors should consider calling for research on optimizing treatment sequencing.</p></list-item></list>
+</p><p> Overall, this was a useful review.</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="report14670" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.9438.r14670</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Coffman</surname><given-names>Keith A.</given-names></name><xref ref-type="aff" rid="r14670a1">1</xref><role>Referee</role></contrib><aff id="r14670a1">
+<label>1</label>Division of Pediatric Neurology, Children's Mercy Hospital, Kansas City, MO, USA</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>12</day><month>7</month><year>2016</year></pub-date><related-article id="d35e5874" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.8769.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>I read, with great interest, the manuscript by Richards and Black. Overall, it was outstanding and provides an excellent, comprehensive review of the latest literature on Tourette Syndrome.</p><p> I recommend that it be indexed, without revisions.</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body></sub-article><sub-article id="report14667" article-type="peer-review"><front-stub><article-id pub-id-type="doi">10.5256/f1000research.9438.r14667</article-id><title-group><article-title>Referee response for version 1</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Hartmann</surname><given-names>Andreas</given-names></name><xref ref-type="aff" rid="r14667a1">1</xref><role>Referee</role></contrib><aff id="r14667a1">
+<label>1</label>Department of Neurology, Assistance Publique- Hopitaux de Paris, Paris, France</aff></contrib-group><author-notes><fn fn-type="COI-statement"><p>
+<bold>Competing interests: </bold>No competing interests were disclosed.</p></fn></author-notes><pub-date pub-type="epub"><day>6</day><month>7</month><year>2016</year></pub-date><related-article id="d35e5927" related-article-type="peer-reviewed-article" ext-link-type="doi" xlink:href="10.12688/f1000research.8769.1">Version 1</related-article><custom-meta-group><custom-meta><meta-name>recommendation</meta-name><meta-value>approve</meta-value></custom-meta></custom-meta-group></front-stub><body><p>A very comprehensive review of the TS literature in 2015 for which the authors must be thanked. Generally speaking, they provide a brief overview of the main results / points of each paper but do not dwell into interpretations and discussions, which is fine with me; all readers interested can look up the primary article. Also, there are no relevant articles missing from what I can gather as I have a weekly Pubcrawler alert for TS. The choice of papers is subjective, of course, and I was surprised not to find a few of our own group&#x02019;s contributions, listed below, but I leave it up to the authors to elaborate on them or not.</p><p>I have read this submission. I believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.</p></body><back><ref-list><title>References</title><ref id="rep-ref-14667-1"><label>1</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Worbe</surname><given-names>Y</given-names></name><name><surname>Lehericy</surname><given-names>S</given-names></name><name><surname>Hartmann</surname><given-names>A</given-names></name></person-group>:
+<article-title>Neuroimaging of tic genesis: Present status and future perspectives.</article-title>
+<source><italic>Mov Disord</italic></source>.<year>2015</year>;<volume>30</volume>(<issue>9</issue>) :
+<elocation-id>10.1002/mds.26333</elocation-id>
+<fpage>1179</fpage>-<lpage>83</lpage>
+<pub-id pub-id-type="doi">10.1002/mds.26333</pub-id>
+<?supplied-pmid 26377151?><pub-id pub-id-type="pmid">26377151</pub-id></mixed-citation></ref><ref id="rep-ref-14667-2"><label>2</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Muellner</surname><given-names>J</given-names></name><name><surname>Delmaire</surname><given-names>C</given-names></name><name><surname>Valabr&#x000e9;gue</surname><given-names>R</given-names></name><name><surname>Sch&#x000fc;pbach</surname><given-names>M</given-names></name><name><surname>Mangin</surname><given-names>JF</given-names></name><name><surname>Vidailhet</surname><given-names>M</given-names></name><name><surname>Leh&#x000e9;ricy</surname><given-names>S</given-names></name><name><surname>Hartmann</surname><given-names>A</given-names></name><name><surname>Worbe</surname><given-names>Y</given-names></name></person-group>:
+<article-title>Altered structure of cortical sulci in gilles de la Tourette syndrome: Further support for abnormal brain development.</article-title>
+<source><italic>Mov Disord</italic></source>.<year>2015</year>;<volume>30</volume>(<issue>5</issue>) :
+<elocation-id>10.1002/mds.26207</elocation-id>
+<fpage>655</fpage>-<lpage>61</lpage>
+<pub-id pub-id-type="doi">10.1002/mds.26207</pub-id>
+<?supplied-pmid 25820811?><pub-id pub-id-type="pmid">25820811</pub-id></mixed-citation></ref><ref id="rep-ref-14667-3"><label>3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Worbe</surname><given-names>Y</given-names></name><name><surname>Marrakchi-Kacem</surname><given-names>L</given-names></name><name><surname>Lecomte</surname><given-names>S</given-names></name><name><surname>Valabregue</surname><given-names>R</given-names></name><name><surname>Poupon</surname><given-names>F</given-names></name><name><surname>Guevara</surname><given-names>P</given-names></name><name><surname>Tucholka</surname><given-names>A</given-names></name><name><surname>Mangin</surname><given-names>JF</given-names></name><name><surname>Vidailhet</surname><given-names>M</given-names></name><name><surname>Lehericy</surname><given-names>S</given-names></name><name><surname>Hartmann</surname><given-names>A</given-names></name><name><surname>Poupon</surname><given-names>C</given-names></name></person-group>:
+<article-title>Altered structural connectivity of cortico-striato-pallido-thalamic networks in Gilles de la Tourette syndrome.</article-title>
+<source><italic>Brain</italic></source>.<year>2015</year>;<volume>138</volume>(<issue>Pt 2</issue>) :
+<elocation-id>10.1093/brain/awu311</elocation-id>
+<fpage>472</fpage>-<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1093/brain/awu311</pub-id>
+<?supplied-pmid 25392196?><pub-id pub-id-type="pmid">25392196</pub-id></mixed-citation></ref></ref-list></back></sub-article></article>

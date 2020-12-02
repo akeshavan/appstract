@@ -1,0 +1,320 @@
+{
+  "id": [
+    "23630476"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23630476"
+  ],
+  "pmcid": [
+    "PMC3634796"
+  ],
+  "doi": [
+    "10.3389/fnint.2013.00030"
+  ],
+  "title": [
+    "Motor development and motor resonance difficulties in autism: relevance to early intervention for language and communication skills."
+  ],
+  "authorString": [
+    "McCleery JP, Elliott NA, Sampanis DS, Stefanidou CA."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "McCleery JP"
+          ],
+          "firstName": [
+            "Joseph P"
+          ],
+          "lastName": [
+            "McCleery"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Elliott NA"
+          ],
+          "firstName": [
+            "Natasha A"
+          ],
+          "lastName": [
+            "Elliott"
+          ],
+          "initials": [
+            "NA"
+          ]
+        },
+        {
+          "fullName": [
+            "Sampanis DS"
+          ],
+          "firstName": [
+            "Dimitrios S"
+          ],
+          "lastName": [
+            "Sampanis"
+          ],
+          "initials": [
+            "DS"
+          ]
+        },
+        {
+          "fullName": [
+            "Stefanidou CA"
+          ],
+          "firstName": [
+            "Chrysi A"
+          ],
+          "lastName": [
+            "Stefanidou"
+          ],
+          "initials": [
+            "CA"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2004143"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in integrative neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Integr Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Integr Neurosci"
+          ],
+          "NLMid": [
+            "101477950"
+          ],
+          "ISSN": [
+            "1662-5145"
+          ],
+          "ESSN": [
+            "1662-5145"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "30"
+  ],
+  "abstractText": [
+    "Research suggests that a sub-set of children with autism experience notable difficulties and delays in motor skills development, and that a large percentage of children with autism experience deficits in motor resonance. These motor-related deficiencies, which evidence suggests are present from a very early age, are likely to negatively affect social-communicative and language development in this population. Here, we review evidence for delayed, impaired, and atypical motor development in infants and children with autism. We then carefully review and examine the current language and communication-based intervention research that is relevant to motor and motor resonance (i.e., neural \"mirroring\" mechanisms activated when we observe the actions of others) deficits in children with autism. Finally, we describe research needs and future directions and developments for early interventions aimed at addressing the speech/language and social-communication development difficulties in autism from a motor-related perspective."
+  ],
+  "affiliation": [
+    "School of Psychology, University of Birmingham West Midlands, Birmingham, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Language",
+        "Communication",
+        "Motor",
+        "early intervention",
+        "Autism"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3634796?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3634796"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23630476/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23630476/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnint.2013.00030"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2013-05-01"
+  ],
+  "dateOfCreation": [
+    "2013-04-30"
+  ],
+  "dateOfRevision": [
+    "2013-08-13"
+  ],
+  "electronicPublicationDate": [
+    "2013-04-24"
+  ],
+  "firstPublicationDate": [
+    "2013-04-24"
+  ]
+}

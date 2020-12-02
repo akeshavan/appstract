@@ -1,0 +1,846 @@
+{
+  "id": [
+    "27001615"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27001615"
+  ],
+  "pmcid": [
+    "PMC5078857"
+  ],
+  "doi": [
+    "10.1038/mp.2016.19"
+  ],
+  "title": [
+    "Therapeutically relevant structural and functional mechanisms triggered by physical and cognitive exercise."
+  ],
+  "authorString": [
+    "Suo C, Singh MF, Gates N, Wen W, Sachdev P, Brodaty H, Saigal N, Wilson GC, Meiklejohn J, Singh N, Baune BT, Baker M, Foroughi N, Wang Y, Mavros Y, Lampit A, Leung I, Valenzuela MJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Suo C"
+          ],
+          "firstName": [
+            "C"
+          ],
+          "lastName": [
+            "Suo"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Centre for Healthy Brain Ageing, School of Psychiatry, University of New South Wales, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh MF"
+          ],
+          "firstName": [
+            "M F"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "MF"
+          ],
+          "affiliation": [
+            "Hebrew SeniorLife and Jean Mayer USDA Human Nutrition Research Center on Aging at Tufts University, Boston, MA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Gates N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Gates"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Centre for Healthy Brain Ageing, School of Psychiatry, University of New South Wales, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wen W"
+          ],
+          "firstName": [
+            "W"
+          ],
+          "lastName": [
+            "Wen"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Neuropsychiatric Institute, Prince of Wales Hospital, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Sachdev P"
+          ],
+          "firstName": [
+            "P"
+          ],
+          "lastName": [
+            "Sachdev"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9595-3220",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neuropsychiatric Institute, Prince of Wales Hospital, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Brodaty H"
+          ],
+          "firstName": [
+            "H"
+          ],
+          "lastName": [
+            "Brodaty"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Dementia Collaborative Research Centre, University of New South Wales, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Saigal N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Saigal"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Exercise Health and Performance Faculty Research Group, Faculty of Health Sciences, The University of Sydney, Lidcombe, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson GC"
+          ],
+          "firstName": [
+            "G C"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "GC"
+          ],
+          "affiliation": [
+            "Exercise Health and Performance Faculty Research Group, Faculty of Health Sciences, The University of Sydney, Lidcombe, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Meiklejohn J"
+          ],
+          "firstName": [
+            "J"
+          ],
+          "lastName": [
+            "Meiklejohn"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Exercise Health and Performance Faculty Research Group, Faculty of Health Sciences, The University of Sydney, Lidcombe, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Singh N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Singh"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Exercise Health and Performance Faculty Research Group, Faculty of Health Sciences, The University of Sydney, Lidcombe, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Baune BT"
+          ],
+          "firstName": [
+            "B T"
+          ],
+          "lastName": [
+            "Baune"
+          ],
+          "initials": [
+            "BT"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, School of Medicine, University of Adelaide, Adelaide, SA, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Baker M"
+          ],
+          "firstName": [
+            "M"
+          ],
+          "lastName": [
+            "Baker"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Exercise Science, Australian Catholic University, Strathfield, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Foroughi N"
+          ],
+          "firstName": [
+            "N"
+          ],
+          "lastName": [
+            "Foroughi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Clinical and Rehabilitation Research Group, Faculty of Health Sciences, The University of Sydney, Lidcombe, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Medicine and the Diabetes Center, University of California, San Francisco, San Francisco, CA, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mavros Y"
+          ],
+          "firstName": [
+            "Y"
+          ],
+          "lastName": [
+            "Mavros"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2588-0425",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Exercise Health and Performance Faculty Research Group, Faculty of Health Sciences and Sydney Medical School, The University of Sydney, Lidcombe, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Lampit A"
+          ],
+          "firstName": [
+            "A"
+          ],
+          "lastName": [
+            "Lampit"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Regenerative Neuroscience Group, Brain and Mind Centre, University of Sydney, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung I"
+          ],
+          "firstName": [
+            "I"
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Regenerative Neuroscience Group, Brain and Mind Centre, University of Sydney, Sydney, NSW, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Valenzuela MJ"
+          ],
+          "firstName": [
+            "M J"
+          ],
+          "lastName": [
+            "Valenzuela"
+          ],
+          "initials": [
+            "MJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7162-6607",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Medical Sciences, Sydney Medical School, University of Sydney, Sydney, NSW, Australia."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-7162-6607",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9595-3220",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-2588-0425",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "11"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2474822"
+      ],
+      "dateOfPublication": [
+        "2016 Nov"
+      ],
+      "monthOfPublication": [
+        "11"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-11-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "Mol. Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "Mol Psychiatry"
+          ],
+          "NLMid": [
+            "9607835"
+          ],
+          "ISSN": [
+            "1359-4184"
+          ],
+          "ESSN": [
+            "1476-5578"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "1633-1642"
+  ],
+  "abstractText": [
+    "Physical and cognitive exercise may prevent or delay dementia in later life but the neural mechanisms underlying these therapeutic benefits are largely unknown. We examined structural and functional magnetic resonance imaging (MRI) brain changes after 6 months of progressive resistance training (PRT), computerized cognitive training (CCT) or combined intervention. A total of 100 older individuals (68 females, average age=70.1, s.d.±6.7, 55-87 years) with dementia prodrome mild cognitive impairment were recruited in the SMART (Study of Mental Activity and Resistance Training) Trial. Participants were randomly assigned into four intervention groups: PRT+CCT, PRT+SHAM CCT, CCT+SHAM PRT and double SHAM. Multimodal MRI was conducted at baseline and at 6 months of follow-up (immediately after training) to measure structural and spontaneous functional changes in the brain, with a focus on the hippocampus and posterior cingulate regions. Participants' cognitive changes were also assessed before and after training. We found that PRT but not CCT significantly improved global cognition (F(90)=4.1, P<0.05) as well as expanded gray matter in the posterior cingulate (Pcorrected <0.05), and these changes were related to each other (r=0.25, P=0.03). PRT also reversed progression of white matter hyperintensities, a biomarker of cerebrovascular disease, in several brain areas. In contrast, CCT but not PRT attenuated decline in overall memory performance (F(90)=5.7, P<0.02), mediated by enhanced functional connectivity between the hippocampus and superior frontal cortex. Our findings indicate that physical and cognitive training depend on discrete neuronal mechanisms for their therapeutic efficacy, information that may help develop targeted lifestyle-based preventative strategies."
+  ],
+  "affiliation": [
+    "Centre for Healthy Brain Ageing, School of Psychiatry, University of New South Wales, Sydney, NSW, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Structure-Activity Relationship"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Resistance Training"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gray Matter"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5078857?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5078857"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/mp.2016.19"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "9"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2017-09-19"
+  ],
+  "dateOfCreation": [
+    "2016-03-22"
+  ],
+  "dateOfRevision": [
+    "2017-09-19"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-22"
+  ],
+  "firstPublicationDate": [
+    "2016-03-22"
+  ]
+}

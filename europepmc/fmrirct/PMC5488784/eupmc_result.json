@@ -1,0 +1,263 @@
+{
+  "id": [
+    "28790824"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28790824"
+  ],
+  "pmcid": [
+    "PMC5488784"
+  ],
+  "doi": [
+    "10.2147/ndt.s120710"
+  ],
+  "title": [
+    "Pivotal response treatment for autism spectrum disorder: current perspectives."
+  ],
+  "authorString": [
+    "Lei J, Ventola P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Lei J"
+          ],
+          "firstName": [
+            "Jiedi"
+          ],
+          "lastName": [
+            "Lei"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Yale Child Study Center, Yale University School of Medicine, New Haven, CT, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Ventola P"
+          ],
+          "firstName": [
+            "Pamela"
+          ],
+          "lastName": [
+            "Ventola"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Yale Child Study Center, Yale University School of Medicine, New Haven, CT, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2509110"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychiatric disease and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "NLMid": [
+            "101240304"
+          ],
+          "ISSN": [
+            "1176-6328"
+          ],
+          "ESSN": [
+            "1178-2021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "1613-1626"
+  ],
+  "abstractText": [
+    "Pivotal response treatment (PRT) is an evidence-based behavioral intervention based on applied behavior analysis principles aimed to improve social communication skills in individuals with autism spectrum disorder (ASD). PRT adopts a more naturalistic approach and focuses on using a number of strategies to help increase children's motivation during intervention. Since its conceptualization, PRT has received much empirical support for eliciting therapeutic gains in greater use of functional social communication skills in individuals with ASD. Building upon the empirical evidence supporting PRT, recent advancements have increasingly turned to using interdisciplinary research integrating neuroimaging techniques and behavioral measures to help identify objective biomarkers of treatment, which have two primary purposes. First, neuroimaging results can help characterize how PRT may elicit change, and facilitate partitioning of the heterogeneous profiles of neural mechanisms underlying similar profile of behavioral changes observed over PRT. Second, neuroimaging provides an objective means to both map and track how biomarkers may serve as reliable and sensitive predictors of responder profiles to PRT, assisting clinicians to identify who will most likely benefit from PRT. Together, a better understanding of both mechanisms of change and predictors of responder profile will help PRT to serve as a more precise and targeted intervention for individuals with ASD, thus moving towards the goal of precision medicine and improving quality of care. This review focuses on the recent emerging neuroimaging evidences supporting PRT, offering current perspectives on the importance of interdisciplinary research to help clinicians better understand how PRT works and predict who will respond to PRT."
+  ],
+  "affiliation": [
+    "Yale Child Study Center, Yale University School of Medicine, New Haven, CT, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Biomarkers",
+        "Biological Motion",
+        "Neuroimaging",
+        "Asd",
+        "Prt",
+        "Precision Medicine"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5488784?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5488784"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.2147/NDT.S120710"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-08-09"
+  ],
+  "dateOfRevision": [
+    "2017-08-11"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-20"
+  ],
+  "firstPublicationDate": [
+    "2017-06-20"
+  ]
+}

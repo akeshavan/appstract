@@ -1,0 +1,305 @@
+{
+  "id": [
+    "23924584"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23924584"
+  ],
+  "pmcid": [
+    "PMC3979126"
+  ],
+  "doi": [
+    "10.1186/alzrt189"
+  ],
+  "title": [
+    "Cognitive training and cognitive rehabilitation for persons with mild to moderate dementia of the Alzheimer's or vascular type: a review."
+  ],
+  "authorString": [
+    "Bahar-Fuchs A, Clare L, Woods B."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bahar-Fuchs A"
+          ],
+          "firstName": [
+            "Alex"
+          ],
+          "lastName": [
+            "Bahar-Fuchs"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Centre for Research on Ageing, Health, and Wellbeing, Australian National University, 62A Eggleston Road, Canberra, Acton 0200, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Clare L"
+          ],
+          "firstName": [
+            "Linda"
+          ],
+          "lastName": [
+            "Clare"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "School of Psychology, Bangor University, Bangor, Gwynedd LL57 2AS, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Woods B"
+          ],
+          "firstName": [
+            "Bob"
+          ],
+          "lastName": [
+            "Woods"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "School of Psychology, Bangor University, Bangor, Gwynedd LL57 2AS, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2161345"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Alzheimer's research & therapy"
+          ],
+          "ISOAbbreviation": [
+            "Alzheimers Res Ther"
+          ],
+          "medlineAbbreviation": [
+            "Alzheimers Res Ther"
+          ],
+          "NLMid": [
+            "101511643"
+          ],
+          "ISSN": [
+            "1758-9193"
+          ],
+          "ESSN": [
+            "1758-9193"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "35"
+  ],
+  "abstractText": [
+    "Cognitive impairments, and particularly memory deficits, are a defining feature of the early stages of Alzheimer's disease and vascular dementia. Interventions that target these cognitive deficits and the associated difficulties with activities of daily living are the subject of ever-growing interest. Cognitive training and cognitive rehabilitation are specific forms of non-pharmacological intervention to address cognitive and non-cognitive outcomes. The present review is an abridged version of a Cochrane Review and aims to systematically evaluate the evidence for these forms of intervention in people with mild Alzheimer's disease or vascular dementia. Randomized controlled trials (RCTs), published in English, comparing cognitive rehabilitation or cognitive training interventions with control conditions and reporting relevant outcomes for the person with dementia or the family caregiver (or both), were considered for inclusion. Eleven RCTs reporting cognitive training interventions were included in the review. A large number of measures were used in the different studies, and meta-analysis could be conducted for several primary and secondary outcomes of interest. Several outcomes were not measured in any of the studies. Overall estimates of the treatment effect were calculated by using a fixed-effects model, and statistical heterogeneity was measured by using a standard chi-squared statistic. One RCT of cognitive rehabilitation was identified, allowing the examination of effect sizes, but no meta-analysis could be conducted. Cognitive training was not associated with positive or negative effects in relation to any of the reported outcomes. The overall quality of the trials was low to moderate. The single RCT of cognitive rehabilitation found promising results in relation to some patient and caregiver outcomes and was generally of high quality. The available evidence regarding cognitive training remains limited, and the quality of the evidence needs to improve. However, there is still no indication of any significant benefits from cognitive training. Trial reports indicate that some gains resulting from intervention may not be captured adequately by available standardized outcome measures. The results of the single RCT of cognitive rehabilitation show promise but are preliminary in nature. Further well-designed studies of cognitive training and cognitive rehabilitation are required to provide more definitive evidence. Researchers should describe and classify their interventions appropriately by using the available terminology."
+  ],
+  "affiliation": [
+    "Centre for Research on Ageing, Health, and Wellbeing, Australian National University, 62A Eggleston Road, Canberra, Acton 0200, Australia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3979126?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3979126"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23924584/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23924584/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/alzrt189"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "25"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-23"
+  ],
+  "dateOfCreation": [
+    "2014-05-20"
+  ],
+  "dateOfRevision": [
+    "2014-06-23"
+  ],
+  "electronicPublicationDate": [
+    "2013-08-07"
+  ],
+  "firstPublicationDate": [
+    "2013-08-07"
+  ]
+}

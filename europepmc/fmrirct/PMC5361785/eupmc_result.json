@@ -1,0 +1,950 @@
+{
+  "id": [
+    "28330458"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28330458"
+  ],
+  "pmcid": [
+    "PMC5361785"
+  ],
+  "doi": [
+    "10.1186/s12877-017-0457-9"
+  ],
+  "title": [
+    "The effects of an extensive exercise programme on the progression of Mild Cognitive Impairment (MCI): study protocol for a randomised controlled trial."
+  ],
+  "authorString": [
+    "Devenney KE, Sanders ML, Lawlor B, Olde Rikkert MGM, Schneider S, NeuroExercise Study Group."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Devenney KE"
+          ],
+          "firstName": [
+            "Kate E"
+          ],
+          "lastName": [
+            "Devenney"
+          ],
+          "initials": [
+            "KE"
+          ],
+          "affiliation": [
+            "Discipline of Physiotherapy, Trinity College Dublin, Dublin, Ireland. devennek@tcd.ie."
+          ]
+        },
+        {
+          "fullName": [
+            "Sanders ML"
+          ],
+          "firstName": [
+            "Marit L"
+          ],
+          "lastName": [
+            "Sanders"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Department of Geriatric Medicine, Radboud Alzheimer Centre, Radboud University Medical Center, Nijmegen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Lawlor B"
+          ],
+          "firstName": [
+            "Brian"
+          ],
+          "lastName": [
+            "Lawlor"
+          ],
+          "initials": [
+            "B"
+          ],
+          "affiliation": [
+            "Trinity College Institute of Neuroscience, Dublin, Ireland."
+          ]
+        },
+        {
+          "fullName": [
+            "Olde Rikkert MGM"
+          ],
+          "firstName": [
+            "Marcel G M"
+          ],
+          "lastName": [
+            "Olde Rikkert"
+          ],
+          "initials": [
+            "MGM"
+          ],
+          "affiliation": [
+            "Department of Geriatric Medicine, Radboud Alzheimer Centre, Radboud University Medical Center, Nijmegen, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Schneider S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Schneider"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Institute of Movement and Neurosciences, German Sport University Cologne, Cologne, Germany."
+          ]
+        },
+        {
+          "collectiveName": [
+            "NeuroExercise Study Group"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Aaronson JA"
+          ],
+          "firstName": [
+            "Justine A"
+          ],
+          "lastName": [
+            "Aaronson"
+          ],
+          "initials": [
+            "JA"
+          ]
+        },
+        {
+          "fullName": [
+            "Abeln V"
+          ],
+          "firstName": [
+            "Vera"
+          ],
+          "lastName": [
+            "Abeln"
+          ],
+          "initials": [
+            "V"
+          ]
+        },
+        {
+          "fullName": [
+            "Classen JAHR"
+          ],
+          "firstName": [
+            "Jurgen A H R"
+          ],
+          "lastName": [
+            "Classen"
+          ],
+          "initials": [
+            "JAHR"
+          ]
+        },
+        {
+          "fullName": [
+            "Coen RF"
+          ],
+          "firstName": [
+            "Robert F"
+          ],
+          "lastName": [
+            "Coen"
+          ],
+          "initials": [
+            "RF"
+          ]
+        },
+        {
+          "fullName": [
+            "Guinan EM"
+          ],
+          "firstName": [
+            "Emer M"
+          ],
+          "lastName": [
+            "Guinan"
+          ],
+          "initials": [
+            "EM"
+          ]
+        },
+        {
+          "fullName": [
+            "Ferguson D"
+          ],
+          "firstName": [
+            "Damien"
+          ],
+          "lastName": [
+            "Ferguson"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Kessels RPC"
+          ],
+          "firstName": [
+            "Roy P C"
+          ],
+          "lastName": [
+            "Kessels"
+          ],
+          "initials": [
+            "RPC"
+          ]
+        },
+        {
+          "fullName": [
+            "Meeusen R"
+          ],
+          "firstName": [
+            "Romain"
+          ],
+          "lastName": [
+            "Meeusen"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Montag C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Montag"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Murphy RT"
+          ],
+          "firstName": [
+            "Ross T"
+          ],
+          "lastName": [
+            "Murphy"
+          ],
+          "initials": [
+            "RT"
+          ]
+        },
+        {
+          "fullName": [
+            "Polidori MC"
+          ],
+          "firstName": [
+            "M Cristina"
+          ],
+          "lastName": [
+            "Polidori"
+          ],
+          "initials": [
+            "MC"
+          ]
+        },
+        {
+          "fullName": [
+            "Reuter M"
+          ],
+          "firstName": [
+            "Martin"
+          ],
+          "lastName": [
+            "Reuter"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Strüder HK"
+          ],
+          "firstName": [
+            "Heiko K"
+          ],
+          "lastName": [
+            "Strüder"
+          ],
+          "initials": [
+            "HK"
+          ]
+        },
+        {
+          "fullName": [
+            "Thijssen DHJ"
+          ],
+          "firstName": [
+            "Dick H J"
+          ],
+          "lastName": [
+            "Thijssen"
+          ],
+          "initials": [
+            "DHJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Vogt T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Vogt"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Walsh C"
+          ],
+          "firstName": [
+            "Cathal"
+          ],
+          "lastName": [
+            "Walsh"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Weber B"
+          ],
+          "firstName": [
+            "Bernd"
+          ],
+          "lastName": [
+            "Weber"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Hoblyn J"
+          ],
+          "firstName": [
+            "Jennifer"
+          ],
+          "lastName": [
+            "Hoblyn"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Eustace A"
+          ],
+          "firstName": [
+            "Andrew"
+          ],
+          "lastName": [
+            "Eustace"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "McGreevy C"
+          ],
+          "firstName": [
+            "Cora"
+          ],
+          "lastName": [
+            "McGreevy"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Denihan A"
+          ],
+          "firstName": [
+            "Aisling"
+          ],
+          "lastName": [
+            "Denihan"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Kinsella J"
+          ],
+          "firstName": [
+            "Justin"
+          ],
+          "lastName": [
+            "Kinsella"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Lyons D"
+          ],
+          "firstName": [
+            "Declan"
+          ],
+          "lastName": [
+            "Lyons"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Kennelly S"
+          ],
+          "firstName": [
+            "Sean"
+          ],
+          "lastName": [
+            "Kennelly"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2528602"
+      ],
+      "dateOfPublication": [
+        "2017 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC geriatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "NLMid": [
+            "100968548"
+          ],
+          "ISSN": [
+            "1471-2318"
+          ],
+          "ESSN": [
+            "1471-2318"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "75"
+  ],
+  "abstractText": [
+    "Exercise interventions to prevent dementia and delay cognitive decline have gained considerable attention in recent years. Human and animal studies have demonstrated that regular physical activity targets brain function by increasing cognitive reserve. There is also evidence of structural changes caused by exercise in preventing or delaying the genesis of neurodegeneration. Although initial studies indicate enhanced cognitive performance in patients with mild cognitive impairment (MCI) following an exercise intervention, little is known about the effect of an extensive, controlled and regular exercise regimen on the neuropathology of patients with MCI. This study aims to determine the effects of an extensive exercise programme on the progression of MCI.This randomised controlled clinical intervention study will take place across three European sites. Seventy-five previously sedentary patients with a clinical diagnosis of MCI will be recruited at each site. Participants will be randomised to one of three groups. One group will receive a standardised 1-year extensive aerobic exercise intervention (3 units of 45 min/week). The second group will complete stretching and toning (non-aerobic) exercise (3 units of 45 min/week) and the third group will act as the control group. Change in all outcomes will be measured at baseline (T0), after six months (T1) and after 12 months (T2). The primary outcome, cognitive performance, will be determined by a neuropsychological test battery (CogState battery, Trail Making Test and Verbal fluency). Secondary outcomes include Montreal Cognitive Assessment (MoCA), cardiovascular fitness, physical activity, structural changes of the brain, quality of life measures and measures of frailty. Furthermore, outcome variables will be related to genetic variations on genes related to neurogenesis and epigenetic changes in these genes caused by the exercise intervention programme.The results will add new insights into the prevailing notion that exercise may slow the rate of cognitive decline in MCI.ClinicalTrials.gov NCT02913053."
+  ],
+  "affiliation": [
+    "Discipline of Physiotherapy, Trinity College Dublin, Dublin, Ireland. devennek@tcd.ie."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Disease Progression"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Exercise Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Health Promotion"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Frailty",
+        "Cognitive function",
+        "Epigenetics",
+        "Physical Activity",
+        "Mild Cognitive Impairment",
+        "Brain Structure",
+        "Exercise Intervention"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5361785?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5361785"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12877-017-0457-9"
+          ]
+        }
+      ]
+    }
+  ],
+  "commentCorrectionList": [
+    {
+      "commentCorrection": [
+        {
+          "id": [
+            "28525969"
+          ],
+          "source": [
+            "MED"
+          ],
+          "reference": [
+            "BMC Geriatr. 2017 May 19;17 (1):112"
+          ],
+          "type": [
+            "Erratum in"
+          ],
+          "orderIn": [
+            "1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2017-06-13"
+  ],
+  "dateOfCreation": [
+    "2017-03-24"
+  ],
+  "dateOfRevision": [
+    "2018-01-27"
+  ],
+  "electronicPublicationDate": [
+    "2017-03-22"
+  ],
+  "firstPublicationDate": [
+    "2017-03-22"
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "id": [
+    "21682867"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21682867"
+  ],
+  "pmcid": [
+    "PMC3141540"
+  ],
+  "doi": [
+    "10.1186/1741-7015-9-75"
+  ],
+  "title": [
+    "Best practice for motor imagery: a systematic literature review on motor imagery training elements in five different disciplines."
+  ],
+  "authorString": [
+    "Schuster C, Hilfiker R, Amft O, Scheidhauer A, Andrews B, Butler J, Kischka U, Ettlin T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Schuster C"
+          ],
+          "firstName": [
+            "Corina"
+          ],
+          "lastName": [
+            "Schuster"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Hilfiker R"
+          ],
+          "firstName": [
+            "Roger"
+          ],
+          "lastName": [
+            "Hilfiker"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-8662-6116",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Amft O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Amft"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6811-3659",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Scheidhauer A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Scheidhauer"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Andrews B"
+          ],
+          "firstName": [
+            "Brian"
+          ],
+          "lastName": [
+            "Andrews"
+          ],
+          "initials": [
+            "B"
+          ]
+        },
+        {
+          "fullName": [
+            "Butler J"
+          ],
+          "firstName": [
+            "Jenny"
+          ],
+          "lastName": [
+            "Butler"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Kischka U"
+          ],
+          "firstName": [
+            "Udo"
+          ],
+          "lastName": [
+            "Kischka"
+          ],
+          "initials": [
+            "U"
+          ]
+        },
+        {
+          "fullName": [
+            "Ettlin T"
+          ],
+          "firstName": [
+            "Thierry"
+          ],
+          "lastName": [
+            "Ettlin"
+          ],
+          "initials": [
+            "T"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-8662-6116",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6811-3659",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "1802114"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC medicine"
+          ],
+          "ISOAbbreviation": [
+            "BMC Med"
+          ],
+          "medlineAbbreviation": [
+            "BMC Med"
+          ],
+          "NLMid": [
+            "101190723"
+          ],
+          "ISSN": [
+            "1741-7015"
+          ],
+          "ESSN": [
+            "1741-7015"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "75"
+  ],
+  "abstractText": [
+    "BACKGROUND: The literature suggests a beneficial effect of motor imagery (MI) if combined with physical practice, but detailed descriptions of MI training session (MITS) elements and temporal parameters are lacking. The aim of this review was to identify the characteristics of a successful MITS and compare these for different disciplines, MI session types, task focus, age, gender and MI modification during intervention. METHODS: An extended systematic literature search using 24 databases was performed for five disciplines: Education, Medicine, Music, Psychology and Sports. References that described an MI intervention that focused on motor skills, performance or strength improvement were included. Information describing 17 MITS elements was extracted based on the PETTLEP (physical, environment, timing, task, learning, emotion, perspective) approach. Seven elements describing the MITS temporal parameters were calculated: study duration, intervention duration, MITS duration, total MITS count, MITS per week, MI trials per MITS and total MI training time. RESULTS: Both independent reviewers found 96% congruity, which was tested on a random sample of 20% of all references. After selection, 133 studies reporting 141 MI interventions were included. The locations of the MITS and position of the participants during MI were task-specific. Participants received acoustic detailed MI instructions, which were mostly standardised and live. During MI practice, participants kept their eyes closed. MI training was performed from an internal perspective with a kinaesthetic mode. Changes in MI content, duration and dosage were reported in 31 MI interventions. Familiarisation sessions before the start of the MI intervention were mentioned in 17 reports. MI interventions focused with decreasing relevance on motor-, cognitive- and strength-focused tasks. Average study intervention lasted 34 days, with participants practicing MI on average three times per week for 17 minutes, with 34 MI trials. Average total MI time was 178 minutes including 13 MITS. Reporting rate varied between 25.5% and 95.5%. CONCLUSIONS: MITS elements of successful interventions were individual, supervised and non-directed sessions, added after physical practice. Successful design characteristics were dominant in the Psychology literature, in interventions focusing on motor and strength-related tasks, in interventions with participants aged 20 to 29 years old, and in MI interventions including participants of both genders. Systematic searching of the MI literature was constrained by the lack of a defined MeSH term."
+  ],
+  "affiliation": [
+    "Reha Rheinfelden, Switzerland."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Imagery (Psychotherapy)"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Psychomotor Performance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Medical Subject Headings"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Athletic Performance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Resistance Training"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3141540?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3141540"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21682867/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21682867/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1741-7015-9-75"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "76"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-11-07"
+  ],
+  "dateOfCreation": [
+    "2011-07-20"
+  ],
+  "dateOfRevision": [
+    "2013-06-28"
+  ],
+  "electronicPublicationDate": [
+    "2011-06-17"
+  ],
+  "firstPublicationDate": [
+    "2011-06-17"
+  ]
+}

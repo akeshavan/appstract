@@ -1,0 +1,335 @@
+{
+  "id": [
+    "28220089"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28220089"
+  ],
+  "pmcid": [
+    "PMC5292405"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2017.00098"
+  ],
+  "title": [
+    "Emotion Regulation Therapy: A Mechanism-Targeted Treatment for Disorders of Distress."
+  ],
+  "authorString": [
+    "Renna ME, Quintero JM, Fresco DM, Mennin DS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Renna ME"
+          ],
+          "firstName": [
+            "Megan E"
+          ],
+          "lastName": [
+            "Renna"
+          ],
+          "initials": [
+            "ME"
+          ],
+          "affiliation": [
+            "The Graduate Center, City University of New York, New YorkNY, USA; Hunter College, City University of New York, New YorkNY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Quintero JM"
+          ],
+          "firstName": [
+            "Jean M"
+          ],
+          "lastName": [
+            "Quintero"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "affiliation": [
+            "The Graduate Center, City University of New York, New YorkNY, USA; Hunter College, City University of New York, New YorkNY, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Fresco DM"
+          ],
+          "firstName": [
+            "David M"
+          ],
+          "lastName": [
+            "Fresco"
+          ],
+          "initials": [
+            "DM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6736-3912",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Psychology Department, Kent State University, KentOH, USA; Case Western Reserve University School of Medicine, ClevelandOH, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Mennin DS"
+          ],
+          "firstName": [
+            "Douglas S"
+          ],
+          "lastName": [
+            "Mennin"
+          ],
+          "initials": [
+            "DS"
+          ],
+          "affiliation": [
+            "The Graduate Center, City University of New York, New YorkNY, USA; Hunter College, City University of New York, New YorkNY, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6736-3912",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2550596"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "98"
+  ],
+  "abstractText": [
+    "\"Distress disorders,\" which include generalized anxiety disorder and major depression are often highly comorbid with each other and appear to be characterized by common temperamental features that reflect heightened sensitivity to underlying motivational systems related to threat/safety and reward/loss. Further, individuals with distress disorders tend to utilize self-referential processes (e.g., worry, rumination, self-criticism) in a maladaptive attempt to respond to motivationally relevant distress, often resulting in suboptimal contextual learning. Despite the success of cognitive behavioral therapies for emotional disorders, a sizable subgroup of patients with distress disorders fail to evidence adequate treatment response. Emotion Regulation Therapy (ERT) is a theoretically derived, evidence based, treatment that integrates principles (e.g., skills training, exposure) from traditional and contemporary therapies with findings from basic and translational affective science to offer a framework for improving intervention by focusing on the motivational responses and corresponding regulatory characteristics of individuals with high levels of chronic distress. Open and randomized controlled trials have demonstrated preliminary support for the utility of ERT as reflected by strong effect sizes comparable to and exceeding established intervention approaches. In addition, pilot findings support the role of underlying proposed mechanisms in this efficacious response. This article presents the functional model associated with ERT and describes the proposed mechanisms of the treatment. Additionally, a clinical case is presented, allowing the reader to gain a greater applied understanding of the different components of the ERT model and treatment."
+  ],
+  "affiliation": [
+    "The Graduate Center, City University of New York, New YorkNY, USA; Hunter College, City University of New York, New YorkNY, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL119977"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Depression",
+        "Treatment",
+        "Emotion Regulation",
+        "Mindfulness",
+        "Generalized Anxiety Disorder"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5292405?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5292405"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2017.00098"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "3"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-02-21"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-06"
+  ],
+  "firstPublicationDate": [
+    "2017-02-06"
+  ]
+}

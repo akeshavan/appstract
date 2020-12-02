@@ -1,0 +1,640 @@
+{
+  "id": [
+    "26987315"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26987315"
+  ],
+  "pmcid": [
+    "PMC4797168"
+  ],
+  "doi": [
+    "10.1186/s12888-016-0779-8"
+  ],
+  "title": [
+    "Japan Unified Protocol Clinical Trial for Depressive and Anxiety Disorders (JUNP study): study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Ito M, Okumura Y, Horikoshi M, Kato N, Oe Y, Miyamae M, Hirabayashi N, Kanie A, Nakagawa A, Ono Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ito M"
+          ],
+          "firstName": [
+            "Masaya"
+          ],
+          "lastName": [
+            "Ito"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, Ogawa Higashi 4-1-1, Kodaira, Tokyo, 187-8511, Japan. masayait@ncnp.go.jp."
+          ]
+        },
+        {
+          "fullName": [
+            "Okumura Y"
+          ],
+          "firstName": [
+            "Yasuyuki"
+          ],
+          "lastName": [
+            "Okumura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-5851-8919",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Health Economics and Policy, Association for Health Economics Research and Social Insurance and Welfare, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Horikoshi M"
+          ],
+          "firstName": [
+            "Masaru"
+          ],
+          "lastName": [
+            "Horikoshi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, Ogawa Higashi 4-1-1, Kodaira, Tokyo, 187-8511, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kato N"
+          ],
+          "firstName": [
+            "Noriko"
+          ],
+          "lastName": [
+            "Kato"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, Ogawa Higashi 4-1-1, Kodaira, Tokyo, 187-8511, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Oe Y"
+          ],
+          "firstName": [
+            "Yuki"
+          ],
+          "lastName": [
+            "Oe"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, Ogawa Higashi 4-1-1, Kodaira, Tokyo, 187-8511, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Miyamae M"
+          ],
+          "firstName": [
+            "Mitsuhiro"
+          ],
+          "lastName": [
+            "Miyamae"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, Ogawa Higashi 4-1-1, Kodaira, Tokyo, 187-8511, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Hirabayashi N"
+          ],
+          "firstName": [
+            "Naotsugu"
+          ],
+          "lastName": [
+            "Hirabayashi"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "National Center of Neurology and Psychiatry, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kanie A"
+          ],
+          "firstName": [
+            "Ayako"
+          ],
+          "lastName": [
+            "Kanie"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "National Center of Neurology and Psychiatry, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Nakagawa A"
+          ],
+          "firstName": [
+            "Atsuo"
+          ],
+          "lastName": [
+            "Nakagawa"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Center for Clinical Research, Keio University School of Medicine, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Ono Y"
+          ],
+          "firstName": [
+            "Yutaka"
+          ],
+          "lastName": [
+            "Ono"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Center for the Development of Cognitive Behavior Therapy Training, Tokyo, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-5851-8919",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "16"
+      ],
+      "journalIssueId": [
+        "2462923"
+      ],
+      "dateOfPublication": [
+        "2016 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "71"
+  ],
+  "abstractText": [
+    "The unified protocol for the transdiagnostic treatment of emotional disorders is a promising treatment approach that could be applicable to a broad range of mental disorders, including depressive, anxiety, trauma-related, and obsessive-compulsive disorders. However, no randomized controlled trial has been conducted to verify the efficacy of the unified protocol on the heterogeneous clinical population with depressive and anxiety disorders.The trial was designed as a single-center, assessor-blinded, randomized, 20-week, parallel-group superiority study in order to compare the efficacy of the combination of unified protocol and treatment-as-usual versus waiting-list with treatment-as-usual for patients with depressive and/or anxiety disorders. The primary outcome was depression at 21 weeks, assessed by the 17-item version of the GRID-Hamilton Rating Scale for Depression. Estimated minimum sample size was 27 participants in each group. We will also examine the treatment mechanisms, treatment processes, and neuropsychological correlates.The results of this study will clarify the efficacy of the unified protocol for depressive and anxiety disorders, and the treatment mechanism, process, and neurological correlates for the effectiveness of the unified protocol. If its efficacy can be confirmed, the unified protocol may be of high clinical value for Japan, a country in which cognitive behavioral treatment has not yet been widely adopted.ClinicalTrials.gov NCT02003261 (registered on December 2, 2013)."
+  ],
+  "affiliation": [
+    "National Center for Cognitive Behavior Therapy and Research, National Center of Neurology and Psychiatry, Ogawa Higashi 4-1-1, Kodaira, Tokyo, 187-8511, Japan. masayait@ncnp.go.jp."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychotherapy, Group"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Japan"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "emotion",
+        "Randomized controlled trial",
+        "Depressive Disorder",
+        "Anxiety Disorder",
+        "Transdiagnostic",
+        "Unified Protocol"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4797168?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4797168"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-016-0779-8"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-10-19"
+  ],
+  "dateOfCreation": [
+    "2016-03-18"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "electronicPublicationDate": [
+    "2016-03-18"
+  ],
+  "firstPublicationDate": [
+    "2016-03-18"
+  ]
+}

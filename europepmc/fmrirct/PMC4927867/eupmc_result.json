@@ -1,0 +1,715 @@
+{
+  "id": [
+    "26682691"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26682691"
+  ],
+  "pmcid": [
+    "PMC4927867"
+  ],
+  "doi": [
+    "10.3233/jad-150767"
+  ],
+  "title": [
+    "Effect of Anserine/Carnosine Supplementation on Verbal Episodic Memory in Elderly People."
+  ],
+  "authorString": [
+    "Hisatsune T, Kaneko J, Kurashige H, Cao Y, Satsu H, Totsuka M, Katakura Y, Imabayashi E, Matsuda H."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Hisatsune T"
+          ],
+          "firstName": [
+            "Tatsuhiro"
+          ],
+          "lastName": [
+            "Hisatsune"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Integrated Biosciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kaneko J"
+          ],
+          "firstName": [
+            "Jun"
+          ],
+          "lastName": [
+            "Kaneko"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Integrated Biosciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Kurashige H"
+          ],
+          "firstName": [
+            "Hiroki"
+          ],
+          "lastName": [
+            "Kurashige"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Integrated Biosciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Cao Y"
+          ],
+          "firstName": [
+            "Yuan"
+          ],
+          "lastName": [
+            "Cao"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Applied Biochemistry, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Kashiwa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Satsu H"
+          ],
+          "firstName": [
+            "Hideo"
+          ],
+          "lastName": [
+            "Satsu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Department of Applied Biochemistry, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Kashiwa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Totsuka M"
+          ],
+          "firstName": [
+            "Mamoru"
+          ],
+          "lastName": [
+            "Totsuka"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Applied Biochemistry, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Kashiwa, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Katakura Y"
+          ],
+          "firstName": [
+            "Yoshinori"
+          ],
+          "lastName": [
+            "Katakura"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Graduate School of Systems Life Sciences, Kyushu University, Higashi-ku, Fukuoka, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Imabayashi E"
+          ],
+          "firstName": [
+            "Etsuko"
+          ],
+          "lastName": [
+            "Imabayashi"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Integrative Brain Imaging Center (IBIC), National Center of Neurology and Psychiatry, Tokyo, Japan."
+          ]
+        },
+        {
+          "fullName": [
+            "Matsuda H"
+          ],
+          "firstName": [
+            "Hiroshi"
+          ],
+          "lastName": [
+            "Matsuda"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "Integrative Brain Imaging Center (IBIC), National Center of Neurology and Psychiatry, Tokyo, Japan."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "50"
+      ],
+      "journalIssueId": [
+        "2490729"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of Alzheimer's disease : JAD"
+          ],
+          "ISOAbbreviation": [
+            "J. Alzheimers Dis."
+          ],
+          "medlineAbbreviation": [
+            "J Alzheimers Dis"
+          ],
+          "NLMid": [
+            "9814863"
+          ],
+          "ISSN": [
+            "1387-2877"
+          ],
+          "ESSN": [
+            "1875-8908"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "149-159"
+  ],
+  "abstractText": [
+    "Our goal in this study was to determine whether or not anserine/carnosine supplementation (ACS) is capable of preserving cognitive function of elderly people. In a double-blind randomized controlled trial, volunteers were randomly assigned to an ACS or placebo group at a 1:1 ratio. The ACS group took 1.0 g of an anserine/carnosine (3:1) formula daily for 3 months. Participants were evaluated by psychological tests before and after the 3-month supplementation period. Thirty-nine healthy elderly volunteers (60-78 years old) completed the follow-up tests. Among the tests, delayed recall verbal memory assessed by the Wechsler Memory Scale-Logical Memory showed significant preservation in the ACS group, compared to the placebo group (p = 0.0128). Blood analysis revealed a decreased secretion of inflammatory cytokines, including CCL-2 and IL-8, in the ACS group. MRI analysis using arterial spin labeling showed a suppression in the age-related decline in brain blood flow in the posterior cingulate cortex area in the ACS group, compared to the placebo group (p = 0.0248). In another randomized controlled trial, delayed recall verbal memory showed significant preservation in the ACS group, compared to the placebo group (p = 0.0202). These results collectively suggest that ACS may preserve verbal episodic memory and brain perfusion in elderly people, although further study is needed."
+  ],
+  "affiliation": [
+    "Department of Integrated Biosciences, Graduate School of Frontier Sciences, The University of Tokyo, Kashiwa, Japan."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AH"
+                  ],
+                  "qualifierName": [
+                    "anatomy & histology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carnosine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anserine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cytokines"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "BL"
+                  ],
+                  "qualifierName": [
+                    "blood"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Oligonucleotide Array Sequence Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Verbal Learning"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Aging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dietary Supplements"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Memory, Episodic"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognitive function",
+        "Alzheimer’s disease",
+        "Elderly people",
+        "Dementia",
+        "Randomized controlled trial",
+        "Inflammatory Cytokine",
+        "Verbal Memory",
+        "Perfusion Mri",
+        "Anserine And Carnosine"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Cytokines"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Carnosine"
+          ],
+          "registryNumber": [
+            "8HO6PVN24W"
+          ]
+        },
+        {
+          "name": [
+            "Anserine"
+          ],
+          "registryNumber": [
+            "HDQ4N37UGV"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4927867?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4927867"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3233/JAD-150767"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "8"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-10-07"
+  ],
+  "dateOfCreation": [
+    "2016-01-13"
+  ],
+  "dateOfRevision": [
+    "2016-12-30"
+  ],
+  "firstPublicationDate": [
+    "2016-01-01"
+  ]
+}

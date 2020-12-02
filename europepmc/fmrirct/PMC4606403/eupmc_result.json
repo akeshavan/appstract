@@ -1,0 +1,254 @@
+{
+  "id": [
+    "26495151"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26495151"
+  ],
+  "pmcid": [
+    "PMC4606403"
+  ],
+  "doi": [
+    "10.1155/2015/196303"
+  ],
+  "title": [
+    "Living with Parkinson's and the Emerging Role of Occupational Therapy."
+  ],
+  "authorString": [
+    "Jansa J, Aragon A."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Jansa J"
+          ],
+          "firstName": [
+            "Jelka"
+          ],
+          "lastName": [
+            "Jansa"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Neurologic Hospital, University Medical Centre Ljubljana, Zaloska 2, 1000 Ljubljana, Slovenia."
+          ]
+        },
+        {
+          "fullName": [
+            "Aragon A"
+          ],
+          "firstName": [
+            "Ana"
+          ],
+          "lastName": [
+            "Aragon"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Phoenix Cottage, New Buildings, Carlingcott, Bath, UK."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2263860"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Parkinson's disease"
+          ],
+          "ISOAbbreviation": [
+            "Parkinsons Dis"
+          ],
+          "medlineAbbreviation": [
+            "Parkinsons Dis"
+          ],
+          "NLMid": [
+            "101539877"
+          ],
+          "ISSN": [
+            "2090-8083"
+          ],
+          "ESSN": [
+            "2042-0080"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "196303"
+  ],
+  "abstractText": [
+    "Parkinson's disease is a chronic and increasingly complex condition, demanding multidisciplinary management. Over the last twenty years or so, alongside the growth of specialist services and healthcare teams specifically developed for people with Parkinson's, occupational therapy has grown in recognition as a treatment option, especially since evidence of its efficacy is now slowly emerging. The purpose of this work is to outline the role of occupational therapy clinical practice in the management of people living with Parkinson's disease and its emergent evidence base, combined with details of current occupational therapy philosophy and process, as applicable to occupational therapy practice for people with Parkinson's. The Canadian Practice Process Framework is used to structure this overview and was selected because it is a well-recognized, evidence-based tool used by occupational therapists and encompasses the core concepts of human occupation and person-centred practice. The framework employed allows the flexibility to reflect the pragmatic occupational therapy intervention process and so enables the illustration of the individually tailored approach required to accommodate to the complex pathology and personal, domestic, and social impacts, affecting the functioning of Parkinson's disease patients on a daily basis."
+  ],
+  "affiliation": [
+    "Neurologic Hospital, University Medical Centre Ljubljana, Zaloska 2, 1000 Ljubljana, Slovenia."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4606403?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4606403"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/196303"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-10-23"
+  ],
+  "dateOfCreation": [
+    "2015-10-23"
+  ],
+  "dateOfRevision": [
+    "2015-10-26"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-01"
+  ],
+  "firstPublicationDate": [
+    "2015-10-01"
+  ]
+}

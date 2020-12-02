@@ -1,0 +1,733 @@
+{
+  "id": [
+    "24041245"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24041245"
+  ],
+  "pmcid": [
+    "PMC3848656"
+  ],
+  "doi": [
+    "10.1186/1471-2431-13-144"
+  ],
+  "title": [
+    "Preventing academic difficulties in preterm children: a randomised controlled trial of an adaptive working memory training intervention - IMPRINT study."
+  ],
+  "authorString": [
+    "Pascoe L, Roberts G, Doyle LW, Lee KJ, Thompson DK, Seal ML, Josev EK, Nosarti C, Gathercole S, Anderson PJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pascoe L"
+          ],
+          "firstName": [
+            "Leona"
+          ],
+          "lastName": [
+            "Pascoe"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Murdoch Childrens Research Institute, Royal Children's Hospital, Flemington Road, Parkville, Victoria, Australia. peter.anderson@mcri.edu.au."
+          ]
+        },
+        {
+          "fullName": [
+            "Roberts G"
+          ],
+          "firstName": [
+            "Gehan"
+          ],
+          "lastName": [
+            "Roberts"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2151-1630",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Doyle LW"
+          ],
+          "firstName": [
+            "Lex W"
+          ],
+          "lastName": [
+            "Doyle"
+          ],
+          "initials": [
+            "LW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7667-7312",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lee KJ"
+          ],
+          "firstName": [
+            "Katherine J"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "KJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Thompson DK"
+          ],
+          "firstName": [
+            "Deanne K"
+          ],
+          "lastName": [
+            "Thompson"
+          ],
+          "initials": [
+            "DK"
+          ]
+        },
+        {
+          "fullName": [
+            "Seal ML"
+          ],
+          "firstName": [
+            "Marc L"
+          ],
+          "lastName": [
+            "Seal"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8396-140X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Josev EK"
+          ],
+          "firstName": [
+            "Elisha K"
+          ],
+          "lastName": [
+            "Josev"
+          ],
+          "initials": [
+            "EK"
+          ]
+        },
+        {
+          "fullName": [
+            "Nosarti C"
+          ],
+          "firstName": [
+            "Chiara"
+          ],
+          "lastName": [
+            "Nosarti"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6305-9710",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Gathercole S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Gathercole"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Anderson PJ"
+          ],
+          "firstName": [
+            "Peter J"
+          ],
+          "lastName": [
+            "Anderson"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7430-868X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2151-1630",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-6305-9710",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7430-868X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7667-7312",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8396-140X",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2000652"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC pediatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Pediatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Pediatr"
+          ],
+          "NLMid": [
+            "100967804"
+          ],
+          "ISSN": [
+            "1471-2431"
+          ],
+          "ESSN": [
+            "1471-2431"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "144"
+  ],
+  "abstractText": [
+    "BACKGROUND: Very preterm children exhibit difficulties in working memory, a key cognitive ability vital to learning information and the development of academic skills. Previous research suggests that an adaptive working memory training intervention (Cogmed) may improve working memory and other cognitive and behavioural domains, although further randomised controlled trials employing long-term outcomes are needed, and with populations at risk for working memory deficits, such as children born preterm.In a cohort of extremely preterm (<28 weeks' gestation)/extremely low birthweight (<1000 g) 7-year-olds, we will assess the effectiveness of Cogmed in improving academic functioning 2 years' post-intervention. Secondary objectives are to assess the effectiveness of Cogmed in improving working memory and attention 2 weeks', 12 months' and 24 months' post-intervention, and to investigate training related neuroplasticity in working memory neural networks 2 weeks' post-intervention. METHODS/DESIGN: This double-blind, placebo-controlled, randomised controlled trial aims to recruit 126 extremely preterm/extremely low birthweight 7-year-old children. Children attending mainstream school without major intellectual, sensory or physical impairments will be eligible. Participating children will undergo an extensive baseline cognitive assessment before being randomised to either an adaptive or placebo (non-adaptive) version of Cogmed. Cogmed is a computerised working memory training program consisting of 25 sessions completed over a 5 to 7 week period. Each training session takes approximately 35 minutes and will be completed in the child's home. Structural, diffusion and functional Magnetic Resonance Imaging, which is optional for participants, will be completed prior to and 2 weeks following the training period. Follow-up assessments focusing on academic skills (primary outcome), working memory and attention (secondary outcomes) will be conducted at 2 weeks', 12 months' and 24 months' post-intervention. DISCUSSION: To our knowledge, this study will be the first randomised controlled trial to (a) assess the effectiveness of Cogmed in school-aged extremely preterm/extremely low birthweight children, while incorporating advanced imaging techniques to investigate neural changes associated with adaptive working memory training, and (b) employ long-term follow-up to assess the potential benefit of improved working memory on academic functioning. If effective, Cogmed would serve as a valuable, available intervention for improving developmental outcomes for this population. TRIAL REGISTRATION: Australian New Zealand Clinical Trials Registry ACTRN12612000124831."
+  ],
+  "affiliation": [
+    "Murdoch Childrens Research Institute, Royal Children's Hospital, Flemington Road, Parkville, Victoria, Australia. peter.anderson@mcri.edu.au."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RH"
+                  ],
+                  "qualifierName": [
+                    "rehabilitation"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cohort Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intervention Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Program Evaluation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Learning"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory, Short-Term"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Attention"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuronal Plasticity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Newborn"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Extremely Low Birth Weight"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Infant, Extremely Premature"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3848656?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3848656"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24041245/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24041245/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2431-13-144"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-07-31"
+  ],
+  "dateOfCreation": [
+    "2013-11-15"
+  ],
+  "electronicPublicationDate": [
+    "2013-09-16"
+  ],
+  "firstPublicationDate": [
+    "2013-09-16"
+  ]
+}

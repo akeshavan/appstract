@@ -1,0 +1,700 @@
+{
+  "id": [
+    "28701205"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28701205"
+  ],
+  "pmcid": [
+    "PMC5508683"
+  ],
+  "doi": [
+    "10.1186/s13063-017-2080-7"
+  ],
+  "title": [
+    "Art therapy and music reminiscence activity in the prevention of cognitive decline: study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Mahendran R, Rawtaer I, Fam J, Wong J, Kumar AP, Gandhi M, Jing KX, Feng L, Kua EH."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Mahendran R"
+          ],
+          "firstName": [
+            "Rathi"
+          ],
+          "lastName": [
+            "Mahendran"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-4213-7163",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore. medrm@nus.edu.sg."
+          ]
+        },
+        {
+          "fullName": [
+            "Rawtaer I"
+          ],
+          "firstName": [
+            "Iris"
+          ],
+          "lastName": [
+            "Rawtaer"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8214-6454",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Fam J"
+          ],
+          "firstName": [
+            "Johnson"
+          ],
+          "lastName": [
+            "Fam"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Wong J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Wong"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Kumar AP"
+          ],
+          "firstName": [
+            "Alan Prem"
+          ],
+          "lastName": [
+            "Kumar"
+          ],
+          "initials": [
+            "AP"
+          ],
+          "affiliation": [
+            "Cancer Science Institute of Singapore, National University of Singapore, 14 Medical Drive, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Gandhi M"
+          ],
+          "firstName": [
+            "Mihir"
+          ],
+          "lastName": [
+            "Gandhi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Biostatistics, Singapore Clinical Research Institute, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Jing KX"
+          ],
+          "firstName": [
+            "Kenny Xu"
+          ],
+          "lastName": [
+            "Jing"
+          ],
+          "initials": [
+            "KX"
+          ],
+          "affiliation": [
+            "Department of Biostatistics, Singapore Clinical Research Institute, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Feng L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Feng"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4414-9910",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Kua EH"
+          ],
+          "firstName": [
+            "Ee Heok"
+          ],
+          "lastName": [
+            "Kua"
+          ],
+          "initials": [
+            "EH"
+          ],
+          "affiliation": [
+            "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-8214-6454",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-4414-9910",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-4213-7163",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2573165"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "324"
+  ],
+  "abstractText": [
+    "Attention has shifted to the use of non-pharmacological interventions to prevent cognitive decline as a preventive strategy, as well as for those at risk and those with mild cognitive impairment. Early introduction of psycho-social interventions can address cognitive decline and significantly impact quality of life and the wellbeing of elderly individuals. This pilot study explores the feasibility of using art therapy and music reminiscence activity to improve the cognition of community living elderly with mild cognitive impairment.This open-label, interventional study involves a parallel randomized controlled trial design with three arms (two intervention arms and a control group) over a nine-month period. Participants will be community-living elderly individuals aged 60-85 years, both genders, who meet predefined inclusion and exclusion criteria. In the initial three months, interventions will be provided weekly and for the remaining six months fortnightly. A sample size of 90 participants is targeted based on expected neuropsychological test performance, a primary outcome measure, and drop-out rates. The randomization procedure will be carried out via a web-based randomization system. Interventions will be provided by trained staff with a control group not receiving any intervention but continuing life as usual. Assessments will be done at baseline, three months, and nine months, and include neuroimaging to measure cerebral changes and neuropsychological tests to measure for changes in cognition. Secondary outcome measures will include mood changes in anxiety and depression and telomere lengths. Statistical analysis will be undertaken by statisticians; all efficacy analysis will be carried out on an intention-to-treat basis. Primary and secondary outcomes will be modeled using the linear mixed model for repeated measurements and further analysis may be undertaken to adjust for potential confounders.This will be the first study to compare the effectiveness of art therapy and music reminiscence activity in a randomized controlled trial. We expect that the trial will provide useful evidence for developing psychosocial interventions for the elderly with mild cognitive impairment.The study was registered on 7 July 2016 at Clinical Trials.gov, a service of the US National Institute of Health ( NCT02854085 ), retrospectively."
+  ],
+  "affiliation": [
+    "Department of Psychological Medicine, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Republic of Singapore. medrm@nus.edu.sg."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Art Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Feasibility Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Emotions"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Affect"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Memory"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuropsychological Tests"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Age Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Quality of Life"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged, 80 and over"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Singapore"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Intention to Treat Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Cognitive Aging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Randomized controlled trial",
+        "Art Therapy",
+        "Mild Cognitive Impairment",
+        "Music Reminiscence Activity"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5508683?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5508683"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13063-017-2080-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2018-04-24"
+  ],
+  "dateOfCreation": [
+    "2017-07-14"
+  ],
+  "dateOfRevision": [
+    "2018-04-24"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-12"
+  ],
+  "firstPublicationDate": [
+    "2017-07-12"
+  ]
+}

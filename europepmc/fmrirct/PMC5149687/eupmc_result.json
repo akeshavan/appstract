@@ -1,0 +1,516 @@
+{
+  "id": [
+    "28003850"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28003850"
+  ],
+  "pmcid": [
+    "PMC5149687"
+  ],
+  "doi": [
+    "10.1155/2016/5392954"
+  ],
+  "title": [
+    "Cerebral Targeting of Acupuncture at Combined Acupoints in Treating Essential Hypertension: An Rs-fMRI Study and Curative Effect Evidence."
+  ],
+  "authorString": [
+    "Wang Y, Zheng Y, Qu S, Zhang J, Zhong Z, Zhang J, Huang H, Li M, Xu Y, Chen J, Wang L, Steiner GZ, Tang C, Huang Y."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Y"
+          ],
+          "firstName": [
+            "Yanjie"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China; Weinan Vocational and Technical College, Weinan, Shaanxi 714026, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zheng Y"
+          ],
+          "firstName": [
+            "Yu"
+          ],
+          "lastName": [
+            "Zheng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qu S"
+          ],
+          "firstName": [
+            "Shanshan"
+          ],
+          "lastName": [
+            "Qu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jiping"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhong Z"
+          ],
+          "firstName": [
+            "Zheng"
+          ],
+          "lastName": [
+            "Zhong"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang J"
+          ],
+          "firstName": [
+            "Jialing"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0900-4617",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang H"
+          ],
+          "firstName": [
+            "Huanlin"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li M"
+          ],
+          "firstName": [
+            "Miaokeng"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Xu Y"
+          ],
+          "firstName": [
+            "Yiwen"
+          ],
+          "lastName": [
+            "Xu"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Junqi"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "The Third Affiliated Hospital of Southern Medical University, Guangzhou, Guangdong Province 510630, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang L"
+          ],
+          "firstName": [
+            "Lei"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Weinan Orthopaedics Hospital, Weinan, Shaanxi 714000, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Steiner GZ"
+          ],
+          "firstName": [
+            "Genevieve Zara"
+          ],
+          "lastName": [
+            "Steiner"
+          ],
+          "initials": [
+            "GZ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8708-6104",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "The National Institute of Complementary Medicine, School of Science and Health, Western Sydney University, Penrith, NSW 2751, Australia."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang C"
+          ],
+          "firstName": [
+            "Chunzhi"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3127-578X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Clinical School of Acupuncture and Rehabilitation, Guangzhou University of Chinese Medicine, Guangzhou, Guangdong Province 510405, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Huang Y"
+          ],
+          "firstName": [
+            "Yong"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2652-8586",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0900-4617",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8708-6104",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-3127-578X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2652-8586",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2016"
+      ],
+      "journalIssueId": [
+        "2377806"
+      ],
+      "dateOfPublication": [
+        "2016"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Evidence-based Complementary and Alternative Medicine"
+          ],
+          "ISOAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "medlineAbbreviation": [
+            "Evid Based Complement Alternat Med"
+          ],
+          "NLMid": [
+            "101215021"
+          ],
+          "ISSN": [
+            "1741-427X"
+          ],
+          "ESSN": [
+            "1741-4288"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "5392954"
+  ],
+  "abstractText": [
+    "The study attempted to explore that the synergistic effect of acupoints combination is not a simple superposition of single acupoint's effect by comparing and analyzing the changes of blood pressure (BP), SF-36, and brain regions after acupuncture treatment. 47 patients were randomly divided into LR3+KI3 group, LR3 group, and KI3 group. Subjects received Rs-fMRI scan, BP measurement, and SF-36 questionnaires before and after treatment and short-term acupuncture treatment. After treatment, there were no significant differences in BP and SF-36 among 3 groups, compared to the case before treatment, SBP of 3 groups decreased, and DBP significantly decreased while vitality and mental health significantly increased in LR3+KI3 group. Both number and scopes of changes of brain regions in LR3+KI3 group were the largest, which mainly included BAs 3, 4, 8, 19, 21, 24, 32, 44, and 45. In conclusion, acupuncture at LR3+KI3 may auxiliarily reduce BP and improve the vitality and mental health of patients, and the changes of brain regions were related to somatesthesia, movement, vision, audition, emotion and mood, language, memory, etc. BAs 4, 9, 10, 24, 31, 32, and 46 may be the targeting brain areas of acupuncture in assisting hypotension. It is suggested that acupoints combination of LR3+KI3 maybe generates a synergistic effect, and it is not simple sum of single acupoint effect."
+  ],
+  "affiliation": [
+    "School of Traditional Chinese Medicine, Southern Medical University, Guangzhou, Guangdong Province 510515, China; Weinan Vocational and Technical College, Weinan, Shaanxi 714026, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5149687?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5149687"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2016/5392954"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-12-22"
+  ],
+  "dateOfRevision": [
+    "2017-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-28"
+  ],
+  "firstPublicationDate": [
+    "2016-11-28"
+  ]
+}

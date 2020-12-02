@@ -1,0 +1,761 @@
+{
+  "id": [
+    "25208824"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25208824"
+  ],
+  "pmcid": [
+    "PMC4168122"
+  ],
+  "doi": [
+    "10.1186/1745-6215-15-356"
+  ],
+  "title": [
+    "Deep brain stimulation of the basolateral amygdala for treatment-refractory combat post-traumatic stress disorder (PTSD): study protocol for a pilot randomized controlled trial with blinded, staggered onset of stimulation."
+  ],
+  "authorString": [
+    "Koek RJ, Langevin JP, Krahl SE, Kosoyan HJ, Schwartz HN, Chen JW, Melrose R, Mandelkern MJ, Sultzer D."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Koek RJ"
+          ],
+          "firstName": [
+            "Ralph J"
+          ],
+          "lastName": [
+            "Koek"
+          ],
+          "initials": [
+            "RJ"
+          ],
+          "affiliation": [
+            "Psychiatry Service, VA Greater Los Angeles Healthcare System (VAGLAHS), 11301 Wilshire Blvd, Los Angeles, CA 90073, USA. ralph.koek@va.gov."
+          ]
+        },
+        {
+          "fullName": [
+            "Langevin JP"
+          ],
+          "firstName": [
+            "Jean-Philippe"
+          ],
+          "lastName": [
+            "Langevin"
+          ],
+          "initials": [
+            "JP"
+          ]
+        },
+        {
+          "fullName": [
+            "Krahl SE"
+          ],
+          "firstName": [
+            "Scott E"
+          ],
+          "lastName": [
+            "Krahl"
+          ],
+          "initials": [
+            "SE"
+          ]
+        },
+        {
+          "fullName": [
+            "Kosoyan HJ"
+          ],
+          "firstName": [
+            "Hovsep J"
+          ],
+          "lastName": [
+            "Kosoyan"
+          ],
+          "initials": [
+            "HJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Schwartz HN"
+          ],
+          "firstName": [
+            "Holly N"
+          ],
+          "lastName": [
+            "Schwartz"
+          ],
+          "initials": [
+            "HN"
+          ]
+        },
+        {
+          "fullName": [
+            "Chen JW"
+          ],
+          "firstName": [
+            "James W Y"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "JW"
+          ]
+        },
+        {
+          "fullName": [
+            "Melrose R"
+          ],
+          "firstName": [
+            "Rebecca"
+          ],
+          "lastName": [
+            "Melrose"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Mandelkern MJ"
+          ],
+          "firstName": [
+            "Mark J"
+          ],
+          "lastName": [
+            "Mandelkern"
+          ],
+          "initials": [
+            "MJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Sultzer D"
+          ],
+          "firstName": [
+            "David"
+          ],
+          "lastName": [
+            "Sultzer"
+          ],
+          "initials": [
+            "D"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2118483"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Trials"
+          ],
+          "ISOAbbreviation": [
+            "Trials"
+          ],
+          "medlineAbbreviation": [
+            "Trials"
+          ],
+          "NLMid": [
+            "101263253"
+          ],
+          "ISSN": [
+            "1745-6215"
+          ],
+          "ESSN": [
+            "1745-6215"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "356"
+  ],
+  "abstractText": [
+    "BACKGROUND: Combat post-traumatic stress disorder (PTSD) involves significant suffering, impairments in social and occupational functioning, substance use and medical comorbidity, and increased mortality from suicide and other causes. Many veterans continue to suffer despite current treatments. Deep brain stimulation (DBS) has shown promise in refractory movement disorders, depression and obsessive-compulsive disorder, with deep brain targets chosen by integration of clinical and neuroimaging literature. The basolateral amygdala (BLn) is an optimal target for high-frequency DBS in PTSD based on neurocircuitry findings from a variety of perspectives. DBS of the BLn was validated in a rat model of PTSD by our group, and limited data from humans support the potential safety and effectiveness of BLn DBS. METHODS/DESIGN: We describe the protocol design for a first-ever Phase I pilot study of bilateral BLn high-frequency DBS for six severely ill, functionally impaired combat veterans with PTSD refractory to conventional treatments. After implantation, patients are monitored for a month with stimulators off. An electroencephalographic (EEG) telemetry session will test safety of stimulation before randomization to staggered-onset, double-blind sham versus active stimulation for two months. Thereafter, patients will undergo an open-label stimulation for a total of 24 months. Primary efficacy outcome is a 30% decrease in the Clinician Administered PTSD Scale (CAPS) total score. Safety outcomes include extensive assessments of psychiatric and neurologic symptoms, psychosocial function, amygdala-specific and general neuropsychological functions, and EEG changes. The protocol requires the veteran to have a cohabiting significant other who is willing to assist in monitoring safety and effect on social functioning. At baseline and after approximately one year of stimulation, trauma script-provoked 18FDG PET metabolic changes in limbic circuitry will also be evaluated. DISCUSSION: While the rationale for studying DBS for PTSD is ethically and scientifically justified, the importance of the amygdaloid complex and its connections for a myriad of emotional, perceptual, behavioral, and vegetative functions requires a complex trial design in terms of outcome measures. Knowledge generated from this pilot trial can be used to design future studies to determine the potential of DBS to benefit both veterans and nonveterans suffering from treatment-refractory PTSD. TRIAL REGISTRATION: PCC121657, 19 March 2014."
+  ],
+  "affiliation": [
+    "Psychiatry Service, VA Greater Los Angeles Healthcare System (VAGLAHS), 11301 Wilshire Blvd, Los Angeles, CA 90073, USA. ralph.koek@va.gov."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Clinical Trial, Phase I",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluorodeoxyglucose F18"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DU"
+                  ],
+                  "qualifierName": [
+                    "diagnostic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Radiopharmaceuticals"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DU"
+                  ],
+                  "qualifierName": [
+                    "diagnostic use"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Positron-Emission Tomography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Electroencephalography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Clinical Protocols"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Deep Brain Stimulation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Severity of Illness Index"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pilot Projects"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Combat Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Stress Disorders, Post-Traumatic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Veterans"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Los Angeles"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Basolateral Nuclear Complex"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "RI"
+                  ],
+                  "qualifierName": [
+                    "radionuclide imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Radiopharmaceuticals"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Fluorodeoxyglucose F18"
+          ],
+          "registryNumber": [
+            "0Z5B2CJX4D"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4168122?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4168122"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1745-6215-15-356"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "14"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-05-28"
+  ],
+  "dateOfCreation": [
+    "2014-09-17"
+  ],
+  "electronicPublicationDate": [
+    "2014-09-10"
+  ],
+  "firstPublicationDate": [
+    "2014-09-10"
+  ]
+}

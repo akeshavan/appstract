@@ -1,0 +1,324 @@
+{
+  "id": [
+    "25309825"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25309825"
+  ],
+  "pmcid": [
+    "PMC4193292"
+  ],
+  "doi": [
+    "10.4172/2167-0846.s3-001"
+  ],
+  "title": [
+    "Transcranial Direct Current Stimulation in Neuropathic Pain."
+  ],
+  "authorString": [
+    "Ngernyam N, Jensen MP, Auvichayapat N, Punjaruk W, Auvichayapat P."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ngernyam N"
+          ],
+          "firstName": [
+            "Niran"
+          ],
+          "lastName": [
+            "Ngernyam"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Physiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Jensen MP"
+          ],
+          "firstName": [
+            "Mark P"
+          ],
+          "lastName": [
+            "Jensen"
+          ],
+          "initials": [
+            "MP"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, University of Washington, Washington, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Auvichayapat N"
+          ],
+          "firstName": [
+            "Narong"
+          ],
+          "lastName": [
+            "Auvichayapat"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "Department of Pediatrics, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Punjaruk W"
+          ],
+          "firstName": [
+            "Wiyada"
+          ],
+          "lastName": [
+            "Punjaruk"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Department of Physiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand."
+          ]
+        },
+        {
+          "fullName": [
+            "Auvichayapat P"
+          ],
+          "firstName": [
+            "Paradee"
+          ],
+          "lastName": [
+            "Auvichayapat"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Physiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "Suppl 3"
+      ],
+      "journalIssueId": [
+        "2211264"
+      ],
+      "dateOfPublication": [
+        "2013 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of pain & relief"
+          ],
+          "ISOAbbreviation": [
+            "J Pain Relief"
+          ],
+          "medlineAbbreviation": [
+            "J Pain Relief"
+          ],
+          "NLMid": [
+            "101610026"
+          ],
+          "ESSN": [
+            "2167-0846"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "abstractText": [
+    "Neuropathic pain (NP) is one of the most common problems contributing to suffering and disability worldwide. Unfortunately, NP is also largely refractory to treatments, with a large number of patients continuing to report significant pain even when they are receiving recommended medications and physical therapy. Thus, there remains an urgent need for additional effective treatments. In recent years, nonpharmacologic brain stimulation techniques have emerged as potential therapeutic options. Many of these techniques and procedures - such as transcranial magnetic stimulation, spinal cord stimulation, deep brain stimulation, and motor cortical stimulation - have very limited availability, particularly in developing countries. Transcranial direct current stimulation (tDCS) is a noninvasive brain stimulation procedure that has shown promise for effectively treating NP, and also has the potential to be widely available. This review describes tDCS and the tDCS procedures and principles that may be helpful for treating NP. The findings indicate that the analgesic benefits of tDCS can occur both during stimulation and beyond the time of stimulation. The mechanisms of cortical modulation by tDCS may involve various activities in neuronal networks such as increasing glutamine and glutamate under the stimulating electrode, effects on the μ-opioid receptor, and restoration of the defective intracortical inhibition. Additional research is needed to determine (1) the factors that may moderate the efficacy of tDCS, (2) the dose (e.g. number and frequency of treatment sessions) that results in the largest benefits and (3) the long-term effects of tDCS treatment."
+  ],
+  "affiliation": [
+    "Department of Physiology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R21 HD058049"
+          ],
+          "agency": [
+            "NICHD NIH HHS"
+          ],
+          "acronym": [
+            "HD"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Neuropathic pain",
+        "Transcranial Direct Current Stimulation",
+        "Noninvasive Brain Stimulation"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4193292?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4193292"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.4172/2167-0846.S3-001"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "Y"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "Y"
+  ],
+  "manuscriptId": [
+    "NIHMS473986"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2014-10-13"
+  ],
+  "dateOfRevision": [
+    "2016-10-25"
+  ],
+  "firstPublicationDate": [
+    "2013-04-01"
+  ]
+}

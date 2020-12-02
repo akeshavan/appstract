@@ -1,0 +1,1169 @@
+{
+  "id": [
+    "29484149"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29484149"
+  ],
+  "pmcid": [
+    "PMC5824534"
+  ],
+  "doi": [
+    "10.1186/s13229-018-0190-z"
+  ],
+  "title": [
+    "Randomised controlled trial of simvastatin treatment for autism in young children with neurofibromatosis type 1 (SANTA)."
+  ],
+  "authorString": [
+    "Stivaros S, Garg S, Tziraki M, Cai Y, Thomas O, Mellor J, Morris AA, Jim C, Szumanska-Ryt K, Parkes LM, Haroon HA, Montaldi D, Webb N, Keane J, Castellanos FX, Silva AJ, Huson S, Williams S, Gareth Evans D, Emsley R, Green J, SANTA Consortium."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Stivaros S"
+          ],
+          "firstName": [
+            "Stavros"
+          ],
+          "lastName": [
+            "Stivaros"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "1Academic Unit of Paediatric Radiology, Royal Manchester Children's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Garg S"
+          ],
+          "firstName": [
+            "Shruti"
+          ],
+          "lastName": [
+            "Garg"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "3Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester University NHS Foundation Trust, Greater Manchester Mental Health NHS Foundation Trust, Room 3.311, Jean McFarlane Building, Oxford Road, Manchester, M13 9PL UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Tziraki M"
+          ],
+          "firstName": [
+            "Maria"
+          ],
+          "lastName": [
+            "Tziraki"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "4Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Cai Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Cai"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Departments of Neurobiology, Psychiatry and Biobehavioral Sciences and Psychology, Integrative Center for Learning and Memory, Brain Research Institute, Brain Research Institute, University of California, California, LA 90095 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Thomas O"
+          ],
+          "firstName": [
+            "Owen"
+          ],
+          "lastName": [
+            "Thomas"
+          ],
+          "initials": [
+            "O"
+          ],
+          "affiliation": [
+            "6Academic Unit of Radiology, Salford Royal Foundation NHS Trust, Manchester Academic Health Sciences Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Mellor J"
+          ],
+          "firstName": [
+            "Joseph"
+          ],
+          "lastName": [
+            "Mellor"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "7Computer Science, University of Manchester, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Morris AA"
+          ],
+          "firstName": [
+            "Andrew A"
+          ],
+          "lastName": [
+            "Morris"
+          ],
+          "initials": [
+            "AA"
+          ],
+          "affiliation": [
+            "8Manchester University NHS Foundation Trust, Manchester Academic Health Sciences Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Jim C"
+          ],
+          "firstName": [
+            "Carly"
+          ],
+          "lastName": [
+            "Jim"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "9Manchester Metropolitan University, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Szumanska-Ryt K"
+          ],
+          "firstName": [
+            "Karolina"
+          ],
+          "lastName": [
+            "Szumanska-Ryt"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "4Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Parkes LM"
+          ],
+          "firstName": [
+            "Laura M"
+          ],
+          "lastName": [
+            "Parkes"
+          ],
+          "initials": [
+            "LM"
+          ],
+          "affiliation": [
+            "4Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Haroon HA"
+          ],
+          "firstName": [
+            "Hamied A"
+          ],
+          "lastName": [
+            "Haroon"
+          ],
+          "initials": [
+            "HA"
+          ],
+          "affiliation": [
+            "4Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Montaldi D"
+          ],
+          "firstName": [
+            "Daniela"
+          ],
+          "lastName": [
+            "Montaldi"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "4Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Webb N"
+          ],
+          "firstName": [
+            "Nicholas"
+          ],
+          "lastName": [
+            "Webb"
+          ],
+          "initials": [
+            "N"
+          ],
+          "affiliation": [
+            "10Department of Paediatric Nephrology, Royal Manchester Children's Hospital, Manchester University NHS Foundation Trust, Academic Health Sciences Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Keane J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Keane"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "7Computer Science, University of Manchester, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Castellanos FX"
+          ],
+          "firstName": [
+            "Francisco X"
+          ],
+          "lastName": [
+            "Castellanos"
+          ],
+          "initials": [
+            "FX"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9192-9437",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "11Hassenfeld Children's Hospital at NYU Langone, Nathan S. Kline Institute for Psychiatric Research, New York, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Silva AJ"
+          ],
+          "firstName": [
+            "Alcino J"
+          ],
+          "lastName": [
+            "Silva"
+          ],
+          "initials": [
+            "AJ"
+          ],
+          "affiliation": [
+            "Departments of Neurobiology, Psychiatry and Biobehavioral Sciences and Psychology, Integrative Center for Learning and Memory, Brain Research Institute, Brain Research Institute, University of California, California, LA 90095 USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Huson S"
+          ],
+          "firstName": [
+            "Sue"
+          ],
+          "lastName": [
+            "Huson"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "12Manchester Centre for Genomic Medicine, St Mary's Hospital, Manchester University NHS Foundation Trust, Academic Health Sciences Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Williams S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Williams"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2004-2526",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "2Division of Informatics, Imaging and Data Sciences, School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Gareth Evans D"
+          ],
+          "firstName": [
+            "D"
+          ],
+          "lastName": [
+            "Gareth Evans"
+          ],
+          "initials": [
+            "D"
+          ],
+          "affiliation": [
+            "12Manchester Centre for Genomic Medicine, St Mary's Hospital, Manchester University NHS Foundation Trust, Academic Health Sciences Centre, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Emsley R"
+          ],
+          "firstName": [
+            "Richard"
+          ],
+          "lastName": [
+            "Emsley"
+          ],
+          "initials": [
+            "R"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-1218-675X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "13Centre for Biostatistics, School of Health Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Green J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Green"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0143-181X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "3Division of Neuroscience and Experimental Psychology, School of Biological Sciences, Faculty of Biology, Medicine and Health, University of Manchester, Manchester Academic Health Science Centre, Manchester University NHS Foundation Trust, Greater Manchester Mental Health NHS Foundation Trust, Room 3.311, Jean McFarlane Building, Oxford Road, Manchester, M13 9PL UK."
+          ]
+        },
+        {
+          "collectiveName": [
+            "SANTA Consortium"
+          ]
+        }
+      ]
+    }
+  ],
+  "investigatorList": [
+    {
+      "investigator": [
+        {
+          "fullName": [
+            "Campbell S"
+          ],
+          "firstName": [
+            "Suzanne"
+          ],
+          "lastName": [
+            "Campbell"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Ellicott R"
+          ],
+          "firstName": [
+            "Ruth"
+          ],
+          "lastName": [
+            "Ellicott"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Harrison E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Harrison"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Kapasi A"
+          ],
+          "firstName": [
+            "Akhtar"
+          ],
+          "lastName": [
+            "Kapasi"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Mercatali G"
+          ],
+          "firstName": [
+            "Giangiacomo"
+          ],
+          "lastName": [
+            "Mercatali"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "Moon R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Moon"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Tobin H"
+          ],
+          "firstName": [
+            "Hannah"
+          ],
+          "lastName": [
+            "Tobin"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Velandy S"
+          ],
+          "firstName": [
+            "Srilaxmi"
+          ],
+          "lastName": [
+            "Velandy"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Wagstaffe R"
+          ],
+          "firstName": [
+            "Rose"
+          ],
+          "lastName": [
+            "Wagstaffe"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Burkitt-Wright E"
+          ],
+          "firstName": [
+            "Emma"
+          ],
+          "lastName": [
+            "Burkitt-Wright"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Vassallo G"
+          ],
+          "firstName": [
+            "Grace"
+          ],
+          "lastName": [
+            "Vassallo"
+          ],
+          "initials": [
+            "G"
+          ]
+        },
+        {
+          "fullName": [
+            "West S"
+          ],
+          "firstName": [
+            "Siobhan"
+          ],
+          "lastName": [
+            "West"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Eelloo J"
+          ],
+          "firstName": [
+            "Judith"
+          ],
+          "lastName": [
+            "Eelloo"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Hupton E"
+          ],
+          "firstName": [
+            "Eileen"
+          ],
+          "lastName": [
+            "Hupton"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Patel S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Patel"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Howard E"
+          ],
+          "firstName": [
+            "Elizabeth"
+          ],
+          "lastName": [
+            "Howard"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Tricker K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Tricker"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis L"
+          ],
+          "firstName": [
+            "Lauren"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Dobbie A"
+          ],
+          "firstName": [
+            "Angus"
+          ],
+          "lastName": [
+            "Dobbie"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Drimer R"
+          ],
+          "firstName": [
+            "Ruth"
+          ],
+          "lastName": [
+            "Drimer"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Sharif SM"
+          ],
+          "firstName": [
+            "Saghira Malik"
+          ],
+          "lastName": [
+            "Sharif"
+          ],
+          "initials": [
+            "SM"
+          ]
+        },
+        {
+          "fullName": [
+            "Bassi Z"
+          ],
+          "firstName": [
+            "Zahabiyah"
+          ],
+          "lastName": [
+            "Bassi"
+          ],
+          "initials": [
+            "Z"
+          ]
+        },
+        {
+          "fullName": [
+            "Acharya J"
+          ],
+          "firstName": [
+            "Jamuna"
+          ],
+          "lastName": [
+            "Acharya"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Lam W"
+          ],
+          "firstName": [
+            "Wayne"
+          ],
+          "lastName": [
+            "Lam"
+          ],
+          "initials": [
+            "W"
+          ]
+        },
+        {
+          "fullName": [
+            "Harrower N"
+          ],
+          "firstName": [
+            "Neil"
+          ],
+          "lastName": [
+            "Harrower"
+          ],
+          "initials": [
+            "N"
+          ]
+        },
+        {
+          "fullName": [
+            "Quarrell O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Quarrell"
+          ],
+          "initials": [
+            "O"
+          ]
+        },
+        {
+          "fullName": [
+            "Bradbury A"
+          ],
+          "firstName": [
+            "Alyson"
+          ],
+          "lastName": [
+            "Bradbury"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Splitt M"
+          ],
+          "firstName": [
+            "Miranda"
+          ],
+          "lastName": [
+            "Splitt"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Musson S"
+          ],
+          "firstName": [
+            "Susan"
+          ],
+          "lastName": [
+            "Musson"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Jones R"
+          ],
+          "firstName": [
+            "Rachel"
+          ],
+          "lastName": [
+            "Jones"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Bethell H"
+          ],
+          "firstName": [
+            "Helen"
+          ],
+          "lastName": [
+            "Bethell"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Prem C"
+          ],
+          "firstName": [
+            "Catherine"
+          ],
+          "lastName": [
+            "Prem"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "Horridge K"
+          ],
+          "firstName": [
+            "Karen"
+          ],
+          "lastName": [
+            "Horridge"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Steiger C"
+          ],
+          "firstName": [
+            "Christine"
+          ],
+          "lastName": [
+            "Steiger"
+          ],
+          "initials": [
+            "C"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0143-181X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2004-2526",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-1218-675X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-9192-9437",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2639743"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Molecular autism"
+          ],
+          "ISOAbbreviation": [
+            "Mol Autism"
+          ],
+          "medlineAbbreviation": [
+            "Mol Autism"
+          ],
+          "NLMid": [
+            "101534222"
+          ],
+          "ISSN": [
+            "2040-2392"
+          ],
+          "ESSN": [
+            "2040-2392"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "12"
+  ],
+  "abstractText": [
+    "Neurofibromatosis 1 (NF1) is a monogenic model for syndromic autism. Statins rescue the social and cognitive phenotype in animal knockout models, but translational trials with subjects > 8 years using cognition/behaviour outcomes have shown mixed results. This trial breaks new ground by studying statin effects for the first time in younger children with NF1 and co-morbid autism and by using multiparametric imaging outcomes.A single-site triple-blind RCT of simvastatin vs. placebo was done. Assessment (baseline and 12-week endpoint) included peripheral MAPK assay, awake magnetic resonance imaging spectroscopy (MRS; GABA and glutamate+glutamine (Glx)), arterial spin labelling (ASL), apparent diffusion coefficient (ADC), resting state functional MRI, and autism behavioural outcomes (Aberrant Behaviour Checklist and Clinical Global Impression).Thirty subjects had a mean age of 8.1 years (SD 1.8). Simvastatin was well tolerated. The amount of imaging data varied by test. Simvastatin treatment was associated with (i) increased frontal white matter MRS GABA (t(12) = - 2.12, p = .055), GABA/Glx ratio (t(12) = - 2.78, p = .016), and reduced grey nuclei Glx (ANCOVA p < 0.05, Mann-Whitney p < 0.01); (ii) increased ASL perfusion in ventral diencephalon (Mann-Whitney p < 0.01); and (iii) decreased ADC in cingulate gyrus (Mann-Whitney p < 0.01). Machine-learning classification of imaging outcomes achieved 79% (p < .05) accuracy differentiating groups at endpoint against chance level (64%, p = 0.25) at baseline. Three of 12 (25%) simvastatin cases compared to none in placebo met 'clinical responder' criteria for behavioural outcome.We show feasibility of peripheral MAPK assay and autism symptom measurement, but the study was not powered to test effectiveness. Multiparametric imaging suggests possible simvastatin effects in brain areas previously associated with NF1 pathophysiology and the social brain network.EU Clinical Trial Register (EudraCT) 2012-005742-38 (www.clinicaltrialsregister.eu)."
+  ],
+  "affiliation": [
+    "1Academic Unit of Paediatric Radiology, Royal Manchester Children's Hospital, Central Manchester University Hospitals NHS Foundation Trust, Manchester Academic Health Sciences Centre, Manchester, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "NIHR/CS/010/021"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0600485"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Simvastatin",
+        "Statin",
+        "Autism",
+        "Neurofibromatosis Type 1",
+        "Neuroimaging",
+        "Randomised Controlled Trial"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5824534?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5824534"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13229-018-0190-z"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "eudract"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-02-28"
+  ],
+  "dateOfRevision": [
+    "2018-05-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-22"
+  ],
+  "firstPublicationDate": [
+    "2018-02-22"
+  ]
+}

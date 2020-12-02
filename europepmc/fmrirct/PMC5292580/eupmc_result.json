@@ -1,0 +1,335 @@
+{
+  "id": [
+    "28220101"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28220101"
+  ],
+  "pmcid": [
+    "PMC5292580"
+  ],
+  "doi": [
+    "10.3389/fpsyg.2017.00141"
+  ],
+  "title": [
+    "A Systematic Review of Associations between Amount of Meditation Practice and Outcomes in Interventions Using the Four Immeasurables Meditations."
+  ],
+  "authorString": [
+    "Zeng X, Chio FH, Oei TP, Leung FY, Liu X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zeng X"
+          ],
+          "firstName": [
+            "Xianglong"
+          ],
+          "lastName": [
+            "Zeng"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Psychology, Bejing Normal UniversityBeijing, China; Department of Psychology, The Chinese University of Hong KongHong Kong, Hong Kong."
+          ]
+        },
+        {
+          "fullName": [
+            "Chio FH"
+          ],
+          "firstName": [
+            "Floria H N"
+          ],
+          "lastName": [
+            "Chio"
+          ],
+          "initials": [
+            "FH"
+          ],
+          "affiliation": [
+            "Department of Psychology, The Chinese University of Hong Kong Hong Kong, Hong Kong."
+          ]
+        },
+        {
+          "fullName": [
+            "Oei TP"
+          ],
+          "firstName": [
+            "Tian P S"
+          ],
+          "lastName": [
+            "Oei"
+          ],
+          "initials": [
+            "TP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9041-8803",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "School of Psychology, University of QueenslandBrisbane, QLD, Australia; Department of Psychology, James Cook University SingaporeSingapore, Singapore; Department of Psychology, Nanjing UniversityNanjing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Leung FY"
+          ],
+          "firstName": [
+            "Freedom Y K"
+          ],
+          "lastName": [
+            "Leung"
+          ],
+          "initials": [
+            "FY"
+          ],
+          "affiliation": [
+            "Department of Psychology, The Chinese University of Hong Kong Hong Kong, Hong Kong."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu X"
+          ],
+          "firstName": [
+            "Xiangping"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "School of Psychology, Bejing Normal University Beijing, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9041-8803",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2550596"
+      ],
+      "dateOfPublication": [
+        "2017 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in psychology"
+          ],
+          "ISOAbbreviation": [
+            "Front Psychol"
+          ],
+          "medlineAbbreviation": [
+            "Front Psychol"
+          ],
+          "NLMid": [
+            "101550902"
+          ],
+          "ISSN": [
+            "1664-1078"
+          ],
+          "ESSN": [
+            "1664-1078"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "141"
+  ],
+  "abstractText": [
+    "Interventions using the \"Four Immeasurables Meditations\" (FIM) are effective for various outcomes; however, whether increased meditation practice in these interventions leads to better results has not been well investigated. This systematic review included 22 FIM interventions that reported associations between the amount of meditation practice and its outcomes. Despite the heterogeneity in intervention components and outcome variables, there were generally few significant associations between amount of meditation practice and its outcomes. Specifically, only five studies reported that more than half of the calculated results were significant. In comparison with correlations between total amount of practice and overall outcomes, the short-term influence of meditation practice was evaluated in fewer studies; however, it had a better association with outcomes. More studies are required that address the underlying mechanisms that elucidate how meditation practice leads to outcome changes in daily life. In this study, two promising mechanisms with initial evidence were discussed. This review also summarized common methodological issues including a lack of experimental manipulation and inaccurate measuring of meditation practice."
+  ],
+  "affiliation": [
+    "School of Psychology, Bejing Normal UniversityBeijing, China; Department of Psychology, The Chinese University of Hong KongHong Kong, Hong Kong."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Dose response relationship",
+        "Active component",
+        "Buddhism",
+        "Compassion",
+        "Loving-kindness Meditation",
+        "Appreciative Joy",
+        "Time Of Practice"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5292580?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5292580"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpsyg.2017.00141"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2017-02-21"
+  ],
+  "dateOfRevision": [
+    "2017-08-16"
+  ],
+  "electronicPublicationDate": [
+    "2017-02-06"
+  ],
+  "firstPublicationDate": [
+    "2017-02-06"
+  ]
+}

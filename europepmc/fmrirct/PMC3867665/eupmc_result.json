@@ -1,0 +1,350 @@
+{
+  "id": [
+    "24391584"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24391584"
+  ],
+  "pmcid": [
+    "PMC3867665"
+  ],
+  "doi": [
+    "10.3389/fnagi.2013.00091"
+  ],
+  "title": [
+    "Overall reductions in functional brain activation are associated with falls in older adults: an fMRI study."
+  ],
+  "authorString": [
+    "Nagamatsu LS, Boyd LA, Hsu CL, Handy TC, Liu-Ambrose T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Nagamatsu LS"
+          ],
+          "firstName": [
+            "Lindsay S"
+          ],
+          "lastName": [
+            "Nagamatsu"
+          ],
+          "initials": [
+            "LS"
+          ],
+          "affiliation": [
+            "Attentional Neuroscience Laboratory, Department of Psychology, University of British Columbia Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Boyd LA"
+          ],
+          "firstName": [
+            "Lara A"
+          ],
+          "lastName": [
+            "Boyd"
+          ],
+          "initials": [
+            "LA"
+          ],
+          "affiliation": [
+            "Brain Behaviour Laboratory, Department of Physical Therapy, University of British Columbia Vancouver, BC, Canada ; Brain Research Centre, Centre for Brain Health, University of British Columbia Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Hsu CL"
+          ],
+          "firstName": [
+            "Chun Liang"
+          ],
+          "lastName": [
+            "Hsu"
+          ],
+          "initials": [
+            "CL"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, University of British Columbia Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Handy TC"
+          ],
+          "firstName": [
+            "Todd C"
+          ],
+          "lastName": [
+            "Handy"
+          ],
+          "initials": [
+            "TC"
+          ],
+          "affiliation": [
+            "Attentional Neuroscience Laboratory, Department of Psychology, University of British Columbia Vancouver, BC, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu-Ambrose T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Liu-Ambrose"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Brain Research Centre, Centre for Brain Health, University of British Columbia Vancouver, BC, Canada ; Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, University of British Columbia Vancouver, BC, Canada."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2010554"
+      ],
+      "dateOfPublication": [
+        "2013 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in aging neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "NLMid": [
+            "101525824"
+          ],
+          "ISSN": [
+            "1663-4365"
+          ],
+          "ESSN": [
+            "1663-4365"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "91"
+  ],
+  "abstractText": [
+    "Falls are a common geriatric condition, and while impaired cognitive function has been identified as a key risk factor, the neural correlates that contribute to reduced executive functioning and falls currently remain unknown. In this study, community-dwelling adults aged 65-75 years were divided into two groups based on their recent history of falls (fallers versus non-fallers). All participants completed the Flanker task during functional magnetic resonance imaging (fMRI). We examined the hemodynamic response of congruent and incongruent trials separately in order to separate the relative contribution of each trial type as a function of falls history. We found that fallers exhibited a smaller difference in functional activation between congruent and incongruent trials relative to non-fallers, as well as an overall reduction in level of blood-oxygen-level dependent response. Of particular note, the medial frontal gyrus - a region implicated in motor planning - demonstrated hypo-activation in fallers, providing evidence that the prefrontal cortex might play a central role in falls risk in older adults."
+  ],
+  "affiliation": [
+    "Attentional Neuroscience Laboratory, Department of Psychology, University of British Columbia Vancouver, BC, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "fMRI",
+        "Falls",
+        "Older Adults",
+        "Flanker Task",
+        "Medial Frontal Gyrus",
+        "Executive Cognitive Functions"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3867665?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3867665"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24391584/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24391584/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnagi.2013.00091"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-01-06"
+  ],
+  "dateOfCreation": [
+    "2014-01-06"
+  ],
+  "dateOfRevision": [
+    "2014-01-24"
+  ],
+  "electronicPublicationDate": [
+    "2013-12-19"
+  ],
+  "firstPublicationDate": [
+    "2013-12-19"
+  ]
+}

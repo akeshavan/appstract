@@ -1,0 +1,533 @@
+{
+  "id": [
+    "28693437"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28693437"
+  ],
+  "pmcid": [
+    "PMC5504817"
+  ],
+  "doi": [
+    "10.1186/s12877-017-0529-x"
+  ],
+  "title": [
+    "Effects of computerized cognitive training on neuroimaging outcomes in older adults: a systematic review."
+  ],
+  "authorString": [
+    "Ten Brinke LF, Davis JC, Barha CK, Liu-Ambrose T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ten Brinke LF"
+          ],
+          "firstName": [
+            "Lisanne F"
+          ],
+          "lastName": [
+            "Ten Brinke"
+          ],
+          "initials": [
+            "LF"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Davis JC"
+          ],
+          "firstName": [
+            "Jennifer C"
+          ],
+          "lastName": [
+            "Davis"
+          ],
+          "initials": [
+            "JC"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Barha CK"
+          ],
+          "firstName": [
+            "Cindy K"
+          ],
+          "lastName": [
+            "Barha"
+          ],
+          "initials": [
+            "CK"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu-Ambrose T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Liu-Ambrose"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada. teresa.ambrose@ubc.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2573146"
+      ],
+      "dateOfPublication": [
+        "2017 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC geriatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "NLMid": [
+            "100968548"
+          ],
+          "ISSN": [
+            "1471-2318"
+          ],
+          "ESSN": [
+            "1471-2318"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "139"
+  ],
+  "abstractText": [
+    "Worldwide, the population is aging and the number of individuals diagnosed with dementia is rising rapidly. Currently, there are no effective pharmaceutical cures. Hence, identifying lifestyle approaches that may prevent, delay, or treat cognitive impairment and dementia in older adults is becoming increasingly important. Computerized Cognitive Training (CCT) is a promising strategy to combat cognitive decline. Yet, the underlying mechanisms of the effect of CCT on cognition remain poorly understood. Hence, the primary objective of this systematic review was to examine peer-reviewed literature ascertaining the effect of CCT on both structural and functional neuroimaging measures among older adults to gain insight into the underlying mechanisms by which CCT may benefit cognitive function.In accordance with PRISMA guidelines, we used the following databases: MEDLINE, EMBASE, and CINAHL. Two independent reviewers abstracted data using pre-defined terms. These included: main study characteristics such as the type of training (i.e., single- versus multi-domain), participant demographics (age ≥ 50 years; no psychiatric conditions), and the inclusion of neuroimaging outcomes. The Physiotherapy Evidence Database (PEDro) scale was used to assess quality of all studies included in this systematic review.Nine studies were included in this systematic review, with four studies including multiple MRI sequences. Results of this systematic review are mixed: CCT was found to increase and decrease both brain structure and function in older adults. In addition, depending on region of interest, both increases and decreases in structure and function were associated with behavioural performance.Of all studies included in this systematic review, results from the highest quality studies, which were two randomized controlled trials, demonstrated that multi-domain CCT could lead to increases in hippocampal functional connectivity. Further high quality studies that include an active control, a sample size calculation, and an appropriate training dosage, are needed to confirm these findings and their relation to cognition."
+  ],
+  "affiliation": [
+    "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dementia"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Therapy, Computer-Assisted"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neuroimaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TD"
+                  ],
+                  "qualifierName": [
+                    "trends"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognitive Dysfunction"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DG"
+                  ],
+                  "qualifierName": [
+                    "diagnostic imaging"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "brain function",
+        "Older Adults",
+        "Neuroimaging",
+        "Brain Structure",
+        "Computerized Cognitive Training"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5504817?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5504817"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12877-017-0529-x"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-02-20"
+  ],
+  "dateOfCreation": [
+    "2017-07-12"
+  ],
+  "dateOfRevision": [
+    "2018-03-14"
+  ],
+  "electronicPublicationDate": [
+    "2017-07-10"
+  ],
+  "firstPublicationDate": [
+    "2017-07-10"
+  ]
+}

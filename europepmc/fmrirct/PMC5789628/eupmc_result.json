@@ -1,0 +1,306 @@
+{
+  "id": [
+    "29378515"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29378515"
+  ],
+  "pmcid": [
+    "PMC5789628"
+  ],
+  "doi": [
+    "10.1186/s12877-018-0730-6"
+  ],
+  "title": [
+    "The effects of an 8-week computerized cognitive training program in older adults: a study protocol for a randomized controlled trial."
+  ],
+  "authorString": [
+    "Ten Brinke LF, Best JR, Crockett RA, Liu-Ambrose T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ten Brinke LF"
+          ],
+          "firstName": [
+            "Lisanne F"
+          ],
+          "lastName": [
+            "Ten Brinke"
+          ],
+          "initials": [
+            "LF"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Best JR"
+          ],
+          "firstName": [
+            "John R"
+          ],
+          "lastName": [
+            "Best"
+          ],
+          "initials": [
+            "JR"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Crockett RA"
+          ],
+          "firstName": [
+            "Rachel A"
+          ],
+          "lastName": [
+            "Crockett"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu-Ambrose T"
+          ],
+          "firstName": [
+            "Teresa"
+          ],
+          "lastName": [
+            "Liu-Ambrose"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, Centre for Hip Health and Mobility, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada. teresa.ambrose@ubc.ca."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "18"
+      ],
+      "journalIssueId": [
+        "2633641"
+      ],
+      "dateOfPublication": [
+        "2018 Jan"
+      ],
+      "monthOfPublication": [
+        "1"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC geriatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "NLMid": [
+            "100968548"
+          ],
+          "ISSN": [
+            "1471-2318"
+          ],
+          "ESSN": [
+            "1471-2318"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "31"
+  ],
+  "abstractText": [
+    "Given the world's aging population, it is important to identify strategies that promote healthy cognitive aging and minimize cognitive decline. Currently, no curative pharmaceutical therapy exists for cognitive impairment and dementia. As a result, there is much interest in lifestyle approaches. Specifically, complex mental activity, such as cognitive training, may be a promising method to combat cognitive decline in older adults. As such, the industry of commercial computerized cognitive training (CCT) applications has rapidly grown in the last decade. However, the efficacy of these commercial products is largely not established. Moreover, exercise is a recognized strategy for promoting cognitive outcomes in older adults and may augment the efficacy of computerized cognitive training applications. Therefore, we propose a proof-of-concept randomized controlled trial (RCT) to examine the effect of a commercial CCT program in community-dwelling older adults.An 8-week RCT to examine the effect of a commercial CCT program, alone and preceded by a 15-min brisk walk, on cognitive function and explore the underlying neural mechanisms in adults aged 65-85 years old. Participants will be randomized to one of three intervention groups: 1) Computerized cognitive training (FBT); 2) A 15-min brisk walk followed by computerized cognitive training (Ex-FBT); or 3) A combination of educational classes, sham cognitive training, and balanced and tone exercises (active control, BAT). Participants in all intervention groups will attend three one-hour classes per week over the course of the intervention. Participants will be assessed at baseline, trial completion, and 1-year post study completion (1-year follow-up).If results from this study show benefits for cognition at trial completion, CCT programs, alone or in combination with walking, might be a strategy to promote healthy cognitive aging in older adults. In addition, results from the 1-year follow-up measurement could provide important information regarding the long-term benefits of these CCT programs.ClinicalTrials.gov Protocol Registration System: NCT02564809; registered September 1, 2015."
+  ],
+  "affiliation": [
+    "Aging, Mobility, and Cognitive Neuroscience Laboratory, Department of Physical Therapy, Djavad Mowafaghian Centre for Brain Health, University of British Columbia, 2215 Wesbrook Mall, Vancouver, BC, V6T 1Z3, Canada."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognitive function",
+        "Magnetic Resonance Imaging",
+        "Mild Cognitive Impairment",
+        "Community-dwelling Older Adults",
+        "Computerized Cognitive Training"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5789628?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5789628"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12877-018-0730-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-01-31"
+  ],
+  "dateOfRevision": [
+    "2018-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-30"
+  ],
+  "firstPublicationDate": [
+    "2018-01-30"
+  ]
+}

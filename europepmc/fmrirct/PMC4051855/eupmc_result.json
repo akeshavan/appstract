@@ -1,0 +1,707 @@
+{
+  "id": [
+    "24915066"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24915066"
+  ],
+  "pmcid": [
+    "PMC4051855"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0099538"
+  ],
+  "title": [
+    "Effects of long-term acupuncture treatment on resting-state brain activity in migraine patients: a randomized controlled trial on active acupoints and inactive acupoints."
+  ],
+  "authorString": [
+    "Zhao L, Liu J, Zhang F, Dong X, Peng Y, Qin W, Wu F, Li Y, Yuan K, von Deneen KM, Gong Q, Tang Z, Liang F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhao L"
+          ],
+          "firstName": [
+            "Ling"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Liu J"
+          ],
+          "firstName": [
+            "Jixin"
+          ],
+          "lastName": [
+            "Liu"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang F"
+          ],
+          "firstName": [
+            "Fuwen"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "School of Clinical Medicine, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Dong X"
+          ],
+          "firstName": [
+            "Xilin"
+          ],
+          "lastName": [
+            "Dong"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Peng Y"
+          ],
+          "firstName": [
+            "Yulin"
+          ],
+          "lastName": [
+            "Peng"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Qin W"
+          ],
+          "firstName": [
+            "Wei"
+          ],
+          "lastName": [
+            "Qin"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Wu F"
+          ],
+          "firstName": [
+            "Fumei"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Li Y"
+          ],
+          "firstName": [
+            "Ying"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Yuan K"
+          ],
+          "firstName": [
+            "Kai"
+          ],
+          "lastName": [
+            "Yuan"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "von Deneen KM"
+          ],
+          "firstName": [
+            "Karen M"
+          ],
+          "lastName": [
+            "von Deneen"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "affiliation": [
+            "School of Life Science and Technology, Xidian University, Xi'an, Shaanxi, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Gong Q"
+          ],
+          "firstName": [
+            "Qiyong"
+          ],
+          "lastName": [
+            "Gong"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Radiology, The Center for Medical Imaging, Huaxi MR Research Center, West China Hospital of Sichuan University, Chengdu, Sichuan, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang Z"
+          ],
+          "firstName": [
+            "Zili"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "German Cancer Consortium (DKTK), Heidelberg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Liang F"
+          ],
+          "firstName": [
+            "Fanrong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2210-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2210-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2165507"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "e99538"
+  ],
+  "abstractText": [
+    "BACKGROUND: Acupuncture has been commonly used for preventing migraine attacks and relieving pain during a migraine, although there is limited knowledge on the physiological mechanism behind this method. The objectives of this study were to compare the differences in brain activities evoked by active acupoints and inactive acupoints and to investigate the possible correlation between clinical variables and brain responses. METHODS AND RESULTS: A randomized controlled trial and resting-state functional magnetic resonance imaging (fMRI) were conducted. A total of eighty migraineurs without aura were enrolled to receive either active acupoint acupuncture or inactive acupoint acupuncture treatment for 8 weeks, and twenty patients in each group were randomly selected for the fMRI scan at the end of baseline and at the end of treatment. The neuroimaging data indicated that long-term active acupoint therapy elicited a more extensive and remarkable cerebral response compared with acupuncture at inactive acupoints. Most of the regions were involved in the pain matrix, lateral pain system, medial pain system, default mode network, and cognitive components of pain processing. Correlation analysis showed that the decrease in the visual analogue scale (VAS) was significantly related to the increased average Regional homogeneity (ReHo) values in the anterior cingulate cortex in the two groups. Moreover, the decrease in the VAS was associated with increased average ReHo values in the insula which could be detected in the active acupoint group. CONCLUSIONS: Long-term active acupoint therapy and inactive acupoint therapy have different brain activities. We postulate that acupuncture at the active acupoint might have the potential effect of regulating some disease-affected key regions and the pain circuitry for migraine, and promote establishing psychophysical pain homeostasis. TRIAL REGISTRATION: Chinese Clinical Trial Registry ChiCTR-TRC-13003635."
+  ],
+  "affiliation": [
+    "Acupuncture and Tuina School, Chengdu University of Traditional Chinese Medicine, Chengdu, Sichuan, China."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AE"
+                  ],
+                  "qualifierName": [
+                    "adverse effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupuncture Points"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Demography"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rest"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Migraine Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4051855?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4051855"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24915066/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24915066/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0099538"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-01-29"
+  ],
+  "dateOfCreation": [
+    "2014-06-11"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-10"
+  ],
+  "firstPublicationDate": [
+    "2014-06-10"
+  ]
+}

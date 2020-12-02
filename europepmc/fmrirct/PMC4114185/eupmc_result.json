@@ -1,0 +1,458 @@
+{
+  "id": [
+    "25120465"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "25120465"
+  ],
+  "pmcid": [
+    "PMC4114185"
+  ],
+  "doi": [
+    "10.3389/fneng.2014.00030"
+  ],
+  "title": [
+    "Brain-computer interface-based robotic end effector system for wrist and hand rehabilitation: results of a three-armed randomized controlled trial for chronic stroke."
+  ],
+  "authorString": [
+    "Ang KK, Guan C, Phua KS, Wang C, Zhou L, Tang KY, Ephraim Joseph GJ, Kuah CW, Chua KS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ang KK"
+          ],
+          "firstName": [
+            "Kai Keng"
+          ],
+          "lastName": [
+            "Ang"
+          ],
+          "initials": [
+            "KK"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3053-6311",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Guan C"
+          ],
+          "firstName": [
+            "Cuntai"
+          ],
+          "lastName": [
+            "Guan"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0872-3276",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Phua KS"
+          ],
+          "firstName": [
+            "Kok Soon"
+          ],
+          "lastName": [
+            "Phua"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Wang C"
+          ],
+          "firstName": [
+            "Chuanchu"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Zhou L"
+          ],
+          "firstName": [
+            "Longjiang"
+          ],
+          "lastName": [
+            "Zhou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Tang KY"
+          ],
+          "firstName": [
+            "Ka Yin"
+          ],
+          "lastName": [
+            "Tang"
+          ],
+          "initials": [
+            "KY"
+          ],
+          "affiliation": [
+            "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Ephraim Joseph GJ"
+          ],
+          "firstName": [
+            "Gopal J"
+          ],
+          "lastName": [
+            "Ephraim Joseph"
+          ],
+          "initials": [
+            "GJ"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, Tan Tock Seng Hospital Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Kuah CW"
+          ],
+          "firstName": [
+            "Christopher Wee Keong"
+          ],
+          "lastName": [
+            "Kuah"
+          ],
+          "initials": [
+            "CW"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, Tan Tock Seng Hospital Singapore."
+          ]
+        },
+        {
+          "fullName": [
+            "Chua KS"
+          ],
+          "firstName": [
+            "Karen Sui Geok"
+          ],
+          "lastName": [
+            "Chua"
+          ],
+          "initials": [
+            "KS"
+          ],
+          "affiliation": [
+            "Department of Rehabilitation Medicine, Tan Tock Seng Hospital Singapore."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0872-3276",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3053-6311",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2120427"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in neuroengineering"
+          ],
+          "ISOAbbreviation": [
+            "Front Neuroeng"
+          ],
+          "medlineAbbreviation": [
+            "Front Neuroeng"
+          ],
+          "NLMid": [
+            "101477961"
+          ],
+          "ISSN": [
+            "1662-6443"
+          ],
+          "ESSN": [
+            "1662-6443"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "30"
+  ],
+  "abstractText": [
+    "The objective of this study was to investigate the efficacy of an Electroencephalography (EEG)-based Motor Imagery (MI) Brain-Computer Interface (BCI) coupled with a Haptic Knob (HK) robot for arm rehabilitation in stroke patients. In this three-arm, single-blind, randomized controlled trial; 21 chronic hemiplegic stroke patients (Fugl-Meyer Motor Assessment (FMMA) score 10-50), recruited after pre-screening for MI BCI ability, were randomly allocated to BCI-HK, HK or Standard Arm Therapy (SAT) groups. All groups received 18 sessions of intervention over 6 weeks, 3 sessions per week, 90 min per session. The BCI-HK group received 1 h of BCI coupled with HK intervention, and the HK group received 1 h of HK intervention per session. Both BCI-HK and HK groups received 120 trials of robot-assisted hand grasping and knob manipulation followed by 30 min of therapist-assisted arm mobilization. The SAT group received 1.5 h of therapist-assisted arm mobilization and forearm pronation-supination movements incorporating wrist control and grasp-release functions. In all, 14 males, 7 females, mean age 54.2 years, mean stroke duration 385.1 days, with baseline FMMA score 27.0 were recruited. The primary outcome measure was upper extremity FMMA scores measured mid-intervention at week 3, end-intervention at week 6, and follow-up at weeks 12 and 24. Seven, 8 and 7 subjects underwent BCI-HK, HK and SAT interventions respectively. FMMA score improved in all groups, but no intergroup differences were found at any time points. Significantly larger motor gains were observed in the BCI-HK group compared to the SAT group at weeks 3, 12, and 24, but motor gains in the HK group did not differ from the SAT group at any time point. In conclusion, BCI-HK is effective, safe, and may have the potential for enhancing motor recovery in chronic stroke when combined with therapist-assisted arm mobilization."
+  ],
+  "affiliation": [
+    "Institute for Infocomm Research, Agency for Science, Technology and Research (ASTAR) Singapore."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Electroencephalography",
+        "Brain-computer interface",
+        "Motor imagery",
+        "Stroke Rehabilitation",
+        "Robotic"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4114185?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4114185"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25120465/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/25120465/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fneng.2014.00030"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "30"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-08-14"
+  ],
+  "dateOfCreation": [
+    "2014-08-14"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2014-07-29"
+  ],
+  "firstPublicationDate": [
+    "2014-07-29"
+  ]
+}

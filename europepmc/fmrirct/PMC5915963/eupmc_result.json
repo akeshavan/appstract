@@ -1,0 +1,363 @@
+{
+  "id": [
+    "29720936"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29720936"
+  ],
+  "pmcid": [
+    "PMC5915963"
+  ],
+  "doi": [
+    "10.3389/fnagi.2018.00110"
+  ],
+  "title": [
+    "The Effects of Tai Chi Intervention on Healthy Elderly by Means of Neuroimaging and EEG: A Systematic Review."
+  ],
+  "authorString": [
+    "Pan Z, Su X, Fang Q, Hou L, Lee Y, Chen CC, Lamberth J, Kim ML."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pan Z"
+          ],
+          "firstName": [
+            "Zhujun"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "affiliation": [
+            "Department of Kinesiology, Mississippi State University, Starkville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Su X"
+          ],
+          "firstName": [
+            "Xiwen"
+          ],
+          "lastName": [
+            "Su"
+          ],
+          "initials": [
+            "X"
+          ],
+          "affiliation": [
+            "Exercise Physiology Laboratory, College of Physical Education and Sports, Beijing Normal University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Fang Q"
+          ],
+          "firstName": [
+            "Qun"
+          ],
+          "lastName": [
+            "Fang"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "affiliation": [
+            "Department of Kinesiology, Mississippi State University, Starkville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Hou L"
+          ],
+          "firstName": [
+            "Lijuan"
+          ],
+          "lastName": [
+            "Hou"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Exercise Physiology Laboratory, College of Physical Education and Sports, Beijing Normal University, Beijing, China."
+          ]
+        },
+        {
+          "fullName": [
+            "Lee Y"
+          ],
+          "firstName": [
+            "Younghan"
+          ],
+          "lastName": [
+            "Lee"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "affiliation": [
+            "Department of Kinesiology, Mississippi State University, Starkville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Chen CC"
+          ],
+          "firstName": [
+            "Chih C"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "CC"
+          ],
+          "affiliation": [
+            "Department of Kinesiology, Mississippi State University, Starkville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Lamberth J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Lamberth"
+          ],
+          "initials": [
+            "J"
+          ],
+          "affiliation": [
+            "Department of Kinesiology, Mississippi State University, Starkville, MS, United States."
+          ]
+        },
+        {
+          "fullName": [
+            "Kim ML"
+          ],
+          "firstName": [
+            "Mi-Lyang"
+          ],
+          "lastName": [
+            "Kim"
+          ],
+          "initials": [
+            "ML"
+          ],
+          "affiliation": [
+            "Department of Sports, Leisure and Recreation, Soonchunhyang University, Asan, South Korea."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2647769"
+      ],
+      "dateOfPublication": [
+        "2018 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in aging neuroscience"
+          ],
+          "ISOAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "medlineAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "NLMid": [
+            "101525824"
+          ],
+          "ISSN": [
+            "1663-4365"
+          ],
+          "ESSN": [
+            "1663-4365"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "110"
+  ],
+  "abstractText": [
+    "Aging is a process associated with a decline in cognitive and motor functions, which can be attributed to neurological changes in the brain. Tai Chi, a multimodal mind-body exercise, can be practiced by people across all ages. Previous research identified effects of Tai Chi practice on delaying cognitive and motor degeneration. Benefits in behavioral performance included improved fine and gross motor skills, postural control, muscle strength, and so forth. Neural plasticity remained in the aging brain implies that Tai Chi-associated benefits may not be limited to the behavioral level. Instead, neurological changes in the human brain play a significant role in corresponding to the behavioral improvement. However, previous studies mainly focused on the effects of behavioral performance, leaving neurological changes largely unknown. This systematic review summarized extant studies that used brain imaging techniques and EEG to examine the effects of Tai Chi on older adults. Eleven articles were eligible for the final review. Three neuroimaging techniques including fMRI (N = 6), EEG (N = 4), and MRI (N = 1), were employed for different study interests. Significant changes were reported on subjects' cortical thickness, functional connectivity and homogeneity of the brain, and executive network neural function after Tai Chi intervention. The findings suggested that Tai Chi intervention give rise to beneficial neurological changes in the human brain. Future research should develop valid and convincing study design by applying neuroimaging techniques to detect effects of Tai Chi intervention on the central nervous system of older adults. By integrating neuroimaging techniques into randomized controlled trials involved with Tai Chi intervention, researchers can extend the current research focus from behavioral domain to neurological level."
+  ],
+  "affiliation": [
+    "Department of Kinesiology, Mississippi State University, Starkville, MS, United States."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "systematic-review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Aging",
+        "EEG",
+        "Neural Plasticity",
+        "Neuroimaging",
+        "Tai Chi"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5915963?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5915963"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnagi.2018.00110"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "N"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-05-04"
+  ],
+  "dateOfRevision": [
+    "2018-05-07"
+  ],
+  "electronicPublicationDate": [
+    "2018-04-18"
+  ],
+  "firstPublicationDate": [
+    "2018-04-18"
+  ]
+}

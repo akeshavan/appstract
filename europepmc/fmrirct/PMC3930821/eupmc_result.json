@@ -1,0 +1,893 @@
+{
+  "id": [
+    "24552282"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24552282"
+  ],
+  "pmcid": [
+    "PMC3930821"
+  ],
+  "doi": [
+    "10.1186/1471-244x-14-48"
+  ],
+  "title": [
+    "The effects of Psychotropic drugs On Developing brain (ePOD) study: methods and design."
+  ],
+  "authorString": [
+    "Bottelier MA, Schouw ML, Klomp A, Tamminga HG, Schrantee AG, Bouziane C, de Ruiter MB, Boer F, Ruhé HG, Denys D, Rijsman R, Lindauer RJ, Reitsma HB, Geurts HM, Reneman L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bottelier MA"
+          ],
+          "firstName": [
+            "Marco A"
+          ],
+          "lastName": [
+            "Bottelier"
+          ],
+          "initials": [
+            "MA"
+          ]
+        },
+        {
+          "fullName": [
+            "Schouw ML"
+          ],
+          "firstName": [
+            "Marieke L J"
+          ],
+          "lastName": [
+            "Schouw"
+          ],
+          "initials": [
+            "ML"
+          ]
+        },
+        {
+          "fullName": [
+            "Klomp A"
+          ],
+          "firstName": [
+            "Anne"
+          ],
+          "lastName": [
+            "Klomp"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Tamminga HG"
+          ],
+          "firstName": [
+            "Hyke G H"
+          ],
+          "lastName": [
+            "Tamminga"
+          ],
+          "initials": [
+            "HG"
+          ]
+        },
+        {
+          "fullName": [
+            "Schrantee AG"
+          ],
+          "firstName": [
+            "Anouk G M"
+          ],
+          "lastName": [
+            "Schrantee"
+          ],
+          "initials": [
+            "AG"
+          ]
+        },
+        {
+          "fullName": [
+            "Bouziane C"
+          ],
+          "firstName": [
+            "Cheima"
+          ],
+          "lastName": [
+            "Bouziane"
+          ],
+          "initials": [
+            "C"
+          ]
+        },
+        {
+          "fullName": [
+            "de Ruiter MB"
+          ],
+          "firstName": [
+            "Michiel B"
+          ],
+          "lastName": [
+            "de Ruiter"
+          ],
+          "initials": [
+            "MB"
+          ]
+        },
+        {
+          "fullName": [
+            "Boer F"
+          ],
+          "firstName": [
+            "Frits"
+          ],
+          "lastName": [
+            "Boer"
+          ],
+          "initials": [
+            "F"
+          ]
+        },
+        {
+          "fullName": [
+            "Ruhé HG"
+          ],
+          "firstName": [
+            "Henricus G"
+          ],
+          "lastName": [
+            "Ruhé"
+          ],
+          "initials": [
+            "HG"
+          ]
+        },
+        {
+          "fullName": [
+            "Denys D"
+          ],
+          "firstName": [
+            "Damiaan"
+          ],
+          "lastName": [
+            "Denys"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Rijsman R"
+          ],
+          "firstName": [
+            "Roselyne"
+          ],
+          "lastName": [
+            "Rijsman"
+          ],
+          "initials": [
+            "R"
+          ]
+        },
+        {
+          "fullName": [
+            "Lindauer RJ"
+          ],
+          "firstName": [
+            "Ramon J L"
+          ],
+          "lastName": [
+            "Lindauer"
+          ],
+          "initials": [
+            "RJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Reitsma HB"
+          ],
+          "firstName": [
+            "Hans B"
+          ],
+          "lastName": [
+            "Reitsma"
+          ],
+          "initials": [
+            "HB"
+          ]
+        },
+        {
+          "fullName": [
+            "Geurts HM"
+          ],
+          "firstName": [
+            "Hilde M"
+          ],
+          "lastName": [
+            "Geurts"
+          ],
+          "initials": [
+            "HM"
+          ]
+        },
+        {
+          "fullName": [
+            "Reneman L"
+          ],
+          "firstName": [
+            "Liesbeth"
+          ],
+          "lastName": [
+            "Reneman"
+          ],
+          "initials": [
+            "L"
+          ],
+          "affiliation": [
+            "Brain Imaging Center, Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands. L.Reneman@amc.uva.nl."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "14"
+      ],
+      "journalIssueId": [
+        "2130629"
+      ],
+      "dateOfPublication": [
+        "2014 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "48"
+  ],
+  "abstractText": [
+    "BACKGROUND: Animal studies have shown that methylphenidate (MPH) and fluoxetine (FLX) have different effects on dopaminergic and serotonergic system in the developing brain compared to the developed brain. The effects of Psychotropic drugs On the Developing brain (ePOD) study is a combination of different approaches to determine whether there are related findings in humans. METHODS/DESIGN: Animal studies were carried out to investigate age-related effects of psychotropic drugs and to validate new neuroimaging techniques. In addition, we set up two double-blind placebo controlled clinical trials with MPH in 50 boys (10-12 years) and 50 young men (23-40 years) suffering from ADHD (ePOD-MPH) and with FLX in 40 girls (12-14 years) and 40 young women (23-40 years) suffering from depression and anxiety disorders (ePOD-SSRI). Trial registration numbers are: Nederlands Trial Register NTR3103 and NTR2111. A cross-sectional cohort study on age-related effects of these psychotropic medications in patients who have been treated previously with MPH or FLX (ePOD-Pharmo) is also ongoing. The effects of psychotropic drugs on the developing brain are studied using neuroimaging techniques together with neuropsychological and psychiatric assessments of cognition, behavior and emotion. All assessments take place before, during (only in case of MPH) and after chronic treatment. DISCUSSION: The combined results of these approaches will provide new insight into the modulating effect of MPH and FLX on brain development."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Brain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Fluoxetine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Methylphenidate"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Central Nervous System Stimulants"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Antidepressive Agents"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TU"
+                  ],
+                  "qualifierName": [
+                    "therapeutic use"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cross-Sectional Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Double-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Problem Solving"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Attention Deficit Disorder with Hyperactivity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depressive Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adolescent"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Child"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Young Adult"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Antidepressive Agents"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Central Nervous System Stimulants"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Methylphenidate"
+          ],
+          "registryNumber": [
+            "207ZZ9QZ49"
+          ]
+        },
+        {
+          "name": [
+            "Fluoxetine"
+          ],
+          "registryNumber": [
+            "01K63SUP8D"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3930821?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3930821"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24552282/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24552282/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-244X-14-48"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "4"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-11-26"
+  ],
+  "dateOfCreation": [
+    "2014-02-24"
+  ],
+  "electronicPublicationDate": [
+    "2014-02-19"
+  ],
+  "firstPublicationDate": [
+    "2014-02-19"
+  ]
+}

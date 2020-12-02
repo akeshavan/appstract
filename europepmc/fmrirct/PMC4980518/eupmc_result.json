@@ -1,0 +1,304 @@
+{
+  "id": [
+    "27511448"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27511448"
+  ],
+  "pmcid": [
+    "PMC4980518"
+  ],
+  "doi": [
+    "10.3402/ejpt.v7.30915"
+  ],
+  "title": [
+    "Posttraumatic stress disorder under ongoing threat: a review of neurobiological and neuroendocrine findings."
+  ],
+  "authorString": [
+    "Fragkaki I, Thomaes K, Sijbrandij M."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Fragkaki I"
+          ],
+          "firstName": [
+            "Iro"
+          ],
+          "lastName": [
+            "Fragkaki"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3976-0878",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, The Netherlands; i.fragkaki@pwo.ru.nl, irofrag@gmail.com."
+          ]
+        },
+        {
+          "fullName": [
+            "Thomaes K"
+          ],
+          "firstName": [
+            "Kathleen"
+          ],
+          "lastName": [
+            "Thomaes"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "VU University Medical Center, VU University Amsterdam, Amsterdam, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Sijbrandij M"
+          ],
+          "firstName": [
+            "Marit"
+          ],
+          "lastName": [
+            "Sijbrandij"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Clinical Psychology, EMGO Institute for Health and Care Research, VU University Amsterdam, Amsterdam, The Netherlands."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3976-0878",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2361012"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "European journal of psychotraumatology"
+          ],
+          "ISOAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "medlineAbbreviation": [
+            "Eur J Psychotraumatol"
+          ],
+          "NLMid": [
+            "101559025"
+          ],
+          "ISSN": [
+            "2000-8066"
+          ],
+          "ESSN": [
+            "2000-8066"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "30915"
+  ],
+  "abstractText": [
+    "Although numerous studies have investigated the neurobiology and neuroendocrinology of posttraumatic stress disorder (PTSD) after single finished trauma, studies on PTSD under ongoing threat are scarce and it is still unclear whether these individuals present similar abnormalities.The purpose of this review is to present the neurobiological and neuroendocrine findings on PTSD under ongoing threat. Ongoing threat considerably affects PTSD severity and treatment response and thus disentangling its neurobiological and neuroendocrine differences from PTSD after finished trauma could provide useful information for treatment.Eighteen studies that examined brain functioning and cortisol levels in relation to PTSD in individuals exposed to intimate partner violence, police officers, and fire fighters were included.Hippocampal volume was decreased in PTSD under ongoing threat, although not consistently associated with symptom severity. The neuroimaging studies revealed that PTSD under ongoing threat was not characterized by reduced volume of amygdala or parahippocampal gyrus. The neurocircuitry model of PTSD after finished trauma with hyperactivation of amygdala and hypoactivation of prefrontal cortex and hippocampus was also confirmed in PTSD under ongoing threat. The neuroendocrine findings were inconsistent, revealing increased, decreased, or no association between cortisol levels and PTSD under ongoing threat.Although PTSD under ongoing threat is characterized by abnormal neurocircuitry patterns similar to those previously found in PTSD after finished trauma, this is less so for other neurobiological and in particular neuroendocrine findings. Direct comparisons between samples with ongoing versus finished trauma are needed in future research to draw more solid conclusions before administering cortisol to patients with PTSD under ongoing threat who may already exhibit increased endogenous cortisol levels."
+  ],
+  "affiliation": [
+    "Behavioural Science Institute, Radboud University Nijmegen, Nijmegen, The Netherlands; i.fragkaki@pwo.ru.nl, irofrag@gmail.com."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Hippocampus",
+        "Neurobiology",
+        "Amygdala",
+        "Cortisol",
+        "Neuroendocrinology",
+        "Ptsd",
+        "Ongoing Threat"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4980518?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4980518"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3402/ejpt.v7.30915"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "5"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-11"
+  ],
+  "dateOfCreation": [
+    "2016-08-11"
+  ],
+  "dateOfRevision": [
+    "2016-12-13"
+  ],
+  "electronicPublicationDate": [
+    "2016-08-09"
+  ],
+  "firstPublicationDate": [
+    "2016-08-09"
+  ]
+}

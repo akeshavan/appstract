@@ -1,0 +1,615 @@
+{
+  "id": [
+    "26495312"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26495312"
+  ],
+  "pmcid": [
+    "PMC4606413"
+  ],
+  "doi": [
+    "10.1155/2015/749837"
+  ],
+  "title": [
+    "Role of ketamine in acute postoperative pain management: a narrative review."
+  ],
+  "authorString": [
+    "Radvansky BM, Shah K, Parikh A, Sifonios AN, Le V, Eloy JD."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Radvansky BM"
+          ],
+          "firstName": [
+            "Brian M"
+          ],
+          "lastName": [
+            "Radvansky"
+          ],
+          "initials": [
+            "BM"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Shah K"
+          ],
+          "firstName": [
+            "Khushbu"
+          ],
+          "lastName": [
+            "Shah"
+          ],
+          "initials": [
+            "K"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Parikh A"
+          ],
+          "firstName": [
+            "Anant"
+          ],
+          "lastName": [
+            "Parikh"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Sifonios AN"
+          ],
+          "firstName": [
+            "Anthony N"
+          ],
+          "lastName": [
+            "Sifonios"
+          ],
+          "initials": [
+            "AN"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Le V"
+          ],
+          "firstName": [
+            "Vanny"
+          ],
+          "lastName": [
+            "Le"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+          ]
+        },
+        {
+          "fullName": [
+            "Eloy JD"
+          ],
+          "firstName": [
+            "Jean D"
+          ],
+          "lastName": [
+            "Eloy"
+          ],
+          "initials": [
+            "JD"
+          ],
+          "affiliation": [
+            "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "2015"
+      ],
+      "journalIssueId": [
+        "2246988"
+      ],
+      "dateOfPublication": [
+        "2015 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BioMed research international"
+          ],
+          "ISOAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "medlineAbbreviation": [
+            "Biomed Res Int"
+          ],
+          "NLMid": [
+            "101600173"
+          ],
+          "ISSN": [
+            "2314-6133"
+          ],
+          "ESSN": [
+            "2314-6141"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "749837"
+  ],
+  "abstractText": [
+    "The objective of this narrative review was to examine the usage of ketamine as a postoperative analgesic agent across a wide variety of surgeries.A literature search was performed using the phrases \"ketamine\" and \"postoperative pain.\" The authors analyzed the studies that involved testing ketamine's effectiveness at controlling postoperative pain. Effectiveness was assessed through various outcomes such as the amount of opiate consumption, visual analog scale (VAS) pain scores, and persistent postoperative pain at long-term follow-up.While many different administration protocols were evaluated, delivering ketamine both as a pre- or perioperative bolus and postoperative infusion for up to 48 hours appeared to be the most effective. These effects are dose-dependent. However, a number of studies analyzed showed no benefit in using ketamine versus placebo for controlling postoperative pain. While ketamine is a safe and well-tolerated drug, it does have adverse effects, and there are concerns for possible neurotoxicity and effects on memory.In a number of limited situations, ketamine has shown some efficacy in controlling postoperative pain and decreasing opioid consumption. More randomized controlled trials are necessary to determine the surgical procedures and administrations (i.e., intravenous, epidural) that ketamine is best suited for."
+  ],
+  "affiliation": [
+    "Department of Anesthesiology and Peri-Operative Medicine, Rutgers-New Jersey Medical School, 185 South Orange Avenue, South Orange, Newark, NJ 07103, USA."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain, Postoperative"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Ketamine"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anesthetics, Dissociative"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AD"
+                  ],
+                  "qualifierName": [
+                    "administration & dosage"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Preanesthetic Medication"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Evidence-Based Medicine"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Dose-Response Relationship, Drug"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Acute Pain"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "DT"
+                  ],
+                  "qualifierName": [
+                    "drug therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Anesthetics, Dissociative"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Ketamine"
+          ],
+          "registryNumber": [
+            "690G0D6V8H"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4606413?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4606413"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1155/2015/749837"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2016-08-02"
+  ],
+  "dateOfCreation": [
+    "2015-10-23"
+  ],
+  "dateOfRevision": [
+    "2015-10-26"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-01"
+  ],
+  "firstPublicationDate": [
+    "2015-10-01"
+  ]
+}

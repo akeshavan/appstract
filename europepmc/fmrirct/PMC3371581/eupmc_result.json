@@ -1,0 +1,483 @@
+{
+  "id": [
+    "22685224"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22685224"
+  ],
+  "pmcid": [
+    "PMC3371581"
+  ],
+  "doi": [
+    "10.1136/bmjopen-2012-001297"
+  ],
+  "title": [
+    "GaPP: a pilot randomised controlled trial of the efficacy of action of gabapentin for the management of chronic pelvic pain in women: study protocol."
+  ],
+  "authorString": [
+    "Horne AW, Critchley HO, Doust A, Fehr D, Wilson J, Wu O, Jack S, Porter M, Lewis S, Bhattacharya S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Horne AW"
+          ],
+          "firstName": [
+            "Andrew W"
+          ],
+          "lastName": [
+            "Horne"
+          ],
+          "initials": [
+            "AW"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-9656-493X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "MRC Centre for Reproductive Health, University of Edinburgh, Edinburgh, UK."
+          ]
+        },
+        {
+          "fullName": [
+            "Critchley HO"
+          ],
+          "firstName": [
+            "Hilary O D"
+          ],
+          "lastName": [
+            "Critchley"
+          ],
+          "initials": [
+            "HO"
+          ]
+        },
+        {
+          "fullName": [
+            "Doust A"
+          ],
+          "firstName": [
+            "Ann"
+          ],
+          "lastName": [
+            "Doust"
+          ],
+          "initials": [
+            "A"
+          ]
+        },
+        {
+          "fullName": [
+            "Fehr D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Fehr"
+          ],
+          "initials": [
+            "D"
+          ]
+        },
+        {
+          "fullName": [
+            "Wilson J"
+          ],
+          "firstName": [
+            "John"
+          ],
+          "lastName": [
+            "Wilson"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Wu O"
+          ],
+          "firstName": [
+            "Olivia"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0570-6016",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jack S"
+          ],
+          "firstName": [
+            "S"
+          ],
+          "lastName": [
+            "Jack"
+          ],
+          "initials": [
+            "S"
+          ]
+        },
+        {
+          "fullName": [
+            "Porter M"
+          ],
+          "firstName": [
+            "Maureen"
+          ],
+          "lastName": [
+            "Porter"
+          ],
+          "initials": [
+            "M"
+          ]
+        },
+        {
+          "fullName": [
+            "Lewis S"
+          ],
+          "firstName": [
+            "Steff"
+          ],
+          "lastName": [
+            "Lewis"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1210-2314",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bhattacharya S"
+          ],
+          "firstName": [
+            "Siladitya"
+          ],
+          "lastName": [
+            "Bhattacharya"
+          ],
+          "initials": [
+            "S"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1210-2314",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-9656-493X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0570-6016",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "2"
+      ],
+      "journalIssueId": [
+        "1929133"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMJ open"
+          ],
+          "ISOAbbreviation": [
+            "BMJ Open"
+          ],
+          "medlineAbbreviation": [
+            "BMJ Open"
+          ],
+          "NLMid": [
+            "101552874"
+          ],
+          "ISSN": [
+            "2044-6055"
+          ],
+          "ESSN": [
+            "2044-6055"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "abstractText": [
+    "Chronic pelvic pain (CPP) affects >1 million UK women. Annual healthcare costs are estimated at >£150 million. Proven interventions for CPP are limited, and treatment is often unsatisfactory. Gabapentin is increasingly prescribed due to reports of effectiveness in other chronic pain conditions, but there are insufficient data supporting value in CPP specifically. The mechanism by which gabapentin exerts its analgesic action is unknown. Given the prevalence and costs of CPP, the authors believe that a large, multicentre, placebo-controlled, double-blind randomised controlled trial to evaluate the efficacy of gabapentin in management of CPP is required. The focus of this study is a pilot to inform planning of a future randomised controlled trial.The authors plan to perform a two-arm, parallel, randomised controlled pilot trial. The authors aim to recruit 60 women with CPP in NHS Lothian and NHS Grampian (UK) and randomise them to gabapentin or placebo. Response to treatment will be monitored by questionnaire compared at 0, 3 and 6 months. The primary objective is to assess recruitment and retention rates. The secondary objectives are to determine the effectiveness and acceptability to participants of the proposed methods of recruitment, randomisation, drug treatments and assessment tools and to perform a pretrial cost-effectiveness assessment of treatment with gabapentin.Ethical approval has been obtained from the Scotland A Research Ethics Committee (LREC 12/SS/0005). Data will be presented at international conferences and published in peer-reviewed journals.ISRCTN70960777."
+  ],
+  "affiliation": [
+    "MRC Centre for Reproductive Health, University of Edinburgh, Edinburgh, UK."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "protocol",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CZH/4/688"
+          ],
+          "agency": [
+            "Chief Scientist Office"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G1002033"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "G0802808"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3371581?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3371581"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22685224/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22685224/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1136/bmjopen-2012-001297"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-10-02"
+  ],
+  "dateOfCreation": [
+    "2012-06-11"
+  ],
+  "dateOfRevision": [
+    "2017-09-22"
+  ],
+  "electronicPublicationDate": [
+    "2012-06-08"
+  ],
+  "firstPublicationDate": [
+    "2012-06-08"
+  ]
+}

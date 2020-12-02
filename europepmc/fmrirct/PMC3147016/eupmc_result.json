@@ -1,0 +1,526 @@
+{
+  "id": [
+    "21651800"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "21651800"
+  ],
+  "pmcid": [
+    "PMC3147016"
+  ],
+  "doi": [
+    "10.1186/1471-2318-11-29"
+  ],
+  "title": [
+    "Cognitive and cognitive-motor interventions affecting physical functioning: a systematic review."
+  ],
+  "authorString": [
+    "Pichierri G, Wolf P, Murer K, de Bruin ED."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pichierri G"
+          ],
+          "firstName": [
+            "Giuseppe"
+          ],
+          "lastName": [
+            "Pichierri"
+          ],
+          "initials": [
+            "G"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3582-5219",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wolf P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Wolf"
+          ],
+          "initials": [
+            "P"
+          ]
+        },
+        {
+          "fullName": [
+            "Murer K"
+          ],
+          "firstName": [
+            "Kurt"
+          ],
+          "lastName": [
+            "Murer"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "de Bruin ED"
+          ],
+          "firstName": [
+            "Eling D"
+          ],
+          "lastName": [
+            "de Bruin"
+          ],
+          "initials": [
+            "ED"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-6542-7385",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-6542-7385",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3582-5219",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "11"
+      ],
+      "journalIssueId": [
+        "1802113"
+      ],
+      "dateOfPublication": [
+        "2011 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2011"
+      ],
+      "printPublicationDate": [
+        "2011-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC geriatrics"
+          ],
+          "ISOAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "medlineAbbreviation": [
+            "BMC Geriatr"
+          ],
+          "NLMid": [
+            "100968548"
+          ],
+          "ISSN": [
+            "1471-2318"
+          ],
+          "ESSN": [
+            "1471-2318"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2011"
+  ],
+  "pageInfo": [
+    "29"
+  ],
+  "abstractText": [
+    "BACKGROUND: Several types of cognitive or combined cognitive-motor intervention types that might influence physical functions have been proposed in the past: training of dual-tasking abilities, and improving cognitive function through behavioral interventions or the use of computer games. The objective of this systematic review was to examine the literature regarding the use of cognitive and cognitive-motor interventions to improve physical functioning in older adults or people with neurological impairments that are similar to cognitive impairments seen in aging. The aim was to identify potentially promising methods that might be used in future intervention type studies for older adults. METHODS: A systematic search was conducted for the Medline/Premedline, PsycINFO, CINAHL and EMBASE databases. The search was focused on older adults over the age of 65. To increase the number of articles for review, we also included those discussing adult patients with neurological impairments due to trauma, as these cognitive impairments are similar to those seen in the aging population. The search was restricted to English, German and French language literature without any limitation of publication date or restriction by study design. Cognitive or cognitive-motor interventions were defined as dual-tasking, virtual reality exercise, cognitive exercise, or a combination of these. RESULTS: 28 articles met our inclusion criteria. Three articles used an isolated cognitive rehabilitation intervention, seven articles used a dual-task intervention and 19 applied a computerized intervention. There is evidence to suggest that cognitive or motor-cognitive methods positively affects physical functioning, such as postural control, walking abilities and general functions of the upper and lower extremities, respectively. The majority of the included studies resulted in improvements of the assessed functional outcome measures. CONCLUSIONS: The current evidence on the effectiveness of cognitive or motor-cognitive interventions to improve physical functioning in older adults or people with neurological impairments is limited. The heterogeneity of the studies published so far does not allow defining the training methodology with the greatest effectiveness. This review nevertheless provides important foundational information in order to encourage further development of novel cognitive or cognitive-motor interventions, preferably with a randomized control design. Future research that aims to examine the relation between improvements in cognitive skills and the translation to better performance on selected physical tasks should explicitly take the relation between the cognitive and physical skills into account."
+  ],
+  "affiliation": [
+    "Institute of Human Movement Sciences and Sport, ETH Zurich, Switzerland. pichierri@move.biol.ethz.ch"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Comparative Study",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Motor Activity"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Psychomotor Performance"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PH"
+                  ],
+                  "qualifierName": [
+                    "physiology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cognition Disorders"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Randomized Controlled Trials as Topic"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3147016?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3147016"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21651800/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/21651800/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2318-11-29"
+          ]
+        }
+      ]
+    }
+  ],
+  "extCommentList": [
+    {
+      "extComment": [
+        {
+          "extCommentSource": [
+            "CRD"
+          ],
+          "info1": [
+            "12012025388"
+          ],
+          "info2": [
+            "DARE"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "41"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-05-22"
+  ],
+  "dateOfCreation": [
+    "2011-08-01"
+  ],
+  "dateOfRevision": [
+    "2013-06-28"
+  ],
+  "electronicPublicationDate": [
+    "2011-06-08"
+  ],
+  "firstPublicationDate": [
+    "2011-06-08"
+  ]
+}

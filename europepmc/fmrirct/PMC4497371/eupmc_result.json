@@ -1,0 +1,515 @@
+{
+  "id": [
+    "26160221"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26160221"
+  ],
+  "pmcid": [
+    "PMC4497371"
+  ],
+  "doi": [
+    "10.1186/s12889-015-2017-6"
+  ],
+  "title": [
+    "Increasing physical activity in office workers--the Inphact Treadmill study; a study protocol for a 13-month randomized controlled trial of treadmill workstations."
+  ],
+  "authorString": [
+    "Bergman F, Boraxbekk CJ, Wennberg P, Sörlin A, Olsson T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Bergman F"
+          ],
+          "firstName": [
+            "Frida"
+          ],
+          "lastName": [
+            "Bergman"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Public Health and Clinical Medicine, Medicine, Umeå University, Umeå, Sweden. frida.bergman@umu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Boraxbekk CJ"
+          ],
+          "firstName": [
+            "Carl-Johan"
+          ],
+          "lastName": [
+            "Boraxbekk"
+          ],
+          "initials": [
+            "CJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4458-6475",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "UFBI, Umeå Center for Functional Brain Imaging, Umeå University, Umeå, Sweden. carl-johan.boraxbekk@umu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Wennberg P"
+          ],
+          "firstName": [
+            "Patrik"
+          ],
+          "lastName": [
+            "Wennberg"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Department of Public Health and Clinical Medicine, Family Medicine, Umeå University, Umeå, Sweden. patrik.wennberg@umu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Sörlin A"
+          ],
+          "firstName": [
+            "Ann"
+          ],
+          "lastName": [
+            "Sörlin"
+          ],
+          "initials": [
+            "A"
+          ],
+          "affiliation": [
+            "Department of Community Medicine and Rehabilitation, Physiotherapy, Umeå University, Umeå, Sweden. ann.sorlin@umu.se."
+          ]
+        },
+        {
+          "fullName": [
+            "Olsson T"
+          ],
+          "firstName": [
+            "Tommy"
+          ],
+          "lastName": [
+            "Olsson"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Public Health and Clinical Medicine, Medicine, Umeå University, Umeå, Sweden. tommy.g.olsson@umu.se."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4458-6475",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "15"
+      ],
+      "journalIssueId": [
+        "2476179"
+      ],
+      "dateOfPublication": [
+        "2015 Jul"
+      ],
+      "monthOfPublication": [
+        "7"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-07-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC public health"
+          ],
+          "ISOAbbreviation": [
+            "BMC Public Health"
+          ],
+          "medlineAbbreviation": [
+            "BMC Public Health"
+          ],
+          "NLMid": [
+            "100968562"
+          ],
+          "ISSN": [
+            "1471-2458"
+          ],
+          "ESSN": [
+            "1471-2458"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "632"
+  ],
+  "abstractText": [
+    "Sedentary behaviour is an independent risk factor for mortality and morbidity, especially for type 2 diabetes. Since office work is related to long periods that are largely sedentary, it is of major importance to find ways for office workers to engage in light intensity physical activity (LPA). The Inphact Treadmill study aims to investigate the effects of installing treadmill workstations in offices compared to conventional workstations.A two-arm, 13-month, randomized controlled trial (RCT) will be conducted. Healthy overweight and obese office workers (n = 80) with mainly sedentary tasks will be recruited from office workplaces in Umeå, Sweden. The intervention group will receive a health consultation and a treadmill desk, which they will use for at least one hour per day for 13 months. The control group will receive the same health consultation, but continue to work at their regular workstations. Physical activity and sedentary time during workdays and non-workdays as well as during working and non-working hours on workdays will be measured objectively using accelerometers (Actigraph and activPAL) at baseline and after 2, 6, 10, and 13 months of follow-up. Food intake will be recorded and metabolic and anthropometric variables, body composition, stress, pain, depression, anxiety, cognitive function, and functional magnetic resonance imaging will be measured at 3-5 time points during the study period. Interviews with participants from the intervention group will be performed at the end of the study.This will be the first long-term RCT on the effects of treadmill workstations on objectively measured physical activity and sedentary time as well as other body functions and structures/morphology during working and non-working hours among office workers. This will provide further insight on the effects of active workstations on our health and could fill in some of the knowledge gaps regarding how we can reduce sedentary time in office environments.ClinicalTrials.gov Identifier NCT01997970, 2nd Nov 2013."
+  ],
+  "affiliation": [
+    "Department of Public Health and Clinical Medicine, Medicine, Umeå University, Umeå, Sweden. frida.bergman@umu.se."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Obesity"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Exercise"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Walking"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "SN"
+                  ],
+                  "qualifierName": [
+                    "statistics & numerical data"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Adult"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Middle Aged"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Workplace"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Occupations"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sweden"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Overweight"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sedentary Lifestyle"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Accelerometry"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4497371?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC4497371"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12889-015-2017-6"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-02-01"
+  ],
+  "dateOfCreation": [
+    "2015-07-10"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-10"
+  ],
+  "firstPublicationDate": [
+    "2015-07-10"
+  ]
+}

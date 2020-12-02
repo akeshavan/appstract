@@ -1,0 +1,558 @@
+{
+  "id": [
+    "22496739"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22496739"
+  ],
+  "pmcid": [
+    "PMC3322129"
+  ],
+  "doi": [
+    "10.1371/journal.pone.0032960"
+  ],
+  "title": [
+    "Characterizing acupuncture stimuli using brain imaging with FMRI--a systematic review and meta-analysis of the literature."
+  ],
+  "authorString": [
+    "Huang W, Pach D, Napadow V, Park K, Long X, Neumann J, Maeda Y, Nierhaus T, Liang F, Witt CM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Huang W"
+          ],
+          "firstName": [
+            "Wenjing"
+          ],
+          "lastName": [
+            "Huang"
+          ],
+          "initials": [
+            "W"
+          ],
+          "affiliation": [
+            "Institute for Social Medicine, Epidemiology and Health Economics, Charité University Medical Center, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Pach D"
+          ],
+          "firstName": [
+            "Daniel"
+          ],
+          "lastName": [
+            "Pach"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-2459-6596",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Napadow V"
+          ],
+          "firstName": [
+            "Vitaly"
+          ],
+          "lastName": [
+            "Napadow"
+          ],
+          "initials": [
+            "V"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1941-1750",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Park K"
+          ],
+          "firstName": [
+            "Kyungmo"
+          ],
+          "lastName": [
+            "Park"
+          ],
+          "initials": [
+            "K"
+          ]
+        },
+        {
+          "fullName": [
+            "Long X"
+          ],
+          "firstName": [
+            "Xiangyu"
+          ],
+          "lastName": [
+            "Long"
+          ],
+          "initials": [
+            "X"
+          ]
+        },
+        {
+          "fullName": [
+            "Neumann J"
+          ],
+          "firstName": [
+            "Jane"
+          ],
+          "lastName": [
+            "Neumann"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Maeda Y"
+          ],
+          "firstName": [
+            "Yumi"
+          ],
+          "lastName": [
+            "Maeda"
+          ],
+          "initials": [
+            "Y"
+          ]
+        },
+        {
+          "fullName": [
+            "Nierhaus T"
+          ],
+          "firstName": [
+            "Till"
+          ],
+          "lastName": [
+            "Nierhaus"
+          ],
+          "initials": [
+            "T"
+          ]
+        },
+        {
+          "fullName": [
+            "Liang F"
+          ],
+          "firstName": [
+            "Fanrong"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "F"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2210-2027",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Witt CM"
+          ],
+          "firstName": [
+            "Claudia M"
+          ],
+          "lastName": [
+            "Witt"
+          ],
+          "initials": [
+            "CM"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-2459-6596",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-2210-2027",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0003-1941-1750",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "4"
+      ],
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "1920705"
+      ],
+      "dateOfPublication": [
+        "2012 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "PloS one"
+          ],
+          "ISOAbbreviation": [
+            "PLoS ONE"
+          ],
+          "medlineAbbreviation": [
+            "PLoS One"
+          ],
+          "NLMid": [
+            "101285081"
+          ],
+          "ISSN": [
+            "1932-6203"
+          ],
+          "ESSN": [
+            "1932-6203"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "e32960"
+  ],
+  "abstractText": [
+    "The mechanisms of action underlying acupuncture, including acupuncture point specificity, are not well understood. In the previous decade, an increasing number of studies have applied fMRI to investigate brain response to acupuncture stimulation. Our aim was to provide a systematic overview of acupuncture fMRI research considering the following aspects: 1) differences between verum and sham acupuncture, 2) differences due to various methods of acupuncture manipulation, 3) differences between patients and healthy volunteers, 4) differences between different acupuncture points.We systematically searched English, Chinese, Korean and Japanese databases for literature published from the earliest available up until September 2009, without any language restrictions. We included all studies using fMRI to investigate the effect of acupuncture on the human brain (at least one group that received needle-based acupuncture). 779 papers were identified, 149 met the inclusion criteria for the descriptive analysis, and 34 were eligible for the meta-analyses. From a descriptive perspective, multiple studies reported that acupuncture modulates activity within specific brain areas, including somatosensory cortices, limbic system, basal ganglia, brain stem, and cerebellum. Meta-analyses for verum acupuncture stimuli confirmed brain activity within many of the regions mentioned above. Differences between verum and sham acupuncture were noted in brain response in middle cingulate, while some heterogeneity was noted for other regions depending on how such meta-analyses were performed, such as sensorimotor cortices, limbic regions, and cerebellum.Brain response to acupuncture stimuli encompasses a broad network of regions consistent with not just somatosensory, but also affective and cognitive processing. While the results were heterogeneous, from a descriptive perspective most studies suggest that acupuncture can modulate the activity within specific brain areas, and the evidence based on meta-analyses confirmed some of these results. More high quality studies with more transparent methodology are needed to improve the consistency amongst different studies."
+  ],
+  "affiliation": [
+    "Institute for Social Medicine, Epidemiology and Health Economics, Charité University Medical Center, Berlin, Germany."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Magnetic Resonance Imaging"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Acupuncture Therapy"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Brain Mapping"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Case-Control Studies"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Image Processing, Computer-Assisted"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Review Literature as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Meta-Analysis as Topic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Neuroimaging"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3322129?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3322129"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22496739/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22496739/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1371/journal.pone.0032960"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "60"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2012-08-21"
+  ],
+  "dateOfCreation": [
+    "2012-04-13"
+  ],
+  "dateOfRevision": [
+    "2018-03-15"
+  ],
+  "electronicPublicationDate": [
+    "2012-04-09"
+  ],
+  "firstPublicationDate": [
+    "2012-04-09"
+  ]
+}

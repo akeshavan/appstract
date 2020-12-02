@@ -1,0 +1,321 @@
+{
+  "id": [
+    "29458420"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29458420"
+  ],
+  "pmcid": [
+    "PMC5819240"
+  ],
+  "doi": [
+    "10.1186/s13195-018-0347-1"
+  ],
+  "title": [
+    "Effects of pharmacological and nonpharmacological treatments on brain functional magnetic resonance imaging in Alzheimer's disease and mild cognitive impairment: a critical review."
+  ],
+  "authorString": [
+    "Canu E, Sarasso E, Filippi M, Agosta F."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Canu E"
+          ],
+          "firstName": [
+            "Elisa"
+          ],
+          "lastName": [
+            "Canu"
+          ],
+          "initials": [
+            "E"
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina, 60, 20132, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Sarasso E"
+          ],
+          "firstName": [
+            "Elisabetta"
+          ],
+          "lastName": [
+            "Sarasso"
+          ],
+          "initials": [
+            "E"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-5300-2849",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina, 60, 20132, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Filippi M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Filippi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina, 60, 20132, Milan, Italy."
+          ]
+        },
+        {
+          "fullName": [
+            "Agosta F"
+          ],
+          "firstName": [
+            "Federica"
+          ],
+          "lastName": [
+            "Agosta"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina, 60, 20132, Milan, Italy. agosta.federica@hsr.it."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-5300-2849",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2646419"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Alzheimer's research & therapy"
+          ],
+          "ISOAbbreviation": [
+            "Alzheimers Res Ther"
+          ],
+          "medlineAbbreviation": [
+            "Alzheimers Res Ther"
+          ],
+          "NLMid": [
+            "101511643"
+          ],
+          "ISSN": [
+            "1758-9193"
+          ],
+          "ESSN": [
+            "1758-9193"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "21"
+  ],
+  "abstractText": [
+    "A growing number of pharmacological and nonpharmacological trials have been performed to test the efficacy of approved or experimental treatments in Alzheimer disease (AD) and mild cognitive impairment (MCI). In this context, functional magnetic resonance imaging (fMRI) may be a good candidate to detect brain changes after a short period of treatment.This critical review aimed to identify and discuss the available studies that have tested the efficacy of pharmacological and nonpharmacological treatments in AD and MCI cases using task-based or resting-state fMRI measures as primary outcomes. A PubMed-based literature search was performed with the use of the three macro-areas: 'disease', 'type of MRI', and 'type of treatment'. Each contribution was individually reviewed according to the Cochrane Collaboration's tool for assessing risk of bias. Study limitations were systematically detected and critically discussed. We selected 34 pharmacological and 13 nonpharmacological articles. According to the Cochrane Collaboration's tool for assessing risk of bias, 40% of these studies were randomized but only a few described clearly the randomization procedure, 36% declared the blindness of participants and personnel, and only 21% reported the blindness of outcome assessment. In addition, 28% of the studies presented more than 20% drop-outs at short- and/or long-term assessments. Additional common shortcomings of the reviewed works were related to study design, patient selection, sample size, choice of outcome measures, management of drop-out cases, and fMRI methods.There is an urgent need to obtain efficient treatments for AD and MCI. fMRI is powerful enough to detect even subtle changes over a short period of treatment; however, the soundness of methods should be improved to enable meaningful data interpretation."
+  ],
+  "affiliation": [
+    "Neuroimaging Research Unit, Institute of Experimental Neurology, Division of Neuroscience, San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Via Olgettina, 60, 20132, Milan, Italy."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Cognition",
+        "Training",
+        "Alzheimer’s Disease (Ad)",
+        "Pharmacological Treatments",
+        "Nonpharmacological Treatments",
+        "Mild Cognitive Impairment (Mci)",
+        "Functional Magnetic Resonance Imaging (Mri)"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5819240?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5819240"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13195-018-0347-1"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-21"
+  ],
+  "dateOfRevision": [
+    "2018-02-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-20"
+  ],
+  "firstPublicationDate": [
+    "2018-02-20"
+  ]
+}

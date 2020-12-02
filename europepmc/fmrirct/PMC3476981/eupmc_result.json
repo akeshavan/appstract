@@ -1,0 +1,637 @@
+{
+  "id": [
+    "22515496"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "22515496"
+  ],
+  "pmcid": [
+    "PMC3476981"
+  ],
+  "doi": [
+    "10.1186/1471-2474-13-58"
+  ],
+  "title": [
+    "The effectiveness and cost evaluation of pain exposure physical therapy and conventional therapy in patients with complex regional pain syndrome type 1. Rationale and design of a randomized controlled trial."
+  ],
+  "authorString": [
+    "Barnhoorn KJ, Oostendorp RA, van Dongen RT, Klomp FP, Samwel H, van der Wilt GJ, Adang E, Groenewoud H, van de Meent H, Frölke JP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Barnhoorn KJ"
+          ],
+          "firstName": [
+            "Karlijn J"
+          ],
+          "lastName": [
+            "Barnhoorn"
+          ],
+          "initials": [
+            "KJ"
+          ],
+          "affiliation": [
+            "Department of Surgery, Radboud University Nijmegen Medical Centre, Nijmegen, HB, The Netherlands."
+          ]
+        },
+        {
+          "fullName": [
+            "Oostendorp RA"
+          ],
+          "firstName": [
+            "Rob A B"
+          ],
+          "lastName": [
+            "Oostendorp"
+          ],
+          "initials": [
+            "RA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-6697-0817",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Dongen RT"
+          ],
+          "firstName": [
+            "Robert T M"
+          ],
+          "lastName": [
+            "van Dongen"
+          ],
+          "initials": [
+            "RT"
+          ]
+        },
+        {
+          "fullName": [
+            "Klomp FP"
+          ],
+          "firstName": [
+            "Frank P"
+          ],
+          "lastName": [
+            "Klomp"
+          ],
+          "initials": [
+            "FP"
+          ]
+        },
+        {
+          "fullName": [
+            "Samwel H"
+          ],
+          "firstName": [
+            "Han"
+          ],
+          "lastName": [
+            "Samwel"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "van der Wilt GJ"
+          ],
+          "firstName": [
+            "Gert Jan"
+          ],
+          "lastName": [
+            "van der Wilt"
+          ],
+          "initials": [
+            "GJ"
+          ]
+        },
+        {
+          "fullName": [
+            "Adang E"
+          ],
+          "firstName": [
+            "Eddy"
+          ],
+          "lastName": [
+            "Adang"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Groenewoud H"
+          ],
+          "firstName": [
+            "Hans"
+          ],
+          "lastName": [
+            "Groenewoud"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "van de Meent H"
+          ],
+          "firstName": [
+            "Henk"
+          ],
+          "lastName": [
+            "van de Meent"
+          ],
+          "initials": [
+            "H"
+          ]
+        },
+        {
+          "fullName": [
+            "Frölke JP"
+          ],
+          "firstName": [
+            "Jan Paul M"
+          ],
+          "lastName": [
+            "Frölke"
+          ],
+          "initials": [
+            "JP"
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-6697-0817",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "13"
+      ],
+      "journalIssueId": [
+        "2471008"
+      ],
+      "dateOfPublication": [
+        "2012 Apr"
+      ],
+      "monthOfPublication": [
+        "4"
+      ],
+      "yearOfPublication": [
+        "2012"
+      ],
+      "printPublicationDate": [
+        "2012-04-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC musculoskeletal disorders"
+          ],
+          "ISOAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "medlineAbbreviation": [
+            "BMC Musculoskelet Disord"
+          ],
+          "NLMid": [
+            "100968565"
+          ],
+          "ISSN": [
+            "1471-2474"
+          ],
+          "ESSN": [
+            "1471-2474"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2012"
+  ],
+  "pageInfo": [
+    "58"
+  ],
+  "abstractText": [
+    "Pain Exposure Physical Therapy is a new treatment option for patients with Complex Regional Pain Syndrome type 1. It has been evaluated in retrospective as well as in prospective studies and proven to be safe and possibly effective. This indicates that Pain Exposure Physical Therapy is now ready for clinical evaluation. The results of an earlier performed pilot study with an n = 1 design, in which 20 patients with Complex Regional Pain Syndrome type 1 were treated with Pain Exposure Physical Therapy, were used for the design and power calculation of the present study.After completion and evaluation of this phase III study, a multi-centre implementation study will be conducted.The aim of this study is to determine whether Pain Exposure Physical Therapy can improve functional outcomes in patients with Complex Regional Pain Syndrome type 1.This study is designed as a single-blinded, randomized clinical trial. 62 patients will be randomized with a follow-up of 9 months to demonstrate the expected treatment effect. Complex Regional Pain Syndrome type 1 is diagnosed in accordance with the Bruehl/International Association for the Study of Pain criteria. Conventional therapy in accordance with the Dutch guideline will be compared with Pain Exposure Physical Therapy. Primary outcome measure is the Impairment level SumScore, restricted version.This is the first randomized controlled study with single blinding that has ever been planned in patients with Complex Regional Pain Syndrome type 1 and does not focus on a single aspect of the pain syndrome but compares treatment strategies based on completely different pathophysiological and cognitive theories."
+  ],
+  "affiliation": [
+    "Department of Surgery, Radboud University Nijmegen Medical Centre, Nijmegen, HB, The Netherlands."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Clinical Trial, Phase III",
+        "research-article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Reflex Sympathetic Dystrophy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PP"
+                  ],
+                  "qualifierName": [
+                    "physiopathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Measurement"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Treatment Outcome"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Single-Blind Method"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Research Design"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Time Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cost-Benefit Analysis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Health Care Costs"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Netherlands"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Physical Therapy Modalities"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Pain Management"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "EC"
+                  ],
+                  "qualifierName": [
+                    "economics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3476981?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3476981"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22515496/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/22515496/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1471-2474-13-58"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "nct"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2013-03-12"
+  ],
+  "dateOfCreation": [
+    "2012-10-19"
+  ],
+  "dateOfRevision": [
+    "2016-12-15"
+  ],
+  "electronicPublicationDate": [
+    "2012-04-19"
+  ],
+  "firstPublicationDate": [
+    "2012-04-19"
+  ]
+}

@@ -1,0 +1,444 @@
+{
+  "id": [
+    "29343470"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29343470"
+  ],
+  "pmcid": [
+    "PMC5818015"
+  ],
+  "doi": [
+    "10.1212/wnl.0000000000004977"
+  ],
+  "title": [
+    "Cognition in multiple sclerosis: State of the field and priorities for the future."
+  ],
+  "authorString": [
+    "Sumowski JF, Benedict R, Enzinger C, Filippi M, Geurts JJ, Hamalainen P, Hulst H, Inglese M, Leavitt VM, Rocca MA, Rosti-Otajarvi EM, Rao S."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Sumowski JF"
+          ],
+          "firstName": [
+            "James F"
+          ],
+          "lastName": [
+            "Sumowski"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH. james.sumowski@mssm.edu."
+          ]
+        },
+        {
+          "fullName": [
+            "Benedict R"
+          ],
+          "firstName": [
+            "Ralph"
+          ],
+          "lastName": [
+            "Benedict"
+          ],
+          "initials": [
+            "R"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Enzinger C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Enzinger"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Filippi M"
+          ],
+          "firstName": [
+            "Massimo"
+          ],
+          "lastName": [
+            "Filippi"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Geurts JJ"
+          ],
+          "firstName": [
+            "Jeroen J"
+          ],
+          "lastName": [
+            "Geurts"
+          ],
+          "initials": [
+            "JJ"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Hamalainen P"
+          ],
+          "firstName": [
+            "Paivi"
+          ],
+          "lastName": [
+            "Hamalainen"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Hulst H"
+          ],
+          "firstName": [
+            "Hanneke"
+          ],
+          "lastName": [
+            "Hulst"
+          ],
+          "initials": [
+            "H"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Inglese M"
+          ],
+          "firstName": [
+            "Matilde"
+          ],
+          "lastName": [
+            "Inglese"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Leavitt VM"
+          ],
+          "firstName": [
+            "Victoria M"
+          ],
+          "lastName": [
+            "Leavitt"
+          ],
+          "initials": [
+            "VM"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Rocca MA"
+          ],
+          "firstName": [
+            "Maria A"
+          ],
+          "lastName": [
+            "Rocca"
+          ],
+          "initials": [
+            "MA"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2358-4320",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Rosti-Otajarvi EM"
+          ],
+          "firstName": [
+            "Eija M"
+          ],
+          "lastName": [
+            "Rosti-Otajarvi"
+          ],
+          "initials": [
+            "EM"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        },
+        {
+          "fullName": [
+            "Rao S"
+          ],
+          "firstName": [
+            "Stephen"
+          ],
+          "lastName": [
+            "Rao"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2358-4320",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "6"
+      ],
+      "volume": [
+        "90"
+      ],
+      "journalIssueId": [
+        "2651667"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neurology"
+          ],
+          "ISOAbbreviation": [
+            "Neurology"
+          ],
+          "medlineAbbreviation": [
+            "Neurology"
+          ],
+          "NLMid": [
+            "0401060"
+          ],
+          "ISSN": [
+            "0028-3878"
+          ],
+          "ESSN": [
+            "1526-632X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "278-288"
+  ],
+  "abstractText": [
+    "Cognitive decline is recognized as a prevalent and debilitating symptom of multiple sclerosis (MS), especially deficits in episodic memory and processing speed. The field aims to (1) incorporate cognitive assessment into standard clinical care and clinical trials, (2) utilize state-of-the-art neuroimaging to more thoroughly understand neural bases of cognitive deficits, and (3) develop effective, evidence-based, clinically feasible interventions to prevent or treat cognitive dysfunction, which are lacking. There are obstacles to these goals. Our group of MS researchers and clinicians with varied expertise took stock of the current state of the field, and we identify several important practical and theoretical challenges, including key knowledge gaps and methodologic limitations related to (1) understanding and measurement of cognitive deficits, (2) neuroimaging of neural bases and correlates of deficits, and (3) development of effective treatments. This is not a comprehensive review of the extensive literature, but instead a statement of guidelines and priorities for the field. For instance, we provide recommendations for improving the scientific basis and methodologic rigor for cognitive rehabilitation research. Toward this end, we call for multidisciplinary collaborations toward development of biologically based theoretical models of cognition capable of empirical validation and evidence-based refinement, providing the scientific context for effective treatment discovery."
+  ],
+  "affiliation": [
+    "From the Department of Neurology & Corinne Goldsmith Dickinson Center for Multiple Sclerosis (J.F.S., M.I.), Icahn School of Medicine at Mount Sinai, New York; Department of Neurology (R.B.), School of Medicine and Biomedical Sciences, University of Buffalo, State University of New York (SUNY); Department of Neurology (C.E.), Medical University of Graz, Austria; Department of Neurology & Neuroimaging Research Unit, Division of Neuroscience (M.F., M.A.R.), San Raffaele Scientific Institute, Vita-Salute San Raffaele University, Milan, Italy; Department of Anatomy and Neurosciences (J.J.G., H.H.), VU University Medical Center, Amsterdam Neuroscience, VUmc MS Center Amsterdam, the Netherlands; Masku Neurological Rehabilitation Centre (P.H.), Masku, Finland; Department of Neuroscience, Rehabilitation, Ophthalmology, Genetics, and Mother-Child Health (M.I.), University of Genoa, Italy; Department of Neurology & Columbia University Multiple Sclerosis Clinical Care and Research Center (V.M.L.), Columbia University Medical Center, New York, NY; Department of Neurology and Rehabilitation (E.M.R.-O.), Tampere University Hospital, Finland; and Schey Center for Cognitive Neuroimaging, Neurological Institute (S.R.), Cleveland Clinic, OH. james.sumowski@mssm.edu."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5818015?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5818015"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1212/WNL.0000000000004977"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by-nc-nd"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-01-19"
+  ],
+  "dateOfRevision": [
+    "2018-02-22"
+  ],
+  "electronicPublicationDate": [
+    "2018-01-17"
+  ],
+  "firstPublicationDate": [
+    "2018-01-17"
+  ]
+}

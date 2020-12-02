@@ -1,0 +1,501 @@
+{
+  "id": [
+    "23715815"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "23715815"
+  ],
+  "pmcid": [
+    "PMC3728458"
+  ],
+  "doi": [
+    "10.1007/s00520-013-1841-4"
+  ],
+  "title": [
+    "Music-based interventions in palliative cancer care: a review of quantitative studies and neurobiological literature."
+  ],
+  "authorString": [
+    "Archie P, Bruera E, Cohen L."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Archie P"
+          ],
+          "firstName": [
+            "Patrick"
+          ],
+          "lastName": [
+            "Archie"
+          ],
+          "initials": [
+            "P"
+          ],
+          "affiliation": [
+            "Celilo Cancer Center, Mid-Columbia Medical Center, 1800 East 19th Street, The Dalles, OR 97058, USA. patrick.the.oncologist@gmail.com"
+          ]
+        },
+        {
+          "fullName": [
+            "Bruera E"
+          ],
+          "firstName": [
+            "Eduardo"
+          ],
+          "lastName": [
+            "Bruera"
+          ],
+          "initials": [
+            "E"
+          ]
+        },
+        {
+          "fullName": [
+            "Cohen L"
+          ],
+          "firstName": [
+            "Lorenzo"
+          ],
+          "lastName": [
+            "Cohen"
+          ],
+          "initials": [
+            "L"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "9"
+      ],
+      "volume": [
+        "21"
+      ],
+      "journalIssueId": [
+        "2060888"
+      ],
+      "dateOfPublication": [
+        "2013 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer"
+          ],
+          "ISOAbbreviation": [
+            "Support Care Cancer"
+          ],
+          "medlineAbbreviation": [
+            "Support Care Cancer"
+          ],
+          "NLMid": [
+            "9302957"
+          ],
+          "ISSN": [
+            "0941-4355"
+          ],
+          "ESSN": [
+            "1433-7339"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "2609-2624"
+  ],
+  "abstractText": [
+    "PURPOSE: This study aimed to review quantitative literature pertaining to studies of music-based interventions in palliative cancer care and to review the neurobiological literature that may bare relevance to the findings from these studies. METHODS: A narrative review was performed, with particular emphasis on RCTs, meta-analyses, and systematic reviews. The Cochrane Library, Ovid, PubMed, CINAHL Plus, PsycINFO, and ProQuest were searched for the subject headings music, music therapy, cancer, oncology, palliative care, pain, anxiety, depression, mood, quality of life, prevalence, neuroscience, functional imaging, endogenous opioids, GABA, 5HT, dopamine, and permutations of these same search terms. Data for the review were comprised of articles published between 1970 and 2012. References of all the cited articles were also reviewed. RESULTS: Available evidence suggests that music-based interventions may have a positive impact on pain, anxiety, mood disturbance, and quality of life in cancer patients. Advances in neurobiology may provide insight into the potential mechanisms by which music impacts these outcomes. CONCLUSIONS: More research is needed to determine what subpopulation of cancer patients is most likely to respond to music-based interventions, what interventions are most effective for individual outcomes, and what measurement parameters best gauge their effectiveness."
+  ],
+  "affiliation": [
+    "Celilo Cancer Center, Mid-Columbia Medical Center, 1800 East 19th Street, The Dalles, OR 97058, USA. patrick.the.oncologist@gmail.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print-Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Music Therapy"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Palliative Care"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "MT"
+                  ],
+                  "qualifierName": [
+                    "methods"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Depression"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Anxiety"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "PX"
+                  ],
+                  "qualifierName": [
+                    "psychology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Music"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3728458?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC3728458"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23715815/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/23715815/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1007/s00520-013-1841-4"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "29"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-06-02"
+  ],
+  "dateOfCreation": [
+    "2013-07-31"
+  ],
+  "electronicPublicationDate": [
+    "2013-05-30"
+  ],
+  "firstPublicationDate": [
+    "2013-05-30"
+  ]
+}

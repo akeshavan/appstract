@@ -1,0 +1,258 @@
+{
+  "id": [
+    "19300564"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "19300564"
+  ],
+  "pmcid": [
+    "PMC2654795"
+  ],
+  "title": [
+    "Donepezil in Alzheimer's disease: From conventional trials to pharmacogenetics."
+  ],
+  "authorString": [
+    "Cacabelos R."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Cacabelos R"
+          ],
+          "firstName": [
+            "Ramón"
+          ],
+          "lastName": [
+            "Cacabelos"
+          ],
+          "initials": [
+            "R"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "1606404"
+      ],
+      "dateOfPublication": [
+        "2007 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Neuropsychiatric disease and treatment"
+          ],
+          "ISOAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "medlineAbbreviation": [
+            "Neuropsychiatr Dis Treat"
+          ],
+          "NLMid": [
+            "101240304"
+          ],
+          "ISSN": [
+            "1176-6328"
+          ],
+          "ESSN": [
+            "1178-2021"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "pageInfo": [
+    "303-333"
+  ],
+  "abstractText": [
+    "Donepezil is the leading compound for the treatment of Alzheimer's disease (AD) in more than 50 countries. As compared with other conventional acetylcholinesterase inhibitors (AChEIs), donepezil is a highly selective and reversible piperidine derivative with AChEI activity that exhibits the best pharmacological profile in terms of cognitive improvement, responders rate (40%-58%), dropout cases (5%-13%), and side-effects (6%-13%) in AD. Although donepezil represents a non cost-effective treatment, most studies convey that this drug can provide a modest benefit on cognition, behavior, and activities of the daily living in both moderate and severe AD, contributing to slow down disease progression and, to a lesser exetnt, to delay institutionalization. Patients with vascular dementia might also benefit from donepezil in a similar fashion to AD patients. Some potential effects of donepezil on the AD brain, leading to reduced cortico-hippocampal atrophy, include the following: AChE inhibition, enhancement of cholinergic neurotransmission and putative modulation of other neurotransmitter systems, protection against glutamate-induced excitotoxicity, activation of neurotrophic mechanisms, promotion of non-amyloidodgenic pathways for APP processing, and indirect effects on cerebrovascular function improving brain perfusion. Recent studies demonstrate that the therapeutic response in AD is genotype-specific. Donepezil is metabolized via CYP-related enzymes, especially CYP2D6, CYP3A4, and CYP1A2. Approximately, 15%-20% of the AD population may exhibit an abnormal metabolism of AChEIs; about 50% of this population cluster would show an ultrarapid metabolism, requiring higher doses of AChEIs to reach a therapeutic threshold, whereas the other 50% of the cluster would exhibit a poor metabolism, displaying potential adverse events at low doses. In AD patients treated with a multifactorial therapy, including donepezil, the best responders are the CYP2D6-related extensive (EM)(*1/*1, *1/*10) (57.47%) and intermediate metabolizers (IM)(*1/*3, *1/*5, *1/*6, *7/*10) (25.29%), and the worst responders are the poor (PM) (*4/*4)(9.20%) and ultra-rapid metabolizers (UM) (*1xN/*1) (8.04%). Pharmacogenetic and pharmacogenomic factors may account for 75%-85% of the therapeutic response in AD patients treated with donepezil and other AChEIs metabolized via enzymes of the CYP family. The implementation of pharmacogenetic protocols can optimize AD therapeutics."
+  ],
+  "affiliation": [
+    "EuroEspes Biomedical Research Center, Institute for CNS Disorders, Coruña, Spain; EuroEspes Chair of Biotechnology and Genomics, Camilo José Cela University, Madrid, Spain. rcacabelos@euroespes.com"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Print"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Pharmacokinetics",
+        "Pharmacodynamics",
+        "Vascular dementia",
+        "Alzheimer’s disease",
+        "CYP2D6",
+        "Pharmacogenetics",
+        "Donepezil",
+        "Cns Disorders"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2654795?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC2654795"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19300564/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/19300564/?tool=EBI"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "27"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2011-05-17"
+  ],
+  "dateOfCreation": [
+    "2009-03-20"
+  ],
+  "dateOfRevision": [
+    "2013-05-23"
+  ],
+  "firstPublicationDate": [
+    "2007-06-01"
+  ]
+}

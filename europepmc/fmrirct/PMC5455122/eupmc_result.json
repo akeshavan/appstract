@@ -1,0 +1,696 @@
+{
+  "id": [
+    "28577550"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "28577550"
+  ],
+  "pmcid": [
+    "PMC5455122"
+  ],
+  "doi": [
+    "10.1186/s12888-017-1362-7"
+  ],
+  "title": [
+    "Study protocol of the ASD-Net, the German research consortium for the study of Autism Spectrum Disorder across the lifespan: from a better etiological understanding, through valid diagnosis, to more effective health care."
+  ],
+  "authorString": [
+    "Kamp-Becker I, Poustka L, Bachmann C, Ehrlich S, Hoffmann F, Kanske P, Kirsch P, Krach S, Paulus FM, Rietschel M, Roepke S, Roessner V, Schad-Hansjosten T, Singer T, Stroth S, Witt S, Wermter AK."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Kamp-Becker I"
+          ],
+          "firstName": [
+            "Inge"
+          ],
+          "lastName": [
+            "Kamp-Becker"
+          ],
+          "initials": [
+            "I"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Medical Clinic, Philipps-University Marburg, Marburg, Germany. kampbeck@med.uni-marburg.de."
+          ]
+        },
+        {
+          "fullName": [
+            "Poustka L"
+          ],
+          "firstName": [
+            "Luise"
+          ],
+          "lastName": [
+            "Poustka"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7738-4394",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry and Psychotherapy, Medical Faculty Mannheim, Central Institute of Mental Health, Heidelberg University, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Bachmann C"
+          ],
+          "firstName": [
+            "Christian"
+          ],
+          "lastName": [
+            "Bachmann"
+          ],
+          "initials": [
+            "C"
+          ],
+          "affiliation": [
+            "Faculty of Medicine, Philipps University Marburg, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Ehrlich S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Ehrlich"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Child & Adolescent Psychiatry, Medical Faculty of the Technical University Dresden, Dresden, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Hoffmann F"
+          ],
+          "firstName": [
+            "Falk"
+          ],
+          "lastName": [
+            "Hoffmann"
+          ],
+          "initials": [
+            "F"
+          ],
+          "affiliation": [
+            "Department of Health Services Research, Carl von Ossietzky University Oldenburg, Oldenburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kanske P"
+          ],
+          "firstName": [
+            "Philipp"
+          ],
+          "lastName": [
+            "Kanske"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-2027-8782",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Social Neuroscience, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Kirsch P"
+          ],
+          "firstName": [
+            "Peter"
+          ],
+          "lastName": [
+            "Kirsch"
+          ],
+          "initials": [
+            "P"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0817-1248",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "affiliation": [
+            "Department of Clinical Psychology Central Institute of Mental Health, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Krach S"
+          ],
+          "firstName": [
+            "Sören"
+          ],
+          "lastName": [
+            "Krach"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department for Psychiatry and Psychotherapy, University Schleswig-Holstein Campus Lübeck, Lübeck, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Paulus FM"
+          ],
+          "firstName": [
+            "Frieder Michel"
+          ],
+          "lastName": [
+            "Paulus"
+          ],
+          "initials": [
+            "FM"
+          ],
+          "affiliation": [
+            "Department for Psychiatry and Psychotherapy, University Schleswig-Holstein Campus Lübeck, Lübeck, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Rietschel M"
+          ],
+          "firstName": [
+            "Marcella"
+          ],
+          "lastName": [
+            "Rietschel"
+          ],
+          "initials": [
+            "M"
+          ],
+          "affiliation": [
+            "Department of Genetic Epidemiology in Psychiatry, Central Institute of Mental Health, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Roepke S"
+          ],
+          "firstName": [
+            "Stefan"
+          ],
+          "lastName": [
+            "Roepke"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Psychiatry, Campus Benjamin Franklin, Charité - Medical Faculty Berlin, Berlin, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Roessner V"
+          ],
+          "firstName": [
+            "Veit"
+          ],
+          "lastName": [
+            "Roessner"
+          ],
+          "initials": [
+            "V"
+          ],
+          "affiliation": [
+            "Department of Child & Adolescent Psychiatry, Medical Faculty of the Technical University Dresden, Dresden, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Schad-Hansjosten T"
+          ],
+          "firstName": [
+            "Tanja"
+          ],
+          "lastName": [
+            "Schad-Hansjosten"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry and Psychotherapy, Medical Faculty Mannheim, Central Institute of Mental Health, Heidelberg University, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Singer T"
+          ],
+          "firstName": [
+            "Tania"
+          ],
+          "lastName": [
+            "Singer"
+          ],
+          "initials": [
+            "T"
+          ],
+          "affiliation": [
+            "Department of Social Neuroscience, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Stroth S"
+          ],
+          "firstName": [
+            "Sanna"
+          ],
+          "lastName": [
+            "Stroth"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Medical Clinic, Philipps-University Marburg, Marburg, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Witt S"
+          ],
+          "firstName": [
+            "Stephanie"
+          ],
+          "lastName": [
+            "Witt"
+          ],
+          "initials": [
+            "S"
+          ],
+          "affiliation": [
+            "Department of Genetic Epidemiology in Psychiatry, Central Institute of Mental Health, Mannheim, Germany."
+          ]
+        },
+        {
+          "fullName": [
+            "Wermter AK"
+          ],
+          "firstName": [
+            "Anne-Kathrin"
+          ],
+          "lastName": [
+            "Wermter"
+          ],
+          "initials": [
+            "AK"
+          ],
+          "affiliation": [
+            "Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Medical Clinic, Philipps-University Marburg, Marburg, Germany."
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-2027-8782",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7738-4394",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-0817-1248",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "17"
+      ],
+      "journalIssueId": [
+        "2563460"
+      ],
+      "dateOfPublication": [
+        "2017 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2017"
+      ],
+      "printPublicationDate": [
+        "2017-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "BMC psychiatry"
+          ],
+          "ISOAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "medlineAbbreviation": [
+            "BMC Psychiatry"
+          ],
+          "NLMid": [
+            "100968559"
+          ],
+          "ISSN": [
+            "1471-244X"
+          ],
+          "ESSN": [
+            "1471-244X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2017"
+  ],
+  "pageInfo": [
+    "206"
+  ],
+  "abstractText": [
+    "Autism Spectrum Disorder (ASD) is a severe, lifelong neurodevelopmental disorder with early onset that places a heavy burden on affected individuals and their families. Due to the need for highly specialized health, educational and vocational services, ASD is a cost-intensive disorder, and strain on health care systems increases with increasing age of the affected individual.The ASD-Net will study Germany's largest cohort of patients with ASD over the lifespan. By combining methodological expertise from all levels of clinical research, the ASD-Net will follow a translational approach necessary to identify neurobiological pathways of different phenotypes and their appropriate identification and treatment. The work of the ASD-Net will be organized into three clusters concentrating on diagnostics, therapy and health economics. In the diagnostic cluster, data from a large, well-characterized sample (N = 2568) will be analyzed to improve the efficiency of diagnostic procedures. Pattern classification methods (machine learning) will be used to identify algorithms for screening purposes. In a second step, the developed algorithm will be tested in an independent sample. In the therapy cluster, we will unravel how an ASD-specific social skills training with concomitant oxytocin administration can modulate behavior through neurobiological pathways. For the first time, we will characterize long-term effects of a social skills training combined with oxytocin treatment on behavioral and neurobiological phenotypes. Also acute effects of oxytocin will be investigated to delineate general and specific effects of additional oxytocin treatment in order to develop biologically plausible models for symptoms and successful therapeutic interventions in ASD. Finally, in the health economics cluster, we will assess service utilization and ASD-related costs in order to identify potential needs and cost savings specifically tailored to Germany. The ASD-Net has been established as part of the German Research Network for Mental Disorders, funded by the BMBF (German Federal Ministry of Education and Research).The highly integrated structure of the ASD-Net guarantees sustained collaboration of clinicians and researchers to alleviate individual distress, harm, and social disability of patients with ASD and reduce costs to the German health care system.Both clinical trials of the ASD-Net are registered in the German Clinical Trials Register: DRKS00008952 (registered on August 4, 2015) and DRKS00010053 (registered on April 8, 2016)."
+  ],
+  "affiliation": [
+    "Department of Child and Adolescent Psychiatry, Psychosomatics and Psychotherapy, Medical Clinic, Philipps-University Marburg, Marburg, Germany. kampbeck@med.uni-marburg.de."
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cooperative Behavior"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Biomedical Research"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Disabled Persons"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Germany"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Male"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Autism Spectrum Disorder"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DI"
+                  ],
+                  "qualifierName": [
+                    "diagnosis"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "TH"
+                  ],
+                  "qualifierName": [
+                    "therapy"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Oxytocin",
+        "Therapy",
+        "Screening",
+        "Diagnosis",
+        "Genetic",
+        "Health Economics",
+        "Autism Spectrum Disorder",
+        "Social Competence Training",
+        "German Research Network For Mental Disorders",
+        "Asd-net"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5455122?pdf=render"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "http://europepmc.org/articles/PMC5455122"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s12888-017-1362-7"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "2"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-01-16"
+  ],
+  "dateOfCreation": [
+    "2017-06-05"
+  ],
+  "dateOfRevision": [
+    "2018-01-18"
+  ],
+  "electronicPublicationDate": [
+    "2017-06-02"
+  ],
+  "firstPublicationDate": [
+    "2017-06-02"
+  ]
+}
